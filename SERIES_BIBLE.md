@@ -60,16 +60,16 @@ The video opens on what looks like a **live emergency news broadcast.** A female
 
 One anchor line per episode, rough shape (final scripts will tighten these):
 
-- **Ep 1 (Big Tech):** *"Valuations of the top five US AI companies collapsed overnight after an open Chinese swarm network matched GPT-6 capabilities on consumer hardware. OpenAI and Anthropic filed for bankruptcy protection this morning."*
-- **Ep 2 (Pentagon):** *"A classified Department of Defense AI command center in Colorado was destroyed by a targeted strike. Officials confirm adversary AI decision-making is now running on distributed infrastructure the United States cannot locate, let alone target."*
-- **Ep 3 (Intelligence):** *"The NSA confirmed today that a foreign AI system running on millions of small civilian computers has been silently reading classified email for an unknown length of time. There is no server to raid."*
-- **Ep 4 (Pharma):** *"FDA emergency hearing today after a Chinese swarm-AI-assisted generic reduced the street price of Ozempic from one thousand dollars to fourteen dollars overnight. Pfizer and Eli Lilly stock halted."*
-- **Ep 5 (Wall Street):** *"The S&P 500 has lost 38% this week as algorithmic trading desks lost their edge against a distributed Chinese AI freely available on GitHub."*
-- **Ep 6 (Defense contractors):** *"Lockheed Martin announced mass layoffs today after a Chinese consumer drone running open-source swarm software outperformed the F-47 in simulated combat."*
-- **Ep 7 (Drones):** *"A sixteen-hundred-dollar Chinese quadcopter running free Israeli software destroyed a fifteen-thousand-dollar American counterpart in live exercises today. The Pentagon has requested an emergency hearing."*
-- **Ep 8 (Humanoids):** *"Tesla Optimus and Figure laid off their entire engineering teams this morning after a distributed training network trained a humanoid robot end-to-end without a single NVIDIA GPU."*
-- **Ep 9 (EU Commission):** *"Brussels announced today it is officially moving its digital infrastructure to Chinese open-source AI. Silicon Valley has lost its largest non-US market."*
-- **Ep 10 (Am I Bluffing?):** different structure — see the episode card.
+- **Part 1 (Big Tech):** *"Valuations of the top five US AI companies collapsed overnight after an open Chinese swarm network matched GPT-6 capabilities on consumer hardware. OpenAI and Anthropic filed for bankruptcy protection this morning."*
+- **Part 2 (Pentagon):** *"A classified Department of Defense AI command center in Colorado was destroyed by a targeted strike. Officials confirm adversary AI decision-making is now running on distributed infrastructure the United States cannot locate, let alone target."*
+- **Part 3 (Intelligence):** *"The NSA confirmed today that a foreign AI system running on millions of small civilian computers has been silently reading classified email for an unknown length of time. There is no server to raid."*
+- **Part 4 (Pharma):** *"FDA emergency hearing today after a Chinese swarm-AI-assisted generic reduced the street price of Ozempic from one thousand dollars to fourteen dollars overnight. Pfizer and Eli Lilly stock halted."*
+- **Part 5 (Wall Street):** *"The S&P 500 has lost 38% this week as algorithmic trading desks lost their edge against a distributed Chinese AI freely available on GitHub."*
+- **Part 6 (Defense contractors):** *"Lockheed Martin announced mass layoffs today after a Chinese consumer drone running open-source swarm software outperformed the F-47 in simulated combat."*
+- **Part 7 (Drones):** *"A sixteen-hundred-dollar Chinese quadcopter running free Israeli software destroyed a fifteen-thousand-dollar American counterpart in live exercises today. The Pentagon has requested an emergency hearing."*
+- **Part 8 (Humanoids):** *"Tesla Optimus and Figure laid off their entire engineering teams this morning after a distributed training network trained a humanoid robot end-to-end without a single NVIDIA GPU."*
+- **Part 9 (EU Commission):** *"Brussels announced today it is officially moving its digital infrastructure to Chinese open-source AI. Silicon Valley has lost its largest non-US market."*
+- **Part 10 (Am I Bluffing?):** different structure — see the episode card.
 
 The cold open is shot and graded as a **clean emergency broadcast** — female anchor in a dark suit, modern news desk, strong key light, neutral backdrop, the chyron `1 MONTH FROM NOW`, and a `BREAKING` flash in the lower third. **No network logo, no bug, no ticker.** The uncanny familiarity of the format is the hook. The viewer stops scrolling because for two seconds they genuinely cannot tell if this is a real cut-in, and their own brain fills in whichever trusted news network they personally watch.
 
@@ -88,7 +88,7 @@ The series has to end the same way every time, so the viewer learns the ritual a
 1. **One-line invention summary:** *"Hierarchical AI swarms. Runs on everyone's computers. Built by one person. Open source. Free."*
 2. **Name the inventor:** *"Strulovitz. Solo developer. Israel."*
 3. **The ask:** *"Read the book before the next earnings call."* → link to MadHoney on GitHub.
-4. **End card:** channel name `Strulovitz`, slogan `How China will beat America`, and the episode number (`Ep 1 / 10`, `Ep 2 / 10`, etc — visible numbering feeds binge behavior).
+4. **End card:** channel name `Strulovitz`, slogan `How China will beat America`, and the part number in the locked format `Part 1/10`, `Part 2/10`, ... `Part 10/10`. See the **Title and Numbering Format** section below for the full rules on why it is "Part" and not "Episode" and why the slash format avoids being misread as a star rating.
 
 ### Length target
 
@@ -191,24 +191,79 @@ That's why `1 MONTH FROM NOW` is locked across all 10 episodes, even for the cat
 
 ---
 
-## The Episode Slate
+## Title and Numbering Format (LOCKED)
 
-Ten episodes, one per MadHoney chapter:
+Every video in the series uses the same title format on YouTube, TikTok, Instagram Reels, and anywhere else it is published, end card included:
 
-| # | Industry | Chapter |
-|---|---|---|
-| 1 | Big Tech | Ch 1 |
-| 2 | Pentagon / DoD / DARPA | Ch 2 |
-| 3 | Intelligence agencies / cyber | Ch 3 |
-| 4 | Big Pharma | Ch 4 |
-| 5 | Wall Street | Ch 5 |
-| 6 | Defense contractors | Ch 6 |
-| 7 | Drone companies | Ch 7 |
-| 8 | Humanoid robotics | Ch 8 |
-| 9 | European Commission | Ch 9 |
-| 10 | Am I Bluffing? (credibility) | Ch 12 |
+> **`How China will beat America - <Industry> (Part N/10)`**
 
-A numbered series creates binge behavior on the algorithm. **Part 3 implies Parts 1 and 2.** Part 7 implies a viewer who already cares. The series builds its own audience as it runs.
+Example titles for the full slate:
+
+- `How China will beat America - Big Tech (Part 1/10)`
+- `How China will beat America - Pentagon (Part 2/10)`
+- `How China will beat America - Intelligence (Part 3/10)`
+- `How China will beat America - Big Pharma (Part 4/10)`
+- `How China will beat America - Wall Street (Part 5/10)`
+- `How China will beat America - Defense Contractors (Part 6/10)`
+- `How China will beat America - Drones (Part 7/10)`
+- `How China will beat America - Humanoids (Part 8/10)`
+- `How China will beat America - Europe (Part 9/10)`
+- `How China will beat America - Am I Bluffing? (Part 10/10)`
+
+### Why `Part` and not `Episode`
+
+"Episode" carries 45-minute-TV baggage — the word evokes a Netflix drama or an HBO miniseries. These are 90-120 second short-form videos, and calling one of them an "episode" sets the viewer up for a length mismatch before they press play. "Part" is the correct word for a short segment of a larger story. It is shorter (4 letters vs 7), it is unambiguous, and it matches the way miniseries like *Chernobyl* or *Band of Brothers* label their chapters.
+
+### Why `Part 1/10` and not plain `1/10`
+
+On social media, `1/10` is the universal shorthand for **"rating: one star out of ten, terrible."** A viewer scrolling past a title that says *"How China will beat America 1/10"* can instantly misread it as *"this video was rated one out of ten"* — a disaster. The same problem compounds on every episode until `10/10` which finally sounds good. We cannot wait until Part 10 to stop getting misread as trash.
+
+Adding the word `Part` in front kills the rating ambiguity completely. `Part 1/10` reads as "first of ten parts" to any viewer in any language. The four extra characters are the cheapest insurance we buy in this whole project.
+
+### Why the numbering goes in parens at the end, not at the start
+
+The title's job at the thumbnail-scroll level is to sell the slogan `How China will beat America` and the industry hook in the first two seconds. The `(Part 1/10)` marker is a secondary signal — it tells the viewer *"there are more of these"* after they have already decided to click. Putting it in parens at the end lets the hook do its job first and then whispers "by the way, there are nine more" once the viewer is already leaning in. Leading with `Part 1/10 - How China will beat America...` wastes the most valuable title real estate on a progress marker instead of the hook.
+
+### Why numbering matters at all
+
+A numbered series creates **binge behavior on the algorithm and in the human brain.** Three compounding effects:
+
+1. **Part 3 implies Parts 1 and 2.** A viewer who lands on Part 3 first immediately wonders what they missed and goes looking for Parts 1 and 2. They do not just watch one video — they watch three, in order, in one sitting. That is three times the watch time for one discovery.
+2. **Part 7 implies a viewer who already cares.** By the time someone is watching Part 7, they are already invested in the series. The numbering creates the sensation of commitment.
+3. **The total count `/10` implies a finite collection.** The brain treats "ten parts" like a collectible set. Completionists feel a pull to watch all ten. Forwarders feel a pull to forward the whole series, not just one video, because an incomplete set feels wrong.
+
+The series builds its own audience as it runs. The numbering is not decoration — it is the mechanism.
+
+### Separator style
+
+The separator between slogan, industry, and part number uses ASCII hyphens (`-`), not em-dashes (`—`), not pipes (`|`), not colons. Reasons:
+
+- **Hyphens are safe on every platform and every keyboard.** Em-dashes render fine in YouTube titles but break when the title is copy-pasted into older SMS, email subject lines, some Slack previews, and a handful of link-preview generators that downgrade them to `?`.
+- **Pipes read as "SEO keyword stuffing"** — the YouTuber channel-name-pipe-video-title convention. We are going for prestige-miniseries vibe, not algorithm-hack vibe.
+- **Colons read as book subtitles**, which is too literary for a 90-second broadcast parody.
+
+Plain hyphens are boring and universally readable. Boring is the right choice here.
+
+---
+
+## The Part Slate
+
+Ten parts, one per MadHoney chapter. Public-facing titles use `Part N/10` per the **Title and Numbering Format** section above.
+
+| Part | Industry | Public title | MadHoney Chapter |
+|---|---|---|---|
+| 1 | Big Tech | `How China will beat America - Big Tech (Part 1/10)` | Ch 1 |
+| 2 | Pentagon / DoD / DARPA | `How China will beat America - Pentagon (Part 2/10)` | Ch 2 |
+| 3 | Intelligence agencies / cyber | `How China will beat America - Intelligence (Part 3/10)` | Ch 3 |
+| 4 | Big Pharma | `How China will beat America - Big Pharma (Part 4/10)` | Ch 4 |
+| 5 | Wall Street | `How China will beat America - Wall Street (Part 5/10)` | Ch 5 |
+| 6 | Defense contractors | `How China will beat America - Defense Contractors (Part 6/10)` | Ch 6 |
+| 7 | Drone companies | `How China will beat America - Drones (Part 7/10)` | Ch 7 |
+| 8 | Humanoid robotics | `How China will beat America - Humanoids (Part 8/10)` | Ch 8 |
+| 9 | European Commission | `How China will beat America - Europe (Part 9/10)` | Ch 9 |
+| 10 | Am I Bluffing? | `How China will beat America - Am I Bluffing? (Part 10/10)` | Ch 12 |
+
+The numbered series creates **binge behavior on the algorithm and in the human brain.** Part 3 implies Parts 1 and 2. Part 7 implies a viewer who already cares. Part 10 feels like a finite collectible set worth completing and forwarding whole. The series builds its own audience as it runs.
 
 ---
 
