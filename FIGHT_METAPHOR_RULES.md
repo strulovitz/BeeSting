@@ -163,8 +163,51 @@ First pass — these are starting proposals, adjustable per episode as we draft.
 
 ---
 
+## Rule 8 — The explicit call to action: "Save your country — share this video" (LOCKED 2026-04-13)
+
+Every episode of BeeSting ends with an **explicit, direct call-to-action** that names the action (share) and names the reason (save your country). This is in addition to the book link that was already in Act 3 — the book-read ask and the share ask are two different asks, and the share ask is the more important of the two because the entire series mechanism depends on social multiplication (angels forwarding to god), not on private book reads.
+
+### The locked wording
+
+- **Parts 1 through 9:** **"Save your country — share this video."**
+- **Part 10 (capstone variant, welds to the frozen-strike mechanic):** **"Save your country — share this before the strike lands."**
+
+Both wordings are:
+- **Spoken aloud by the anchor** as the last line of Act 3, before the end card.
+- **Displayed as on-screen text** on the end card itself, next to the book link, in the same sober news-graphic style as the rest of the end-card text.
+
+**Say it AND show it.** Social-media CTAs that are both spoken and visible convert roughly twice as well as CTAs that are only one or the other. Do not skip either channel.
+
+### Why "Save your country" and not other wordings
+
+This specific wording was chosen over five alternatives after deliberate creative work. The rejected alternatives and the reasons they were rejected, for the record:
+
+- ~~"Help America win — share this video"~~ — rejected because *"win"* implies beating China in a war, which is not the thesis. The thesis is *catch up to China by copying the topology they already built.* "Win" slightly misframes the message and sounds kids-sports-movie cheesy for the cold transactional MadHoney tone. Military, pharma, and finance decision-makers allergic to flag-waving rhetoric tune out.
+- ~~"Save America — share this video"~~ — rejected because *"Save America"* carries heavy MAGA political branding from the last decade (Save America PAC, rally signs, partisan association). Some liberal and moderate American viewers would categorize BeeSting as right-wing political content and tune out. YouTube may flag the series as political content, which has separate moderation rules. The series is not a partisan product and must not read as one.
+- ~~"Save the U.S.A. — share this video"~~ — rejected because *"USA"* is colder and more governmental than *"America,"* and loses the emotional romance of the word. For activating the patriotic rescue instinct, personal beats romantic beats governmental. "USA" loses on both axes.
+- ~~"Share this video. You are the warning."~~ — rejected as too oblique. Strong on the "series is the warning" frame but leaves the payoff implicit, and we want the payoff explicit.
+- ~~"Every share reaches one more American before the next round."~~ — rejected as too cinematic and too long. Strong on the fight metaphor but slow to read in the end-card timing window.
+
+### Why "Save your country" specifically wins
+
+1. **Second-person beats third-person in direct-response copy, every time.** Compare *"Save America"* (third-person, America is a thing over there) to *"Save your country"* (second-person, it is YOURS). The word *your* puts the viewer in direct personal ownership of the object being saved. Every copywriting study on this confirms second-person pronouns consistently outperform third-person references. The CTA becomes personal, not political.
+2. **Zero MAGA baggage.** *"Save your country"* is not associated with any political faction. It is what anyone who loves their country says when they mean it. We get full emotional activation without the partisan tax.
+3. **Every American viewer auto-maps "your country" to America instantly.** The CTA appears inside a series titled *"How China will beat America,"* which has already spent 90 seconds making the viewer feel their country is the one in danger. By the time "save your country" lands, the viewer hears it as "save America" without us having to say it. We get the direct hit with none of the political cost.
+4. **It works in any future dubbed version.** A French version lands *"sauvez votre pays"* cleanly for a French viewer who maps it to France. A Hebrew version lands *"הצל את המדינה שלך"* for an Israeli viewer. "Save America" would need to be re-translated and re-targeted per language; "Save your country" self-translates.
+5. **It welds to the fight metaphor perfectly.** The boxer is fighting for *your country.* The possessive pronoun welds the rescue mission to the viewer's personal stake, which is the whole engine of the tragedy-not-humiliation reframe locked in Rule 1 and Rule 2 above.
+
+### Why the share ask was missing before this rule was added
+
+The earlier draft of Act 3 (see SERIES_BIBLE.md) had the inventor name and a book-read ask (*"read the free book before you see this on your own TV"*), but no share ask. Reading a book is a **private** act. Sharing is a **social multiplier.** The whole series mechanism — angels forwarding to god, secretaries mashing the forward button, the rescue mission frame — depends on social multiplication, not on book reads. The more important ask was the one we forgot to make. Rule 8 fixes that.
+
+### Why this rule does not break the photorealism rule
+
+The photorealism rule (Rule 4 in `VISUAL_HOOK_RULES.md`) protects the **cold open** and the news-broadcast illusion in the first 10 seconds of each video. The end card is **already outside the news-broadcast frame** — slogan, channel name, part number, book link are all there because the series admits, at the end, that it is a series. The illusion was already broken the moment the end card appeared. Adding one more line of text to the end card costs nothing we haven't already spent. Rule 8 and Rule 4 do not conflict.
+
+---
+
 ## One-line summary
 
-> **Every BeeSting episode contains 2 to 3 silent 3-to-5-second cutaways to a photorealistic fight between a sympathetic American boxer (red/white/blue shorts, classic Western boxing, locked look across all 14 episodes) and a dignified Chinese kung fu fighter who rotates through famous named styles, animal archetypes, and distinctive weapons every episode. The boxer almost lands a punch but never does — not because he is weak, but because the opponent is never where he is swinging. Every episode both fighters start fresh and healthy; no cumulative damage. The viewer roots for the boxer and experiences the fight as tragedy, not humiliation — the series IS the warning that could save him. Part 10 climaxes with the prompt `FINISH IT` on screen, the strike frozen mid-blow, and the end card replacing the finish. The strike never lands. The viewer is the one who holds the button.**
+> **Every BeeSting episode contains 2 to 3 silent 3-to-5-second cutaways to a photorealistic fight between a sympathetic American boxer (red/white/blue shorts, classic Western boxing, locked look across all 14 episodes) and a dignified Chinese kung fu fighter who rotates through famous named styles, animal archetypes, and distinctive weapons every episode. The boxer almost lands a punch but never does — not because he is weak, but because the opponent is never where he is swinging. Every episode both fighters start fresh and healthy; no cumulative damage. The viewer roots for the boxer and experiences the fight as tragedy, not humiliation — the series IS the warning that could save him. Part 10 climaxes with the prompt `FINISH IT` on screen, the strike frozen mid-blow, and the end card replacing the finish. The strike never lands. The viewer is the one who holds the button. Every episode ends with the anchor speaking and the end card displaying the explicit call to action: "Save your country — share this video" (Parts 1-9) or "Save your country — share this before the strike lands" (Part 10).**
 
 Keep this one-line summary at the top of your head while drafting any BeeSting cutaway. Every frame you propose should be consistent with it.
