@@ -31,9 +31,9 @@ The moment the title reads like a tech blog post, the target audience is gone. T
 
 ---
 
-## The Channel (FINAL — corrected 2026-04-13)
+## The YouTube (FINAL — corrected 2026-04-13)
 
-**YouTube channel name:** `Nir Strulovitz`
+**YouTube name:** `Nir Strulovitz`
 
 This is the **full name**, two words, exactly as the real channel is registered on YouTube. Earlier drafts of this document used the single word "Strulovitz" — that was wrong, and Nir corrected it on 2026-04-13. From now on the channel is always "Nir Strulovitz" everywhere it is named: in the script, on the end card, in the video description, on the thumbnail, and in any social-media post that links the channel.
 
@@ -49,7 +49,17 @@ Because Nir **IS** the merchandise. The series is not selling a framework or a p
 
 A first-name-plus-last-name hits the viewer as a real human being. A single last name reads like a brand of canned tuna. The full name is what gets typed by the next viewer when the first viewer texts him *"watch this guy on YouTube, Nir Strulovitz"* — and that typing-the-name moment is the moment the series propagates from one tired person to the next. The full name is the only string the forwarding chain actually carries, so the full name is what has to be on the door.
 
-**On Google's suppression of Nir's results — the old reasoning was wrong.** Earlier drafts of this section argued that the channel should be a single word because Google buries Nir's name on page 10 anyway, so "name-based discovery is dead." That reasoning was wrong on its premise. The series is not designed to be discovered through Google search in the first place. The viewer reaches GitHub through the **link in the video description** — they do not Google for it. Google's suppression of Nir's name across the index is real and ongoing, and it is the reason the series cannot rely on search at all, but it does not change what the channel name should be. The channel name should be the real name of the real human the series is selling. That is **Nir Strulovitz**, in full, every time.
+**On Google's active sabotage of Nir's name — and why the full name is necessity, not ego.** Earlier drafts of this section argued for a single-word channel because Google buries Nir's name on page 10 anyway, so "name-based discovery is dead." That reasoning was wrong on its premise. The series is not designed to be discovered through Google search in the first place — the viewer reaches GitHub through the **link in the video description**, never through search. So Google's suppression does not affect how people reach the GitHub repo.
+
+But Google's suppression is even more aggressive than the old draft acknowledged, and it is the exact reason the channel **must** carry the full name **Nir Strulovitz** instead of just the family name. Documented for the record:
+
+- **Google has been actively hiding Nir Strulovitz from its search index for years.** This is not paranoia and not theory — Nir has personally observed the page-10 burial of `neo-luddism.org`, the suppression of his book listings, and the differential treatment between Google and DuckDuckGo on the same queries, across more than a decade. There is a screenshot in Anti AI Rebellion that shows the same query returning his website at position one on DuckDuckGo and position one hundred-plus on Google. The disparity is consistent enough to rule out coincidence.
+- **Searching just the family name "Strulovitz" surfaces other people.** There are unrelated humans with the same surname who outrank Nir in every Google result. A viewer who only remembers the last name from a video and searches it gets somebody else's profile, somebody else's LinkedIn, somebody else's photo. The forwarding chain breaks at that step. The next viewer never reaches the channel.
+- **Google's "did you mean" prompt actively misdirects.** When users type "strulovitz" into Google, Google has been observed to suggest *"did you mean **strulowitz**?"* — a near-identical spelling that nobody Nir knows actually uses. The suggestion is wrong, the redirect costs the searcher one extra click, and the friction is enough to lose tired viewers who are scrolling at 11pm and will not retype.
+
+For all three of these reasons, **the full name "Nir Strulovitz" is necessity, not vanity.** The first name disambiguates from every other Strulovitz on the planet. The full name is a fingerprint that Google's manipulation cannot fully erase, because even Google has to surface *something* when a viewer types both the first name and the last name together. And the full name is what the forwarding chain actually carries — the texted recommendation, the verbal *"watch this guy on YouTube,"* the screenshot with a caption — all of these naturally carry both names. Stripping the first name strips the only piece of the chain that survives Google's interference.
+
+The channel name should be the real name of the real human the series is selling. That is **Nir Strulovitz**, in full, every time. Not for ego. For survival.
 
 **The series is designed to be forwarded, not discovered.** One tired exec sees it, texts it to three other tired execs with *"you have to see this — this is something else, his name is Nir Strulovitz"*, and the next viewer types **Nir Strulovitz** into YouTube and lands on the channel. The goal is **forwarding velocity**, not SEO. Every design decision in this document rolls up to that single goal, and the full-name channel is part of how the forwarding chain stays intact across the typing step.
 
@@ -102,7 +112,7 @@ The series has to end the same way every time, so the viewer learns the ritual a
 1. **One-line invention summary:** *"Hierarchical AI swarms. Runs on everyone's computers. Built by one person. Open source. Free."*
 2. **Name the inventor:** *"Strulovitz. Solo developer. Israel."*
 3. **The ask:** *"Read the free book, with non-technical explanations, at the same link, before you see this on your own TV."* → link to MadHoney on GitHub. Earlier drafts said *"Read the book before the next earnings call"*, which talks to a CFO instead of to a tired American at 11pm and was killed on 2026-04-13.
-4. **End card:** channel name `Nir Strulovitz` (full name, two words — see The Channel section above), slogan `How China will beat America`, and the part number in the locked format `Part 1/14`, `Part 2A/14`, ... `Part 10/14` (slate expanded from 10 to 14 on 2026-04-13 — see PART_SLATE_EXPANSION.md). See the **Title and Numbering Format** section below for the full rules on why it is "Part" and not "Episode" and why the slash format avoids being misread as a star rating.
+4. **End card:** YouTube `Nir Strulovitz` (full name, two words — see The YouTube section above), slogan `How China will beat America`, and the part number in the locked format `Part 1/14`, `Part 2A/14`, ... `Part 10/14` (slate expanded from 10 to 14 on 2026-04-13 — see PART_SLATE_EXPANSION.md). The end card uses the word **YouTube**, not the word *channel* — viewers respond to the platform name, not to a generic noun. See the **Title and Numbering Format** section below for the full rules on why it is "Part" and not "Episode" and why the slash format avoids being misread as a star rating.
 
 ### Length target
 
@@ -354,7 +364,7 @@ The numbered series builds its own audience as it runs.
 5. **The word is "swarm"** in Act 2 — never "hive", "framework", "distributed system", "federated", "decentralized", or any word longer than one syllable when a one-syllable word exists.
 6. **Visual language: swarms, drones, bees, dots on maps.** Never datacenters, GPUs, humanoid robots, or glowing brains.
 7. **No jargon the viewer is not actively taught inside the same sentence it appears in.**
-8. **End card always includes: slogan (`How China will beat America`), channel name (`Nir Strulovitz` — full name), part number (`Part N/14`).**
+8. **End card always includes: slogan (`How China will beat America`), the word `YouTube` followed by the full name `Nir Strulovitz`, and the part number (`Part N/14`).** Use the word `YouTube`, not `channel` — viewers respond to platform names, not to generic words.
 9. **Each episode closes by pointing at the MadHoney book on GitHub.** The video asks the question; the book answers it.
 10. **Tone matches the book:** cold, blunt, idiot-proof, no moralizing, no apology, no AI-jargon warmup.
 

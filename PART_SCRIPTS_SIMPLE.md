@@ -46,7 +46,7 @@ This is the canonical script for Part 1. Every line in here was Nir-approved dur
 
 > Hierarchical AI swarms. Works on anything — even on small single-board computers, the kind that fit in your hand, like a Raspberry Pi, light enough for a single quadcopter to carry. All this deadly software is open source and free, and available at the link below. Built by one person. The man's name is **Nir Strulovitz**. Solo developer. Israel. Read the free book, with non-technical explanations, at the same link, before you see this on your own TV.
 >
-> *(End card: slogan **How China will beat America**, channel **Nir Strulovitz**, **Part 1/14**.)*
+> *(End card: slogan **How China will beat America**, **YouTube: Nir Strulovitz**, **Part 1/14**.)*
 
 ### Approximate length
 
