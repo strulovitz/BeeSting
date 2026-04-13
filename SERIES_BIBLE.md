@@ -54,24 +54,24 @@ Because Nir **IS** the product. The series is not selling a framework or a techn
 
 Every episode follows this three-act structure:
 
-### Act 1 — Cold Open: News Report From the Near Future (0:00 – 0:30)
+### Act 1 — Cold Open: News Report From One Month From Now (0:00 – 0:30)
 
-The video opens on what looks like a **live broadcast news segment.** A convincing network chyron. A grim anchor. A "breaking" story. The story is the catastrophe the chapter is about — **already happened**, reported past-tense, from a date roughly 2 to 5 years in the future.
+The video opens on what looks like a **live emergency news broadcast.** A female anchor in a dark suit at a modern news desk. Clean lighting, no network logo, no bug, no ticker. One single chyron: **`1 MONTH FROM NOW`**. A `BREAKING` flash in the lower third. She delivers the catastrophe straight to camera. The story is the collapse the chapter is about — **already happened**, reported past-tense, datelined exactly one month from the day the video goes live.
 
-One per episode, rough shape:
+One anchor line per episode, rough shape (final scripts will tighten these):
 
-- **Ep 1 (Big Tech):** *"Valuations of the top five US AI companies collapsed overnight after an open Chinese swarm network matched GPT-6 capabilities running on consumer hardware. OpenAI and Anthropic filed for bankruptcy protection this morning."*
-- **Ep 2 (Pentagon):** *"A classified Department of Defense AI command center in Colorado was destroyed by a targeted strike. US officials confirm adversary AI decision-making is now running on distributed infrastructure the United States cannot locate, let alone target."*
-- **Ep 3 (Intelligence):** *"The NSA confirmed today that a foreign AI system operated on millions of small civilian computers has been silently reading classified email for an unknown length of time. There is no server to raid."*
-- **Ep 4 (Pharma):** *"FDA emergency hearing today after a Chinese swarm-AI-assisted generic reduced the street price of Ozempic from $1,000 to $14 overnight. Pfizer and Eli Lilly stock halted."*
-- **Ep 5 (Wall Street):** *"The S&P 500 lost 38% this week as algorithmic trading desks lost their edge against a distributed Chinese AI freely available on GitHub."*
-- **Ep 6 (Defense contractors):** *"Lockheed Martin announced mass layoffs today after a Chinese consumer drone with open-source swarm software outperformed the F-47 in simulated combat."*
-- **Ep 7 (Drones):** *"A $1,600 Chinese quadcopter running free Israeli software destroyed a $15,000 American counterpart in live exercises today. The Pentagon has requested an emergency hearing."*
+- **Ep 1 (Big Tech):** *"Valuations of the top five US AI companies collapsed overnight after an open Chinese swarm network matched GPT-6 capabilities on consumer hardware. OpenAI and Anthropic filed for bankruptcy protection this morning."*
+- **Ep 2 (Pentagon):** *"A classified Department of Defense AI command center in Colorado was destroyed by a targeted strike. Officials confirm adversary AI decision-making is now running on distributed infrastructure the United States cannot locate, let alone target."*
+- **Ep 3 (Intelligence):** *"The NSA confirmed today that a foreign AI system running on millions of small civilian computers has been silently reading classified email for an unknown length of time. There is no server to raid."*
+- **Ep 4 (Pharma):** *"FDA emergency hearing today after a Chinese swarm-AI-assisted generic reduced the street price of Ozempic from one thousand dollars to fourteen dollars overnight. Pfizer and Eli Lilly stock halted."*
+- **Ep 5 (Wall Street):** *"The S&P 500 has lost 38% this week as algorithmic trading desks lost their edge against a distributed Chinese AI freely available on GitHub."*
+- **Ep 6 (Defense contractors):** *"Lockheed Martin announced mass layoffs today after a Chinese consumer drone running open-source swarm software outperformed the F-47 in simulated combat."*
+- **Ep 7 (Drones):** *"A sixteen-hundred-dollar Chinese quadcopter running free Israeli software destroyed a fifteen-thousand-dollar American counterpart in live exercises today. The Pentagon has requested an emergency hearing."*
 - **Ep 8 (Humanoids):** *"Tesla Optimus and Figure laid off their entire engineering teams this morning after a distributed training network trained a humanoid robot end-to-end without a single NVIDIA GPU."*
 - **Ep 9 (EU Commission):** *"Brussels announced today it is officially moving its digital infrastructure to Chinese open-source AI. Silicon Valley has lost its largest non-US market."*
 - **Ep 10 (Am I Bluffing?):** different structure — see the episode card.
 
-The cold open is shot and graded to look like a **real news broadcast** — lower-third chyron, ticker tape at the bottom, network bug in the corner, stern anchor voiceover. The uncanny familiarity is the hook. The viewer stops scrolling because for two seconds they genuinely cannot tell if this is real footage.
+The cold open is shot and graded as a **clean emergency broadcast** — female anchor in a dark suit, modern news desk, strong key light, neutral backdrop, the chyron `1 MONTH FROM NOW`, and a `BREAKING` flash in the lower third. **No network logo, no bug, no ticker.** The uncanny familiarity of the format is the hook. The viewer stops scrolling because for two seconds they genuinely cannot tell if this is a real cut-in, and their own brain fills in whichever trusted news network they personally watch.
 
 ### Act 2 — "How Did It Come to This?" (0:30 – 1:15)
 
@@ -143,21 +143,51 @@ Not "hive." Not "distributed." Not "federated." Not "decentralized." Not "hierar
 
 ---
 
-## The Fake News Network
+## The Cold Open Frame (LOCKED — no fake network name)
 
-The cold-open news broadcast needs a network brand. **It must NOT be "CNN" or any real network** — we will be sued. It must also read instantly as "broadcast news" so the parody works at a glance.
+**There is NO fake network name, no logo bug, no network chyron.** The cold open is a clean emergency-broadcast frame, and that clean frame is itself the signature.
 
-**Candidate network names (Nir picks one, we use it across the entire series):**
+**What's on screen in every cold open:**
 
-1. **GNN — Global News Network** — generic, safe, boring, reads instantly as news
-2. **WWN — World Wire News** — slightly more future-feeling, three-letter bug fits a corner logo
-3. **Apex News 24** — premium-cable vibe, reads as "the serious one"
-4. **Signal 24** — short, punchy, futuristic, works as a minimalist logo bug
-5. **OmniNews** — one word, sci-fi, single-color logo
-6. **The Feed** — minimalist, 2030s-feeling, could be a small ticker instead of a big bug
-7. **BREAKING / 24** — no network name at all, just a stylized `BREAKING` chyron and a `24` ticker; most legally bulletproof since there is nothing to trademark-infringe
+- A **female anchor** in a dark suit, seated at a modern news desk, well-lit, neutral backdrop. She looks straight at the camera and delivers the breaking news verbally in her own voice.
+- Behind her / beside her, one single unchanging chyron: **`1 MONTH FROM NOW`**
+- A `BREAKING` flash in the lower third when the catastrophe line lands.
+- No logo. No network bug. No ticker. Nothing that a trademark lawyer can point at.
 
-Once chosen, the **logo bug, chyron font, ticker style, lower-third color, and anchor wardrobe stay consistent across the series** — it becomes a running visual joke that the same fake network keeps covering every collapse, one industry at a time. By Episode 5 the viewer who has seen Episodes 1–4 recognizes the logo before the audio kicks in. That recognition is another forwarding accelerant.
+**Why no fake network:**
+
+1. **Every viewer fills in their own trusted network.** Fox viewer sees Fox, CNN viewer sees CNN, BBC viewer sees BBC, i24 viewer sees i24. You get custom-tailored credibility on every screen for free. A fake logo would actively *block* this effect by forcing one brand.
+2. **This reads as "emergency address," not "cable news."** Think White House press briefing, or a network cutting into regular programming — those formats have no network bug, just an anchor and a chyron, and they read as *more* serious, not less. We are doing the emergency-cut-in format, not the cable-news format.
+3. **Zero legal surface.** Nothing to trademark-infringe, ever.
+4. **Cheaper and more consistent.** No logo design, no brand sheet, no re-rendered corner bug per episode. The consistency across the series comes from the anchor, the desk, the suit, the lighting, the font of the chyron, and the recurring `1 MONTH FROM NOW` — stronger signatures than a fake logo would ever be.
+
+## The Chyron: `1 MONTH FROM NOW` (LOCKED)
+
+This single chyron appears in every episode, unchanged. Same font, same position, same color. It is the running signature of the series. By Episode 3 the viewer who has seen Episodes 1 and 2 recognizes the chyron before the audio kicks in and knows they are in for another catastrophe. That recognition is a forwarding accelerant.
+
+**Not "1 MONTH FROM TODAY".** The word is **"NOW"** — three letters, monosyllabic, visceral. "Today" has a faintly bureaucratic news-anchor flavor ("effective today..."). "Now" is the word a doctor uses in an emergency room. Read aloud by the anchor: *"One month from now..."* lands harder than *"one month from today..."*
+
+**Why one month specifically, across all 10 episodes:**
+
+Thirty days is the only timeframe that lands on the target audience's decision horizon, and it is the only timeframe that survives all three failure modes:
+
+- **One week = not credible.** The viewer dismisses the whole video as hysteria and scrolls on. Lost.
+- **One year = "I'll worry about it later."** CEOs, military officers, pharma execs, and hedge-fund managers do not plan a year out. They plan for **this coming quarter**. Tell an American CEO something will happen in a year and they file it under "not my problem before my next dividend." Lost.
+- **One month = lands inside their actual decision window.** A month is the same horizon they use for layoffs, for earnings guidance, for board meetings, for their own job security. It is too close to ignore and too far to dismiss as ridiculous.
+
+**And the nonlinearity argument makes it defensible even for the stretchy catastrophes.**
+
+Some of the chapter catastrophes (Ozempic at $14, a swarm AI appearing on GitHub) are plausibly one-month events on their face. Others (Lockheed mass layoffs, the S&P losing 38%, the European Commission pivoting to Chinese infrastructure) look like they should take years. **They don't, and the reason they don't is contagion.**
+
+Every process in the book is non-linear and self-accelerating:
+- The AI itself gets smarter faster as it gets smarter (the classic AI takeoff curve).
+- The first CEO who publicly switches to open Chinese swarm AI gives his competitors legal and political cover to follow the next week.
+- The first national government that pivots to Chinese infrastructure gives the next fifteen governments permission to pivot without being called traitors.
+- The first hedge fund that admits its edge has evaporated signals every other hedge fund to cut and run before the window closes.
+
+This is the wildebeest-crossing-the-river phenomenon. The first one is brave. The next thousand are just following the herd. The river is crossed in an afternoon, not a year. Thirty days is more than enough time for the cascade to run its full course **once the first domino falls.** The cold open shows the cascade already complete, and the viewer's own brain fills in the missing week of falling dominoes without being told.
+
+That's why `1 MONTH FROM NOW` is locked across all 10 episodes, even for the catastrophes that look implausible on their face. The whole series is betting on the contagion curve, and the contagion curve moves in weeks, not years.
 
 ---
 
