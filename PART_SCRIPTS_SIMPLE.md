@@ -8,25 +8,49 @@ These are the canonical simple versions. When in doubt, match this style.
 
 ---
 
-## Part 1/14 — Drones (BUNKER VERSION — LOCKED 2026-04-13)
+## Part 1/14 — Drones (LOCKED 2026-04-13 — bunker scenario, topology buzzword, scattered backups, full name on end card)
 
-**Secretary (cold open, anchor delivery):**
+This is the canonical script for Part 1. Every line in here was Nir-approved during the 2026-04-13 working session. If you are tweaking it later, preserve the structure and the locked language: the missile-as-transport setup, the Faraday-cage bunker, the room-by-room adaptation, the **KillerBee** anchor attribution, the field reporter introducing **topology** as the canonical buzzword, the star vs tree shapes drawn on a piece of paper by the FBI counter-terrorism agents, the general → colonel → lieutenant → soldier hierarchy as the tree analogy, the redundancy via **scattered** backup queens (never close-formation), the *heart vs no heart* God-paragraph landing, the **"America built the wrong topology"** punch line, and the Act 3 closing with full inventor name, free non-technical book at the same link, and *"before you see this on your own TV."*
 
-BREAKING. A Chinese ballistic missile crossed the Pacific tonight — not built to explode, but built to carry. Inside it, a swarm of small cheap drones. The missile flew across the ocean, released the drones near their target, and then crashed empty into an American mountainside.
+### Act 1 — Cold open (anchor in studio, ~30–40 sec)
 
-The drones flew straight into one of our most secure military bunkers. The bunker is buried deep under the mountain. Its walls are lined with thick metal, so no radio signal can reach in or out. No pilot from the outside could have flown those drones from a distance, even if they had wanted to. And yet — the drones came in through the air vents. They blew open locked doors. When our soldiers tried to block a hallway, another drone exploded through the ceiling and the rest dropped in behind it. Room by room, the swarm changed its plan whenever it hit a wall. It reached the generals sheltering at the bottom.
+> **BREAKING.** A Chinese ballistic missile crossed the Pacific tonight — not built to explode, but built to carry. Inside it, a swarm of small cheap drones. The missile flew across the ocean, released the drones near their target, and then crashed empty into an American mountainside.
+>
+> The drones flew straight into one of our most secure military bunkers. The bunker is buried deep under the mountain. Its walls are lined with thick metal, so no radio signal can reach in or out. No pilot from the outside could have flown those drones from a distance, even if they had wanted to. And yet — the drones came in through the air vents. They blew open locked doors. When our soldiers tried to block a hallway, another drone exploded through the ceiling and the rest dropped in behind it. Room by room, the swarm changed its plan whenever it hit a wall. It reached the generals sheltering at the bottom.
+>
+> Until tonight, this was technically impossible. Every drone in history was either flown by a human on a radio, or too stupid to do more than fly straight and crash.
 
-Until tonight, this was technically impossible. Every drone in history was either flown by a human on a radio, or too stupid to do more than fly straight and crash.
+### Act 2, first half — Reporter live at the bunker entrance (~60 sec, the topology lesson)
 
-What we just watched is a new Israeli technology called KillerBee. Many small drones whispering to each other in a few words at a time, combining into one big thinking brain. It works inside a metal cage — because the drones talk to each other, not to a base. The Chinese military downloaded it off the internet last month. For free. The face of warfare just changed tonight.
+> **[Anchor in studio]:** For more on what just happened inside that bunker, we go now to Mark Allen, live outside the entrance to the facility. Mark — what are the FBI counter-terrorism agents on the ground telling you?
+>
+> **[Reporter, sealed-off bunker entrance behind him, FBI vehicles flashing]:** Sarah, the agents I just spoke with told me one word, over and over, and they wanted me to say it on the air for every American watching at home. They called this a new **topology**.
+>
+> Topology simply means *shape*. And the FBI agents drew me two shapes on a piece of paper, to explain why this attack worked tonight when no attack like it has ever worked before.
+>
+> The first shape — the American shape, the one we have used for decades — looks like a star. Imagine one big brain inside one building, sitting somewhere on the ground, in California. And imagine many small dumb drones flying in the sky, each one connected back to that brain by its own line. The drones never talk to each other. They only talk to the brain in the middle. Kill the brain in California, every drone in the sky goes dumb at the same second. **This is the star.** This is the shape we lost three weeks ago over the Pacific, when one Chinese missile hit one building.
+>
+> The second shape — the new Chinese shape, the one that just won — looks like a tree. Picture our own military hierarchy. A few generals at the top, leading the whole operation. Each general has a few colonels under him, running the medium-sized decisions. Each colonel has a few lieutenants under him, running the small decisions. Each lieutenant has a few soldiers under him — the ones who actually shoot, or explode, or photograph. Now picture every single rank in that picture as a quadcopter. Every general, every colonel, every lieutenant, every soldier — all of them are flying drones. There is not one human anywhere in the chain of command. They make decisions in lightning speed by whispering to each other in a few words at a time. **This is the tree.** This is what just walked into our bunker.
+>
+> Sarah — the FBI agents told me to tell every American watching this. The star just lost. The tree just won. And tonight, for the first time in human history, the tree was theirs.
 
-**Manager (God paragraph, still in American news voice):**
+### Act 2, second half — God paragraph, still in news voice (~40 sec, the redundancy beat for the manager)
 
-Three weeks ago, America tried a drone attack of our own against China. We lost it in fifteen minutes. China did not shoot down our drones one by one. China did not jam our radios. China hit one single target with one hypersonic missile — the data center in California where the brain of our swarm lived. The building burned. Every drone we had in the air over the Pacific lost its mind in the same second. They froze. They drifted. They crashed. The whole attack stopped because one building stopped.
+> Three weeks ago, America tried a drone attack of our own against China. We lost it in fifteen minutes. China did not shoot down our drones one by one. China did not jam our radios. China hit one single target with one hypersonic missile — the data center in California where the brain of our star lived. The building burned. Every drone we had over the Pacific lost its mind in the same second. The whole attack stopped because one building stopped.
+>
+> Tonight our soldiers inside the bunker tried the same trick on the Chinese tree. They fought hard, room by room. At one point they killed one queen drone — the drone that was running part of the swarm. They thought they had won. Nothing changed. Another queen was already flying, scattered far from the one we had just killed, hidden among the small drones in a different part of the formation, doing what looked like ordinary work until the moment she was needed. And behind her, more queens, also scattered, also hidden. The swarm carries its leadership spread across the whole tree, so that no single grenade and no single bullet ever takes them out together.
+>
+> The star has a heart. One missile on the heart and the whole body dies. The tree has no heart. Many small brains in many small drones, scattered, redundant, talking to each other. **America built the wrong topology.**
 
-Tonight our soldiers inside the bunker tried to do the same thing to the Chinese swarm. They fought room by room. At one point they destroyed one queen drone — the drone that was running part of the swarm. They thought they had won. Nothing changed. Another queen was already flying in the swarm, carrying the same heavy brain on the same heavy hardware, doing the same job. Behind her, another. The swarm was built with backup queens from the start, because the small worker drones are too slow and too weak to ever take a queen's job — so the swarm brings extra queens along. From the outside, every drone looks identical. Our soldiers never knew which one was a queen and which was a foot soldier. And every queen they did destroy, another one was already flying behind her.
+### Act 3 — Closing (~15–20 sec)
 
-America has a heart. One missile on the heart, and the whole body dies. China has no heart. Many small brains in many small drones, and killing one changes nothing. In a real war, a side with one heart does not survive a side with no heart. America built the wrong shape.
+> Hierarchical AI swarms. Works on anything — even on small single-board computers, the kind that fit in your hand, like a Raspberry Pi, light enough for a single quadcopter to carry. All this deadly software is open source and free, and available at the link below. Built by one person. The man's name is **Nir Strulovitz**. Solo developer. Israel. Read the free book, with non-technical explanations, at the same link, before you see this on your own TV.
+>
+> *(End card: slogan **How China will beat America**, channel **Nir Strulovitz**, **Part 1/14**.)*
+
+### Approximate length
+
+Cold open ~40s + Reporter handoff ~60s + God paragraph ~40s + Closing ~15s = **~155 seconds**. This is over the 90–120s nominal target in SERIES_BIBLE.md, but Part 1 is the flagship episode that has to install the topology buzzword for the rest of the series. The buzzword payload justifies the longer running time. Nir's call: do not cut the reporter section to fit, and do not split Part 1 into two videos — let it run ~2:30 and trust the content to hold.
 
 ---
 

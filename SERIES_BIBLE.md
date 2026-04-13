@@ -31,22 +31,27 @@ The moment the title reads like a tech blog post, the target audience is gone. T
 
 ---
 
-## The Channel (FINAL)
+## The Channel (FINAL — corrected 2026-04-13)
 
-**YouTube channel name:** `Strulovitz`
+**YouTube channel name:** `Nir Strulovitz`
+
+This is the **full name**, two words, exactly as the real channel is registered on YouTube. Earlier drafts of this document used the single word "Strulovitz" — that was wrong, and Nir corrected it on 2026-04-13. From now on the channel is always "Nir Strulovitz" everywhere it is named: in the script, on the end card, in the video description, on the thumbnail, and in any social-media post that links the channel.
 
 This matches:
-- The GitHub organization: [github.com/strulovitz](https://github.com/strulovitz)
-- The book author: Nir Strulovitz
-- The real human: Nir Strulovitz, solo developer, Israel
+- The book author: **Nir Strulovitz**
+- The real human: **Nir Strulovitz**, solo developer, Israel
+- The actual registered YouTube / TikTok / Instagram channel handle: **Nir Strulovitz**
+- The GitHub organization: [github.com/strulovitz](https://github.com/strulovitz) (the GitHub org is shorter for historical reasons, but the channel everywhere else is the full name)
 
-**Why not a branded channel name?**
+**Why the full name and not a single-word brand**
 
-Because Nir **IS** the product. The series is not selling a framework or a technology — it is selling the credibility of the solo Israeli developer who built the swarm. The whole deterrent in Chapter 12 of MadHoney ("Am I Bluffing?") hinges on one human being, one name, and one standing order — the *girlfriend-as-safety-pin* hostage mechanism that makes this project a credible threat rather than a bluff. You cannot brand around that. You have to put the name on the door.
+Because Nir **IS** the merchandise. The series is not selling a framework or a piece of technology — it is selling the credibility of the solo Israeli developer who built the swarm. The whole deterrent in Chapter 12 of MadHoney ("Am I Bluffing?") hinges on one human being, with a first name and a last name, with a girlfriend, with a published book, with a decade of public activism — not on a brand. You cannot put a brand under the gun in Chapter 12. You can only put a person there. So the channel has to read as a person.
 
-"Strulovitz" is also completely unsearchable through normal means — Google suppresses Nir's results to roughly page 10 across the entire index. This is not a theory; Nir has observed it for over a decade, across both Google Search and YouTube. Name-based discovery is already dead.
+A first-name-plus-last-name hits the viewer as a real human being. A single last name reads like a brand of canned tuna. The full name is what gets typed by the next viewer when the first viewer texts him *"watch this guy on YouTube, Nir Strulovitz"* — and that typing-the-name moment is the moment the series propagates from one tired person to the next. The full name is the only string the forwarding chain actually carries, so the full name is what has to be on the door.
 
-**Therefore the series is not designed to be *discovered*. It is designed to be *forwarded*.** One tired exec sees it, texts it to three other tired execs with *"you got to see this — this is something else"*, and the channel name on the end card is the one they land on. The goal is **forwarding velocity**, not SEO. Every design decision in this bible rolls up to that single goal.
+**On Google's suppression of Nir's results — the old reasoning was wrong.** Earlier drafts of this section argued that the channel should be a single word because Google buries Nir's name on page 10 anyway, so "name-based discovery is dead." That reasoning was wrong on its premise. The series is not designed to be discovered through Google search in the first place. The viewer reaches GitHub through the **link in the video description** — they do not Google for it. Google's suppression of Nir's name across the index is real and ongoing, and it is the reason the series cannot rely on search at all, but it does not change what the channel name should be. The channel name should be the real name of the real human the series is selling. That is **Nir Strulovitz**, in full, every time.
+
+**The series is designed to be forwarded, not discovered.** One tired exec sees it, texts it to three other tired execs with *"you have to see this — this is something else, his name is Nir Strulovitz"*, and the next viewer types **Nir Strulovitz** into YouTube and lands on the channel. The goal is **forwarding velocity**, not SEO. Every design decision in this document rolls up to that single goal, and the full-name channel is part of how the forwarding chain stays intact across the typing step.
 
 ---
 
@@ -96,8 +101,8 @@ The series has to end the same way every time, so the viewer learns the ritual a
 
 1. **One-line invention summary:** *"Hierarchical AI swarms. Runs on everyone's computers. Built by one person. Open source. Free."*
 2. **Name the inventor:** *"Strulovitz. Solo developer. Israel."*
-3. **The ask:** *"Read the book before the next earnings call."* → link to MadHoney on GitHub.
-4. **End card:** channel name `Strulovitz`, slogan `How China will beat America`, and the part number in the locked format `Part 1/10`, `Part 2/10`, ... `Part 10/10`. See the **Title and Numbering Format** section below for the full rules on why it is "Part" and not "Episode" and why the slash format avoids being misread as a star rating.
+3. **The ask:** *"Read the free book, with non-technical explanations, at the same link, before you see this on your own TV."* → link to MadHoney on GitHub. Earlier drafts said *"Read the book before the next earnings call"*, which talks to a CFO instead of to a tired American at 11pm and was killed on 2026-04-13.
+4. **End card:** channel name `Nir Strulovitz` (full name, two words — see The Channel section above), slogan `How China will beat America`, and the part number in the locked format `Part 1/14`, `Part 2A/14`, ... `Part 10/14` (slate expanded from 10 to 14 on 2026-04-13 — see PART_SLATE_EXPANSION.md). See the **Title and Numbering Format** section below for the full rules on why it is "Part" and not "Episode" and why the slash format avoids being misread as a star rating.
 
 ### Length target
 
@@ -349,7 +354,7 @@ The numbered series builds its own audience as it runs.
 5. **The word is "swarm"** in Act 2 — never "hive", "framework", "distributed system", "federated", "decentralized", or any word longer than one syllable when a one-syllable word exists.
 6. **Visual language: swarms, drones, bees, dots on maps.** Never datacenters, GPUs, humanoid robots, or glowing brains.
 7. **No jargon the viewer is not actively taught inside the same sentence it appears in.**
-8. **End card always includes: slogan, channel name, episode number.**
+8. **End card always includes: slogan (`How China will beat America`), channel name (`Nir Strulovitz` — full name), part number (`Part N/14`).**
 9. **Each episode closes by pointing at the MadHoney book on GitHub.** The video asks the question; the book answers it.
 10. **Tone matches the book:** cold, blunt, idiot-proof, no moralizing, no apology, no AI-jargon warmup.
 
