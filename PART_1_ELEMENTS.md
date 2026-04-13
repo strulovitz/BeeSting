@@ -154,12 +154,12 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 3 | American boxer | Character | 9, 19, 29 | 3 | LOCKED → `elements/03_american_boxer.png` |
 | 4 | Wing Chun fighter (Part 1) | Character | 9, 19, 29 | 4 | LOCKED → `elements/04_wing_chun_fighter.png` |
 | 5 | FBI agent's hand | Character (partial) | 17, 21 | 10 | LOCKED → `elements/05_fbi_hand.png` |
-| 6 | American generals | Character | 12 | 11 | TO DO |
+| 6 | American generals | Character | 12 | 11 | LOCKED → `elements/06_american_generals.png` |
 | 8 | News studio + desk | Environment | 1, 13, 34 | 6 | LOCKED → `elements/08_news_studio.png` |
 | 9 | Exterior bunker entrance | Environment | 5, 15, 16, 24 | 8 | LOCKED → `elements/09_bunker_exterior.png` |
 | 10 | Interior bunker hallway | Environment | 6, 8, 10, 11, 27, 28 | 8 | LOCKED → `elements/10_bunker_interior.png` |
 | 11 | Industrial ventilation shaft | Environment | 7 | 11 | TO DO |
-| 12 | Bunker sub-level conference room | Environment | 12 | 11 | TO DO |
+| 12 | Bunker sub-level conference room | Environment | 12 | 11 | MERGED into #06 (generals were generated inside the conference room) |
 | 13 | California data center | Environment | 18, 20 | 11 | TO DO |
 | 14 | Pentagon war room | Environment | 26 | 11 | TO DO |
 | 15 | Fight space (series-wide) | Environment | 9, 19, 29 | 5 | LOCKED → `elements/15_fight_space.png` |
