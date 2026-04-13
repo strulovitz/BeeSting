@@ -149,7 +149,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 
 | # | Element | Type | Used in shots | Priority | Status |
 |---|---|---|---|---|---|
-| 1 | The anchor | Character | 1, 13, 34 | 1 | TO DO |
+| 1 | The anchor | Character | 1, 13, 34 | 1 | LOCKED → `elements/01_anchor.png` |
 | 2 | The reporter | Character | 15, 16, 24 | 7 | TO DO |
 | 3 | American boxer | Character | 9, 19, 29 | 3 | TO DO |
 | 4 | Wing Chun fighter (Part 1) | Character | 9, 19, 29 | 4 | TO DO |
