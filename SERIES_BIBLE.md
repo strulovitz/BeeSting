@@ -300,7 +300,11 @@ Plain hyphens are boring and universally readable. Boring is the right choice he
 
 ---
 
-## The Part Slate (LOCKED ORDER — share-velocity, not book order)
+## The Part Slate (EXPANDED 2026-04-13 from 10 to 14 parts — see PART_SLATE_EXPANSION.md)
+
+**Update 2026-04-13:** Nir and Claude read every chapter of MadHoney in full and discovered that Chapter 2 (Pentagon) contains three structurally distinct fears — DARPA, Pentagon, DoD — and Chapter 4 (Pharma) contains three bundled secretary+manager beats that cannot be collapsed into one video without losing either Ozempic, the prescription cascade, or the McKinsey opioid story. The slate therefore expanded from 10 parts to 14 parts, with Chapter 2 splitting into Parts 2A/2B/2C and Chapter 4 splitting into Parts 8A/8B/8C. Nir also decided directly that Chapter 3 (Intelligence) stays at one video (NSA — all agencies are identical to it for angel purposes) and Chapter 5 (Wall Street) stays at one video (banks are all doing the same thing). Full reasoning, bundled cold opens, bundled God paragraphs, and the new `/14` title format are in `PART_SLATE_EXPANSION.md` in this repository. The original `/10` share-velocity table below is preserved for historical reference, and the ordering logic (share-velocity, military-first, Am I Bluffing last) still applies — it is just re-numbered inside the expansion file.
+
+## The Part Slate — original 10-part version (superseded, kept for the share-velocity reasoning)
 
 Ten parts. The order is **not** the book order. The order is the share-velocity order: which video makes a tired human mash the forward button hardest. Public-facing titles use `Part N/10` per the **Title and Numbering Format** section above.
 
