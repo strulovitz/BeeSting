@@ -155,7 +155,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 4 | Wing Chun fighter (Part 1) | Character | 9, 19, 29 | 4 | LOCKED → `elements/04_wing_chun_fighter.png` |
 | 5 | FBI agent's hand | Character (partial) | 17, 21 | 10 | TO DO |
 | 6 | American generals | Character | 12 | 11 | TO DO |
-| 8 | News studio + desk | Environment | 1, 13, 34 | 6 | TO DO |
+| 8 | News studio + desk | Environment | 1, 13, 34 | 6 | LOCKED → `elements/08_news_studio.png` |
 | 9 | Exterior bunker entrance | Environment | 5, 15, 16, 24 | 8 | TO DO |
 | 10 | Interior bunker hallway | Environment | 6, 8, 10, 11, 27, 28 | 8 | TO DO |
 | 11 | Industrial ventilation shaft | Environment | 7 | 11 | TO DO |
