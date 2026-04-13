@@ -153,7 +153,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 2 | The reporter | Character | 15, 16, 24 | 7 | LOCKED → `elements/02_reporter.png` |
 | 3 | American boxer | Character | 9, 19, 29 | 3 | LOCKED → `elements/03_american_boxer.png` |
 | 4 | Wing Chun fighter (Part 1) | Character | 9, 19, 29 | 4 | LOCKED → `elements/04_wing_chun_fighter.png` |
-| 5 | FBI agent's hand | Character (partial) | 17, 21 | 10 | TO DO |
+| 5 | FBI agent's hand | Character (partial) | 17, 21 | 10 | LOCKED → `elements/05_fbi_hand.png` |
 | 6 | American generals | Character | 12 | 11 | TO DO |
 | 8 | News studio + desk | Environment | 1, 13, 34 | 6 | LOCKED → `elements/08_news_studio.png` |
 | 9 | Exterior bunker entrance | Environment | 5, 15, 16, 24 | 8 | LOCKED → `elements/09_bunker_exterior.png` |
