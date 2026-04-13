@@ -164,7 +164,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 14 | Pentagon war room | Environment | 26 | 11 | TO DO |
 | 15 | Fight space (series-wide) | Environment | 9, 19, 29 | 5 | TO DO |
 | 16 | Ballistic missile | Prop | 2, 3, 4 | 9 | TO DO |
-| 17 | Worker drone | Prop | 3, 5, 7, 8, 10, 11, 23, 28 | 2 | TO DO |
+| 17 | Worker drone | Prop | 3, 5, 7, 8, 10, 11, 23, 28 | 2 | LOCKED → `elements/17_worker_drone.png` |
 | 19 | FBI clipboard + paper + pen | Prop | 17, 21 | 10 | TO DO |
 | 20 | Raspberry Pi + small drone | Prop | 31 | 11 | TO DO |
 | 21 | Phone showing GitHub page | Prop | 32, 33 | 11 | TO DO |
