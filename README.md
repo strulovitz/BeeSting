@@ -1,6 +1,8 @@
 # BeeSting
 
-### *"How China's swarm AI will beat America"*
+### *"How China will beat America"*
+
+> 📘 **Creative source of truth:** [`SERIES_BIBLE.md`](SERIES_BIBLE.md). Read the bible before writing or editing any episode. It explains the slogan, the channel name, the 3-act structure, the two hard conversions, the fake-news-network rules, and the ground rules. Every decision in this repo rolls up to that document.
 
 ---
 
@@ -10,17 +12,19 @@ This is the home of **BeeSting** — the short-form viral video companion to the
 
 The book is long. Many people will never sit down to read it. BeeSting is the 60-second-at-a-time version.
 
-Each video is a **short, sharp sting**: vertical format (9:16), built for TikTok, Instagram Reels, and YouTube Shorts, designed to be watchable in under a minute by a tired person scrolling on their phone. No prior knowledge required. No tech jargon unless the video explains it in the same breath. Built for the viewer who would never, under any circumstances, read a 300-page book about the end of the American AI empire — but who *will* stop scrolling for 60 seconds if the thumbnail promises something scary, specific, and new.
+Each video is a **short, sharp sting**: vertical format (9:16), built for TikTok, Instagram Reels, and YouTube Shorts, 90–120 seconds long, designed to be watchable in one sitting by a tired non-technical decision-maker scrolling on their phone. No prior knowledge required. No tech jargon unless the video explains it in the same breath. Built for the viewer who would never, under any circumstances, read a 300-page book about the end of the American AI empire — but who *will* stop scrolling for two minutes if the thumbnail promises something scary, specific, and new.
 
 ---
 
 ## The Series Slogan
 
-> ### ***How China's swarm AI will beat America***
+> ### ***How China will beat America***
 
 This is the name of the series. It is the slogan on every video's title card. It is the tagline on every thumbnail. It is the phrase the series wants to own.
 
-The slogan is ambiguous on purpose. "Beat America" covers **both halves** of what the book is about: the China that beats America in the next war, and the China that beats America in the next quarterly earnings call. The viewer scrolling at 11pm auto-completes the phrase in whichever way scares them most personally — and the video then gives them the half they did not already imagine.
+The slogan is ambiguous on purpose and **short on purpose.** "Beat America" covers **both halves** of what the book is about: the China that beats America in the next war, and the China that beats America in the next quarterly earnings call. The viewer scrolling at 11pm auto-completes the phrase in whichever way scares them most personally — and the video then gives them the half they did not already imagine.
+
+The slogan deliberately does **not** contain the words "AI", "swarm", "tech", "hive", or any technical term. The moment those words appear in a title, the non-technical decision-maker (the entire target audience) categorizes the video as nerd-content-not-for-me and keeps scrolling. The full reasoning is in [`SERIES_BIBLE.md`](SERIES_BIBLE.md) under "The Slogan".
 
 ---
 
@@ -48,10 +52,13 @@ A numbered series creates binge behavior on the algorithm. Part 3 implies Parts 
 ## Format
 
 - **Aspect ratio:** 9:16 vertical
-- **Length:** 60 seconds maximum per episode (hook in the first 3 seconds)
-- **Target platforms:** TikTok, Instagram Reels, YouTube Shorts (published simultaneously to all three)
+- **Length:** 90–120 seconds per episode (hook in the first 3 seconds, let content decide within the window)
+- **Structure:** 3 acts — (1) cold-open fake-news broadcast from the near future showing the catastrophe already happened, (2) "how did it come to this?" flashback to 2026 with the explanation, (3) credit / call-to-action / channel end card
+- **Target platforms:** TikTok, Instagram Reels, YouTube Shorts (published simultaneously to all three; all three now support up to 3 minutes)
+- **YouTube channel name:** `Strulovitz` (matches the GitHub org and the author name — the solo Israeli developer IS the product)
 - **Tone:** matches the book — cold, blunt, idiot-proof, no moralizing
-- **Visual style:** swarm imagery — drone formations, bee clouds, glowing dots converging on maps, hive visualizations. Every thumbnail and every B-roll cut reinforces the *swarm* brand so the series stands out in a scroll full of flag-and-map China threat videos
+- **Visual style:** swarm imagery — drone formations, bee clouds, black specks converging on maps, bees streaming out of hives toward targets. **Never** show datacenters, GPUs, humanoid robots, or glowing brains (wrong metaphors — they belong to the old AI story). The word in Act 2 is **swarm**, never "hive" or "distributed" or "federated".
+- **Full creative rules:** [`SERIES_BIBLE.md`](SERIES_BIBLE.md)
 
 ---
 
