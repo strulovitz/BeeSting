@@ -151,7 +151,7 @@ Every BeeSting episode that touches military or technical content uses the same 
 One big brain in the middle, sitting in a building somewhere on the ground. Many small dumb leaves at the edges, each connected back to the brain in the middle by its own single line. The leaves never talk to each other. They only talk to the brain. Kill the brain in the middle, every leaf dies in the same second. This is how every American drone fleet, every American military AI program, every American cloud AI service, and every American centralized data system has been built for decades. **It is one heart with many limbs.** It is the thing that lost over the Pacific three weeks before Part 1 opens, when one Chinese hypersonic missile hit one California data center and every American drone over the ocean lost its mind in the same instant.
 
 **2. The Tree (Chinese / KillerBee shape — the one that just won):**
-Imagine the American military's own command hierarchy. A few generals at the very top, leading the whole operation. Each general has a few colonels under him, leading medium-scale tactical decisions. Each colonel has a few lieutenants under him, leading small-scale decisions. Each lieutenant has a few soldiers under him, doing the actual work — shooting, exploding, photographing, sensing. Now picture every single rank in that hierarchy as a quadcopter: every general, every colonel, every lieutenant, every soldier. There is no human in the chain anywhere. The whole tree is made of small drones with their own brains, talking to each other in a few words at a time, making decisions in lightning speed. **This is many small brains organized into a tree.** It has no single heart to hit, because the leadership is spread across the whole tree, with backup generals and backup colonels scattered hidden among the soldiers.
+Imagine the American military's own command hierarchy. A few generals at the very top, leading the whole operation. Each general has a few colonels under him, leading medium-scale tactical decisions. Each colonel has a few lieutenants under him, leading small-scale decisions. Each lieutenant has a few soldiers under him, doing the actual work — shooting, exploding, photographing, sensing. Now picture every single rank in that hierarchy as a drone: every general, every colonel, every lieutenant, every soldier. There is no human in the chain anywhere. The whole tree is made of small drones with their own brains, talking to each other in a few words at a time, making decisions in lightning speed. **This is many small brains organized into a tree.** It has no single heart to hit, because the leadership is spread across the whole tree, with backup generals and backup colonels scattered hidden among the soldiers.
 
 ### How to use the word in scripts
 
@@ -170,7 +170,7 @@ Variations on the word are allowed for visual freshness — *"the new topology" 
 - *"The star just lost. The tree just won."*
 - *"America built the wrong topology."*
 - *"The Chinese topology has no heart. The American topology has one heart, in one building, in California."*
-- *"This is what a tree topology looks like when it is made of quadcopters."*
+- *"This is what a tree topology looks like when it is made of small drones."*
 
 ### Language to never use
 

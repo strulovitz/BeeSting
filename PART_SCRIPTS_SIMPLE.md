@@ -8,7 +8,9 @@ These are the canonical simple versions. When in doubt, match this style.
 
 ---
 
-## Part 1/14 — Drones (LOCKED 2026-04-13 — bunker scenario, topology buzzword, scattered backups, full name on end card)
+## Part 1/14 — Hive Drones (LOCKED 2026-04-13 — bunker scenario, topology buzzword, scattered backups, full name on end card)
+
+> **Note on the topic name:** We chose **Hive Drones** over four other candidates (*Drones*, *Drone Swarm*, *Quadcopters*, *Slaughterbots*). Reasons on the record: (1) *Slaughterbots* looks like we are riding Stuart Russell's 2017 viral short and does not translate to non-English audiences using YouTube auto-captions. (2) *Quadcopters* sounds hobbyist / toy-store and loses gravitas. (3) *Drone Swarm* is what defense-industry viewers already think they understand, and the word *swarm* has been numbed by years of Pentagon briefings on the topic. (4) *Drones* alone is generic and does not distinguish Part 1 from every other drone video on YouTube. **Hive Drones** owns the bee-themed brand family (MadHoney, BeeSting, KillerBee, RajaBee, GiantQueen, DwarfQueen, Worker), carries the correct semantics of *hive mind* (the intelligence is inside the collective, not controlled from outside the way a swarm feels), avoids the industry-numbness of *swarm*, and still translates cleanly to *beehive drone* in every major language. The minor name collision with Shield AI's *Hivemind* software is acknowledged and dismissed — Shield AI does not own the English phrase *hive mind* any more than Google owns the word *search*.
 
 This is the canonical script for Part 1. Every line in here was Nir-approved during the 2026-04-13 working session. If you are tweaking it later, preserve the structure and the locked language: the missile-as-transport setup, the Faraday-cage bunker, the room-by-room adaptation, the **KillerBee** anchor attribution, the field reporter introducing **topology** as the canonical buzzword, the star vs tree shapes drawn on a piece of paper by the FBI counter-terrorism agents, the general → colonel → lieutenant → soldier hierarchy as the tree analogy, the redundancy via **scattered** backup queens (never close-formation), the *heart vs no heart* God-paragraph landing, the **"America built the wrong topology"** punch line, and the Act 3 closing with full inventor name, free non-technical book at the same link, and *"before you see this on your own TV."*
 
@@ -30,7 +32,7 @@ This is the canonical script for Part 1. Every line in here was Nir-approved dur
 >
 > The first shape — the American shape, the one we have used for decades — looks like a star. Imagine one big brain inside one building, sitting somewhere on the ground, in California. And imagine many small dumb drones flying in the sky, each one connected back to that brain by its own line. The drones never talk to each other. They only talk to the brain in the middle. Kill the brain in California, every drone in the sky goes dumb at the same second. **This is the star.** This is the shape we lost three weeks ago over the Pacific, when one Chinese missile hit one building.
 >
-> The second shape — the new Chinese shape, the one that just won — looks like a tree. Picture our own military hierarchy. A few generals at the top, leading the whole operation. Each general has a few colonels under him, running the medium-sized decisions. Each colonel has a few lieutenants under him, running the small decisions. Each lieutenant has a few soldiers under him — the ones who actually shoot, or explode, or photograph. Now picture every single rank in that picture as a quadcopter. Every general, every colonel, every lieutenant, every soldier — all of them are flying drones. There is not one human anywhere in the chain of command. They make decisions in lightning speed by whispering to each other in a few words at a time. **This is the tree.** This is what just walked into our bunker.
+> The second shape — the new Chinese shape, the one that just won — looks like a tree. Picture our own military hierarchy. A few generals at the top, leading the whole operation. Each general has a few colonels under him, running the medium-sized decisions. Each colonel has a few lieutenants under him, running the small decisions. Each lieutenant has a few soldiers under him — the ones who actually shoot, or explode, or photograph. Now picture every single rank in that picture as a drone. Every general, every colonel, every lieutenant, every soldier — all of them are small flying drones, each with its own small brain. There is not one human anywhere in the chain of command. They make decisions in lightning speed by whispering to each other in a few words at a time. **This is the tree.** This is what just walked into our bunker.
 >
 > Sarah — the FBI agents told me to tell every American watching this. The star just lost. The tree just won. And tonight, for the first time in human history, the tree was theirs.
 
@@ -44,9 +46,9 @@ This is the canonical script for Part 1. Every line in here was Nir-approved dur
 
 ### Act 3 — Closing (~15–20 sec)
 
-> Hierarchical AI swarms. Works on anything — even on small single-board computers, the kind that fit in your hand, like a Raspberry Pi, light enough for a single quadcopter to carry. All this deadly software is open source and free, and available at the link below. Built by one person. The man's name is **Nir Strulovitz**. Solo developer. Israel. Read the free book, with non-technical explanations, at the same link, before you see this on your own TV.
+> Hierarchical AI swarms. Works on anything — even on small single-board computers, the kind that fit in your hand, like a Raspberry Pi, light enough for a single drone to carry. All this deadly software is open source and free, and available at the link below. Built by one person. The man's name is **Nir Strulovitz**. Solo developer. Israel. Read the free book, with non-technical explanations, at the same link, before you see this on your own TV.
 >
-> *(End card: slogan **How China will beat America**, **YouTube: Nir Strulovitz**, **Part 1/14**.)*
+> *(End card: slogan **How China will beat America**, **YouTube: Nir Strulovitz**, **Part 1: Hive Drones**, **Part 1/14**.)*
 
 ### Approximate length
 

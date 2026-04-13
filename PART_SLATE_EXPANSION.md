@@ -22,7 +22,7 @@ Going through the chapters chapter-by-chapter revealed three patterns:
 
 | Part | Topic | MadHoney Chapter |
 |---|---|---|
-| 1 | Drones | Ch 7 |
+| 1 | Hive Drones | Ch 7 |
 | 2A | Pentagon — DARPA Onion-Peeler | Ch 2 |
 | 2B | Pentagon — Matrix Lie-Machine | Ch 2 |
 | 2C | Pentagon — DoD Maginot Bullseye | Ch 2 |
@@ -147,7 +147,7 @@ If the `/10` has already been burned into titles, thumbnails, or end-cards, upda
 
 Examples for the full new slate:
 
-- `How China will beat America - Drones (Part 1/14)`
+- `How China will beat America - Hive Drones (Part 1/14)`
 - `How China will beat America - DARPA (Part 2A/14)`
 - `How China will beat America - Pentagon (Part 2B/14)`
 - `How China will beat America - DoD (Part 2C/14)`
