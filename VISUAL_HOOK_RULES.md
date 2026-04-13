@@ -36,24 +36,40 @@ The hook is not a random scandal pulled out of a hat. It has to be a **specific,
 
 The test: can you draw a straight line from the hook back to the chapter's mechanism in one sentence? If yes, the hook is earned. If you have to explain two jumps, the hook is cheating and the viewer will feel lied to.
 
-## Rule 4 — Visual style is NOT body-cam
+## Rule 4 — Visual style is PHOTOREALISTIC NEWS BROADCAST. No cute, no Lego, no Pixar, no comics, no anime.
 
-**Nir does not like body-cam style and it is banned from BeeSting.** No shaky handheld footage, no first-person helmet cam, no soldier-POV, no police-cam. That visual vocabulary belongs to other YouTube channels and it is not what this series looks like.
+**This is the hardest rule in the whole project and it is non-negotiable.** BeeSting is not Honeymation. Honeymation used cute Lego minifigures and cute Pixar 3D characters because Honeymation was an *explainer* video — the viewer already knew it was an explainer, and the cute style lowered the cognitive load. BeeSting is the opposite: it is disguised as a real emergency news broadcast, and the disguise only works if the viewer cannot tell in the first two seconds that they are not watching CNN / Fox / i24 / BBC.
 
-What the series DOES look like, visually:
-- The news-desk anchor shot (fixed, clean, modern, emergency-broadcast lighting).
-- The chyron `1 MONTH FROM NOW` and the `BREAKING` lower-third flash.
-- Still photographs, document scans, grainy surveillance frames, news-style B-roll.
-- Satellite images, maps with dots, overhead drone shots (but not first-person drone POV).
-- Field-reporter format for the "topology" explanation beat.
+**The visual style of BeeSting is what a viewer would see if they turned on their television tonight and their network cut into programming.** That means:
 
-What the series does NOT look like:
-- Body-cam.
-- First-person helmet-cam or soldier-POV.
-- Found-footage horror.
-- Shaky handheld.
+- Real-looking female news anchor in a dark suit at a real-looking modern news desk.
+- Real-looking lighting (clean, slightly cool, emergency-broadcast key light).
+- Real-looking news graphics — the `1 MONTH FROM NOW` chyron, the `BREAKING` lower-third flash, sober sans-serif fonts.
+- Real-looking field reporter at a real-looking cordoned-off location, with real-looking FBI vehicles, flashing lights, and real-looking b-roll behind him.
+- Real-looking still photographs, document scans, grainy surveillance frames, overhead satellite images.
+- Real-looking news-style b-roll: maps with moving dots, overhead shots (not first-person), archival-style clips, redacted documents, confidential-stamped paperwork.
 
-These are banned even when they would be "cinematically appropriate" for a given beat. The series has its own locked visual vocabulary and it does not borrow from the action-horror genres.
+**The visual style of BeeSting is NOT:**
+
+- **NOT Lego.** No minifigures. No plastic people. No modular snap-together anything. Zero Lego vocabulary. The Honeymation Lego style is banned from BeeSting.
+- **NOT Pixar / cute 3D.** No Sofia, no Jade, no Marcus, no Alex, no big-eyed animated humans with soft shading. The Honeymation Pixar style is banned from BeeSting.
+- **NOT comics / cartoon / illustrated.** No comic-book panels, no graphic-novel inking, no Scott McCloud-style word balloons, no motion comics.
+- **NOT anime / manga.** No anime eyes, no speed lines, no anime color palette, no anime character design.
+- **NOT body-cam / POV / found-footage.** No shaky handheld, no first-person helmet-cam, no soldier-POV, no police-cam, no blurry combat footage, no Cloverfield-style shake. That vocabulary belongs to other channels.
+
+**Why this is non-negotiable:** the first 10 seconds of every BeeSting video have exactly one job — make the viewer's thumb freeze on the scroll because for two seconds they genuinely cannot tell whether what they are watching is a real cut-in from their own trusted news network. The moment any stylized visual vocabulary appears — cute, cartoon, Lego, Pixar, anime, comic, body-cam — the viewer's brain instantly re-classifies the video as entertainment / explainer / satire / genre content, and the emergency-broadcast illusion dies. Once the illusion dies, the angels-before-god mechanism fails, the secretary does not mash the forward button, and the video does not propagate. Every other rule in this document depends on this rule succeeding first.
+
+**Cross-reference to Honeymation:** Honeymation shipped two videos — Video 1 in Lego style, Video 2 in Pixar 3D style — both with cute characters (Architect/Foreman/Workers in Video 1; Sofia/Jade/Marcus/Alex in Video 2). Both worked for *that* project because Honeymation was an explainer-video companion to the first book and the cute style was exactly what the target audience needed. **Those choices do not carry over to BeeSting.** BeeSting is a different product with a different creative problem and a different target audience. When a future session reaches for "what style should we use," the answer is never "the Honeymation style." The answer is always "photorealistic emergency news broadcast."
+
+### What the series DOES look like, visually (summary of the allowed vocabulary):
+
+- The photorealistic news-desk anchor shot (fixed, clean, modern, emergency-broadcast lighting).
+- The chyron `1 MONTH FROM NOW` and the `BREAKING` lower-third flash in sober news-graphic style.
+- Photorealistic still photographs, document scans, grainy surveillance frames, news-style b-roll.
+- Photorealistic satellite images, maps with dots, overhead shots (NOT first-person drone POV).
+- Photorealistic field-reporter format at a real-looking location for the "topology" explanation beat.
+
+The series has its own locked photorealistic visual vocabulary and does not borrow from cute animation (Lego, Pixar), drawn media (comics, anime), or action-horror genres (body-cam, POV, found-footage).
 
 ## Why this rule exists
 
@@ -61,4 +77,4 @@ The first pass at drafting episodes kept producing cold opens that were briefing
 
 The action-parts-first rule fixes the same problem at the slate level: if the first few parts a new viewer sees are all paper-and-screens, the series dies in aggregate even if each individual episode is well-drafted.
 
-The no-body-cam rule prevents a future session from "solving" the action problem by reaching for handheld/POV footage, which would break the series visual signature and make BeeSting look like every other doom channel.
+The photorealistic-news-broadcast rule is the hardest of the four. It prevents a future session from "solving" the production problem by reaching for cute animation (Honeymation-style Lego or Pixar), drawn media (comics or anime), or action-horror footage (body-cam, POV, found-footage). Any of these would instantly kill the emergency-broadcast illusion that the first 10 seconds of every episode depend on, and the angels-before-god mechanism would fail the moment the illusion broke.
