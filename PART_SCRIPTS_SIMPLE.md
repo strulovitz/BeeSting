@@ -8,11 +8,27 @@ These are the canonical simple versions. When in doubt, match this style.
 
 ---
 
-## Part 1/14 — Drones
+## Part 1/14 — Drones (BUNKER VERSION — LOCKED 2026-04-13)
 
-**Secretary (cold open):** Tonight, dozens of small cheap drones crossed the southern border. Nobody sent them. Nobody is flying them. They already knew the address of every judge, every senator, and every FBI agent on their list. They found the houses by themselves. The first families were killed in their own kitchens before anyone knew the drones were there.
+**Secretary (cold open, anchor delivery):**
 
-**Manager (God paragraph):** Your best drone costs tens of millions. Theirs costs less than a used motorcycle. You send one. They send a hundred thousand. And the brain that tells their drones who to kill is free software anyone can download tonight. Every factory in China already builds the body. Your advantage is about to stop existing.
+BREAKING. A Chinese ballistic missile crossed the Pacific tonight — not built to explode, but built to carry. Inside it, a swarm of small cheap drones. The missile flew across the ocean, released the drones near their target, and then crashed empty into an American mountainside.
+
+The drones flew straight into one of our most secure military bunkers. The bunker is buried deep under the mountain. Its walls are lined with thick metal, so no radio signal can reach in or out. No pilot from the outside could have flown those drones from a distance, even if they had wanted to. And yet — the drones came in through the air vents. They blew open locked doors. When our soldiers tried to block a hallway, another drone exploded through the ceiling and the rest dropped in behind it. Room by room, the swarm changed its plan whenever it hit a wall. It reached the generals sheltering at the bottom.
+
+Until tonight, this was technically impossible. Every drone in history was either flown by a human on a radio, or too stupid to do more than fly straight and crash.
+
+What we just watched is a new Israeli technology called KillerBee. Many small drones whispering to each other in a few words at a time, combining into one big thinking brain. It works inside a metal cage — because the drones talk to each other, not to a base. The Chinese military downloaded it off the internet last month. For free. The face of warfare just changed tonight.
+
+**Manager (God paragraph, still in American news voice):**
+
+Three weeks ago, America tried a drone attack of our own against China. We lost it in fifteen minutes. China did not shoot down our drones one by one. China did not jam our radios. China hit one single target with one hypersonic missile — the data center in California where the brain of our swarm lived. The building burned. Every drone we had in the air over the Pacific lost its mind in the same second. They froze. They drifted. They crashed. The whole attack stopped because one building stopped.
+
+Tonight our soldiers inside the bunker tried to do the same thing to the Chinese swarm. They fought room by room. At one point they destroyed one queen drone — the drone that was running part of the swarm. They thought they had won. Nothing changed. Another queen was already flying in the swarm, carrying the same heavy brain on the same heavy hardware, doing the same job. Behind her, another. The swarm was built with backup queens from the start, because the small worker drones are too slow and too weak to ever take a queen's job — so the swarm brings extra queens along. From the outside, every drone looks identical. Our soldiers never knew which one was a queen and which was a foot soldier. And every queen they did destroy, another one was already flying behind her.
+
+America has a heart. One missile on the heart, and the whole body dies. China has no heart. Many small brains in many small drones, and killing one changes nothing. In a real war, a side with one heart does not survive a side with no heart. America built the wrong shape.
+
+---
 
 ---
 
