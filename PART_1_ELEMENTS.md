@@ -151,7 +151,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 |---|---|---|---|---|---|
 | 1 | The anchor | Character | 1, 13, 34 | 1 | LOCKED → `elements/01_anchor.png` |
 | 2 | The reporter | Character | 15, 16, 24 | 7 | TO DO |
-| 3 | American boxer | Character | 9, 19, 29 | 3 | TO DO |
+| 3 | American boxer | Character | 9, 19, 29 | 3 | LOCKED → `elements/03_american_boxer.png` |
 | 4 | Wing Chun fighter (Part 1) | Character | 9, 19, 29 | 4 | TO DO |
 | 5 | FBI agent's hand | Character (partial) | 17, 21 | 10 | TO DO |
 | 6 | American generals | Character | 12 | 11 | TO DO |
