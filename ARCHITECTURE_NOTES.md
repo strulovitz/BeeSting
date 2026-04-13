@@ -20,9 +20,27 @@ In KillerBee, the Workers, the DwarfQueens, the GiantQueens, and the RajaBee run
 
 ### How the swarm actually handles the death of a leader
 
-**It carries backups.** Pre-positioned, pre-flying, pre-identical-looking backups. The architecture is redundant by design — every DwarfQueen has one or more backup DwarfQueens in the same swarm, already flying, already running the same big model on the same heavy hardware, already in contact with the rest of the swarm. If the primary DwarfQueen is destroyed, a backup DwarfQueen takes over her squad in the same second — not because anything got promoted, but because the backup was already a DwarfQueen, flying beside her, doing nothing in particular until she was needed.
+**It carries backups.** Pre-positioned, pre-flying, pre-identical-looking backups. The architecture is redundant by design — every DwarfQueen has one or more backup DwarfQueens in the same swarm, already flying, already running the same big model on the same heavy hardware, already in contact with the rest of the swarm. If the primary DwarfQueen is destroyed, a backup DwarfQueen takes over her squad in the same second — not because anything got promoted, but because the backup was already a DwarfQueen, doing nothing in particular until she was needed.
 
 The same goes one level up — every GiantQueen has backup GiantQueens. And one more level up — the RajaBee has backup RajaBees. **Redundancy is built into the swarm from the moment of launch.**
+
+### Backups are SPREAD ACROSS the swarm — never clustered
+
+**Critical detail Claude has gotten wrong.** Backup Queens do not fly close to the primary Queen. Backup RajaBees do not fly close to the primary RajaBee. They are deliberately **scattered across the entire swarm formation**, hidden among the Workers, far from the leader they would replace.
+
+The reason is brutally obvious once you say it: if the enemy throws one grenade, fires one mortar shell, drops one bomb, or gets one lucky burst of gunfire, you do not want it taking out the primary Queen and all of her backups in the same explosion. So the swarm spaces them out. Different rooms. Different altitudes. Different parts of the formation. A primary Queen leading the breach in one corridor; her backup Queen flying with a different group of Workers two corridors away, doing what looks like ordinary Worker work, until the moment the primary dies and the backup takes over the role. Same for RajaBees.
+
+**In scripts, when the redundancy beat appears, always say "spread" or "scattered" or "hidden among the workers" — never "flying right behind her" or "flying alongside her" or "flying close to the primary."** The whole point is that they are not close.
+
+Language to use:
+- *"Another queen was already flying somewhere else in the swarm, scattered far from the one we just killed, hidden among the small drones."*
+- *"The swarm carries its backup queens spread across the whole formation, so that no single grenade and no single bullet ever takes them out together."*
+- *"You cannot kill the leadership, because the leadership is everywhere at once and nowhere in particular."*
+
+Language to **never** use:
+- ~~"Another queen was flying right behind her."~~ (Wrong. They are scattered, not in formation behind the primary.)
+- ~~"The backup queens stayed close to the primary so they could take over quickly."~~ (Wrong. Closeness is the failure mode the scattering is designed to prevent.)
+- ~~"The backup queens were flying in tight formation."~~ (Wrong. The opposite of tight.)
 
 ### Why all the drones look identical from outside
 
@@ -111,8 +129,59 @@ This is the single most forwardable technical fact about KillerBee, because it i
 
 ---
 
+---
+
+## Rule 7 — TOPOLOGY is the canonical buzzword for the entire BeeSting series
+
+**Decision date: 2026-04-13.** From now on, every BeeSting episode that needs to explain *why* this works uses one single buzzword across the whole series: **topology**.
+
+### Why this word, and why one word
+
+The bible already establishes that the videos must convert a generic AI fear into a swarm AI fear (Conversion 2), and that the technique is to *rename* an existing fear rather than teach a new concept. The word "swarm" was the previous answer, and it still does the job for the angel — every viewer already knows what a swarm of bees or drones feels like.
+
+But the manager — the second audience, the one inside the God paragraph, the one who decides — needs one extra thing the secretary does not need. **He needs a word he can repeat at his own meetings on Monday morning.** A word that sounds smart enough to make him look smart in front of his peers, but simple enough that he can actually explain it without panicking. A word that gives him the feeling of *understanding* the new threat, instead of just being scared of it. A word he will then evangelize for free, because saying it makes him feel like the smartest person in the room.
+
+**That word is "topology."** It is technical enough to feel like insider language. It is short enough to remember. It has a real, true meaning that maps cleanly to the architectural difference between the old American way and the new Chinese way. And the moment the manager can draw a star and a tree on a napkin and explain the difference to a colleague, he becomes our salesperson — for free, in the elevator, at the country club, on the conference call.
+
+### The two shapes the manager must learn
+
+Every BeeSting episode that touches military or technical content uses the same two shapes, with the same names:
+
+**1. The Star (American shape — the one that just lost):**
+One big brain in the middle, sitting in a building somewhere on the ground. Many small dumb leaves at the edges, each connected back to the brain in the middle by its own single line. The leaves never talk to each other. They only talk to the brain. Kill the brain in the middle, every leaf dies in the same second. This is how every American drone fleet, every American military AI program, every American cloud AI service, and every American centralized data system has been built for decades. **It is one heart with many limbs.** It is the thing that lost over the Pacific three weeks before Part 1 opens, when one Chinese hypersonic missile hit one California data center and every American drone over the ocean lost its mind in the same instant.
+
+**2. The Tree (Chinese / KillerBee shape — the one that just won):**
+Imagine the American military's own command hierarchy. A few generals at the very top, leading the whole operation. Each general has a few colonels under him, leading medium-scale tactical decisions. Each colonel has a few lieutenants under him, leading small-scale decisions. Each lieutenant has a few soldiers under him, doing the actual work — shooting, exploding, photographing, sensing. Now picture every single rank in that hierarchy as a quadcopter: every general, every colonel, every lieutenant, every soldier. There is no human in the chain anywhere. The whole tree is made of small drones with their own brains, talking to each other in a few words at a time, making decisions in lightning speed. **This is many small brains organized into a tree.** It has no single heart to hit, because the leadership is spread across the whole tree, with backup generals and backup colonels scattered hidden among the soldiers.
+
+### How to use the word in scripts
+
+The reporter introduces the buzzword in Act 2 first half, while still in the news-broadcast frame. The reporter is at the scene, stands near the destroyed bunker entrance, has just spoken with FBI counter-terrorism agents on the ground, and brings the explanation to the anchor and the home audience in plain American news voice.
+
+The reporter says **the FBI agents kept using one word — they called this a new topology.** Then he explains that topology just means shape. Then he draws the two shapes (star vs tree) using the American-military-hierarchy analogy, because every American immediately understands generals → colonels → lieutenants → soldiers. Then he lands the punch: the star just lost, the tree just won, and tonight for the first time in history the tree was theirs.
+
+**The word "topology" should appear in every BeeSting episode after Part 1 — at least once per episode**, ideally from the same field-reporter format, so the recurring buzzword becomes a recurring signature of the series. By Part 5 or Part 6, a viewer who has watched the earlier episodes hears the word "topology" and knows what it means before the reporter even explains it. By Part 10, the viewer is repeating it in the elevator. **That is the engine of forwarding velocity.**
+
+Variations on the word are allowed for visual freshness — *"the new topology" / "the tree topology" / "the wrong topology" / "a topology America has never built"* — but the root word stays the same across all 14 episodes.
+
+### Language to use
+
+- *"The FBI agents kept using one word. They called it a new topology."*
+- *"Topology just means shape."*
+- *"The star just lost. The tree just won."*
+- *"America built the wrong topology."*
+- *"The Chinese topology has no heart. The American topology has one heart, in one building, in California."*
+- *"This is what a tree topology looks like when it is made of quadcopters."*
+
+### Language to never use
+
+- ~~"This is a new kind of distributed neural network architecture."~~ (Jargon. The word the manager wants is "topology," not "distributed neural network architecture.")
+- ~~"This is hierarchical swarm intelligence with multi-agent coordination."~~ (Jargon. Same problem.)
+- ~~"The shape of the Chinese system."~~ (Weak. Use the buzzword. The whole point of having a buzzword is that we use it.)
+
+---
+
 ## One-line summary for every script
 
-> **The swarm has many small brains and many backup queens. The brains are all different sizes, so Workers cannot become Queens — only backup Queens can. All the drones look the same from outside, so nobody can tell the leader from a foot soldier. The drones whisper to each other in a few words at a time, so there is no signal to jam and no base to bomb. Every drone is thinking for itself, and the whole swarm changes its plan whenever it hits a wall. The software is free on the internet tonight.**
+> **The swarm has many small brains and many backup queens, scattered hidden across the whole formation. The brains are all different sizes, so Workers cannot become Queens — only the pre-positioned backup Queens can. All the drones look the same from outside, so nobody can tell the leader from a foot soldier, and one grenade cannot kill the leadership because the leadership is not in one place. The drones whisper to each other in a few words at a time, so there is no signal to jam and no base to bomb. Every drone is thinking for itself, and the whole swarm changes its plan whenever it hits a wall. The shape of the system is a tree, not a star. Topology is the word the manager learns to repeat. The software is free on the internet tonight.**
 
 Keep this one-line summary at the top of your head while drafting any BeeSting script. Every sentence you write should be consistent with it.
