@@ -158,7 +158,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 8 | News studio + desk | Environment | 1, 13, 34 | 6 | LOCKED → `elements/08_news_studio.png` |
 | 9 | Exterior bunker entrance | Environment | 5, 15, 16, 24 | 8 | LOCKED → `elements/09_bunker_exterior.png` |
 | 10 | Interior bunker hallway | Environment | 6, 8, 10, 11, 27, 28 | 8 | LOCKED → `elements/10_bunker_interior.png` |
-| 11 | Industrial ventilation shaft | Environment | 7 | 11 | TO DO |
+| 11 | Industrial ventilation shaft | Environment | 7 | 11 | LOCKED → `elements/11_ventilation_shaft.png` |
 | 12 | Bunker sub-level conference room | Environment | 12 | 11 | MERGED into #06 (generals were generated inside the conference room) |
 | 13 | California data center | Environment | 18, 20 | 11 | TO DO |
 | 14 | Pentagon war room | Environment | 26 | 11 | TO DO |
