@@ -383,6 +383,36 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ---
 
+## Element #21 — Phone Showing GitHub Page (strulovitz/MadHoney)
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none
+- **Used in shots:** 32, 33
+- **Scope:** Series-wide (every episode's closing shot references the book)
+- **Notes:** This is the series-wide book plug. Must show a smartphone held in an adult hand, screen facing camera, displaying a clean readable rendering of the `strulovitz/MadHoney` GitHub repository page. The three critical strings the viewer MUST be able to read at a glance are (1) the URL `github.com/strulovitz/MadHoney` in the address bar, (2) `strulovitz / MadHoney` as the repo title, (3) the README heading `MadHoney`. Generative image models are notoriously bad at text legibility — if the strings come out garbled, iterate the prompt or accept that Premiere post-production will have to comp the screen over a phone mockup.
+
+```
+Photorealistic close-up shot of a modern smartphone being held in an adult human hand, showing the screen straight-on to the camera. The phone is a current-generation flat-edge smartphone with a clean black bezel, no visible brand logo, held upright in portrait orientation. The hand is an adult hand with natural skin tone, fingers wrapped naturally around the sides of the phone, filling roughly the bottom third of the frame. The phone fills most of the frame vertically, with the screen taking up the majority of the visible area.
+
+The phone screen displays a clean, realistic rendering of a GitHub repository page as it would appear in a mobile web browser. At the top of the screen, a typical mobile browser address bar shows the URL "github.com/strulovitz/MadHoney" in a simplified way, with a small lock icon next to it indicating HTTPS. Below the address bar, the GitHub page content is visible.
+
+The GitHub page shows the standard GitHub repository layout adapted for mobile: the GitHub logo (a small cat-octopus icon) at the top left, and the repository name "strulovitz / MadHoney" in large text, clearly readable. Below the repository name, a short repository description line reads "MadHoney — a book about the people who sold out humanity to AI, and how to hold them accountable." Below the description, a small row of repository stats: a star icon with a number next to it, a fork icon with a number next to it, a watchers icon with a number. Below those stats, the standard GitHub repository tab bar is visible with tabs labeled "Code", "Issues", "Pull requests", and "README" — the "Code" tab is selected and highlighted.
+
+Below the tab bar, the repository file listing is partially visible: a couple of folder icons with names like "chapters", "research", and "outreach", and a file icon labeled "README.md" next to a short description of the file. Each row has a small timestamp like "2 hours ago" or "yesterday" to its right. At the very bottom of the visible screen area, the start of the rendered README is just beginning to appear, with a large heading that says "MadHoney" in bold.
+
+The overall look of the screen is clean, legible, photorealistic, with the correct white-and-grey GitHub color scheme and standard GitHub typography. All text on the screen is crisp and readable — "github.com/strulovitz/MadHoney" in the address bar, "strulovitz / MadHoney" as the repository title, and "MadHoney" as the README heading are all the key strings the viewer must be able to read at a glance.
+
+The hand holding the phone is relaxed, natural, not strained, just a person holding their phone the way anyone holds their phone while reading. The background beyond the phone and the hand is soft, blurred, neutral — a hint of an indoor environment, maybe a desk surface or a wall in warm-neutral tones, nothing distracting, nothing identifiable, nothing branded.
+
+Lighting is soft and even, indoor daylight from an unseen window, warm-neutral color temperature. The phone screen glows with its own light, slightly brighter than the ambient — the way a real phone screen looks when photographed. A gentle reflection on the glass of the screen is barely visible but does not obscure any text.
+
+Photorealistic, real smartphone detail, real human hand texture, real screen pixel density, real soft indoor light. Not stylized, not cartoon, not Pixar, not anime, not a 3D render, not a UI mockup. The look of a real photograph of a person holding their phone and showing you a GitHub page — the kind of "look at this repo" shot that ends a tech news article or a closing credit of a documentary.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #20 — Raspberry Pi + Small Drone (scale shot) — V3 LOCKED
 
 - **Status:** LOCKED → `elements/20_pi_and_drone.png` (locked on V3, 3 iterations)
