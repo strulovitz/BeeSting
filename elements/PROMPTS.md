@@ -355,6 +355,32 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Rules for future sessions working on this file
 
+## Element #13 — California Data Center (intact state)
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none (this element will BE the Omni Reference for the burning-state variant used in Shot 20)
+- **Used in shots:** 18 (intact), 20 (burning — generated later as a variant using this locked image as Omni Reference)
+- **Scope:** Part 1 — may reappear in later episodes
+- **Notes:** Single hyperscale-data-center element that needs to work in two states. This prompt locks the intact "before" state for Shot 18. The burning version for Shot 20 will be a separate OpenArt pass using this locked PNG as Omni Reference with an edit prompt adding fire/smoke damage. Must read as a real anonymous Central Valley data center — windowless, beige-grey concrete, hundreds of HVAC units lined up on the roof (this is the defining visual signature), chain-link fence with barbed wire, backup generators, dry California hills in the background. No branding, no logos, no company name. No people, no vehicles.
+
+```
+Photorealistic wide exterior shot of a real American hyperscale data center building in rural Northern California, photographed in the soft golden light of early morning, roughly 45 minutes after sunrise. The building is a long, low, flat-roofed industrial structure, hundreds of feet long, finished in plain beige-grey concrete panels and corrugated metal, completely windowless along its visible length. The look is utilitarian and anonymous, like a giant warehouse with no branding, no logos, no signs, no company name anywhere on it. This is the kind of facility big tech companies build out in the California valleys specifically so nobody pays attention to them.
+
+Running along the entire length of the roof are rows and rows of large commercial HVAC units — industrial rooftop cooling equipment, rectangular metal boxes in dull grey and off-white, lined up in neat parallel ranks. The HVAC units are the defining visual feature of the building: dozens of them, identical, clearly visible from the camera's slightly elevated three-quarter angle, a mechanical landscape on top of the roof. Thick insulated pipes and bundled cable trays run between some of the units. A few thin chimneys or exhaust stacks rise above the roofline.
+
+The building sits in a wide empty concrete and gravel lot, surrounded by a low chain-link perimeter fence topped with three strands of barbed wire. Inside the fence line are a couple of large outdoor electrical transformers, a row of backup diesel generators in weatherproof enclosures, and industrial-grade cable runs going into the building wall. Outside the fence, beyond the lot, the California landscape: dry golden-brown grass, a few scattered oak trees, low rolling hills in the distance fading into soft atmospheric haze. The sky is a pale clean blue with maybe one or two thin wisps of morning cloud.
+
+The camera position is a slightly elevated three-quarter angle, roughly 20 degrees above horizontal, showing both the front facade and one long side of the building, and giving a clear view of the HVAC-covered roof. The building fills most of the frame horizontally, with a generous amount of dry California hillside visible behind it and a strip of lot and fence in the foreground.
+
+The lighting is early-morning golden hour, soft and warm, coming from roughly behind the camera's left shoulder, casting long gentle shadows from the HVAC units across the roof and from the building itself across the lot. The whole scene feels quiet, empty, anonymous, nothing is happening yet. No people in the frame, no vehicles in the lot, no activity on the roof, no smoke, no fire, no damage. This is the "before" state — intact, clean, functional, unremarkable, the way it looked for every single day of its operational life right up until the moment the drones arrived.
+
+Photorealistic, real concrete panel texture, real HVAC unit detail, real California morning light, real atmospheric perspective. Wide cinematic framing. Not stylized. Not cartoon. Not Pixar. Not anime. Not a 3D render. Not a video game environment. The look of a real satellite-imagery or drone-photography shot of an actual operating hyperscale data center in the Central Valley.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #11 — Industrial Ventilation Shaft
 
 - **Status:** LOCKED → `elements/11_ventilation_shaft.png` (locked on first generation, 1 iteration)
