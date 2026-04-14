@@ -383,9 +383,37 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ---
 
+## Element #13b — California Data Center (BURNING variant, Shot 20)
+
+- **Status:** DRAFT — ready for OpenArt Omni Reference edit pass
+- **Omni Reference:** `elements/13_data_center.png` (the intact locked version)
+- **Used in shots:** 20
+- **Scope:** Part 1 — variant of #13
+- **OpenArt workflow:** different from the plain-image-mode pasting we've been doing. Upload `elements/13_data_center.png` as the Omni Reference image in OpenArt Image mode, then paste the prompt below. The prompt is written as a transformation instruction that tells the model to keep everything structural from the reference and only change the state of the building and the atmosphere.
+
+```
+Transform the referenced California hyperscale data center into the same exact building on fire after the drone attack. Keep the camera angle, the building shape, the long low windowless beige-grey concrete facade, the rows of HVAC units on the roof, the chain-link fence with barbed wire, the backup generators along the side, the dry golden California hills in the background, and the composition of the frame all identical to the reference image. Do not move the camera, do not change the architecture, do not change the landscape.
+
+Only change the state of the building and the atmosphere. The data center is now heavily damaged and burning. Thick black smoke billows up from multiple points along the roof where the rows of HVAC units used to be, rising several hundred feet into the sky and drifting sideways in the morning wind. Where the HVAC units were, there are now irregular gaps and twisted metal wreckage: some units are crumpled and blackened in place, some are missing entirely, leaving jagged holes in the roof with flames visible inside, a few have collapsed through into the interior. Bright orange and yellow fire glows through the roof openings and in several places licks up into the smoke columns.
+
+The exterior walls of the building have visible impact damage: scorch marks radiating outward from the roof edge, a few large blackened holes punched into the concrete panels, cracked and crumbling sections with exposed rebar. Parts of the corrugated metal cladding have peeled and curled from the heat. Debris is scattered on the ground in the perimeter lot around the building: twisted metal panels, chunks of concrete, charred wreckage of the HVAC units that fell off the roof.
+
+The backup diesel generators along the side of the building are also burning, with their own smaller columns of black smoke. One of the outdoor electrical transformers has exploded and is sparking, with a plume of grey-black smoke rising from it. The chain-link fence is partially knocked down on the near side where debris blew out from the blast.
+
+The atmosphere has changed. The sky that was clean pale blue in the reference is now dirty — the foreground half of the sky is dense black and grey smoke from the building's fire, while the far background sky is still the same pale blue fading into atmospheric haze over the dry California hills. The golden-hour morning light is now filtered through the smoke, giving the scene a dirty orange-brown cast on the side facing the fire, with the far hills still catching the original clean morning light. Ash is faintly visible drifting in the air.
+
+Still no people, still no vehicles — the attack just happened, first responders have not arrived yet. The building is abandoned, burning, and anonymous. No brand logos, no signs, no company name.
+
+Photorealistic, real fire and smoke physics, real scorched concrete, real twisted metal wreckage, real atmospheric contamination. Wide cinematic framing, same composition as the reference image, same camera angle. Not stylized, not cartoon, not Pixar, not anime, not a video game render. The look of a real news-broadcast aerial photograph of a real industrial facility in the immediate aftermath of a real attack.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #13 — California Data Center (intact state)
 
-- **Status:** LOCKED → `elements/13_data_center.png` (locked on first generation, 1 iteration; burning variant for Shot 20 still pending, will reuse this as Omni Reference)
+- **Status:** LOCKED → `elements/13_data_center.png` (locked on first generation, 1 iteration; burning variant #13b drafted above)
 - **Omni Reference:** none (this element will BE the Omni Reference for the burning-state variant used in Shot 20)
 - **Used in shots:** 18 (intact), 20 (burning — generated later as a variant using this locked image as Omni Reference)
 - **Scope:** Part 1 — may reappear in later episodes
