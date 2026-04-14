@@ -355,6 +355,34 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Rules for future sessions working on this file
 
+## Element #11 — Industrial Ventilation Shaft
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none
+- **Used in shots:** 7 (drones entering the bunker through the vent)
+- **Scope:** Part 1 only, one-shot usage
+- **Notes:** This is the moment just before the drones breach. Empty shaft, no drones visible yet. Must feel like it connects to Element #10 (interior bunker hallway) — same cold industrial palette, same emergency-red bleed at the distant end. Long tunnel perspective, strong depth, vanishing point centered.
+
+```
+Photorealistic wide shot of the interior of a large industrial ventilation shaft inside an American hardened military bunker, seen from inside the shaft looking along its length. The shaft is a rectangular metal duct, roughly two meters wide and two meters tall, made of thick riveted galvanized steel panels with faint seams and bolt lines where the panels join. The inside walls are dull matte grey with a faint bluish tint from old paint, scuffed and lightly scratched in places from decades of maintenance, with thin streaks of rust near the seams. The metal surfaces catch light in a dull, matte, industrial way, not shiny, not polished.
+
+Running along the top of the shaft at regular intervals are small recessed service lights behind metal grilles, emitting a cold blue-white glow that creates long thin parallel highlights down the length of the duct and deep shadows in the corners. The lighting feels cold, emergency, functional, the kind of light a maintenance crew would install for once-a-decade access, not for people to be comfortable in.
+
+The camera is positioned inside the shaft, roughly centered, looking straight down its length. The shaft stretches off into the distance, fading into darker shadow, giving a strong sense of depth and tunnel-like perspective. The vanishing point is in the center of the frame. The floor of the shaft is the same riveted metal as the walls, slightly dusty, with faint scuff marks from equipment that has been dragged through over the years.
+
+At the far end of the shaft, partially silhouetted against the faint light from the next section, the camera sees the dim outline of a heavy metal ventilation grate — a vertical array of thick horizontal metal bars or louvered slats set into a steel frame, the kind of grate that separates shaft segments in a secure facility. Behind or around the grate, very faint red emergency lighting bleeds in from the room on the other side, giving the grate and the surrounding darkness a subtle red edge.
+
+Small details reinforce the military-industrial feel: a stenciled yellow-and-black warning label on one wall panel with unreadable small text, an inspection sticker near a seam, a thin cable run pinned along the upper corner of one wall. Nothing in the shaft is cartoon or stylized, everything is utilitarian, built for function, built for decades of quiet service.
+
+No people, no drones, no insects, no visible machinery in the frame. Just the empty shaft, the cold overhead lights, the distant grate, and the bleed of red emergency light around it. This is the moment just before something enters, not the moment of entry.
+
+Photorealistic wide shot, cinematic framing, deep focus, the full length of the shaft visible from near-camera to the distant grate. Real metal texture, real dust, real industrial lighting, real long-exposure depth. Not stylized. Not cartoon. Not Pixar. Not anime. Not a video game render. The look of a still frame from a grounded cinematic thriller set inside a real American military bunker.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #22 — Classified Document with WRONG TOPOLOGY stamp
 
 - **Status:** LOCKED → `elements/22_classified_document.png`
