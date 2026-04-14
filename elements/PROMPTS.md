@@ -383,6 +383,32 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ---
 
+## Element #20 — Raspberry Pi + Small Drone (scale shot)
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none
+- **Used in shots:** 31
+- **Scope:** Part 1 only, one-shot usage
+- **Notes:** The "this is what runs the swarm" scale reveal. Must show both objects side-by-side on an open human palm so the viewer immediately understands that a tiny cheap computer and a tiny cheap drone are the building blocks of the thing that just burned down the data center. The scale of hand vs Pi vs drone is the whole point — they should all be credible real-world sizes.
+
+```
+Photorealistic close-up overhead shot of a single real Raspberry Pi 5 single-board computer resting flat on the open palm of an adult human hand, with a small quadcopter drone also resting next to it on the same palm for scale comparison. The hand is an open, relaxed, palm-up adult hand with natural skin tone, fingers slightly spread, filling most of the frame. The camera is positioned almost directly above the hand, looking down, so the Pi and the drone are seen from a clear top-down perspective.
+
+The Raspberry Pi is the unmistakable real product: a small green printed circuit board roughly the size of a credit card (about 85 by 56 millimeters), covered in real surface-mount components — black square microchips, silver metal USB ports in a row along one edge, a stacked double ethernet and USB-C connector cluster, a black HDMI port, a 40-pin black GPIO header running along the long edge, tiny silver capacitors and resistors dotted across the green PCB. Faint white silkscreen text on the green board. The board sits flat on the palm, fully visible, recognizable at a glance as a Raspberry Pi to anyone who has ever seen one.
+
+Next to the Pi on the same open palm, resting on the fingers, is a small matte black quadcopter drone — four rotor arms arranged in an X, four small black plastic propellers, a central body about the size of a walnut with a tiny camera lens on the front, no visible branding or markings, autonomous/military look, NOT a consumer toy drone with colorful decals. The drone is visibly small — smaller than the Raspberry Pi or roughly the same size — so the viewer immediately understands the scale: this tiny drone is the same rough physical scale as a cheap hobbyist computer.
+
+Both objects are presented side by side on the same palm, the Pi on one side of the hand and the drone on the other, both sharply in focus, both clearly showing their surface detail, both casting soft shadows into the creases of the palm.
+
+Lighting is soft and even, indoor daylight coming from an unseen window above and to the side, warm neutral color temperature, no harsh shadows. The background beyond the edge of the hand is soft and out of focus — a hint of a plain neutral desk surface in cool grey or warm wood, nothing distracting, nothing branded, nothing identifiable. No other objects in the frame.
+
+Photorealistic, real macro photography feel, shallow-ish depth of field keeping both objects sharp while the background softens, real human skin texture, real Raspberry Pi PCB detail, real drone plastic and carbon, real soft indoor light. Square aspect ratio, the hand fills most of the frame. Not stylized, not cartoon, not Pixar, not anime, not a 3D product render. The look of a real high-quality product-photography close-up of the kind that appears in tech journalism articles about edge computing and autonomous systems.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #13b — California Data Center (BURNING variant, Shot 20)
 
 - **Status:** LOCKED → `elements/13b_data_center_burning.png` (locked on first generation, 1 iteration; generated back-to-back with #13 intact per feedback_related_elements_back_to_back rule)
