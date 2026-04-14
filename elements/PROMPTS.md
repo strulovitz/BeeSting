@@ -355,6 +355,34 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Rules for future sessions working on this file
 
+## Element #14 — Pentagon War Room
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none
+- **Used in shots:** 26
+- **Scope:** Part 1 only, one-shot usage
+- **Notes:** Real Pentagon command and control room aesthetic — not Hollywood war room, not sci-fi. Massive video wall dominating the back of the room, tiered operator workstations, uniformed officers seen from behind. Should feel like a real declassified photograph of a command center during a major incident, not an action movie set.
+
+```
+Photorealistic wide interior shot of a real American Pentagon-style military command and control room during an active crisis, seen from the back of the room looking forward toward a massive wall of monitors. The room is a large rectangular tiered operations center, the kind of hardened underground command facility the US military actually uses — not a Hollywood movie set, not a sci-fi war room, a real functional space.
+
+The far wall, directly across from the camera, is dominated by an enormous video wall: a grid of dozens of large flat-panel monitors tiled seamlessly together, twenty to thirty feet wide and two stories tall. The screens display a mix of real-looking operational content: a large geopolitical map of the continental United States with red warning markers scattered across it, several feeds showing satellite or drone imagery of industrial-looking targets, a couple of screens showing scrolling data dashboards and status readouts, one screen showing a live news broadcast with a "BREAKING" chyron at the bottom. The monitor wall is the brightest thing in the room and it casts a cool blue-white glow across the entire space.
+
+In front of the monitor wall, arranged in tiered rows like an amphitheater descending toward the screens, are rows of dark grey operator workstations — modular desks with multiple smaller monitors, keyboards, headsets, phone handsets, and low task lamps. Each workstation has a uniformed American military officer seated at it, wearing current-era US military service dress in muted tones — Army, Navy, Air Force, Space Force — visible from behind and in three-quarter profile, leaning forward intently, clearly working a live crisis. Some officers are standing, some are talking on phones, some are gesturing at their screens. The atmosphere is tense but disciplined, not panicked, not chaotic.
+
+The ceiling is high and functional, with recessed architectural lighting and exposed cable trays running overhead. The side walls are dark grey acoustic panels with a few smaller secondary displays showing regional maps and clocks labeled with timezones (Washington DC, London, Tokyo, Moscow). The floor is dark industrial carpet. American flags stand on low flag stands in the corners of the room, partially visible at the edges of the frame.
+
+Lighting is the cold blue-white wash from the giant monitor wall dominating the back of the room, mixed with warmer task-light pools at each workstation and soft cool ambient ceiling light. The color palette is blue-grey and slate, with accents of warm amber from the task lamps and hot red from the warning markers on the main map. The overall feel is exactly what you would expect from a real declassified photograph of a Pentagon command center during a major national incident.
+
+The camera is positioned at the back of the room, slightly elevated, looking forward and slightly down, so the tiered workstations descend into the frame and the camera has a clear view of the big monitor wall beyond them. Wide cinematic framing, deep focus, the full length of the room visible from the near operator seats all the way to the video wall.
+
+No faces visible in focus — officers are seen from behind or at three-quarter profile, their identities not the subject, the room itself is the subject. No brand logos on the monitors, no real news network names, no fictional flags, just generic American military context. Photorealistic, real monitor glow, real uniform fabric, real task-light pools, real architectural depth. Not stylized. Not cartoon. Not Pixar. Not anime. Not a video game cutscene. The look of a real still frame from inside a real Pentagon command and control room during a real crisis.
+
+1:1 square aspect ratio.
+```
+
+---
+
 ## Element #13 — California Data Center (intact state)
 
 - **Status:** LOCKED → `elements/13_data_center.png` (locked on first generation, 1 iteration; burning variant for Shot 20 still pending, will reuse this as Omni Reference)
