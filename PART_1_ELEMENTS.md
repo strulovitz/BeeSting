@@ -160,7 +160,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 10 | Interior bunker hallway | Environment | 6, 8, 10, 11, 27, 28 | 8 | LOCKED → `elements/10_bunker_interior.png` |
 | 11 | Industrial ventilation shaft | Environment | 7 | 11 | LOCKED → `elements/11_ventilation_shaft.png` |
 | 12 | Bunker sub-level conference room | Environment | 12 | 11 | MERGED into #06 (generals were generated inside the conference room) |
-| 13 | California data center | Environment | 18, 20 | 11 | TO DO |
+| 13 | California data center | Environment | 18, 20 | 11 | LOCKED (intact) → `elements/13_data_center.png`; burning variant for Shot 20 pending (use as Omni Reference) |
 | 14 | Pentagon war room | Environment | 26 | 11 | TO DO |
 | 15 | Fight space (series-wide) | Environment | 9, 19, 29 | 5 | LOCKED → `elements/15_fight_space.png` |
 | 16 | Ballistic missile | Prop | 2, 3, 4 | 9 | LOCKED → `elements/16_ballistic_missile.png` |

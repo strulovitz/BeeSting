@@ -357,7 +357,7 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Element #13 — California Data Center (intact state)
 
-- **Status:** DRAFT — ready to paste into OpenArt
+- **Status:** LOCKED → `elements/13_data_center.png` (locked on first generation, 1 iteration; burning variant for Shot 20 still pending, will reuse this as Omni Reference)
 - **Omni Reference:** none (this element will BE the Omni Reference for the burning-state variant used in Shot 20)
 - **Used in shots:** 18 (intact), 20 (burning — generated later as a variant using this locked image as Omni Reference)
 - **Scope:** Part 1 — may reappear in later episodes
