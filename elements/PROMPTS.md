@@ -357,7 +357,7 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Element #14 — Pentagon War Room
 
-- **Status:** DRAFT — ready to paste into OpenArt
+- **Status:** LOCKED → `elements/14_pentagon_war_room.png` (locked on first generation, 1 iteration)
 - **Omni Reference:** none
 - **Used in shots:** 26
 - **Scope:** Part 1 only, one-shot usage
