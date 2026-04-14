@@ -383,26 +383,38 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ---
 
-## Element #20 — Raspberry Pi + Small Drone (scale shot)
+## Element #20 — Raspberry Pi + Small Drone (scale shot) — V2
 
-- **Status:** DRAFT — ready to paste into OpenArt
+- **Status:** DRAFT V2 — paste into OpenArt (V1 was wrong scale, OpenArt shrunk both objects)
+- **V1 failure mode:** The first attempt used a "both objects on one palm" composition which forced OpenArt to pattern-match to "tiny toy drone on palm" and shrink both the Pi and the drone to toy-drawer size (drone was 1/20 of real size, Pi was ~half real size).
+- **V2 fix:** Composition changed. Drone sits directly on top of the Pi (so "same footprint" is forced by the stacking), and an adult fingertip enters from the side as the unmistakable real-world scale anchor. No palm, no freedom to shrink.
 - **Omni Reference:** none
 - **Used in shots:** 31
 - **Scope:** Part 1 only, one-shot usage
 - **Notes:** The "this is what runs the swarm" scale reveal. Must show both objects side-by-side on an open human palm so the viewer immediately understands that a tiny cheap computer and a tiny cheap drone are the building blocks of the thing that just burned down the data center. The scale of hand vs Pi vs drone is the whole point — they should all be credible real-world sizes.
 
+**V1 prompt (SUPERSEDED — produced wrong scale):**
+
 ```
-Photorealistic close-up overhead shot of a single real Raspberry Pi 5 single-board computer resting flat on the open palm of an adult human hand, with a small quadcopter drone also resting next to it on the same palm for scale comparison. The hand is an open, relaxed, palm-up adult hand with natural skin tone, fingers slightly spread, filling most of the frame. The camera is positioned almost directly above the hand, looking down, so the Pi and the drone are seen from a clear top-down perspective.
+Photorealistic close-up overhead shot of a single real Raspberry Pi 5 single-board computer resting flat on the open palm of an adult human hand, with a small quadcopter drone also resting next to it on the same palm for scale comparison. [...full V1 prompt omitted for brevity, V1 failed because the "both on one palm" composition let OpenArt shrink both objects to toy size...]
+```
 
-The Raspberry Pi is the unmistakable real product: a small green printed circuit board roughly the size of a credit card (about 85 by 56 millimeters), covered in real surface-mount components — black square microchips, silver metal USB ports in a row along one edge, a stacked double ethernet and USB-C connector cluster, a black HDMI port, a 40-pin black GPIO header running along the long edge, tiny silver capacitors and resistors dotted across the green PCB. Faint white silkscreen text on the green board. The board sits flat on the palm, fully visible, recognizable at a glance as a Raspberry Pi to anyone who has ever seen one.
+**V2 prompt (CURRENT):**
 
-Next to the Pi on the same open palm, resting on the fingers, is a small matte black quadcopter drone — four rotor arms arranged in an X, four small black plastic propellers, a central body about the size of a walnut with a tiny camera lens on the front, no visible branding or markings, autonomous/military look, NOT a consumer toy drone with colorful decals. The drone is visibly small — smaller than the Raspberry Pi or roughly the same size — so the viewer immediately understands the scale: this tiny drone is the same rough physical scale as a cheap hobbyist computer.
+```
+Photorealistic overhead top-down close-up shot of a real Raspberry Pi 5 single-board computer lying flat on a neutral matte grey desk surface, with a small matte black quadcopter drone resting directly on top of it, centered on the board. The camera is positioned straight above, looking down. The Raspberry Pi fills most of the center of the frame.
 
-Both objects are presented side by side on the same palm, the Pi on one side of the hand and the drone on the other, both sharply in focus, both clearly showing their surface detail, both casting soft shadows into the creases of the palm.
+The Raspberry Pi is shown at its real, correct, physical size: a green printed circuit board approximately 85 millimeters long by 56 millimeters wide, the exact size of a standard credit card. It is fully visible at the edges — you can clearly see the row of silver USB ports along one edge, the stacked double ethernet and USB-C connector cluster, the black HDMI port, the 40-pin black GPIO header running along the long edge, and the black square microchips and tiny silver surface-mount components scattered across the green PCB. The board is recognizable at a glance as a Raspberry Pi to anyone who has ever seen one.
 
-Lighting is soft and even, indoor daylight coming from an unseen window above and to the side, warm neutral color temperature, no harsh shadows. The background beyond the edge of the hand is soft and out of focus — a hint of a plain neutral desk surface in cool grey or warm wood, nothing distracting, nothing branded, nothing identifiable. No other objects in the frame.
+Sitting directly on top of the Pi, centered on its surface, is a small matte black quadcopter drone. This drone is small but NOT tiny — its overall rotor-tip to rotor-tip span is approximately the same width as the Raspberry Pi underneath it, or very slightly larger, so the drone almost exactly overlaps the Pi when seen from directly above. Four thin matte-black carbon-fiber rotor arms arranged in an X, four small matte-black propellers at the ends of the arms, a central body about the size of a large walnut with a tiny black camera lens on the front, no visible branding, no colorful decals, no consumer-toy look — this is an autonomous military-style drone, all matte black, functional. The drone's footprint closely matches the Pi's footprint, making it visually and instantly obvious to the viewer that these two objects are roughly the same physical size.
 
-Photorealistic, real macro photography feel, shallow-ish depth of field keeping both objects sharp while the background softens, real human skin texture, real Raspberry Pi PCB detail, real drone plastic and carbon, real soft indoor light. Square aspect ratio, the hand fills most of the frame. Not stylized, not cartoon, not Pixar, not anime, not a 3D product render. The look of a real high-quality product-photography close-up of the kind that appears in tech journalism articles about edge computing and autonomous systems.
+Entering the frame from the right side is the tip of an adult human index finger — just the last one or two segments of the finger, natural skin tone, relaxed, extended toward the drone, pointing at it but not touching it, the fingertip hovering roughly two centimeters away from the nearest rotor. The finger is the unmistakable real-world scale anchor: the viewer instantly understands that both the Pi and the drone are small enough to hold in one hand, but also that they are NOT toy-drawer tiny — the Pi is credit-card sized, the drone is about the same, and the fingertip next to them is obviously a real adult finger at real adult scale.
+
+The desk surface underneath is a neutral matte cool grey, slightly textured, softly lit, no reflections, no distractions, no other objects anywhere in the frame. No keyboard, no coffee cup, no phone, no tools, no cables, nothing else — just the Pi, the drone sitting on the Pi, and the fingertip entering from the right edge.
+
+Lighting is soft and even, indoor daylight from an unseen window above and slightly to the left, warm-neutral color temperature, gentle shadows from the drone onto the Pi's surface and from both onto the desk. No harsh highlights, no dramatic shadows, the kind of light you would use for a real tech product photograph.
+
+Photorealistic, real macro photography feel, everything sharply in focus — the Pi, the drone, and the fingertip all clearly detailed. Real PCB green, real drone matte black, real skin texture, real soft indoor light. Not stylized, not cartoon, not Pixar, not anime, not a 3D product render. The look of a real high-quality product-photography close-up of the kind that appears in a tech journalism article about autonomous drone hardware and edge computing. The single most important thing is the scale: the Raspberry Pi is credit-card sized, the drone is approximately the same size as the Pi, and the human fingertip entering from the side confirms both are real objects at real human scale — not toys, not miniatures.
 
 1:1 square aspect ratio.
 ```
