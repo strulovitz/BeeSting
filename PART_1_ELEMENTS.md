@@ -166,7 +166,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 16 | Ballistic missile | Prop | 2, 3, 4 | 9 | LOCKED → `elements/16_ballistic_missile.png` |
 | 17 | Worker drone | Prop | 3, 5, 7, 8, 10, 11, 23, 28 | 2 | LOCKED → `elements/17_worker_drone.png` |
 | 19 | FBI clipboard + paper + pen | Prop | 17, 21 | 10 | LOCKED → `elements/19_fbi_clipboard.png` |
-| 20 | Raspberry Pi + small drone | Prop | 31 | 11 | TO DO |
+| 20 | Raspberry Pi + small drone | Prop | 31 | 11 | LOCKED → `elements/20_pi_and_drone.png` |
 | 21 | Phone showing GitHub page | Prop | 32, 33 | 11 | TO DO |
 | 22 | Classified document w/ WRONG TOPOLOGY stamp | Prop | 30 | 11 | LOCKED → `elements/22_classified_document.png` |
 

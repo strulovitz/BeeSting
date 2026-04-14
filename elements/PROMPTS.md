@@ -383,9 +383,9 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ---
 
-## Element #20 — Raspberry Pi + Small Drone (scale shot) — V2
+## Element #20 — Raspberry Pi + Small Drone (scale shot) — V3 LOCKED
 
-- **Status:** DRAFT V2 — paste into OpenArt (V1 was wrong scale, OpenArt shrunk both objects)
+- **Status:** LOCKED → `elements/20_pi_and_drone.png` (locked on V3, 3 iterations)
 - **V1 failure mode:** The first attempt used a "both objects on one palm" composition which forced OpenArt to pattern-match to "tiny toy drone on palm" and shrink both the Pi and the drone to toy-drawer size (drone was 1/20 of real size, Pi was ~half real size).
 - **V2 fix:** Composition changed. Drone sits directly on top of the Pi (so "same footprint" is forced by the stacking), and an adult fingertip enters from the side as the unmistakable real-world scale anchor. No palm, no freedom to shrink.
 - **Omni Reference:** none
