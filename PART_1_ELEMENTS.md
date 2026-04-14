@@ -168,7 +168,7 @@ Graphic elements (#23, #24, #25) are designed at assembly time in Adobe Premiere
 | 19 | FBI clipboard + paper + pen | Prop | 17, 21 | 10 | LOCKED → `elements/19_fbi_clipboard.png` |
 | 20 | Raspberry Pi + small drone | Prop | 31 | 11 | TO DO |
 | 21 | Phone showing GitHub page | Prop | 32, 33 | 11 | TO DO |
-| 22 | Classified document w/ WRONG TOPOLOGY stamp | Prop | 30 | 11 | TO DO |
+| 22 | Classified document w/ WRONG TOPOLOGY stamp | Prop | 30 | 11 | LOCKED → `elements/22_classified_document.png` |
 
 Update this table as each element is locked. Status options: `TO DO` → `GENERATING` → `LOCKED` → file path to the saved reference image.
 

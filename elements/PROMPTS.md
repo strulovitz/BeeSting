@@ -357,11 +357,11 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Element #22 — Classified Document with WRONG TOPOLOGY stamp
 
-- **Status:** DRAFT — ready to paste into OpenArt
+- **Status:** LOCKED → `elements/22_classified_document.png`
 - **Omni Reference:** none
 - **Used in shots:** 30 (the canonical buzzword punchline — TOPOLOGY)
 - **Scope:** Part 1 only, one-shot usage
-- **Notes:** This is the visual punchline of the series' canonical buzzword. The star topology diagram must be instantly recognizable (one central hub, multiple spokes) because that IS the thing Nir is calling wrong. The red "WRONG TOPOLOGY" stamp must be legible — that is the whole joke.
+- **Notes:** This is the visual punchline of the series' canonical buzzword. The star topology diagram must be instantly recognizable (one central hub, multiple spokes) because that IS the thing Nir is calling wrong. The red "WRONG TOPOLOGY" stamp must be legible — that is the whole joke. Locked on first generation, 1 iteration.
 
 ```
 Photorealistic overhead top-down close-up of a single page of a real American government classified document, lying flat on a dark neutral desk surface. The paper is standard US Letter size, slightly off-white, very faintly yellowed, with the subtle fiber texture of real printer paper, crisp edges, minimal wrinkle.
