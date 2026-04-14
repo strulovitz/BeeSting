@@ -385,7 +385,7 @@ No faces visible in focus — officers are seen from behind or at three-quarter 
 
 ## Element #13b — California Data Center (BURNING variant, Shot 20)
 
-- **Status:** DRAFT — ready for OpenArt Omni Reference edit pass
+- **Status:** LOCKED → `elements/13b_data_center_burning.png` (locked on first generation, 1 iteration; generated back-to-back with #13 intact per feedback_related_elements_back_to_back rule)
 - **Omni Reference:** `elements/13_data_center.png` (the intact locked version)
 - **Used in shots:** 20
 - **Scope:** Part 1 — variant of #13
