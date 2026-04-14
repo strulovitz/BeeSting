@@ -355,6 +355,34 @@ Prompts for these six will be added to this file as they are generated in later 
 
 ## Rules for future sessions working on this file
 
+## Element #22 — Classified Document with WRONG TOPOLOGY stamp
+
+- **Status:** DRAFT — ready to paste into OpenArt
+- **Omni Reference:** none
+- **Used in shots:** 30 (the canonical buzzword punchline — TOPOLOGY)
+- **Scope:** Part 1 only, one-shot usage
+- **Notes:** This is the visual punchline of the series' canonical buzzword. The star topology diagram must be instantly recognizable (one central hub, multiple spokes) because that IS the thing Nir is calling wrong. The red "WRONG TOPOLOGY" stamp must be legible — that is the whole joke.
+
+```
+Photorealistic overhead top-down close-up of a single page of a real American government classified document, lying flat on a dark neutral desk surface. The paper is standard US Letter size, slightly off-white, very faintly yellowed, with the subtle fiber texture of real printer paper, crisp edges, minimal wrinkle.
+
+The page has a thick solid red banner stripe running across the very top of the paper and another identical red banner stripe running across the very bottom, in the unmistakable style of a real declassified US government classified document. In bold white sans-serif capital letters centered inside both the top and bottom red banners, the word "CLASSIFIED" is printed. These banners are the standard US government classification marking format — not stylized, not cartoon, not fictional — the exact format a real leaked Pentagon document would show.
+
+Below the top red banner, a bold black sans-serif title is printed in large capital letters across the width of the page: "U.S. MILITARY AI ARCHITECTURE". Directly beneath the title, a smaller subtitle line reads "CLASSIFIED — INTERNAL USE ONLY". No real agency name, no real seal, no real insignia — just the generic classified-document look.
+
+Below the title, occupying most of the page, is a clean technical architecture diagram drawn in thin black lines on the white paper. The diagram is unmistakably a STAR TOPOLOGY: one single large labeled node in the exact center of the diagram, labeled "CENTRAL MODEL", drawn as a circle or rounded rectangle. Radiating out from this central node are six to eight straight thin black lines, each ending in a smaller labeled peripheral node drawn as a smaller circle or rounded rectangle, positioned in a rough circle around the center. The peripheral nodes have short generic technical labels like "SENSOR 1", "SENSOR 2", "FIELD UNIT", "COMMAND", "LOGISTICS", "INTEL", "ANALYSIS", "TARGETING". Every single line connects ONLY to the center — no peripheral node is connected to any other peripheral node. This is a pure textbook star topology and it must read as one at a glance.
+
+Slammed diagonally across the diagram, rotated roughly 15 to 20 degrees counter-clockwise, is a huge red rubber-stamp imprint of the words "WRONG TOPOLOGY" in bold blocky capital sans-serif letters. The stamp is saturated red ink, with authentic uneven ink coverage — slightly heavier on one side, slightly broken and patchy on the other, small spots where the ink did not fully transfer, faint red bleed at the edges of each letter. The stamp is large — it spans roughly two-thirds the width of the diagram — and it clearly overlaps and partially obscures the center node and several of the spokes, as if someone slammed it down furious and off-center. The "WRONG TOPOLOGY" stamp text is completely legible despite the ink irregularities.
+
+Lighting is even, slightly cool, from above and slightly to the side, the way a real evidence photograph or an FBI case-file scan would be lit. A soft shadow is cast by the paper onto the dark desk below. The dark desk surface is just barely visible at the edges of the frame, slightly out of focus. No other objects in the frame — no coffee cup, no pen, no folder, no hand, no phone, no badge. Just the one classified document page, flat, overhead, isolated.
+
+Overhead top-down camera angle, square aspect ratio, the document fills almost the entire frame with a small amount of dark desk visible around it. Photorealistic, real printer paper fiber, real printer toner, real red rubber stamp ink texture, real paper shadow. The look of a real leaked classified document photograph of the kind that would appear on the front page of a newspaper. Not stylized. Not cartoon. Not Pixar. Not anime. Not a vector graphic. Not a PowerPoint slide. Not a UI mockup. A real photographed printed page.
+
+1:1 square aspect ratio.
+```
+
+---
+
 1. **Every new element prompt gets added to this file as it is generated, in the same format as the ones above** — element number, status, Omni Reference, shots, scope, any iteration notes, and the full prompt in a code block.
 2. **Never delete iteration history.** If an element is regenerated later, keep the old prompt labeled SUPERSEDED and add the new one — future sessions need to know what did NOT work.
 3. **Cross-reference `PART_1_ELEMENTS.md` status tracker** — when you add a prompt here, also update the status in that file. The two files stay in sync.
