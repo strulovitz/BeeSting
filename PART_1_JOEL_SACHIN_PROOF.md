@@ -6,6 +6,85 @@
 
 ---
 
+## 0.5. LOCKED DECISIONS — 2026-04-15 evening
+
+Nir's answers to the open questions from §10 are now locked. This section overrides anything later in the document that conflicts with it.
+
+**Q8 — Part 1 topic:** 🔒 **Hive Drones.** Reason: drones are the single most tangible fear for the average American secretary. Pharma/Wall Street create schadenfreude, not fear. "A drone can kill me tomorrow" is visceral; "a hedge fund lost money" is satisfying. Lead with the fear she is already half-carrying.
+
+**Q1 — Strike target:** 🔒 **A generic American military command bunker under a mountain.** NOT a named bunker (Cheyenne Mountain / NORAD). Visual evokes Cheyenne without naming it — viewer's brain fills in the blank, fact-checker has nothing to attack. Reason: the innermost sanctum of American security theology. Pearl Harbor hit the outskirts, 9/11 hit exposed civilians and the Pentagon's administrative wing. **This hits where the "fathers" live.** "We killed your fathers where you feel safest" is the most violating image of American security available — stronger than Pearl Harbor, stronger than 9/11.
+
+**Q2 — Dollar figures:** 🔒 **NO dollar figures anywhere in the video.** Not "$1,600 drone," not "$95 brain," not any price tag. Reason: false precision triggers bullshit detectors; qualitative common sense does not. A wrong number looks ridiculous and destroys credibility; a right number invites cross-examination that the secretary does not have patience for. Replace every price tag with **qualitative asymmetry**:
+- "Cheap quadcopters, military-hardened, disposable."
+- "Cheaper than the laptop you're watching this on."
+- "Mass-produced, off-the-shelf, nothing exotic."
+- "Factory-cheap on one side, billion-dollar bases on the other."
+
+The drones are NOT "cost like a car." They are **cheap quadcopters**. Hardened maybe, but still cheap. Get this right.
+
+**Q9 — Language:** 🔒 **English only.** American audience only. Translation is a post-virality problem.
+
+**Q3 — Opening line:** 🔒 *"China can do this tomorrow. Using Israeli technology."* Then a beat. Then the first visual. The word **China** is the first word spoken — it is the attention hook. **Israeli** is the second hook — Americans pay disproportionate attention to Israel, and "Chinese hands + Israeli brains" is more terrifying than "Chinese copy of Western tech" because it implies the threat has Western-grade IP behind it. No "Emergency breaking news flash" label — that is CNN cosplay and breaks the "we are not pretending to be a news channel" rule.
+
+**Q4 — Closing line (series-wide, not just Part 1):** 🔒 **Short punchy equations, fragments not sentences:**
+- *"America's fate = your call."*
+- *"Do nothing = China wins."*
+- *"Forward this = America lives."*
+
+Meme-language. Protest-sign language. Each fragment is itself forwardable. The secretary can copy-paste one line into her boss's email. Three beats, three equations, two seconds each. Spoken by narrator AND displayed on the end card. **The word "forward" must appear literally** because the physical action is pressing a forward button — do not leave it abstract.
+
+**Q7 — Does Nir appear on screen:** 🔒 **No.** Audience does not like the author. Nir is named only in the end card as a pointer (`YouTube: Nir Strulovitz`, `github.com/strulovitz`). Credibility is not asserted — it is available for anyone who wants to look.
+
+**Medium / tone — the fiction-visuals + real-text synthesis:** 🔒 **This is the creative breakthrough and it overrides every conflicting rule in the bible.**
+
+The video is **not** a fake news broadcast (CNN cosplay breaks when the viewer catches us lying, and Slaughterbots only got away with it because Stuart Russell shows up at minute 7 as "God of AI" to redeem the lie — we have no God). The video is **not** a talking-head (audience does not like Nir). The video is **not** a Rafael/Elbit defense-contractor product demo (we have no brand credibility).
+
+The video IS: **History Channel / *How the Titanic Sank* register.** Sober narrator speaks only verifiable facts. Visuals are illustrations — clearly "reconstructions of a scenario," not staged attacks, not deepfakes, not pretending to be news footage. Dramatic music. Cinematic framing. Every word spoken is literal truth; every image shown is clearly illustrative. Nobody can catch us lying because we are not lying.
+
+**Honesty pre-roll (PROPOSED, pending Nir):** first 2 seconds of the video are a dark screen with narrator saying:
+> *"What you are about to see has not happened. What you are about to hear, will."*
+
+This one sentence immunizes the whole video against "they lied to me." It is ominous, honest, and gives us total permission to use illustration-visuals for the next 88 seconds. If Nir approves, this goes in.
+
+**Production stack (confirmed from repo):**
+- **Reference images:** OpenArt AI → ChatGPT Image 1.5 → 1:1 1024×1024 → Medium quality → 4 variants. Saved to `elements/` folder. See `PART_1_ELEMENTS.md` for the full element library and generation discipline.
+- **Video clips:** Kling 3.0 Omni → reference-image mode (NEVER start-frame) → 9:16 vertical.
+- **Narrator voice:** **ElevenLabs.** Sober male voice, professional, History Channel register. Not Nir. Not AI-generic-uncanny. The voice must carry gravitas — it is the only thing in the video the viewer is supposed to trust completely.
+- **Edit / chyrons / end card:** Adobe Premiere Pro.
+
+**Elements impact — what survives and what dies for Part 1:**
+
+Existing elements from `PART_1_ELEMENTS.md` that STAY (already LOCKED, re-used as-is):
+- #1 The anchor — ❓ MAYBE. If we kill the news-broadcast frame entirely per the History Channel pivot, the anchor is no longer needed. Nir decides.
+- #2 The reporter — ❓ MAYBE. Same reason. The `topology` buzzword may still enter via a reporter voiceover, but no on-camera reporter if we are not a news broadcast.
+- #8 News studio + desk — ❓ MAYBE (same as #1).
+- #9 Exterior bunker entrance — ✅ STAYS. Core visual for Q1.
+- #10 Interior bunker hallway — ✅ STAYS. Core visual for Q1.
+- #11 Ventilation shaft — ✅ STAYS.
+- #13 California data center — ❌ CUT for Part 1 (may return for Big Tech episode).
+- #14 Pentagon war room — ❓ MAYBE.
+- #16 Ballistic missile — ✅ STAYS. Delivery vehicle for the swarm.
+- #17 Worker drone — ✅ STAYS. The visual identity of the whole swarm.
+- #20 Raspberry Pi + small drone (scale shot) — ✅ STAYS. This is the qualitative asymmetry shot that replaces any dollar figure.
+- #22 WRONG TOPOLOGY classified document — ✅ STAYS. Delivers the `topology` buzzword visually.
+
+Elements that DIE for Part 1 (files stay in repo, just unused):
+- #3 American boxer — ❌ KILLED. Fighter metaphor suspended.
+- #4 Wing Chun fighter — ❌ KILLED. Fighter metaphor suspended.
+- #5 FBI agent's hand — ❌ KILLED (the FBI clipboard topology sketch is replaced by the reporter-voiceover + WRONG TOPOLOGY stamp visual).
+- #6 American generals (horrified at conference table) — ❓ MAYBE.
+- #15 Fight space — ❌ KILLED. Fighter metaphor suspended.
+- #19 FBI clipboard — ❌ KILLED (see #5).
+- #21 MadHoney book on news desk — ❌ CUT. Closing is the punchy-equation end card, not a book-on-desk beat.
+
+**Still open — Nir needs to decide in the next session:**
+- Does the video keep ANY news-broadcast frame (anchor, reporter, studio) or go fully History-Channel-reconstruction with no news frame at all? This decides whether elements #1, #2, #6, #8, #14 live or die.
+- Is the honesty pre-roll (*"What you are about to see has not happened..."*) approved?
+- Which punchy-equation rhythm does he prefer ("lives" vs "survives", "wins" vs "win")?
+- Which generic-bunker visual does OpenArt generate best — mountain blast-doors / hangar / deep corridor / command room — and in which combination?
+
+---
+
 ## 0. What this document is
 
 This is a war brief. Not a creative plan. Not a script. Not a style guide. It is a set of constraints plus a single success criterion. Every element of Part 1 must serve the criterion or be cut.
@@ -84,9 +163,9 @@ The video is not a story. It is **a hand-off relay weapon** that targets four di
 
 - Mid-level manager, director, team lead, Deputy Program Director (yes — Joel Sachin is exactly this node)
 - Career-conscious, risk-averse, **afraid of looking unprepared at his boss's next meeting**
-- **Triggered by:** *"you need to know this before your boss asks,"* concrete specifics, named companies, named countries, dollar figures, timelines, anything that sounds like inside information
-- **NOT triggered by:** vague warnings, apocalyptic predictions, anonymous threats, anything that reads as blog-rant, anything that reads as vendor pitch
-- **His chunk:** seconds **5 to 30**. Must escalate from "something happened" to "here is specifically why it happened and who did it." Must contain named specifics — **OpenAI**, **Anthropic**, **DeepSeek**, a specific place (Long Beach / Nellis / Diablo Canyon / name-TBD), a specific dollar figure ($1,600 drone, $95 brain), a specific timeline ("this quarter").
+- **Triggered by:** *"you need to know this before your boss asks,"* concrete specifics, named companies, named countries, qualitative asymmetry that rings true, timelines, anything that sounds like inside information
+- **NOT triggered by:** vague warnings, apocalyptic predictions, anonymous threats, anything that reads as blog-rant, anything that reads as vendor pitch, **false precision / suspiciously exact dollar figures**
+- **His chunk:** seconds **5 to 30**. Must escalate from "something happened" to "here is specifically why it happened and who did it." Must contain named specifics — **OpenAI**, **Anthropic**, **DeepSeek**, a generic bunker location, qualitative asymmetry ("cheap quadcopters vs billion-dollar bases," "cheaper than the laptop you're watching this on"), a specific timeline ("this quarter"). **NO dollar figures** per §0.5 Q2.
 - **If his chunk lands, he forwards to his boss with "we need to discuss this Monday."**
 
 ### Node 3 — The General *(seconds 30-90, must be actionable)*
@@ -185,7 +264,7 @@ The previous BeeSting approach (lock elements and visuals first, then write the 
 - **A news-broadcast visual treatment for the cold open.** Dark anchor desk, clean emergency-broadcast lighting, single chyron `1 MONTH FROM NOW`, `BREAKING` flash on the catastrophe line, no network logo so every viewer fills in their own trusted network (Fox / CNN / BBC / i24 / DD / whatever).
 - **A named specific strike at a named specific place.** Not "somewhere in America." Specifically: *Long Beach oil refinery*, or *Nellis drone training facility*, or *Diablo Canyon cooling loop*, or *Northrop's Palmdale plant*, or whatever specific named target Nir picks. **Nir picks which in §10 question 1.**
 - **A named enemy.** **China.** Explicitly.
-- **A specific price tag** for the enemy weapon that makes the asymmetry concrete. *"$1,600 drones with $95 brains"* or whatever exact numbers Nir verifies.
+- **Qualitative asymmetry framing** — NOT dollar figures. *"Cheap quadcopters, military-hardened, disposable."* *"Cheaper than the laptop you're watching this on."* *"Factory-cheap drones vs billion-dollar bases."* Qualitative truth that rings in the gut beats false-precision numbers that invite cross-examination. See §0.5 Q2.
 - **A named solution that exists today.** *"The only known defense is a distributed AI architecture invented by an Israeli independent inventor named Nir Strulovitz. It is free. The code is on GitHub. It has been working for three years."* The general needs this specific line to quote.
 - **A specific time window.** *"The window to deploy this is this quarter. After that, the enemy has the numbers and the defender does not."* The general needs a reason to act this week, not next year.
 - **A quotable closing line** the general can repeat verbatim in the board meeting without the video playing. Nir writes this line with care. Candidates in §5 Node 4.
