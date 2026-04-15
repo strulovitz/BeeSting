@@ -167,6 +167,131 @@ Pure mechanism. No author. No marketing. No Israel. The viewer's internal monolo
 
 ---
 
+### 🎙️ The actual mechanism narration — ELI5, mechanism-only (1:00-3:30)
+
+Locked 2026-04-15 night after Claude (finally) read MadHoney Ch7 (drones), TheDistributedAIRevolution Ch14 (perception hive), and BeeSting/ARCHITECTURE_NOTES.md. Before this read, Claude was inventing mechanism details. Everything below is verifiable against those three source documents.
+
+**Register rule:** Explain-Like-I'm-Five throughout. Concrete metaphors only ("tiny pipe like trying to pour a river through a straw", "brain the size of a credit card", "about what dinner costs"). One buzzword in the whole video — **topology** — translated immediately as *"Topology just means shape."*
+
+**Three beats in the mechanism middle. Each beat is one real, verifiable capability that no other drone system has, told as mechanism.**
+
+---
+
+#### 🔵 BEAT A — Short text, not video (1:00-1:45) — the bandwidth insight
+
+**Why this beat exists:** this is the core engineering insight nobody else has had. Every prior drone swarm failed for one reason — they tried to share video, photos, or model weights between drones, and battlefield radio under jamming is ~600 bits per second. Short text at a few hundred bytes per message fits through that pipe. Nothing else does. Source: MadHoney Ch7 "Our System Solves Exactly This," architecture notes Rule 2.
+
+**Narration:**
+
+> *"For decades, every swarm anyone tried to build ran into the same wall. Drones have to talk to each other. And talking takes room on the radio."*
+>
+> *"Radio on a battlefield is a tiny pipe — like trying to pour a river through a straw."*
+>
+> *"Videos don't fit. Photos don't fit. Even a medium-sized artificial brain doesn't fit. Every drone swarm in the world fell apart the moment the enemy turned on a jammer."*
+>
+> **[beat — visual of old swarms falling out of the sky under jamming]**
+>
+> *"Tonight, the new swarm did something nobody else had figured out. It did not send videos. It did not send photos. It did not share brains."*
+>
+> *"It sent a few words at a time."*
+>
+> *"'Check the north corridor.' 'Found something.' 'Go left.' A few words fit through any pipe. Through jamming. Through water. Through the metal walls of a bunker that no radio was supposed to enter."*
+
+---
+
+#### 🔵 BEAT B — Every drone has its own brain (1:45-2:20) — no command link to cut
+
+**Why this beat exists:** every American drone program depends on a central command link (satellite → server → pilot). Jam the link, bomb the server, kill the pilot — the fleet goes blind in one second. Ours has no command link because every drone carries its own complete small brain on cheap consumer hardware and thinks locally. Source: MadHoney Ch7 "GiantQueens, DwarfQueens, and RajaBees Hidden in Plain Sight," architecture notes Rule 3.
+
+**Narration:**
+
+> *"The second thing nobody else had done. Every drone in this swarm carries its own complete brain. Not half a brain. Not a piece. A whole brain."*
+>
+> *"A small one. About the size of a credit card. Costing about what dinner costs."*
+>
+> *"Each drone thinks for itself."*
+>
+> **[beat — close-up of a Raspberry Pi-sized board inside a drone shell]**
+>
+> *"This is not how American drones work. American drones are still dumb. They wait for orders from a pilot at a command center — thousands of miles away, connected by a satellite, connected by a server, connected by a wire."*
+>
+> *"If you cut that wire — if you jam the satellite, if you bomb the server, if you shoot down the pilot — every American drone in the sky goes blind in the same second."*
+>
+> *"The new swarm has no command center to bomb. No satellite to jam. No server to shoot. The brains are inside the drones, and they stay there. There is no signal going out. There is no signal coming in. There is nothing to cut."*
+
+---
+
+#### 🔵 BEAT C — Many queens, scattered, hidden (2:20-3:00) — no head to cut off
+
+**Why this beat exists:** every military solution for neutralizing a drone swarm assumes a "decapitation" strategy — find the leader or the command node, kill it, the rest fall apart. Our swarm has multiple primary leaders with pre-positioned backups, all looking externally identical, all scattered across the formation, never clustered. You cannot decapitate a swarm whose head you cannot find and that is distributed across the whole body. Source: architecture notes Rule 1 (the rule Claude keeps getting wrong), MadHoney Ch7 "Hidden in Plain Sight."
+
+**Hard rules for this beat:**
+- Workers CANNOT be "promoted" to Queens. Their hardware physically cannot run the bigger brain.
+- Backup Queens were **already flying** at the start of the mission, in the bigger-brain hardware, doing the same job in parallel.
+- Backup Queens are **scattered across the swarm**, hidden among the worker drones, NEVER flying close to the primary Queen.
+- All drones look **externally identical** — same shape, same size, same weight (ammunition vs compute weighted to match), same flight signature.
+
+**Narration:**
+
+> *"The third thing. Some drones carry more brain than others. We can call them queens. The queens help the smaller drones work together."*
+>
+> *"But from the outside — same shape. Same size. Same color. Same weight. Nobody can tell a queen from a small worker drone."*
+>
+> *"And the queens are scattered. Spread across the whole swarm. Hidden among the small drones."*
+>
+> **[beat — the swarm in flight, no visible leader, every drone identical]**
+>
+> *"Tonight, American soldiers killed one of the queens. They thought they had won. They were wrong."*
+>
+> *"Another queen was already flying — on the other side of the swarm, doing the same job. Scattered far from the one they killed. When the soldiers killed her, there was another. Behind her — more. Also scattered. Also hidden."*
+>
+> **[beat — 2 full seconds of silence]**
+>
+> *"There is no heart to hit. Because the heart is everywhere. And also nowhere."*
+
+---
+
+#### 🟡 THE NAME LANDS — *Topology* (3:00-3:15)
+
+> *"All of this has a name."*
+>
+> **[beat]**
+>
+> *"Topology. Topology just means shape."*
+>
+> *"The shape America never built. The shape the Chinese military just used against us tonight."*
+
+---
+
+#### 🟡 THE SHAPE DRAWN — *Star vs Tree* (3:15-3:30)
+
+Source: ARCHITECTURE_NOTES.md Rule 7.
+
+**Narration:**
+
+> *"America built a star. One big brain in one building, somewhere in California. Every drone connected back to that one brain. Kill the brain — every drone goes dumb in the same second."*
+>
+> *"The new shape is a tree. Picture our own military — generals, colonels, lieutenants, soldiers. Now picture every rank as a drone. No human anywhere in the chain. A tree of small brains, whispering to each other in a few words at a time."*
+
+---
+
+### ✅ What in this narration is rigorously true (audit-proof)
+
+- ✅ Battlefield radio ~600 bits/sec under jamming. Source: MadHoney Ch7.
+- ✅ Every drone carries its own complete brain on ~$95 Raspberry Pi class hardware. Source: MadHoney Ch7, architecture notes Rule 3.
+- ✅ Queens physically cannot be replaced by promoting Workers (different hardware). Source: architecture notes Rule 1.
+- ✅ Backup Queens are scattered across the swarm, hidden among Workers, never clustered. Source: architecture notes Rule 1.
+- ✅ Drones pass short encrypted text to each other, not video / not model weights / not streamed data. Source: architecture notes Rule 2.
+- ✅ All drones externally identical. Source: MadHoney Ch7 "Hidden in Plain Sight."
+- ✅ "Topology just means shape" — canonical series buzzword translation. Source: architecture notes Rule 7.
+- ❌ NO fabricated timing ("three years ago" cut).
+- ❌ NO selling ("free," "on GitHub," "invented by one man" all cut).
+- ❌ NO "our system" first-person partisan language.
+- ❌ NO Nir on screen until the end card.
+- ❌ NO dollar figures.
+
+---
+
 ### 📏 Length / distribution problem — Nir picks
 
 Nir specified the invention demo runs from **1:00 to 3:00** (2 full minutes). With a proper intro (0:00-1:00) and outro (3:00-?), total runtime lands at ~3:30-4:00. **TikTok / Reels / Shorts cap at 3 minutes.** Three options — Nir picks:
@@ -179,23 +304,28 @@ Nir specified the invention demo runs from **1:00 to 3:00** (2 full minutes). Wi
 
 ---
 
-### Structural outline — Part 1, first draft, ~4 minutes (Nir iterates)
+### Structural outline — Part 1, ~4:00 exactly (locked 2026-04-15 night)
 
-| Time | Visual | Narration beat | Node being hooked |
+| Time | Visual | Narration | Node being hooked |
 |---|---|---|---|
-| 0:00-0:02 | 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 huge on black | silent (music only) | Secretary |
-| 0:02-0:05 | black | *"Israeli invention exists. Chinese production starting."* | Secretary |
-| 0:05-0:12 | ballistic missile launches from dark coast, climbs | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* | Secretary |
-| 0:12-0:30 | missile arcing mid-flight across dark sky | narrator describes the payload mechanically — cheap quadcopters, military-hardened, disposable, nothing exotic | Secretary → Manager |
-| 0:30-0:45 | nose cone opens, drones pour out, form up | the reveal — viewer finally sees what "worse than a bomb" means; narrator silent, visuals carry | Secretary → Manager |
-| 0:45-1:00 | swarm descends toward generic mountain bunker in pre-dawn | narrator minimal; brief tension beat before the mechanism middle begins | Manager |
-| **1:00-2:00** | **mechanism demo beat A — decentralized perception + no head to cut off** | **biologist-narrator explains the hive's internal logic; no selling; pure mechanism** | **Manager** |
-| **2:00-3:00** | **mechanism demo beat B — jamming-proof + discrimination at scale** | **biologist-narrator continues; by 2:30 the general is rattled** | **General** |
-| 3:00-3:15 | drones finish what they came for; implied aftermath (empty corridors, silent console rooms); no blood | *"Everyone inside was gone within four minutes."* grave pause | General → Board |
-| 3:15-3:35 | closing equations huge on black | *"America's fate = your call. Do nothing = China wins. Forward this = America lives."* spoken AND on screen | Board |
-| 3:35-3:50 | end card: `YouTube: Nir Strulovitz` + `github.com/strulovitz` | silent; music sustains last note; cut to black | Board |
+| 0:00-0:02 | 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 huge on black | silent (music only) | 👀 Secretary |
+| 0:02-0:05 | black | *"Israeli invention exists. Chinese production starting."* | 👀 Secretary |
+| 0:05-0:15 | ballistic missile launches, climbs into night | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* | 👀 Secretary |
+| 0:15-0:30 | missile arcs over Pacific; nose cone opens; drones pour out | *"Inside it — a swarm of small cheap drones. Military-hardened. Disposable. Nothing exotic. Anyone can build them."* | 👀 Secretary → 👔 Manager |
+| 0:30-0:50 | drones descend toward generic mountain bunker, enter through ventilation, interior corridors | *"They flew into one of our most secure military bunkers — buried deep under a mountain, walls lined with metal. No radio reaches in or out. And yet — they came in through the air vents."* | 👔 Manager |
+| 0:50-1:00 | bridge to mechanism middle | *"Until tonight, this was impossible. Every drone in history was either flown by a human on a radio — or too stupid to find a doorway. This was something new."* | 👔 Manager |
+| **1:00-1:45** | 🔵 **BEAT A** — old swarms falling out of the sky under jamming; new swarm passing short-text captions between drones inside the bunker | **Short-text-not-video paragraph** (bandwidth insight) | 👔 **Manager** |
+| **1:45-2:20** | 🔵 **BEAT B** — Raspberry Pi close-up inside a drone shell; American drone dying as its satellite link cuts; bunker drones with no signal needed | **Each-drone-has-own-brain paragraph** (no command link to cut) | 👔 **Manager → 🎖️ General** |
+| **2:20-3:00** | 🔵 **BEAT C** — identical-looking drones in flight; soldier shoots down one drone; reveal of another drone on the opposite side already taking over | **Scattered-queens paragraph** (no head to cut off) | 🎖️ **General** |
+| 3:00-3:15 | the word **TOPOLOGY** on screen, then dissolves to star and tree drawings | *"All of this has a name. Topology. Topology just means shape..."* | 🎖️ General |
+| 3:15-3:30 | star drawing → California data center; tree drawing → military-rank-as-drones | *"America built a star... the new shape is a tree..."* | 🎖️ General → 💀 Board |
+| 3:30-3:45 | empty bunker corridors, silence, implied consequence — NO blood, NO bodies, NO gore | *"Everyone inside was gone within four minutes."* [grave pause] | 💀 Board |
+| 3:45-3:55 | closing equations huge on black | *"America's fate = your call. Do nothing = China wins. Forward this = America lives."* | 💀 Board |
+| 3:55-4:00 | end card: `YouTube: Nir Strulovitz` + `github.com/strulovitz` | silent; final music note; cut to black | 💀 Board |
 
-Total: ~3:50. **First-draft only. Every beat rewritten in the next working session. The 1:00-3:00 middle is the load-bearing segment and gets the most iteration time.**
+**Total: 4:00 exactly.** Fits Nir's 2026-04-15 night specification: 1-minute intro, 2-minute mechanism middle, 1-minute close. Distribution option (a): TikTok + YouTube main only, not Shorts/Reels (which cap at 3 min). Per Nir: *"we are not trying to be viral anymore. we are trying to get 2 views. secretary and her boss, and then the payload explodes and becomes viral inside the real world — the general weekly meeting."*
+
+**The three 🔵 BEATS are the load-bearing segment of the entire video.** Iterate the narration drafts above until every sentence passes the test: *does this serve the forwarding chain, and is it rigorously true?*
 
 ---
 
