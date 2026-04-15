@@ -50,17 +50,18 @@ The video IS: **History Channel / *How the Titanic Sank* register.** Sober male 
 
 **First 2 seconds of the video** = an emoji equation displayed huge on a black background. No narration. Ominous sustained music note only. Let the viewer solve the equation in silence. Then cut.
 
-> # 🇨🇳 ✋ ➕ 🇮🇱 🧠 🟰 🇺🇸 💀
+> # 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀
 
 **Translation the viewer reads instantly** (no decoding required, 2026 meme-language):
-- 🇨🇳 ✋ = China, the hands that build it (manufacturing muscle, the assembly lines, the foot-soldiers)
+- 🇨🇳 💪 = China, the manufacturing muscle / production capacity / the ability to mass-produce
 - 🇮🇱 🧠 = Israel, the brains that designed it (the IP, the genius, Western-grade invention)
 - 🇺🇸 💀 = the United States, dead
 
 **Emoji pair choices, locked per Nir 2026-04-15 evening:**
-- China hand = **✋ (raised hand with fingers up)** NOT ✌️ (peace — opposite meaning) NOT 💪 (muscle arm — reads as fitness/strength not labor). Palm reads as "the doing hand."
+- China = **💪 (flexed biceps)**, updated from ✋ raised hand. Biceps reads unambiguously as *strength / production capacity / manufacturing muscle*. Raised hand was too ambiguous (could read as "hi" or "stop"). 💪 locks in the "China can mass-produce this" meaning with zero decoding.
 - Israel brain = **🧠** unambiguous
 - USA death = **💀** (skull) — unambiguous dead
+- **The skull is deliberately NOT labeled in the narration.** The viewer's brain completes the equation itself, and an unspoken skull is scarier than a spoken one. The viewer owns the conclusion — their own country's death — because they did the math themselves.
 
 **Why this opening works:**
 - **It IS the thumbnail.** The single most algorithm-exploitable image of the whole video. Works as a still on TikTok / Reels / Shorts preview. Forwardable as an image even without watching the video.
@@ -70,17 +71,21 @@ The video IS: **History Channel / *How the Titanic Sank* register.** Sober male 
 
 ---
 
-### ⚡ Honesty line — second 2-seconds beat
+### ⚡ First spoken line — the two-fact opener (REPLACES the old honesty line)
 
-After the emoji equation, cut to black. Narrator speaks one short two-beat line. Three candidate rhythms for Nir to pick from:
+After the emoji equation holds for 2 seconds, narrator speaks the first line of the video. This line does three jobs at once:
 
-1. **"Every word = real. Every image = tomorrow."** ← my vote, matches the equation style of the opening frame and the closing line, makes the entire video a three-part equation arc.
-2. **"Every word is real. Every image is coming."** ← verb version, "coming" carries inevitability stronger than "follows."
-3. **"What you'll hear exists. What you'll see follows."** ← Nir's original version, softer, slightly ambiguous on "follows" but still works.
+1. **Labels the two INPUTS of the equation** — 🇮🇱 🧠 becomes "Israeli invention" and 🇨🇳 💪 becomes "Chinese production"
+2. **Leaves the SKULL unlabeled** — forcing the viewer to complete the equation themselves, which is scarier than spelling it out
+3. **Replaces the old honesty-line disclaimer** — "exists" is a verifiable truth claim (the Israeli invention really is on GitHub), "starting" is a plausibility claim the rest of the video will earn. No patronizing "what you see is illustration" needed.
 
-Nir picks one. Then we never change it again — it becomes the series opening frame line for all 14 videos.
+**The line, locked by Nir 2026-04-15 evening:**
 
-**Why the honesty line exists at all:** to immunize the whole video against the single attack that would kill it — *"they lied to me at some point, so I'm dismissing everything."* By explicitly telling the viewer upfront that the visuals are illustration and the words are fact, we make "the visuals are fake" a feature, not a flaw. The viewer is warned. The viewer consents. The viewer trusts the narration completely for the rest of the video because we never even tried to lie to them.
+> ## *"Israeli invention exists. Chinese production starting."*
+
+**Grammar note (not a change, a defense of the clipped form):** "exists" is a finite verb, "starting" is a participle — not strictly parallel, but the clipped form has the war-room-alert / teleprinter feel of *ENEMY FORCES ADVANCING* and carries more urgency than the grammatically-parallel alternative *"Chinese production begins."* Urgency beats parallelism here.
+
+**Why the old "Every word is real..." honesty-line is dropped:** because this line already establishes the truth claim implicitly, and a separate disclaimer would be patronizing. Per Nir verbatim: *"I don't want to write translations for the emojis for them directly. they will feel patronized. I want to do the line itself so that the text explains."* The explanation is embedded in the facts, not appended as a meta-statement.
 
 ---
 
