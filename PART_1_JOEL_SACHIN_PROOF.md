@@ -167,7 +167,52 @@ Pure mechanism. No author. No marketing. No Israel. The viewer's internal monolo
 
 ---
 
-### 🎙️ The actual mechanism narration — ELI5, mechanism-only (1:00-3:30)
+### 🧠 MECHANISM X — the foundational teaching (Nir's version, locked 2026-04-15 late night)
+
+After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
+
+**The question the teaching answers** (phrased as the viewer would phrase it, not as the author would phrase it):
+
+> *"How can the drones create a hive mind together without a big AI cloud guiding them from far away?"*
+
+**The answer, in one paragraph:**
+
+> *"It is simple. The queen gets a task. She splits it into smaller pieces. She hands each piece to one worker drone to think about. Each worker thinks about her own piece and sends back a short answer. The queen collects all the answers and combines them into one final answer. That is the whole trick."*
+
+**Why it works (the line that cashes bunkers + underwater + anywhere-no-signal-reaches):**
+
+> *"The only thing passing between the drones is short text — a short question going down, a short answer coming back up. Short text is tiny. It fits through any pipe. So they can talk to each other underwater. They can talk to each other inside a metal bunker no radio signal was supposed to reach. They can talk to each other anywhere the drones can fly. The big brain is not in California. The big brain is the drones talking to each other wherever they are."*
+
+**What this teaching cashes, in one shot:**
+
+- 🧠 How the hive-mind works (divide-and-conquer + short text)
+- 🧱 Why bunkers don't stop it (short text, local, drones brought the brain with them)
+- 🌊 Why water doesn't stop it (same reason)
+- 🛡️ Why Faraday cages don't stop it (same reason)
+- 🚫 Why "no cloud" is not a limitation but a feature
+
+**What this teaching does NOT cover** (saved for other beats or other parts):
+
+- ⚡ Jamming resistance (needs the separate near-field physics teaching from Nir's EW experience — "shouting across the street vs shouting in your ear") — this is Mechanism Y
+- 🔪 Scattered hidden queens / no head to cut off — this is Mechanism Z
+- 👁️ Finds-the-invisible gradient fields — this is Mechanism W
+- 🗺️ Collective perception / fovea-plus-peripheral sub-sampling — saved for Part 2 or Part 3 when there is time to explain it properly. NOT needed for Part 1.
+
+**Register notes:**
+
+- Phrase the question from the viewer's perspective, not the author's. "How can the drones..." not "Let me explain how our system..."
+- The word "simple" does heavy lifting. Say it up front. *"It is simple."* Gives the viewer permission to relax and expect a clean answer.
+- Do NOT use the words "sub-sampling," "recursive hierarchy," "parallelism," "distributed," "federated," or any other jargon. Use "split," "piece," "think about," "send back," "collect," "combine."
+- "The queen" not "the boss drone" — queen is the canonical honeybee noun, it grounds the architecture in the biology that gave it its name.
+- "The big brain is the drones talking to each other wherever they are" is the load-bearing sentence. Do not change it without checking with Nir.
+
+**What this replaces in the file:**
+
+The earlier "BEAT B fovea + peripheral vision" narration is **superseded for Part 1.** The fovea analogy is still a real insight and still in the book (Ch 12), but it is NOT how Part 1 teaches the mechanism. Part 1 teaches it with Nir's divide-and-conquer paragraph above.
+
+---
+
+### 🎙️ The older mechanism narration drafts — superseded, kept for history
 
 Locked 2026-04-15 night after Claude (finally) read MadHoney Ch7 (drones), TheDistributedAIRevolution Ch14 (perception hive), and BeeSting/ARCHITECTURE_NOTES.md. Before this read, Claude was inventing mechanism details. Everything below is verifiable against those three source documents.
 
