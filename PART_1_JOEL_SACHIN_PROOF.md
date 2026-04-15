@@ -167,7 +167,41 @@ Pure mechanism. No author. No marketing. No Israel. The viewer's internal monolo
 
 ---
 
-### 🧠 MECHANISM X — the foundational teaching (Nir's version, locked 2026-04-15 late night)
+### 🧠 MECHANISM X — the foundational teaching (locked 2026-04-15 late night, three beats in order)
+
+**Beat 1 — 💬 The SMS ladder (Nir's analogy, the entry door).** Lived-experience analogy every viewer has already felt on their own phone. Establishes WHY short text is the only thing that survives, without using the words "bandwidth" or "pipe."
+
+> *"You know how when you are on a video call with a friend and the reception gets bad, you turn off the video and switch to voice only — and suddenly you can hear each other again? Because voice takes less room on the line than video does. And if the reception is really bad, you drop to text messages. SMS. Almost no information — just your net message — and it gets through when nothing else does."*
+>
+> *"The drones in the swarm are always at SMS level. By choice. They never try to send video to each other. They never try to send voice. They text. All the time. Like Generation Z."*
+
+**Beat 2 — 🐝 Divide and conquer (what they do with the SMS).** Pre-empts the viewer's natural objection: *"isn't SMS too limited to be smart?"*
+
+> *"Now you might think SMS is too small to be smart. It is not. Here is how the swarm builds a big brain out of small text messages."*
+>
+> *"The queen gets a task. She splits it into smaller pieces. She sends each piece to one worker drone as a short text — a short question. Each worker thinks about her own piece and sends back a short answer. The queen collects all the short answers and combines them into one final answer."*
+>
+> *"That is the whole trick. The big brain is not in California. The big brain is the queen and her workers, texting each other, wherever the drones happen to be."*
+
+**Beat 3 — 🧱🌊🛡️ The payoff (cashes bunkers + underwater + Faraday cage).**
+
+> *"And because they only ever pass short text — a short question going down, a short answer coming back up — they can do this anywhere text messages can travel a few meters between neighbors. Underwater, where sound carries words but not videos. Inside a metal bunker no radio signal was supposed to reach. Inside a Faraday cage. Anywhere the drones can fly, the big brain flies with them."*
+
+**Runtime:** ~75-90 seconds for all three beats.
+
+**What this teaching cashes in one shot:** 🧠 hive mind, 💬 why short text, 🧱 bunkers, 🌊 underwater, 🛡️ Faraday cage, 🚫 "no cloud" reframed as feature.
+
+**Register rules:**
+- Beat 1 must name the phone-experience progression verbatim: **video → voice only → SMS**. Every viewer has done this themselves.
+- Beat 1 must land the Gen Z joke. It is the memetic line a manager repeats at his board meeting.
+- Beat 2 must use the words *"queen,"* *"task,"* *"split,"* *"piece,"* *"worker,"* *"think about,"* *"short answer,"* *"collect,"* *"combine."* No *"distributed,"* no *"parallel,"* no *"sub-sampling."*
+- Beat 3 must name all three environments (bunker + water + Faraday) so the three locked features cash simultaneously.
+
+**Superseded by this teaching:** the earlier fovea-plus-peripheral-vision draft from earlier in this session. The fovea analogy is still real and still in the book (TheDistributedAIRevolution Ch 12), but Part 1 teaches Mechanism X using the SMS ladder + divide-and-conquer + environments payoff, not the fovea.
+
+---
+
+### 🧠 MECHANISM X — older single-paragraph version (superseded, kept for history)
 
 After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
 
