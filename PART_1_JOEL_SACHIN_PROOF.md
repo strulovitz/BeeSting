@@ -198,15 +198,35 @@ Pure mechanism. No author. No marketing. No Israel. The viewer's internal monolo
 
 The old series-bible rule *"Use swarm, never hive, in videos — hive stays for the book/repo"* is suspended for Part 1. Reason: the old rule was protecting viewers from jargon, but *hive* in this framing is not jargon — it is a contrast word defined on the spot by pairing with *swarm*. The viewer earns the word by watching the attack and by hearing the contrast. This is teaching-by-contrast, not jargon insertion, and it is strictly stronger than the old rule. Parts 2-14 can revisit this decision after Part 1 ships.
 
-**The 5 numbered observations (phrasing pending — to be drafted next):**
+**The 5 numbered observations — phrasing locked 2026-04-16 after Nir's three corrections:**
 
-| # | Feature | Cashed by |
+> **"One.** A hive can operate inside a hardened bunker, buried under a mountain, sealed against every outside radio signal.**"**
+>
+> **"Two.** A hive can synchronize underwater, where no radio reaches at all.**"**
+>
+> **"Three.** A hive cannot be jammed. No matter how powerful the jammer, it fails.**"**
+>
+> **"Four.** A hive has no command center to hit. Every drone you kill, another is already doing its job.**"**
+>
+> **"Five.** A hive can find a target it cannot see — by the air between the drones themselves.**"**
+
+**Nir's three corrections, applied verbatim:**
+
+1. 🌊 **#2 underwater:** "operate" → **"synchronize"**. A regular dumb swarm can dive and follow waypoints. What regular drones cannot do is keep their hive mind alive underwater — the impressive part is the thinking stays coordinated, not the diving.
+2. ⚡ **#3 jamming:** "loud" → **"powerful"**. The shouting metaphor is reserved for the mechanism teaching (Mechanism Y) where the viewer needs an ELI5 handle. In the tease the narrator is stating a fact, and the real metric is watts, which is measured in *power*. "Powerful" is both accurate and still understood by laymen.
+3. 🔪 **#4 no head to cut off:** "no leader to kill" → **"no command center to hit"**. A military general does not think in terms of "leader drones" because American drones have no drone-level leader; they have a command center far away. The comparison that actually rattles the general is *"your drone system has a command center. This one has none."* Second sentence about killing individual drones stays because it covers the queen-redundancy beat.
+
+**What is NOT short:** the observations are deliberately longer than Claude's compressed rewrite. These are hard concepts and every observation has to help the viewer understand it perfectly. **This is not Coca-Cola advertising. Short is not a virtue here.** Accuracy and clarity are virtues. The viewer can give the narrator 30 seconds or 60 seconds for the tease — he will, because he is already hooked by the Hitchcock pause.
+
+**Cross-reference to mechanism teachings (which check cashes which observation):**
+
+| Observation | Cashed by | ELI5 payoff |
 |---|---|---|
-| 1 | 🧱 Talks inside bunkers | Mechanism X |
-| 2 | 🌊 Works underwater | Mechanism X (same teaching) |
-| 3 | ⚡ Survives jamming | Mechanism Y |
-| 4 | 🔪 No head to cut off | Mechanism Z |
-| 5 | 👁️ Finds the invisible | Mechanism W |
+| #1 bunker | 🧠 Mechanism X | *"they only ever pass short text — short text fits through any pipe, including the metal walls of a sealed bunker, because the pipe is between drones a few meters apart and never has to leave the bunker"* |
+| #2 underwater synchronize | 🧠 Mechanism X | *"same short text, same local conversations, works under water because sound carries a text message even when it cannot carry a voice call"* |
+| #3 immune to jamming | ⚡ Mechanism Y | *"jamming is a physics problem — whoever is loudest at the receiver's ear wins. The drone talking to a drone is a few meters away. For a jammer to beat that, the jammer would have to be closer than a few meters — and the only thing that can be closer is another drone in the swarm."* |
+| #4 no command center, no leader | 🔪 Mechanism Z | *"there is no command center because the command lives inside the swarm itself, scattered across it, hidden among drones that all look identical. Workers cannot be promoted. Backup queens are pre-positioned far from the primary. Kill any drone and another is already doing its job."* |
+| #5 finds invisible — "by the air between the drones themselves" | 👁️ Mechanism W | *"the information is not in any one sensor — it is in the distances between the sensors. Ten cheap thermometers spread over the ocean find a submarine's thermal wake that no single thermometer could ever see. Ten cheap gas sensors in a city find a leak by the gradient between them. The hive can find what no single drone can see because the information lives in the space between them, not in any one of them."* |
 
 Order: matches the teaching order so every check cashes cleanly in sequence. Observations #1 and #2 cash together in Mechanism X. The viewer hears the pair of checks cash in one teaching, which is a momentum builder.
 
