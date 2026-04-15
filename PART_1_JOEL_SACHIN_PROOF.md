@@ -111,29 +111,91 @@ This is the classic documentary retention structure (false expectation → subve
 
 **Narrator register rule:** narrator speaks in calm past-tense historian mode, **as if walking through events that already happened.** Example: *"The missile left its launcher at 4:17 AM local time."* The viewer's hindbrain processes this as reconstruction even though the opening frame (emoji equation + "Israeli invention exists / Chinese production starting") already told them it is a projection. The front brain knows it is illustration; the back brain feels it as historical record. That is the whole trick. **The narrator must NEVER say "this has not happened yet"** — the moment you tell the viewer explicitly that it is hypothetical, the dread breaks.
 
-**Where the "Israeli invention" lands in the attack flow:** the emoji equation promised the viewer that the invention is Israeli. The attack visuals show Chinese missile + Chinese drones. The narrator must **weld** the left-brain of the equation (Israel) to what the viewer is seeing (Chinese hardware) at the natural moment: **when the swarm starts coordinating.** Drones flying in formation, entering the bunker together, hunting as a pack — at that specific moment, the narrator says something like:
+**Attack is the FRAME. Invention is the PAYLOAD.** Nir's correction 2026-04-15 evening: the attack sequence is the wrapper; the real content is the hierarchical hive topology demonstration in the middle of the video. I previously gave the invention 20 seconds of screen time and that was wrong — *the invention is the entire reason the video exists,* and it needs real minutes, demonstrated visually while the narrator explains mechanism only.
 
-> *"A drone swarm cannot hunt without a central controller — unless it runs a new kind of topology. That topology was invented three years ago by one man in Israel. The code is free. It has been on GitHub the whole time. America never used it. China did."*
+**The MIRV-carrying-quadcopters is NOT the invention.** It is a plausible delivery scenario. Loitering munitions already exist. Slaughterbots already showed swarm attacks. Ballistic missiles releasing submunitions are decades old. None of that is ours and the narrator must never imply it is.
 
-That one paragraph is the load-bearing narration line of the whole video. It converts the attack from *"scary Chinese tech"* into *"the free invention America refused to use, being used against America."* The word `topology` enters here via narrator (not via field reporter — no field reporter exists in this version of Part 1).
+**The invention IS the hierarchical hive topology** — and it is what gets demonstrated in minutes **1:00 to 3:00** of the video, while the swarm performs capabilities that no centralized AI drone system can match.
 
-**Rough structural outline (first draft, ~90-105 seconds, Nir iterates):**
+---
 
-| Time | Visual | Narration beat |
-|---|---|---|
-| 0:00-0:02 | 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 | silent (music only) |
-| 0:02-0:05 | black | *"Israeli invention exists. Chinese production starting."* |
-| 0:05-0:12 | ballistic missile launches from Chinese coast, climbs into night sky | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* |
-| 0:12-0:25 | missile mid-flight, arcing across the Pacific | narrator describes what is inside — cheap quadcopters, military-hardened, mass-produced, nothing exotic, anyone can build them |
-| 0:25-0:35 | nose cone opens, drones pour out, begin formation | the reveal — the viewer finally sees what "worse than a bomb" means |
-| 0:35-0:55 | drone swarm descends toward generic mountain bunker; coordinated formation hunting | THE TOPOLOGY PARAGRAPH LANDS HERE — narrator welds Israeli invention to Chinese hardware |
-| 0:55-1:15 | drones enter bunker via ventilation; bunker interior red emergency light; drones hunt through corridors | narrator stays quiet or grave; the visuals do the work |
-| 1:15-1:25 | the kills — implied, off-camera, or silhouette only; grave aftermath | *"Everyone inside died within four minutes."* grave pause |
-| 1:25-1:40 | cut to qualitative asymmetry illustration (Raspberry Pi + drone in a hand, or similar) | narrator delivers the "cheap vs billion-dollar base" line + the "free on GitHub" line |
-| 1:40-1:50 | the closing equation end card | *"America's fate = your call. Do nothing = China wins. Forward this = America lives."* spoken AND on screen |
-| 1:50-1:55 | end card: `YouTube: Nir Strulovitz` + `github.com/strulovitz` | silent, music sustains one last note, cut to black |
+### 🎯 The four hook nodes — where each brain in the forwarding chain is hooked
 
-Total: ~1:55 (115 seconds). Fits the 90-120 second budget. **This is a first-draft outline only — every beat gets rewritten during the next working session.**
+Every second of the video serves one of four nodes. The video must land all four or it fails.
+
+- **🎯 Secretary — 0:00 to 0:15.** Emoji equation + *"not a bomb, worse"* line + missile launch. She forwards out of pure gut shock before comprehending anything. She probably never watches past 0:30. Her chunk must hit without requiring any understanding.
+- **🎯 Manager — 1:00 to 2:00.** First half of the mechanism demonstration. He stays past the attack because the narrator starts explaining *how* the swarm hunts, and it sounds like inside information he needs before his boss asks. He forwards because he can summarize what he saw in one sentence to his own boss: *"cheap drones coordinating without radio, on hardware anyone can buy."*
+- **🎯 General — 2:00 to 3:00.** Second half of the mechanism demonstration. He watches the whole video twice and realizes every piece of his current air defense assumes centralized command signals that can be jammed — and the swarm in this video has no command signal to jam. He tables it at the board because the alternative is being the general who saw it and did nothing.
+- **🎯 Board — 3:00 to end.** No pitch. No ask. No "free." No "available." Just a name on the end card. They find him themselves. The ask is implicit in the existence of the name, and in the fact that their general is visibly rattled.
+
+---
+
+### 🧠 The mechanism demonstration — minutes 1:00 to 3:00 (THE CORE OF THE VIDEO)
+
+**The rule: no selling. Ever.** Narrator is a biologist explaining a wolf pack — describing the behavior, explaining the internal logic, letting the viewer judge whether it is impressive. History Channel narrators never say *"this German missile is cheap, you should use it."* They describe the mechanism. The viewer forms their own conclusion.
+
+**Hard-banned language in the mechanism middle:**
+- ❌ "Our system," "our invention," "our topology" — the narrator is not a salesman on our side
+- ❌ "Free," "available," "on GitHub" — pricing and distribution are not historical facts, they are marketing
+- ❌ "Invented by," "developed by," "created by" — no author attribution in the middle, only mechanism
+- ❌ "Awesome," "unbelievable," "revolutionary," "game-changing" — things that are impressive demonstrate themselves
+- ❌ Any mention of Israel, Nir, Strulovitz, Elbit, Rafael, Manhattan Project, or any other credibility anchor — credibility is delivered by the end card alone
+- ❌ Any call to action embedded in the middle — the middle is pure explanation
+
+**Allowed in the mechanism middle:**
+- ✅ *"This is what happens."*
+- ✅ *"This is why it happens."*
+- ✅ *"This is what nothing else can do."*
+- ✅ Mechanism description (perception, coordination, redundancy, jamming resistance, scale)
+- ✅ Comparison to current systems — but only mechanistically, never evaluatively. E.g. *"Current air defense assumes a central command signal. There is no central command signal here. There is nothing for a jammer to lock onto."*
+
+**The five unique capabilities from the repo's architecture notes — pick 2-3 for the demo, all visually showable:**
+
+1. 🧠 **Decentralized perception with centralized understanding.** Every drone sees one slice of the scene. One drone at the top of the swarm looks at a downsampled version of all the other drones' reports at once and forms a gestalt. The picture assembles itself internally. No external radio signal, no datalink, no ground station. *(This is the strongest candidate — easiest to show visually, most counterintuitive for a general, directly explains why jamming fails.)*
+2. 🔪 **No head to cut off.** Backup top-drones are spread across the formation, each silently running the same top-level pass in parallel. Kill the drone that happens to be leading, and another has already been doing the same job. The swarm never has a fixed head a sniper or EW can target. *(Strong candidate — visually dramatic: the demo can show one drone getting destroyed and the swarm continuing without pause.)*
+3. 📡 **Jamming-proof by construction.** There is no command signal to jam. Commands are emergent from geometry — drones follow patterns, not orders. Patterns cannot be blocked with an EW transmitter. *(Strong candidate — this is the single beat that makes a general lean forward, because every air defense he has ever trained on assumes you can cut the command link.)*
+4. 🎯 **Discrimination at scale.** Each drone runs its own perception model and reports up. The top of the hive decides which rooms matter (command room vs kitchen, officer vs cook, server rack vs water pipe). The swarm selects targets; it does not carpet-destroy. *(Good candidate — shows the swarm is smarter than a loitering munition, which just explodes on one assigned target.)*
+5. ♾️ **Recursive scaling.** Same architecture from 10 drones to 10,000. Add more tiers, same code. The hierarchy is fractal. *(Weaker visually — hard to demonstrate in a 30-second beat. Save for a later episode if at all.)*
+
+**Narrator register example for the mechanism middle** (no selling, pure mechanism, biologist describing a wolf pack):
+
+> *"Each drone sees one piece of the room. One drone at the top of the swarm is looking at all the other drones' pieces at once — like a commander reading a dozen scout reports. It does not send orders. It changes its own flight pattern. The other drones recognize the new pattern and adjust their own. There is no radio. There is no command link. There is nothing to jam."*
+
+> *"If the drone at the top is destroyed, another drone has already been doing the same pass in parallel. The swarm does not elect a new leader — it never needed one in the first place. The pattern continues. The hunt continues."*
+
+Pure mechanism. No author. No marketing. No Israel. The viewer's internal monologue at the end of the middle is *"why does America not have this?"* — and that question is all we need. We never answer it in the video. The end card answers it silently.
+
+---
+
+### 📏 Length / distribution problem — Nir picks
+
+Nir specified the invention demo runs from **1:00 to 3:00** (2 full minutes). With a proper intro (0:00-1:00) and outro (3:00-?), total runtime lands at ~3:30-4:00. **TikTok / Reels / Shorts cap at 3 minutes.** Three options — Nir picks:
+
+- **(a)** ~4 minutes total. Publish to TikTok + YouTube main channel only (not Shorts/Reels). Strongest video, fewer platforms. **My vote.** The point of the video is that the invention gets real screen time — cutting the demo to save distribution on platforms with worse forwarding behavior anyway is the wrong trade.
+- **(b)** 3:00 total. Compress demo to 1:00-2:30 (90 seconds middle). Fits all three platforms. Middle is tight but works.
+- **(c)** 3:00 total. Compress intro to 0:00-0:45, middle stays 0:45-2:30, outro 2:30-3:00. Fits all three platforms. Intro is tighter but the demo gets the full 105 seconds.
+
+**Pending Nir's call. Default assumption: (a), ~4 minutes, TikTok + YouTube main, until he says otherwise.**
+
+---
+
+### Structural outline — Part 1, first draft, ~4 minutes (Nir iterates)
+
+| Time | Visual | Narration beat | Node being hooked |
+|---|---|---|---|
+| 0:00-0:02 | 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 huge on black | silent (music only) | Secretary |
+| 0:02-0:05 | black | *"Israeli invention exists. Chinese production starting."* | Secretary |
+| 0:05-0:12 | ballistic missile launches from dark coast, climbs | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* | Secretary |
+| 0:12-0:30 | missile arcing mid-flight across dark sky | narrator describes the payload mechanically — cheap quadcopters, military-hardened, disposable, nothing exotic | Secretary → Manager |
+| 0:30-0:45 | nose cone opens, drones pour out, form up | the reveal — viewer finally sees what "worse than a bomb" means; narrator silent, visuals carry | Secretary → Manager |
+| 0:45-1:00 | swarm descends toward generic mountain bunker in pre-dawn | narrator minimal; brief tension beat before the mechanism middle begins | Manager |
+| **1:00-2:00** | **mechanism demo beat A — decentralized perception + no head to cut off** | **biologist-narrator explains the hive's internal logic; no selling; pure mechanism** | **Manager** |
+| **2:00-3:00** | **mechanism demo beat B — jamming-proof + discrimination at scale** | **biologist-narrator continues; by 2:30 the general is rattled** | **General** |
+| 3:00-3:15 | drones finish what they came for; implied aftermath (empty corridors, silent console rooms); no blood | *"Everyone inside was gone within four minutes."* grave pause | General → Board |
+| 3:15-3:35 | closing equations huge on black | *"America's fate = your call. Do nothing = China wins. Forward this = America lives."* spoken AND on screen | Board |
+| 3:35-3:50 | end card: `YouTube: Nir Strulovitz` + `github.com/strulovitz` | silent; music sustains last note; cut to black | Board |
+
+Total: ~3:50. **First-draft only. Every beat rewritten in the next working session. The 1:00-3:00 middle is the load-bearing segment and gets the most iteration time.**
 
 ---
 
