@@ -35,53 +35,85 @@ Meme-language. Protest-sign language. Each fragment is itself forwardable. The s
 
 **Q7 — Does Nir appear on screen:** 🔒 **No.** Audience does not like the author. Nir is named only in the end card as a pointer (`YouTube: Nir Strulovitz`, `github.com/strulovitz`). Credibility is not asserted — it is available for anyone who wants to look.
 
-**Medium / tone — the fiction-visuals + real-text synthesis:** 🔒 **This is the creative breakthrough and it overrides every conflicting rule in the bible.**
+**Medium / tone — fiction-visuals + real-text synthesis:** 🔒 **This is the creative breakthrough and it overrides every conflicting rule in the bible.**
 
-The video is **not** a fake news broadcast (CNN cosplay breaks when the viewer catches us lying, and Slaughterbots only got away with it because Stuart Russell shows up at minute 7 as "God of AI" to redeem the lie — we have no God). The video is **not** a talking-head (audience does not like Nir). The video is **not** a Rafael/Elbit defense-contractor product demo (we have no brand credibility).
+- The video is **NOT** a fake news broadcast. No anchor. No studio desk. No `BREAKING` chyron. No CNN cosplay. Killed 2026-04-15 evening per Nir: *"I do not want the news theme. I want killing them cleaner please."*
+- The video is **NOT** a talking-head. Nir does not appear. Audience does not like the author.
+- The video is **NOT** a Rafael/Elbit defense-contractor product demo. No brand credibility to draw on.
+- Slaughterbots model is **NOT** copied either — they lied in visuals and got away with it only because Stuart Russell shows up at minute 7 as "God of AI" to redeem the lie. We have no God. If we lie, we are caught.
 
-The video IS: **History Channel / *How the Titanic Sank* register.** Sober narrator speaks only verifiable facts. Visuals are illustrations — clearly "reconstructions of a scenario," not staged attacks, not deepfakes, not pretending to be news footage. Dramatic music. Cinematic framing. Every word spoken is literal truth; every image shown is clearly illustrative. Nobody can catch us lying because we are not lying.
+The video IS: **History Channel / *How the Titanic Sank* register.** Sober male narrator speaks only verifiable facts. Visuals are illustrations — clearly "reconstructions of a scenario," not staged attacks, not deepfakes, not pretending to be news footage. Dramatic music. Cinematic framing. **Every word spoken is literal truth; every image shown is clearly illustrative.** Nobody catches us lying because we are not lying.
 
-**Honesty pre-roll (PROPOSED, pending Nir):** first 2 seconds of the video are a dark screen with narrator saying:
-> *"What you are about to see has not happened. What you are about to hear, will."*
+---
 
-This one sentence immunizes the whole video against "they lied to me." It is ominous, honest, and gives us total permission to use illustration-visuals for the next 88 seconds. If Nir approves, this goes in.
+### 🔥 Opening frame — the emoji equation
 
-**Production stack (confirmed from repo):**
-- **Reference images:** OpenArt AI → ChatGPT Image 1.5 → 1:1 1024×1024 → Medium quality → 4 variants. Saved to `elements/` folder. See `PART_1_ELEMENTS.md` for the full element library and generation discipline.
+**First 2 seconds of the video** = an emoji equation displayed huge on a black background. No narration. Ominous sustained music note only. Let the viewer solve the equation in silence. Then cut.
+
+> # 🇨🇳 ✋ ➕ 🇮🇱 🧠 🟰 🇺🇸 💀
+
+**Translation the viewer reads instantly** (no decoding required, 2026 meme-language):
+- 🇨🇳 ✋ = China, the hands that build it (manufacturing muscle, the assembly lines, the foot-soldiers)
+- 🇮🇱 🧠 = Israel, the brains that designed it (the IP, the genius, Western-grade invention)
+- 🇺🇸 💀 = the United States, dead
+
+**Emoji pair choices, locked per Nir 2026-04-15 evening:**
+- China hand = **✋ (raised hand with fingers up)** NOT ✌️ (peace — opposite meaning) NOT 💪 (muscle arm — reads as fitness/strength not labor). Palm reads as "the doing hand."
+- Israel brain = **🧠** unambiguous
+- USA death = **💀** (skull) — unambiguous dead
+
+**Why this opening works:**
+- **It IS the thumbnail.** The single most algorithm-exploitable image of the whole video. Works as a still on TikTok / Reels / Shorts preview. Forwardable as an image even without watching the video.
+- **Zero words** = zero translation needed, zero reading speed required, zero literacy required. The secretary "gets it" in under a second.
+- **Meme equation format** matches the closing-line equations, so the whole video is bookended by equations. The video IS an equation: inputs + inputs = output. Cold math.
+- **Honest.** Nothing in the emoji equation is a lie. China does make the drones. Israel (specifically Nir) did invent the hive topology. The projected consequence is dead Americans. Every element is defensible.
+
+---
+
+### ⚡ Honesty line — second 2-seconds beat
+
+After the emoji equation, cut to black. Narrator speaks one short two-beat line. Three candidate rhythms for Nir to pick from:
+
+1. **"Every word = real. Every image = tomorrow."** ← my vote, matches the equation style of the opening frame and the closing line, makes the entire video a three-part equation arc.
+2. **"Every word is real. Every image is coming."** ← verb version, "coming" carries inevitability stronger than "follows."
+3. **"What you'll hear exists. What you'll see follows."** ← Nir's original version, softer, slightly ambiguous on "follows" but still works.
+
+Nir picks one. Then we never change it again — it becomes the series opening frame line for all 14 videos.
+
+**Why the honesty line exists at all:** to immunize the whole video against the single attack that would kill it — *"they lied to me at some point, so I'm dismissing everything."* By explicitly telling the viewer upfront that the visuals are illustration and the words are fact, we make "the visuals are fake" a feature, not a flaw. The viewer is warned. The viewer consents. The viewer trusts the narration completely for the rest of the video because we never even tried to lie to them.
+
+---
+
+### 🎬 Production stack (confirmed from repo + Nir's instructions)
+
+- **Reference images:** OpenArt AI → ChatGPT Image 1.5 → 1:1 1024×1024 → Medium quality → 4 variants. Saved to `elements/` folder. This project uses OpenArt as its primary image model. See `PART_1_ELEMENTS.md` for the reference-image discipline.
 - **Video clips:** Kling 3.0 Omni → reference-image mode (NEVER start-frame) → 9:16 vertical.
 - **Narrator voice:** **ElevenLabs.** Sober male voice, professional, History Channel register. Not Nir. Not AI-generic-uncanny. The voice must carry gravitas — it is the only thing in the video the viewer is supposed to trust completely.
-- **Edit / chyrons / end card:** Adobe Premiere Pro.
+- **Edit / motion graphics / emoji frame / equation end card:** Adobe Premiere Pro.
+- **No other tools.** No Lego generator. No Pixar tool. No Honeymation pipeline. No stock footage libraries (everything is generated fresh).
 
-**Elements impact — what survives and what dies for Part 1:**
+---
 
-Existing elements from `PART_1_ELEMENTS.md` that STAY (already LOCKED, re-used as-is):
-- #1 The anchor — ❓ MAYBE. If we kill the news-broadcast frame entirely per the History Channel pivot, the anchor is no longer needed. Nir decides.
-- #2 The reporter — ❓ MAYBE. Same reason. The `topology` buzzword may still enter via a reporter voiceover, but no on-camera reporter if we are not a news broadcast.
-- #8 News studio + desk — ❓ MAYBE (same as #1).
-- #9 Exterior bunker entrance — ✅ STAYS. Core visual for Q1.
-- #10 Interior bunker hallway — ✅ STAYS. Core visual for Q1.
-- #11 Ventilation shaft — ✅ STAYS.
-- #13 California data center — ❌ CUT for Part 1 (may return for Big Tech episode).
-- #14 Pentagon war room — ❓ MAYBE.
-- #16 Ballistic missile — ✅ STAYS. Delivery vehicle for the swarm.
-- #17 Worker drone — ✅ STAYS. The visual identity of the whole swarm.
-- #20 Raspberry Pi + small drone (scale shot) — ✅ STAYS. This is the qualitative asymmetry shot that replaces any dollar figure.
-- #22 WRONG TOPOLOGY classified document — ✅ STAYS. Delivers the `topology` buzzword visually.
+### 🧹 Nothing is salvaged from previous work
 
-Elements that DIE for Part 1 (files stay in repo, just unused):
-- #3 American boxer — ❌ KILLED. Fighter metaphor suspended.
-- #4 Wing Chun fighter — ❌ KILLED. Fighter metaphor suspended.
-- #5 FBI agent's hand — ❌ KILLED (the FBI clipboard topology sketch is replaced by the reporter-voiceover + WRONG TOPOLOGY stamp visual).
-- #6 American generals (horrified at conference table) — ❓ MAYBE.
-- #15 Fight space — ❌ KILLED. Fighter metaphor suspended.
-- #19 FBI clipboard — ❌ KILLED (see #5).
-- #21 MadHoney book on news desk — ❌ CUT. Closing is the punchy-equation end card, not a book-on-desk beat.
+Per Nir 2026-04-15 evening, verbatim: *"please please do not take into consideration AT ALL trying to recycle salvage previous work. i don't care what we did until now. we are doing the optimal for this new thing, everything from scratch."*
 
-**Still open — Nir needs to decide in the next session:**
-- Does the video keep ANY news-broadcast frame (anchor, reporter, studio) or go fully History-Channel-reconstruction with no news frame at all? This decides whether elements #1, #2, #6, #8, #14 live or die.
-- Is the honesty pre-roll (*"What you are about to see has not happened..."*) approved?
-- Which punchy-equation rhythm does he prefer ("lives" vs "survives", "wins" vs "win")?
-- Which generic-bunker visual does OpenArt generate best — mountain blast-doors / hangar / deep corridor / command room — and in which combination?
+- **`PART_1_ELEMENTS.md` locked elements:** ignored. The anchor, the reporter, the news studio, the boxer, the Wing Chun fighter, the fight space, the FBI clipboard, the generals conference room — **all irrelevant to Part 1 now.** The files stay in the repo as history; none of them get used in the new Part 1.
+- **`PART_1_SHOT_LIST.md`:** obsolete for Part 1. A new shot list will be written after the script is locked, top-down from the war brief, with zero inheritance from the old one.
+- **`SERIES_BIBLE.md`:** overridden for Part 1 in full. Format details (9:16, 90-120s, title pattern, channel name, `topology` buzzword, never-mention-Iran) survive because they are packaging, not creative. Everything else from the bible is dead for Part 1.
+- **`FIGHT_METAPHOR_RULES.md`:** dead for Part 1. No boxer, no Chinese fighter, no cutaways.
+- **`VISUAL_HOOK_RULES.md`:** dead for Part 1. The "photorealistic emergency news broadcast only" rule is killed along with the news theme. New visual language is "History Channel reconstruction register."
+
+**If a later Claude session tries to reference any of the above as canon for Part 1, it is wrong.** Part 1 canon = this file (`PART_1_JOEL_SACHIN_PROOF.md`), specifically §0.5.
+
+---
+
+### Still open — needs Nir's call in the next working session
+
+- 🎤 **Honesty line rhythm** — pick one of the three candidates above (equation version / "coming" verb version / original "follows" version).
+- 🎵 **Opening music** — single ominous sustained note, or short rising stinger, or full orchestral dread-chord? Probably sustained note for the emoji frame, then musical escalation in the next beats. Deferred until script is written.
+- 🎬 **After the honesty line, what is the first image?** The bunker exterior? A Chinese factory floor? A drone in flight? The first real image after the two text-frames is the single biggest visual decision — because it is the first "illustration" the viewer sees, and it has to hit hard enough to make them stay for the next 85 seconds.
+- 🎙️ **Narrator script** — first line of narration comes after the honesty line, locked as *"China can do this tomorrow. Using Israeli technology."* But then what? The next 10 lines are the hardest writing in the project. We draft them in the next working session, iterate to death, read aloud, cut anything that does not move the forwarding needle.
 
 ---
 
