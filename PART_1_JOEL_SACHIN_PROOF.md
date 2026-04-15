@@ -167,6 +167,53 @@ Pure mechanism. No author. No marketing. No Israel. The viewer's internal monolo
 
 ---
 
+### 🎯 THE FEATURE TEASE — framing locked 2026-04-16 (swarm → hive reveal)
+
+**What the tease does:** right after the Hitchcock pause freezes the frame on `TARGET ACQUIRED`, the narrator addresses the viewer's internal reaction ("this is impossible") and uses it to teach a new distinction: what the viewer thought was a swarm is actually a *hive*, and a hive is a different kind of thing.
+
+**The framing, locked verbatim by Nir:**
+
+> *"Impossible, you say?"*
+>
+> **[beat]**
+>
+> *"You need to realize — this is not just any swarm. It is a hive. And a hive can do five things that are impossible for any conventional swarm."*
+>
+> **[beat]**
+>
+> *"One..."* [observation]
+> *"Two..."* [observation]
+> *"Three..."* [observation]
+> *"Four..."* [observation]
+> *"Five."* [observation]
+
+**Why this framing works:**
+
+1. 🗣️ **It addresses the viewer's own internal objection directly.** At the end of the attack segment the viewer is thinking *"that is not possible."* The narrator hears it and says *"impossible, you say?"* — the viewer feels seen, and the narrator now has permission to explain.
+2. 🔁 **It teaches "hive vs swarm" by contrast, not by lecture.** The viewer already knows what a swarm is (drone swarms, bee swarms — common vocabulary). The narrator introduces *hive* as the thing the viewer was *actually* watching, which turns out to be a step above a swarm. The contrast teaches the word on the spot, so "hive" never feels like jargon — it feels like a correction to the viewer's default assumption.
+3. 🎁 **It handles all five features comfortably** — including underwater (which past-tense forensic framing could not accommodate, because the viewer never saw underwater in this attack). Present-tense capability framing — *"a hive can do five things"* — holds any feature, whether demonstrated in this attack or asserted as a parallel capability.
+4. 🔢 **The numbered "one... two... three..." rhythm gives the viewer a checklist to count along with.** Each number is a promise. Five numbered promises that the next ~5 minutes of teaching will cash, one by one.
+
+**What this framing SUPERSEDES (earlier rule from SERIES_BIBLE.md):**
+
+The old series-bible rule *"Use swarm, never hive, in videos — hive stays for the book/repo"* is suspended for Part 1. Reason: the old rule was protecting viewers from jargon, but *hive* in this framing is not jargon — it is a contrast word defined on the spot by pairing with *swarm*. The viewer earns the word by watching the attack and by hearing the contrast. This is teaching-by-contrast, not jargon insertion, and it is strictly stronger than the old rule. Parts 2-14 can revisit this decision after Part 1 ships.
+
+**The 5 numbered observations (phrasing pending — to be drafted next):**
+
+| # | Feature | Cashed by |
+|---|---|---|
+| 1 | 🧱 Talks inside bunkers | Mechanism X |
+| 2 | 🌊 Works underwater | Mechanism X (same teaching) |
+| 3 | ⚡ Survives jamming | Mechanism Y |
+| 4 | 🔪 No head to cut off | Mechanism Z |
+| 5 | 👁️ Finds the invisible | Mechanism W |
+
+Order: matches the teaching order so every check cashes cleanly in sequence. Observations #1 and #2 cash together in Mechanism X. The viewer hears the pair of checks cash in one teaching, which is a momentum builder.
+
+**Runtime estimate:** 5 observations × ~6s each = ~30s + ~5s framing intro + ~3s closing breath = **~38s total tease block.**
+
+---
+
 ### ⏸️ THE ONE-PAUSE HITCHCOCK STRUCTURE (locked 2026-04-16 early morning)
 
 Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Claude proposed four pauses (one per mechanism); Nir rejected it as the fighter-metaphor mistake all over again — turning production gimmicks into the source of the video's appeal. *"We do not have the skill and talent and money of Hollywood, our action bits in Kling will look pathetic anyway. Our ideas are shining in a light brighter than all their action movies together because they are REAL and ORIGINAL and the viewer will feel that. We do not need to suck up to the viewer — we need to show him OUR good stuff, he will bite."*
