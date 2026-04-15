@@ -1,6 +1,8 @@
 # BeeSting Series Bible
 
-**Last updated: 2026-04-13**
+**Last updated: 2026-04-13** *(Part 1 override added 2026-04-15)*
+
+> ⚠️ **For Part 1 specifically, read `PART_1_JOEL_SACHIN_PROOF.md` FIRST.** That file is the canonical war brief for Part 1 and it overrides this bible where they conflict. The bible's format rules (9:16 vertical, 90-120s, `1 MONTH FROM NOW` chyron, channel name `Nir Strulovitz`, `topology` buzzword in Act 2, title format, never-mention-Iran rule) stay in force for Part 1. The bible's creative philosophy (fighter metaphor, silent Wing Chun cutaways, "tragedy not humiliation") is **SUSPENDED** for Part 1 after Nir rejected the fighter metaphor on 2026-04-15 following another stupid-secretary brush-off (Joel Sachin at iDEX-DIO India). Part 1 is being rebuilt from scratch under the single success criterion *"force the secretary → boss → general → board forwarding chain."* Parts 2-14 may adopt the same approach or keep the bible — TBD after Part 1 lands.
 
 This document is the creative source of truth for the BeeSting video series. Read it before writing or editing any episode. Every decision here was made deliberately with a reason. If you want to change something in this document, write down the *new* reason next to the old one — don't silently overwrite, because the old reason is probably still load-bearing.
 
