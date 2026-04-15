@@ -89,6 +89,54 @@ After the emoji equation holds for 2 seconds, narrator speaks the first line of 
 
 ---
 
+### 🎯 Structural principle — the video IS the attack
+
+**Locked by Nir 2026-04-15 evening.** The entire video is **one continuous documented attack**, told in strict chronological order, the way *How the Titanic Sank* walks the viewer through a single historical event. Narrator is a companion historian, not a lecturer. There are no structural seams (no cut to "news desk," no cut to "flashback," no cut to "explainer segment"). Every second of the video is *the attack unfolding*.
+
+**The first image (locked):** the ballistic missile launching. Night or pre-dawn. Generic Chinese coast. The missile climbs. Sober dramatic music (not action-movie brass — documentary dread). Narrator begins to speak over the climb.
+
+**The "not a bomb, worse" hook (locked):** the single strongest retention beat in the video after the emoji equation. The narrator sets up a familiar expectation (*missile = bomb = explosion*) and then subverts it:
+
+> Narrator (calm, historian register, over the missile in flight):
+> *"This ballistic missile is not carrying a bomb."* *(beat — 1 full second of silence)* *"It is carrying something much worse."*
+
+**Why this hook works (mechanics):**
+1. The viewer's brain auto-loads the expectation *"I know what a ballistic missile does — it explodes."* Brain starts to relax into the familiar pattern.
+2. Narrator says *"not a bomb"* → brain jolts. Expectation shattered. *"Wait — what?"*
+3. Narrator pauses. Silence is the work.
+4. Narrator says *"something much worse"* → curiosity gap is now a physical hunger. The viewer is *unable to stop watching* until they find out what is inside. The dopamine loop is fully open.
+5. The reveal (nose cone opens, drones pour out) is the payoff the viewer is now forced to wait for.
+
+This is the classic documentary retention structure (false expectation → subversion → reveal), and **it works because it is literally true** — MIRV payloads, submunition dispersal, and cluster-munition-style releases from ballistic bodies are real decades-old technology. China has MIRV-capable missiles and HGVs today. A missile releasing a drone swarm mid-flight is plausible extrapolation of current tech, not invention. Narration stays within "plausible extrapolation"; the visuals stay within "illustration of a plausible scenario." Nothing has to be fabricated.
+
+**Narrator register rule:** narrator speaks in calm past-tense historian mode, **as if walking through events that already happened.** Example: *"The missile left its launcher at 4:17 AM local time."* The viewer's hindbrain processes this as reconstruction even though the opening frame (emoji equation + "Israeli invention exists / Chinese production starting") already told them it is a projection. The front brain knows it is illustration; the back brain feels it as historical record. That is the whole trick. **The narrator must NEVER say "this has not happened yet"** — the moment you tell the viewer explicitly that it is hypothetical, the dread breaks.
+
+**Where the "Israeli invention" lands in the attack flow:** the emoji equation promised the viewer that the invention is Israeli. The attack visuals show Chinese missile + Chinese drones. The narrator must **weld** the left-brain of the equation (Israel) to what the viewer is seeing (Chinese hardware) at the natural moment: **when the swarm starts coordinating.** Drones flying in formation, entering the bunker together, hunting as a pack — at that specific moment, the narrator says something like:
+
+> *"A drone swarm cannot hunt without a central controller — unless it runs a new kind of topology. That topology was invented three years ago by one man in Israel. The code is free. It has been on GitHub the whole time. America never used it. China did."*
+
+That one paragraph is the load-bearing narration line of the whole video. It converts the attack from *"scary Chinese tech"* into *"the free invention America refused to use, being used against America."* The word `topology` enters here via narrator (not via field reporter — no field reporter exists in this version of Part 1).
+
+**Rough structural outline (first draft, ~90-105 seconds, Nir iterates):**
+
+| Time | Visual | Narration beat |
+|---|---|---|
+| 0:00-0:02 | 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 | silent (music only) |
+| 0:02-0:05 | black | *"Israeli invention exists. Chinese production starting."* |
+| 0:05-0:12 | ballistic missile launches from Chinese coast, climbs into night sky | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* |
+| 0:12-0:25 | missile mid-flight, arcing across the Pacific | narrator describes what is inside — cheap quadcopters, military-hardened, mass-produced, nothing exotic, anyone can build them |
+| 0:25-0:35 | nose cone opens, drones pour out, begin formation | the reveal — the viewer finally sees what "worse than a bomb" means |
+| 0:35-0:55 | drone swarm descends toward generic mountain bunker; coordinated formation hunting | THE TOPOLOGY PARAGRAPH LANDS HERE — narrator welds Israeli invention to Chinese hardware |
+| 0:55-1:15 | drones enter bunker via ventilation; bunker interior red emergency light; drones hunt through corridors | narrator stays quiet or grave; the visuals do the work |
+| 1:15-1:25 | the kills — implied, off-camera, or silhouette only; grave aftermath | *"Everyone inside died within four minutes."* grave pause |
+| 1:25-1:40 | cut to qualitative asymmetry illustration (Raspberry Pi + drone in a hand, or similar) | narrator delivers the "cheap vs billion-dollar base" line + the "free on GitHub" line |
+| 1:40-1:50 | the closing equation end card | *"America's fate = your call. Do nothing = China wins. Forward this = America lives."* spoken AND on screen |
+| 1:50-1:55 | end card: `YouTube: Nir Strulovitz` + `github.com/strulovitz` | silent, music sustains one last note, cut to black |
+
+Total: ~1:55 (115 seconds). Fits the 90-120 second budget. **This is a first-draft outline only — every beat gets rewritten during the next working session.**
+
+---
+
 ### 🎬 Production stack (confirmed from repo + Nir's instructions)
 
 - **Reference images:** OpenArt AI → ChatGPT Image 1.5 → 1:1 1024×1024 → Medium quality → 4 variants. Saved to `elements/` folder. This project uses OpenArt as its primary image model. See `PART_1_ELEMENTS.md` for the reference-image discipline.
