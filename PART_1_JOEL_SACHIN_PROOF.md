@@ -199,7 +199,63 @@ Locked 2026-04-15 night after Claude (finally) read MadHoney Ch7 (drones), TheDi
 
 ---
 
-#### 🔵 BEAT B — Every drone has its own brain (1:45-2:20) — no command link to cut
+#### 🔵 BEAT B (REWRITTEN 2026-04-15 night) — The swarm sees the way your eyes see (1:40-2:40) — collective perception via sub-sampling
+
+**This is the load-bearing beat of the whole video.** It is the actual discovery from TheDistributedAIRevolution Ch 12 ("cut the photo, give the boss a low-resolution view") and Ch 13 ("same trick in 3D and 4D, swarm in a bunker"), the discovery Nir and Claude made together the night before last. Everything else in the video is packaging around this beat.
+
+**Why this beat exists:** the single thing in the system that is qualitatively new and that no other drone architecture in the world has. Loitering munitions do not do this. Slaughterbots do not do this. American drone programs do not do this. Nobody else has figured out that **the boss should see a low-resolution gestalt while the workers see high-resolution tiles, recursively, across every axis the input has.** This is the sub-sampling principle. This is what makes a swarm collectively perceive a whole building without any single drone ever seeing the whole.
+
+**ELI5 anchor:** the fovea-plus-peripheral-vision mechanism of the human eye. Every viewer has eyes. Every viewer has felt the effect without ever naming it. The narrator walks them through the effect in plain words, then cuts to the swarm doing the same thing.
+
+**Hard rules for this beat:**
+- The analogy MUST be the fovea/peripheral vision mechanism. Do not substitute a worse analogy (like "commander reading scout reports" — I used that in an earlier draft and it was weaker).
+- The beat MUST land the line *"No single drone ever sees the whole bunker. The swarm does."*
+- The beat MUST land *"the map existed nowhere except inside the swarm itself"* — because this is what makes the swarm's perception *uncapturable* and *uncopyable*.
+- NO mention of *"sub-sampling"* or *"recursive hierarchy"* or *"fovea"* as vocabulary in the spoken narration — those are Claude's internal words for it. The spoken narration uses only ELI5 words: *"tiny sharp spot,"* *"blurry map,"* *"thumbnail-sized,"* *"a hundred small things, one at a time."*
+
+**Narration:**
+
+> *"There is a third thing. And it is the strangest one."*
+>
+> **[beat]**
+>
+> *"Look at your own eyes for a second."*
+>
+> *"Your eyes have one tiny sharp spot in the middle. About thumbnail-sized at arm's length. That is the only place you see clearly. Everything outside that spot is blurry."*
+>
+> **[visual: extreme close-up of a human eye, the fovea highlighted, the peripheral intentionally defocused]**
+>
+> *"But your brain uses the blurry wide-angle view to keep a map of the whole room. You know where the couch is. You know where the door is. You know where the lamp is. Even when you are not looking at them."*
+>
+> *"And when you do look at something — a clock, a face, a book — you only see the sharp version for a fraction of a second. Your brain takes that tiny sharp glance and pastes it onto its blurry map."*
+>
+> *"You feel like you see everything in the room. You have actually looked at a hundred small things, one at a time, and your brain has assembled them all on a wide-angle drawing."*
+>
+> **[beat — cut from the eye to the swarm inside the bunker]**
+>
+> *"The swarm works exactly the same way."*
+>
+> *"Every drone is a sharp eye. But only for the tiny piece of the bunker it is flying through. One corridor. One doorway. One room. Very sharply."*
+>
+> *"The boss drone at the top carries a blurry wide-angle view of the whole bunker. When a small drone reports 'four people in a room,' the boss already knows which room. She pastes the sharp observation onto her blurry map."*
+>
+> **[visual: a bunker floor plan being assembled, corridor by corridor, tile by tile, as drone reports light up the map]**
+>
+> *"No single drone ever sees the whole bunker."*
+>
+> *"The swarm does."*
+>
+> **[beat — 2 full seconds of silence on the assembled map]**
+>
+> *"Tonight, as the swarm moved through the bunker, it drew a complete map. Every corridor. Every stairwell. Every person inside it."*
+>
+> *"The map existed nowhere except inside the swarm itself. No server. No satellite. No signal going out. If you killed the whole swarm, the map died with it. You could not capture it. You could not copy it."*
+>
+> *"Until tonight, this was science fiction. Tonight, it was what killed the generals."*
+
+---
+
+#### 🔵 BEAT B-OLD (SUPERSEDED — kept for history) — Every drone has its own brain (superseded by the new Beat B above)
 
 **Why this beat exists:** every American drone program depends on a central command link (satellite → server → pilot). Jam the link, bomb the server, kill the pilot — the fleet goes blind in one second. Ours has no command link because every drone carries its own complete small brain on cheap consumer hardware and thinks locally. Source: MadHoney Ch7 "GiantQueens, DwarfQueens, and RajaBees Hidden in Plain Sight," architecture notes Rule 3.
 
@@ -314,9 +370,9 @@ Nir specified the invention demo runs from **1:00 to 3:00** (2 full minutes). Wi
 | 0:15-0:30 | missile arcs over Pacific; nose cone opens; drones pour out | *"Inside it — a swarm of small cheap drones. Military-hardened. Disposable. Nothing exotic. Anyone can build them."* | 👀 Secretary → 👔 Manager |
 | 0:30-0:50 | drones descend toward generic mountain bunker, enter through ventilation, interior corridors | *"They flew into one of our most secure military bunkers — buried deep under a mountain, walls lined with metal. No radio reaches in or out. And yet — they came in through the air vents."* | 👔 Manager |
 | 0:50-1:00 | bridge to mechanism middle | *"Until tonight, this was impossible. Every drone in history was either flown by a human on a radio — or too stupid to find a doorway. This was something new."* | 👔 Manager |
-| **1:00-1:45** | 🔵 **BEAT A** — old swarms falling out of the sky under jamming; new swarm passing short-text captions between drones inside the bunker | **Short-text-not-video paragraph** (bandwidth insight) | 👔 **Manager** |
-| **1:45-2:20** | 🔵 **BEAT B** — Raspberry Pi close-up inside a drone shell; American drone dying as its satellite link cuts; bunker drones with no signal needed | **Each-drone-has-own-brain paragraph** (no command link to cut) | 👔 **Manager → 🎖️ General** |
-| **2:20-3:00** | 🔵 **BEAT C** — identical-looking drones in flight; soldier shoots down one drone; reveal of another drone on the opposite side already taking over | **Scattered-queens paragraph** (no head to cut off) | 🎖️ **General** |
+| **1:00-1:40** | 🔵 **BEAT A** — old swarms falling from the sky under jamming; new swarm passing short-text captions between drones inside the bunker | **Short-text-not-video paragraph** (bandwidth — a few words fit through any pipe) | 👔 **Manager** |
+| **1:40-2:40** | 🔵 **BEAT B (the discovery)** — human eye close-up with fovea highlighted + peripheral defocused; cut to drone-swarm mirror shot; bunker floor plan assembling corridor-by-corridor as drone reports light up the map | **Fovea+peripheral paragraph** — sub-sampling / collective perception / *"no single drone sees the whole bunker, the swarm does"* / *"the map existed nowhere except inside the swarm itself"* | 👔 **Manager → 🎖️ General** |
+| **2:40-3:00** | 🔵 **BEAT C** — identical-looking drones in flight; soldier shoots down one drone; reveal of another drone on the opposite side already taking over | **Scattered-queens paragraph** (no head to cut off, all queens look identical, heart is everywhere and nowhere) | 🎖️ **General** |
 | 3:00-3:15 | the word **TOPOLOGY** on screen, then dissolves to star and tree drawings | *"All of this has a name. Topology. Topology just means shape..."* | 🎖️ General |
 | 3:15-3:30 | star drawing → California data center; tree drawing → military-rank-as-drones | *"America built a star... the new shape is a tree..."* | 🎖️ General → 💀 Board |
 | 3:30-3:45 | empty bunker corridors, silence, implied consequence — NO blood, NO bodies, NO gore | *"Everyone inside was gone within four minutes."* [grave pause] | 💀 Board |
