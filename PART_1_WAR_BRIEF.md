@@ -446,146 +446,225 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 
 ---
 
-### 🎬 SHOT LIST — every clip planned (revised 2026-04-16)
+### 🎬 SHOT LIST — final production plan (revised 2026-04-16 afternoon)
 
-**Kling settings:** Kling 3.0 Omni, 16:9, 1080p, reference image (NOT start frame). Duration: any integer 3-15 seconds — matched precisely to narration word count at ~2.2 words/sec documentary pace.
+**Kling settings:** Kling 3.0 Omni, 16:9, 1080p. Duration: any integer 3-15 seconds.
 
-**Constraints:** No Premiere effects. No still frames held over narration. No slow zooms. Only things Kling has seen in training data. Multiple reference images per concept for visual variety. Premiere used ONLY for simple text-on-black (emoji equation, closing equations, end card).
+**Two Kling modes used:**
+- **Reference image mode** — for standalone clips (cuts between different concepts). One reference image per clip.
+- **Start/end frame mode** — for CHAINED sequences (continuous shots). End frame of clip N = start frame of clip N+1. Result: clips look like one seamless continuous shot when placed back to back in Premiere.
 
-**Total: ~47 Kling clips + 3 Premiere text frames = ~7 minutes**
+**Headroom rule:** Every clip is generated 2-3 seconds LONGER than the narration needs. Trim the excess in Premiere. Much easier to cut than to stretch. A clip covering 8s of narration generates at 10-11s.
 
-#### HOOK (37s) — 5 clips
+**Three chain sequences (continuous seamless shots):**
+- **CHAIN A — The Ride In** (shots 2-8): drone swarm descending → mountain → vent → corridors → green HUD → TARGET ACQUIRED → TERMINATE. One continuous "ride" from the drone's POV.
+- **CHAIN B — Bunker Mapping** (shots 40-42 in Mechanism W): drone near door → CO2 wisps → wide shot of multiple drones at multiple doors. Silent mapping sequence.
+- **CHAIN C — The Deep Hunt** (shots 43-48 in Mechanism W): AUVs deploy → dive → spread → thermal wake → decoys launch → cross-reference → converge on real target.
 
-Narration: emoji silence → "Israeli invention exists. Chinese production starting." → "This ballistic missile is not carrying a bomb." [beat] "It is carrying something much worse." → "Inside it — a swarm of small cheap drones. Military-hardened. Disposable. Nothing exotic. Anyone can build them." → "They flew into one of our most secure military bunkers — buried deep under a mountain, walls lined with metal. No radio reaches in or out. And yet — they came in through the air vents."
+**Everything else = standalone clips** in reference-image mode with visual cuts between them (good for teaching segments — cuts help the viewer process concept changes).
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+---
+
+#### REFERENCE IMAGES NEEDED
+
+**For Chain A (The Ride In) — 9 transition-point images, used as start/end frames:**
+
+- **A1:** Swarm of black quadcopters high in the night sky, descending toward a dark mountain far below
+- **A2:** Drones much closer to the mountain, approaching a ventilation grate visible on the rock face
+- **A3:** Inside the ventilation shaft, dark metal tunnel, a drone entering from above
+- **A4:** Dim bunker corridor, emergency lighting, concrete walls, drone-height perspective looking forward
+- **A5:** Deeper corridor, wider, heavy doors on both sides, going further into the bunker
+- **A6:** Same corridor style but tinted night-vision phosphor green, faint HUD grid overlay
+- **A7:** Night-vision green, end of corridor, a heavy door, white text: TARGET ACQUIRED
+- **A8:** Night-vision green, through the doorway, a general at a desk with maps and screens, white text: MISSION OBJECTIVE: TERMINATE
+- **A9:** Same frame as A8 but frozen, with two white vertical pause rectangles overlaid center-screen
+
+**For Chain B (Bunker Mapping) — 4 transition-point images:**
+
+- **B1:** Small drone hovering silently in dim bunker corridor near a closed door, side angle
+- **B2:** Close-up: faint CO2 wisps seeping from under a door crack, drone nearby sensing
+- **B3:** Wider shot: bunker intersection, three drones visible near three different doors, each scanning
+- **B4:** Same intersection but a glowing map overlay is forming — rooms lighting up green (empty), yellow (machines), red (people)
+
+**For Chain C (The Deep Hunt) — 7 transition-point images:**
+
+- **C1:** Torpedo-shaped AUVs launching from the side of a dark naval vessel at the surface, angled downward into water
+- **C2:** AUVs mid-dive, spread apart, descending into deep dark blue water, visible sound-wave rings between them (dolphin echo)
+- **C3:** AUVs fully spread out in deep water, cruising in formation, dark blue all around
+- **C4:** Underwater view: a subtle warm-color gradient trail through cold dark blue — the thermal wake
+- **C5:** Same underwater scene but now five heat sources visible — the real trail plus four decoy trails spreading in different directions
+- **C6:** AUV swarm ignoring the four decoy trails (fading out), converging together on the one real trail
+- **C7:** Close shot: AUVs closing in from all sides on a single faint warm trail, dark ocean all around
+
+**Standalone reference images (one per clip, reference-image mode):**
+
+- **S1:** Ballistic missile on mobile transporter launcher, night, flames at base (ALREADY GENERATED — 01_missile_launch.png)
+- **S2-S5:** Feature tease — drones in sealed bunker; AUVs underwater; jammer truck; soldier shoots drone and swarm continues; drone swarm spread wide sensing
+- **S6-S13:** Mechanism X — glitchy video call person; same person voice-only phone; phone SMS screen; small drone transmitting; queen drone surrounded by workers; workers in separate corridors; queen combining answers glowing; drones in sealed Faraday room
+- **S14-S20:** Mechanism Y — person shouting across busy street; close-up ear with screamer; American drone with distant satellite dish; jammed drone wobbling; two hive drones 2m apart; same drones with distant jammer truck; relay chain of 5 drones passing message
+- **S21-S27:** Mechanism Z — cheap components on table; Chinese factory floor drone assembly line; packed-wallet board with hand for scale; piranhas circling in dark water; identical drone swarm no visible leader; massive data center exterior; data center with missile incoming; drone swarm at sunset dispersed
+- **S28-S30:** Unpause/aftermath — green HUD drone fires flash; empty corridor lights on nobody there; empty command room overturned chair screens glowing
+
+---
+
+#### CHAIN A — The Ride In (hook + attack + pause, ~70s total)
+
+One continuous seamless drone-POV shot from sky to bunker to general. Each clip's end frame = next clip's start frame. Kling start/end frame mode.
+
+| # | Start frame | End frame | Kling generates | Sec + headroom | Narration it covers |
+|---|---|---|---|---|---|
+| 1 | (standalone, ref mode) S1: missile on launcher, night | — | Missile launches, climbs into sky | 10 (8+2) | "Israeli invention exists..." + "not carrying a bomb..." |
+| 2 | A1: drones high in sky descending | A2: drones close to mountain, approaching vent | Drones descend through night sky toward mountain | 11 (9+2) | "Inside it — a swarm of small cheap drones..." |
+| 3 | A2: drones near mountain, vent visible | A3: inside vent shaft, drone entering | Drones approach and enter ventilation shaft | 8 (6+2) | "They flew into one of our most secure military bunkers..." |
+| 4 | A3: inside vent shaft | A4: dim corridor, emergency lights | Drone travels down dark shaft, emerges into corridor | 9 (7+2) | "...buried deep under a mountain, walls lined with metal..." |
+| 5 | A4: dim corridor | A5: deeper wider corridor, doors | Drone FPV through corridor, passing infrastructure | 9 (7+2) | "No radio reaches in or out. And yet — they came in through the air vents." + "Until tonight, this was impossible..." |
+| 6 | A5: wider corridor, doors | A6: night-vision green corridor | Corridor continues, view shifts to night-vision green tint | 7 (5+2) | "...every drone in history was either flown by a human on a radio — or too stupid to find a doorway." |
+| 7 | A6: green corridor | A7: green, door, TARGET ACQUIRED | Green HUD POV approaches a door, text appears | 7 (5+2) | "This was something new." [music intensifies] |
+| 8 | A7: TARGET ACQUIRED | A8: general at desk, TERMINATE | Green HUD POV enters room, closes in on general | 6 (4+2) | [music only, tension peak] |
+| 9 | A8: TERMINATE frame | A9: same frame frozen, white pause bars | Frame freezes, pause rectangles appear | 5 (3+2) | "But before that — let me show you how we got here." |
+
+**Chain A total: 9 clips, ~72s generated, ~60s after trimming headroom.** One seamless ride from the sky to the general's desk.
+
+---
+
+#### FEATURE TEASE (38s) — 5 standalone clips, reference-image mode
+
+Each observation gets its own distinct visual. Hard cuts between them are GOOD — each observation is a different capability, the cut helps the viewer reset.
+
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 1 | Ballistic missile on mobile launcher, night, flames | Missile launches, climbs into dark sky | 8 | "Israeli invention exists..." + "This ballistic missile is not carrying a bomb..." |
-| 2 | Swarm of black quadcopters descending through night sky toward mountain | Drones spreading out, descending | 9 | "Inside it — a swarm of small cheap drones..." |
-| 3 | Mountain bunker exterior, heavy blast doors, American military | Ominous establishing shot, camera pushes in | 6 | "They flew into one of our most secure military bunkers..." |
-| 4 | Single drone approaching industrial ventilation grate on mountainside | Drone enters vent | 7 | "...buried deep under a mountain, walls lined with metal..." |
-| 5 | Inside ventilation shaft, dark tunnel, drone entering | Drone descends into darkness | 7 | "...No radio reaches in or out. And yet — they came in through the air vents." |
+| 10 | Drones flying through sealed concrete bunker interior | Swarm navigating inside sealed space | 10 (8+2) | "Impossible, you say?..." + Obs #1 bunker |
+| 11 | Underwater AUVs in dark blue deep water, spread out | AUVs moving in formation through deep water | 9 (7+2) | Obs #2 underwater synchronize |
+| 12 | Military jammer truck, massive antenna array, lights active | Big jammer vehicle powering up | 9 (7+2) | Obs #3 cannot be jammed |
+| 13 | Soldier fires at drone, it explodes, rest of swarm continues | Drone hit, swarm doesn't flinch | 10 (8+2) | Obs #4 no command center |
+| 14 | Drone swarm spread wide over terrain, scanning below | Swarm spread out, sensing the ground | 10 (8+2) | Obs #5 finds the invisible |
 
-**Note:** No nose-cone-opening shot. Skip the exit — show missile, cut to drones already in air. Viewer's imagination fills in the release.
+---
 
-#### ATTACK (25s) — 5 clips
+#### MECHANISM X — SMS ladder + divide-and-conquer (94s) — 8 standalone clips
 
-Narration: "Until tonight, this was impossible. Every drone in history was either flown by a human on a radio — or too stupid to find a doorway. This was something new." → [no narration during HUD approach, just music and HUD sounds]
+Teaching segment. Cuts between different concepts (phone → drones → queen) are GOOD — they signal "new idea" to the viewer.
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 6 | Dim bunker corridor, emergency lighting, drone height perspective | FPV moving through corridor | 7 | "Until tonight, this was impossible..." |
-| 7 | Different corridor, wider, doors on both sides, deeper inside | FPV passing doors, going deeper | 4 | "...every drone in history was either flown by a human..." |
-| 8 | Night-vision green corridor, faint HUD elements | Green-tinted FPV, approaching turns | 5 | "...or too stupid to find a doorway. This was something new." |
-| 9 | Night-vision green, door at end of corridor, white text TARGET ACQUIRED | Green POV, closing in on a door | 5 | [music only, HUD sounds] |
-| 10 | Night-vision green, general at desk through doorway, MISSION OBJECTIVE: TERMINATE | Green POV, figure visible, we approach | 4 | [music only, tension peak] |
+| 15 | Person on glitchy video call, pixelated face, frustrated | Video call breaking up, freezing | 12 (10+2) | "You know how when you are on a video call..." |
+| 16 | Same person switched to phone to ear, calmer, voice only | Talking on phone, no video | 10 (8+2) | "...switch to voice only...voice takes less room..." |
+| 17 | Phone screen showing SMS text bubbles appearing | Texts popping up one by one | 10 (8+2) | "...drop to text messages. SMS...always at SMS level...Like Generation Z." |
+| 18 | Close-up small black drone, antenna pulsing faint light | Drone hovering, transmitting a tiny message | 15 (13+2) | "Now you might think SMS is too small to be smart...Here is how the swarm builds a big brain..." |
+| 19 | Queen drone center frame, worker drones around her | Queen receiving messages from all sides | 14 (12+2) | "The queen gets a task. She splits it...Each worker thinks about her own piece..." |
+| 20 | Workers in separate bunker corridors, each scanning their section | Each worker doing her piece independently | 14 (12+2) | "...sends back a short answer. The queen collects...combines them into one final answer." |
+| 21 | Queen drone glowing, combining answers, bunker map forming | Queen combines everything | 12 (10+2) | "That is the whole trick. The big brain is not in California..." |
+| 22 | Drones operating inside sealed metal room, no windows | Working inside Faraday cage / bunker | 13 (11+2) | "...they can do this anywhere...Underwater...metal bunker...Faraday cage...the big brain flies with them." |
 
-**Note:** Night-vision green = phosphor green of actual NVGs. White text overlays. Try text in Kling prompt; add in Premiere only if Kling fails.
+---
 
-#### PAUSE (5s) — 1 clip
+#### MECHANISM Y — jamming (80s) — 7 standalone clips
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 11 | Frozen green HUD frame with two white pause rectangles | Nearly-still, slight static/flicker | 5 | "But before that — let me show you how we got here." |
+| 23 | Busy street, two people far apart, one shouting, traffic | Person trying to shout across noisy street | 10 (8+2) | "Imagine your friend is standing across a busy street..." |
+| 24 | Close-up ear, another person screaming right next to it | Screamer overwhelming the listener | 8 (6+2) | "Now imagine someone walks up right next to your ear..." |
+| 25 | American military drone in sky, satellite dish far below | Drone high up, long-distance link | 14 (12+2) | "Every drone flying today has a brain somewhere far away...the thinking happens somewhere else..." |
+| 26 | Same drone wobbling, jammer aircraft nearby | Drone going blind and drifting | 10 (8+2) | "The hive has no brain far away. The brain is inside the swarm. The queen is two meters..." |
+| 27 | Two hive drones very close, 2 meters apart, mid-air | Two drones in tight intimate conversation | 14 (12+2) | "Not in Ukraine. Not in California. Not in a relay truck...jammer would have to stand closer than two meters..." |
+| 28 | Same two drones, massive jammer truck far in background, tiny | Drones talking, jammer powerless in distance | 15 (13+2) | "...the drones change frequency with every message...like switching radio stations mid-sentence..." |
+| 29 | Chain of 5 drones in corridor, passing glowing message | Relay chain — drone to drone to drone | 11 (9+2) | "...message steps around it...like passing a note around a dead desk...That is not jamming. That is magic." |
 
-#### FEATURE TEASE (38s) — 5 clips
+---
 
-Narration: "Impossible, you say? This is not just any swarm. It is a hive. And a hive can do five things that are impossible for any conventional swarm." → five numbered observations, ~6s each.
+#### MECHANISM Z — no head to cut off (80s) — 8 standalone clips
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 12 | Drones flying through sealed concrete bunker interior | Swarm navigating inside sealed space | 8 | "Impossible, you say?..." + Obs #1 bunker |
-| 13 | Underwater AUVs in dark blue deep water, spread out | AUVs moving in formation through deep water | 7 | Obs #2 underwater synchronize |
-| 14 | Military jammer truck with massive antenna array, lights active, radiating | Big jammer vehicle powering up | 7 | Obs #3 cannot be jammed |
-| 15 | Soldier fires at a drone, it explodes, rest of swarm continues unfazed | Drone hit, swarm doesn't flinch | 8 | Obs #4 no command center |
-| 16 | Drone swarm spread wide over terrain, scanning everything below | Swarm spread out, sensing the ground | 8 | Obs #5 finds the invisible |
+| 30 | Pile of cheap parts: quadcopter frame, propellers, packed-wallet board, wires | Off-the-shelf components on table | 10 (8+2) | "Every piece of this swarm is cheap. Off the shelf. Ready made..." |
+| 31 | Chinese factory floor, hundreds of identical drones on assembly line | Mass production rolling out | 10 (8+2) | "...factory products anyone can buy...free and open source, made in China, downloaded in minutes." |
+| 32 | Close-up packed-wallet board, hand for scale | The tiny brain, smaller than a hand | 8 (6+2) | "Each one of those tiny brains is weak. Alone, it is not impressive." |
+| 33 | School of piranhas in dark water, circling, predatory | Piranhas hunting as a pack | 12 (10+2) | "The queen takes a hard problem...A pack of piranhas becomes a Great White shark." |
+| 34 | Swarm of identical drones in flight, impossible to tell apart | All identical, no visible leader | 14 (12+2) | "That is the magic...live backups, flying with the swarm...identical...Shoot one queen down — a backup takes over." |
+| 35 | Massive American data center, glass and steel, glowing | Dozens of billions in one building | 10 (8+2) | "America also wants a backup...each American AI center costs dozens of billions..." |
+| 36 | Same data center, missile streaking toward it | One missile about to kill everything | 8 (6+2) | "One missile hits it — and all the drones become no-brainers." |
+| 37 | Drone swarm at sunset, unstoppable, dispersed across sky | Cannot scatter a data center. The hive can. | 14 (12+2) | "You cannot scatter...cannot hide...cannot build a spare...The hive can. Because every brain costs less than dinner." |
 
-#### MECHANISM X — SMS ladder (94s) — 8 clips
+---
 
-Beat 1 narration: "You know how when you are on a video call..." (~85 words = 39s)
-Beat 2 narration: "Now you might think SMS is too small..." (~70 words = 32s)
-Beat 3 narration: "And because they only ever pass short text..." (~50 words = 23s)
+#### CHAIN B — Bunker Mapping (Mechanism W part 1, ~30s total)
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+Continuous seamless shot of drones silently mapping the bunker. Start/end frame mode.
+
+| # | Start frame | End frame | Kling generates | Sec + headroom | Narration it covers |
+|---|---|---|---|---|---|
+| 38 | B1: drone near closed door, side angle | B2: CO2 wisps under door, drone sensing | Drone floats to a door, CO2 wisps appear | 14 (12+2) | "The drones enter the bunker...a few cheap sensors...CO2 smells the breath...infrared feels which rooms..." |
+| 39 | B2: CO2 wisps, drone sensing | B3: intersection, 3 drones at 3 doors | Pull back to reveal multiple drones at multiple doors | 8 (6+2) | "No single sensor tells you much. But the queen cross-references..." |
+| 40 | B3: 3 drones at 3 doors | B4: intersection, glowing map overlay forming | Map lights up — green empty, yellow machines, red people | 10 (8+2) | "A room can fool one sensor. It cannot fool all three. The map appears before a single shot is fired." |
+
+---
+
+#### TRANSITION — "Let us check a tough one" (3s standalone)
+
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 17 | Person on glitchy video call, pixelated face, frustrated | Video call breaking up, freezing | 10 | "You know how when you are on a video call with a friend and the reception gets bad..." |
-| 18 | Same person switched to phone held to ear, calmer, voice only | Talking on phone, no video | 8 | "...you turn off the video and switch to voice only...Because voice takes less room..." |
-| 19 | Phone screen showing SMS text bubbles, simple short messages | Texts appearing one by one | 8 | "...you drop to text messages. SMS...The drones in the swarm are always at SMS level..." |
-| 20 | Close-up small black drone, antenna pulsing faint light | Drone hovering, transmitting a tiny message | 13 | "...Like Generation Z." + "Now you might think SMS is too small to be smart..." |
-| 21 | Queen drone center frame, 6 worker drones around her, each in a different direction | Queen receiving short messages from all directions | 12 | "The queen gets a task. She splits it into smaller pieces..." |
-| 22 | Workers in separate bunker corridors, each scanning their own section | Split screen feel — each worker doing her own piece | 12 | "Each worker thinks about her own piece and sends back a short answer..." |
-| 23 | Queen drone glowing, combining answers, bunker map forming around her | Queen combines everything into one answer | 10 | "That is the whole trick. The big brain is not in California..." |
-| 24 | Drones operating inside a sealed metal room, no windows, no cables going out | Working inside sealed Faraday cage | 11 | "And because they only ever pass short text...Underwater...Inside a metal bunker...Faraday cage..." |
+| 41 | Dark ocean surface at night, moonlight on waves | Camera dives below the surface into dark water | 5 (3+2) | "Spotting people in a bunker is easy. Let us check a tough one." |
 
-#### MECHANISM Y — jamming (80s) — 7 clips
+---
 
-Narration: ~175 words = ~80s
+#### CHAIN C — The Deep Hunt (Mechanism W part 2, ~65s total)
 
-| # | Reference image | Kling clip | Sec | Narration it covers |
+Continuous seamless underwater sequence. Start/end frame mode.
+
+| # | Start frame | End frame | Kling generates | Sec + headroom | Narration it covers |
+|---|---|---|---|---|---|
+| 42 | C1: AUVs launching from vessel, diving | C2: AUVs mid-dive, spreading, sound waves | AUVs deploy and dive into the deep | 14 (12+2) | "cheap autonomous underwater vehicles...inertial navigation, Doppler velocity log, depth from pressure..." |
+| 43 | C2: AUVs mid-dive, spreading | C3: AUVs fully spread, cruising deep | AUVs spread out, pinging each other with echo | 14 (12+2) | "...thinking together, they spread out autonomously — navigating by pinging with sound, the way dolphins navigate by echo..." |
+| 44 | C3: AUVs spread, cruising | C4: thermal wake trail visible | AUVs detect a warm trail in the cold water | 10 (8+2) | "A submarine leaves a thermal wake...NumPy, SciPy, FilterPy...Points become vectors. Vectors become curves." |
+| 45 | C4: thermal wake | C5: five heat sources, decoys spreading | Decoys launch, suddenly five trails appear | 10 (8+2) | "But a submarine commander is not stupid. He shoots decoys...Suddenly five heat sources in the water." |
+| 46 | C5: five heat sources | C6: AUVs ignoring fakes, converging on real | AUV swarm rejects decoys, converges on real trail | 14 (12+2) | "The queen cross-references. One target is hot, AND noisy, AND pushing water...They fooled the thermistor. They could not fool all three." |
+| 47 | C6: converging on real trail | C7: AUVs closing in from all sides | AUVs tighten around the real submarine's trail | 12 (10+2) | "The information was never inside any one drone. It was in the differences between them." |
+
+---
+
+#### UNPAUSE + AFTERMATH (20s) — 3 standalone clips
+
+| # | Reference image | Kling clip | Sec + headroom | Narration it covers |
 |---|---|---|---|---|
-| 25 | Busy street, two people far apart, one shouting, traffic between them | Person trying to shout across noisy street | 8 | "Imagine your friend is standing across a busy street, shouting something important to you..." |
-| 26 | Close-up of a person's ear, another person screaming right next to it | Someone screaming directly into listener's ear | 6 | "Now imagine someone walks up right next to your ear and starts screaming..." |
-| 27 | American military drone in sky, tiny satellite dish far below on the ground | Drone flying high, long-distance command link visualized | 12 | "Every drone flying today has a brain somewhere far away...the thinking happens somewhere else..." |
-| 28 | Same drone, jammer aircraft flying close, drone wobbling, losing control | Drone going blind and drifting | 8 | "The hive has no brain far away. The brain is inside the swarm..." |
-| 29 | Two hive drones very close together, 2 meters apart, mid-air, intimate | Two drones in tight conversation, close-up | 12 | "The queen is two meters from her workers. Not in Ukraine. Not in California..." |
-| 30 | Same two drones, massive jammer truck far in background, tiny and irrelevant | Drones talking, jammer powerless in the distance | 15 | "To jam the conversation between two drones two meters apart...the drones change frequency...message steps around it..." |
-| 31 | Chain of 5 drones in a corridor, passing a glowing message one to the next | Relay chain — drone to drone to drone | 9 | "To jam this hive, you would need to be everywhere at once...That is not jamming. That is magic." |
+| 48 | Green HUD POV, drone aims, flash of light | Drone fires, screen whites out | 6 (4+2) | [music only, the kill] |
+| 49 | Empty bunker corridor, lights on, nobody there, dust settling | Eerie drift through empty corridor | 10 (8+2) | "Everyone inside was gone within four minutes." [grave pause] |
+| 50 | Empty command room, overturned chair, screens glowing | The room where the general was | 10 (8+2) | [silence, music fading] |
 
-#### MECHANISM Z — no head to cut off (80s) — 8 clips
-
-Narration: ~175 words = ~80s
-
-| # | Reference image | Kling clip | Sec | Narration it covers |
-|---|---|---|---|---|
-| 32 | Pile of cheap components on a table: quadcopter frame, propellers, packed-wallet board, wires, SD cards | Off-the-shelf parts, nothing exotic | 8 | "Every piece of this swarm is cheap. Off the shelf. Ready made..." |
-| 33 | Chinese factory floor, hundreds of identical small drones on assembly line | Mass production, endless drones rolling out | 8 | "...The quadcopters are factory products...The AI models...free and open source, made in China..." |
-| 34 | Close-up of packed-wallet single-board computer, hand holding it for scale | The tiny brain, smaller than a hand | 6 | "Each one of those tiny brains is weak. Alone, it is not impressive..." |
-| 35 | School of piranhas in dark water, circling, predatory | Piranhas hunting together as a pack | 10 | "The queen takes a hard problem, splits it into small pieces...A pack of piranhas becomes a Great White shark." |
-| 36 | Swarm of identical drones in flight formation, impossible to tell apart | All identical, no visible leader, scattered queens hidden | 12 | "That is the magic...you can have live backups, flying with the swarm...they look identical...Shoot one queen down — a backup queen takes over." |
-| 37 | Massive American data center exterior, glass and steel, glowing with power | Dozens of billions of dollars in one building | 8 | "America also wants a backup for its AI. But each American AI center costs dozens of billions of dollars..." |
-| 38 | Same data center, a missile streaking toward it, moment before impact | One missile about to destroy everything | 6 | "One missile hits it — and all the drones become no-brainers." |
-| 39 | Drone swarm in flight at sunset, unstoppable, dispersed across the sky | You cannot scatter a data center. The hive can. | 12 | "You cannot scatter a data center...You cannot hide it among drones...The hive can. Because every brain in it costs less than dinner." |
-
-#### MECHANISM W — finds the invisible (100s) — 10 clips
-
-Narration: ~220 words = ~100s
-
-| # | Reference image | Kling clip | Sec | Narration it covers |
-|---|---|---|---|---|
-| 40 | Small drone hovering silently in dim bunker corridor near a closed door | Drone floating quietly past a door, scanning | 12 | "The drones enter the bunker through the ventilation, silently...Every drone carries a few cheap sensors..." |
-| 41 | Close-up: faint CO2 wisps seeping from under a door crack (artistic) | Breath vapor escaping from occupied room | 6 | "The CO2 smells the breath seeping out...The infrared feels which rooms are warm..." |
-| 42 | Wide shot: several drones spread across bunker intersection, each near a different door | Multiple drones mapping simultaneously | 12 | "No single sensor tells you much. But the queen cross-references...A room can fool one sensor. It cannot fool all three." |
-| 43 | Torpedo-shaped AUVs launching from a dark vessel, diving into deep water | AUVs deploying and heading down into the deep | 10 | "Spotting people in a bunker is easy. Let us check a tough one...cheap autonomous underwater vehicles..." |
-| 44 | AUVs cruising spread out in deep dark water, pinging each other with visible sound waves | AUVs navigating by echo, spreading out autonomously | 12 | "First, they reach the patrol zone using inertial navigation...navigating relative to each other by pinging with sound, the way dolphins navigate by echo..." |
-| 45 | Underwater: subtle warm color gradient trail through cold dark blue water | Thermal wake visible as faint warm trail | 8 | "A submarine leaves a thermal wake...scaffolding code turns the raw readings into tracks...Points become vectors. Vectors become curves." |
-| 46 | Small missile-like decoys launching from the side of an underwater submarine hull | Decoys deploying from sub | 8 | "But a submarine commander is not stupid. He shoots decoys...Suddenly there are five heat sources in the water." |
-| 47 | AUV swarm, some peeling away from decoys, converging on one real trail | Cross-referencing works, fakes rejected, real target identified | 12 | "The queen cross-references. One target is hot, AND noisy, AND pushing water...They fooled the thermistor. They could not fool all three." |
-| 48 | Dark ocean, a single faint warm trail, AUVs closing in on it from all sides | The real submarine found, AUVs converging | 10 | "The information was never inside any one drone. It was in the differences between them." |
-
-#### UNPAUSE + AFTERMATH (20s) — 3 clips
-
-| # | Reference image | Kling clip | Sec | Narration it covers |
-|---|---|---|---|---|
-| 49 | Green HUD POV, drone aims at general, flash of light | Drone fires, screen whites out | 4 | [music only, no narration, the kill] |
-| 50 | Empty bunker corridor, lights on, eerie, nobody there, dust settling | Slow drift through empty corridor | 8 | "Everyone inside was gone within four minutes." [grave pause] |
-| 51 | Different angle: empty command room, overturned chair, screens still glowing | Aftermath, the room where the general was | 8 | [silence, music fading] |
+---
 
 #### PREMIERE TEXT-ON-BLACK (20s) — simple text Nir makes in Premiere
 
 | # | What | Sec |
 |---|---|---|
-| 52 | Emoji equation: 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 on black (first frame of video, music starts) | 3 |
-| 53 | Closing equations: "America's fate = your call. Do nothing = China wins. Forward this = America lives." on black | 12 |
-| 54 | End card: YouTube: Nir Strulovitz + github.com/strulovitz on black, final music note | 5 |
+| 51 | Emoji equation: 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 on black (first frame of video, music starts) | 3 |
+| 52 | Closing equations: "America's fate = your call. Do nothing = China wins. Forward this = America lives." on black | 12 |
+| 53 | End card: YouTube: Nir Strulovitz + github.com/strulovitz on black, final music note | 5 |
+
+---
 
 #### TOTALS
 
-- **48 Kling clips** totaling ~427 seconds (~7 min 7 sec)
-- **3 Premiere text-on-black frames** totaling ~20 seconds
-- **Grand total: ~447 seconds = ~7 min 27 sec**
-- Every clip duration precisely matched to its narration word count
-- No dead frames, no slow zooms, no held stills
-- Visual variety: multiple angles per concept, new image every 4-15 seconds
+**Kling clips:** 50 total
+- Chain A (The Ride In): 9 clips, ~72s generated, ~60s after trim
+- Chain B (Bunker Mapping): 3 clips, ~32s generated, ~26s after trim
+- Chain C (The Deep Hunt): 6 clips, ~74s generated, ~62s after trim
+- Standalone clips: 32 clips, ~352s generated, ~290s after trim
+
+**Premiere text frames:** 3 total, ~20s
+
+**Grand total generated:** ~530s of Kling video (~8:50)
+**Grand total after trimming headroom:** ~458s (~7:38)
+**Premiere text:** ~20s
+**Final video runtime:** ~478s = **~7 min 58 sec**
+
+**Reference images to generate in OpenArt:** ~50 total
+- Chain A: 9 transition-point images (A1-A9)
+- Chain B: 4 transition-point images (B1-B4)
+- Chain C: 7 transition-point images (C1-C7)
+- Standalone: ~30 reference images (S1-S30)
+- S1 (missile launch) already generated
+
+**Production order:** Generate ALL reference images first, then generate Kling clips in video order. Chains must be generated in order (clip 1 before clip 2) because the end frame must exist before the next clip can use it as start frame.
 
 ---
 
