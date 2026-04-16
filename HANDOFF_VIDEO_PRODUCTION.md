@@ -2,7 +2,11 @@
 
 **Written by:** Laptop Windows Claude, 2026-04-16 evening
 **For:** The next Claude Code session continuing the video production (likely Desktop Windows Claude)
-**Source of truth:** `PART_1_WAR_BRIEF.md` — read this FIRST, end to end, especially the shot list and production stack sections.
+**Source of truth:** `PART_1_WAR_BRIEF.md` — read this FIRST, end to end.
+
+**Where to find the remaining scenes:** In `PART_1_WAR_BRIEF.md`, search for **"SHOT LIST"** — that section has every remaining clip planned with durations, reference image descriptions, and which narration text goes with each clip. The locked narration texts for all 4 mechanisms (X, Y, Z, W) are earlier in the same file — search for **"MECHANISM X"**, **"MECHANISM Y"**, **"MECHANISM Z"**, **"MECHANISM W"** to find each one.
+
+**Direct link:** https://github.com/strulovitz/BeeSting/blob/master/PART_1_WAR_BRIEF.md
 
 ---
 
