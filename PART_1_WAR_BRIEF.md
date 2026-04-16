@@ -356,6 +356,53 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 
 ---
 
+### 🔪 MECHANISM Z — no head to cut off (locked 2026-04-16 morning)
+
+**What this teaching cashes:** Observation #4 — *"A hive has no command center to hit. Every drone you kill, another is already doing its job."*
+
+**Runtime:** ~45-60 seconds.
+
+**The teaching's spine:** The backup is only possible because everything is cheap and off-the-shelf. America also wants redundancy, but their AI brain costs dozens of billions — one missile kills it and all drones become no-brainers. The hive's brain costs less than dinner, so you can scatter live backups across the swarm.
+
+**The piranhas-to-Great-White line is the core insight:** a hundred weak brains working on pieces of the same problem become one strong brain. This is the magic that did not exist until today. This is what enables everything — the cheap backups, the scattered queens, the unkillable hive mind.
+
+**Narration (locked by Nir 2026-04-16 morning):**
+
+> *"Observation four said: a hive has no command center to hit. Here is why."*
+>
+> *"Every piece of this swarm is cheap. Off the shelf. Ready made. The quadcopters are factory products anyone can buy. The brains inside them are hobby computers the size of a packed wallet. The AI models running on those brains are free and open source, made in China, downloaded in minutes."*
+>
+> *"Each one of those tiny brains is weak. Alone, it is not impressive. But the hive does not use them alone."*
+>
+> *"The queen takes a hard problem, splits it into small pieces, hands each piece to a different drone, and combines the answers into one. A hundred weak brains, working together on pieces of the same problem, become one strong brain. A pack of piranhas becomes a Great White shark."*
+>
+> *"That is the magic that did not exist until today. That is what makes all of this possible."*
+>
+> *"And because every piece is cheap — you can have live backups, flying with the swarm. The queens are scattered among the workers. From the outside, they look identical to every other drone. Shoot one queen down — a backup queen takes over."*
+>
+> *"America also wants a backup for its AI. But each American AI center costs dozens of billions of dollars. One missile hits it — and all the drones become no-brainers."*
+>
+> *"You cannot scatter a data center across a battlefield. You cannot hide it among drones. You cannot build a spare one and have it ready just in case."*
+>
+> *"The hive can. Because every brain in it costs less than dinner."*
+
+**Register rules:**
+- "Off the shelf. Ready made." — these are the words that give senior military people a hard-on. They mean "easy to do, no R&D needed, production-ready." Here they trigger fear instead of excitement, because the enemy has them.
+- "Packed wallet" not "credit card" — the single-board computer has components on it, it is not flat.
+- "A pack of piranhas becomes a Great White shark" — the quotable. Task parallelism explained in one image. The general repeats this line at the board meeting.
+- "Dozens of billions" not "tens of billions" — "dozens" carries contempt for the absurdity of the cost, "tens" sounds measured.
+- "Costs less than dinner" echoes Mechanism X's register — the hive's advantages all trace back to cheapness.
+- Do NOT say "already thinking from the moment the mission started" — technically incorrect for backup queens.
+- Do NOT say "spares" — sounds like warehouse inventory back home. Say "live backups, flying with the swarm."
+
+**What this teaching covers that Mechanism X did not:**
+- 💰 Off-the-shelf cheap components (quadcopters, packed-wallet brains, free Chinese AI)
+- 🦈 Piranhas → Great White (task parallelism as the enabling magic)
+- 🔪 Scattered identical queens with live flying backups
+- 💥 Asymmetry: dozens of billions vs less than dinner, one missile kills America's brain
+
+---
+
 ### 🧠 MECHANISM X — older single-paragraph version (superseded, kept for history)
 
 After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
