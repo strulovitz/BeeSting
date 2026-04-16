@@ -446,6 +446,122 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 
 ---
 
+### 🎬 SHOT LIST — every clip planned (locked 2026-04-16)
+
+**Constraints:** Every clip is 5s or 10s Kling generation. No Premiere effects. No still frames held over narration. No "slow zooms." Only things Kling has seen in training data (real-world footage). Multiple angles per concept to keep visuals dynamic. Premiere used ONLY for simple text-on-black (emoji equation, closing equations, end card).
+
+**Total: 51 Kling clips + 3 Premiere text frames = ~7 minutes**
+
+#### HOOK (35s) — 5 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 1 | Missile on launchpad, night, flames at base | Missile launches, climbs | 10s |
+| 2 | Swarm of quadcopters descending from high altitude | Drones spreading out, descending toward mountain | 10s |
+| 3 | Mountain bunker exterior, blast doors | Establishing shot, ominous | 5s |
+| 4 | Single drone approaching ventilation grate | Drone enters vent | 5s |
+| 5 | Inside vent shaft, looking down, drone entering dark tunnel | Drone descends into darkness | 5s |
+
+**Note:** No nose-cone-opening shot. Drones exit sideways like paratroopers, not forward into air resistance. But we skip the exit entirely — show missile, cut to drones already in the air. Viewer's imagination fills in the release.
+
+#### ATTACK (20s) — 4 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 6 | Drone POV, dim corridor, emergency lights | FPV moving through corridor | 5s |
+| 7 | Different corridor, wider, doors on both sides | FPV moving, passing doors | 5s |
+| 8 | Night-vision green POV, corridor, white text TARGET ACQUIRED | Green tint, approaching a door | 5s |
+| 9 | Night-vision green POV, general at desk, TERMINATE | Green tint, closing in on figure | 5s |
+
+**Note:** Night-vision green = phosphor green of actual NVGs, NOT military uniform green. White text overlays. Try text in Kling prompt first; add in Premiere if Kling can't handle text.
+
+#### PAUSE (5s) — 1 clip
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 10 | Frozen green HUD frame with two white pause rectangles | Nearly-still 5s clip, HUD frozen, slight static/flicker | 5s |
+
+#### FEATURE TEASE (38s) — 5 clips, one per observation
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 11 | Drones flying through concrete bunker interior | Swarm navigating sealed space | 10s |
+| 12 | Underwater AUVs in dark blue water | AUVs moving together in formation | 5s |
+| 13 | Military jammer truck, antenna array, radiating waves | Big jammer vehicle, lights active | 5s |
+| 14 | Soldier shooting down a drone, swarm continues | Drone hit, swarm doesn't stop | 10s |
+| 15 | Drone swarm over open terrain, sensing the ground below | Swarm spread wide, scanning | 10s |
+
+#### MECHANISM X — SMS ladder + divide-and-conquer (75-90s) — 10 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 16 | Person on glitchy video call, pixelated face | Video call breaking up | 5s |
+| 17 | Same person switched to voice only, phone to ear, relieved | Talking on phone, calmer | 5s |
+| 18 | Phone screen with SMS text bubbles appearing | Texts popping up on screen | 5s |
+| 19 | Close-up of a small drone, antenna blinking, sending a tiny pulse | Drone transmitting a short message | 5s |
+| 20 | Two drones facing each other, small text arrow between them | Short message passing drone to drone | 5s |
+| 21 | Queen drone from above, surrounded by worker drones | Queen receiving messages from all sides | 10s |
+| 22 | Queen drone from the side, workers spread out in corridors | Different angle of the hierarchy in action | 10s |
+| 23 | Wide shot: workers in separate corridors each scanning their section | Each worker doing her piece | 10s |
+| 24 | Queen drone with a glowing combined-answer visual | Queen combines the answers | 5s |
+| 25 | Drones operating inside a sealed metal room, no windows | Works inside Faraday cage / bunker | 10s |
+
+#### MECHANISM Y — jamming (60s) — 7 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 26 | Busy street, person A far away shouting | Person trying to be heard across traffic | 5s |
+| 27 | Person C right next to listener's ear, screaming | Jammer overwhelming the message | 5s |
+| 28 | American military drone in sky, satellite dish far below | The long-distance command link | 10s |
+| 29 | Same drone, jammer aircraft nearby, drone losing signal | Drone going blind, drifting | 5s |
+| 30 | Two hive drones close together, 2 meters apart | Close conversation, intimate distance | 10s |
+| 31 | Same two drones, jammer truck far in background, tiny | Jammer is far, drones ignore it | 10s |
+| 32 | Chain of drones passing message along corridor, one by one | Relay chain in action, drone to drone to drone | 10s |
+
+#### MECHANISM Z — no head to cut off (45-60s) — 7 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 33 | Pile of cheap components: quadcopter frame, propellers, packed-wallet board, wires | Off-the-shelf parts on a table | 5s |
+| 34 | Factory floor, hundreds of identical drones on assembly line | Mass production, cheap, ready | 5s |
+| 35 | Close-up of packed-wallet single-board computer, hand for scale | The brain, tiny and cheap | 5s |
+| 36 | One drone splitting a task — visual of question marks going to multiple drones | Piranhas concept — many small ones working | 10s |
+| 37 | Swarm in flight, all identical, no visible leader | Identical drones, impossible to tell queen from worker | 10s |
+| 38 | Soldier shoots down one drone, swarm continues without pause | Drone explodes, nothing changes | 5s |
+| 39 | Massive American data center, glowing, enormous | Billions of dollars in one building | 5s |
+
+#### MECHANISM W — finds the invisible (60-90s) — 9 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 40 | Small drone hovering silently near a closed bunker door | Drone scanning a door, quiet | 5s |
+| 41 | Same corridor, different drone near different door | Multiple drones mapping simultaneously | 5s |
+| 42 | Wide shot: several drones spread across bunker intersection, each near a different door | The whole grid sensing at once | 10s |
+| 43 | Close-up: CO2 wisps seeping under a door crack (artistic) | Breath escaping from occupied room | 5s |
+| 44 | Torpedo-shaped AUVs launching from a vessel, diving into water | AUVs deploying, heading down | 10s |
+| 45 | AUVs cruising spread out in deep dark water | Spread out, each carrying sensors | 10s |
+| 46 | Underwater: subtle warm color gradient trail in cold blue | Thermal wake visible | 5s |
+| 47 | Small missile-like decoy launching from submarine hull | Decoys deploying | 5s |
+| 48 | AUV swarm ignoring decoys, converging on real trail | Cross-referencing works, fakes rejected | 10s |
+
+#### UNPAUSE + AFTERMATH (20s) — 3 clips
+
+| # | Reference image description | Kling clip | Duration |
+|---|---|---|---|
+| 49 | Green HUD POV, drone fires at target | Fire, screen whites out | 5s |
+| 50 | Empty corridor, lights on, nobody there | Eerie emptiness | 10s |
+| 51 | Different empty corridor angle, chairs knocked over | Aftermath, everyone gone | 5s |
+
+#### PREMIERE TEXT-ON-BLACK (25s)
+
+| # | What | Duration |
+|---|---|---|
+| 52 | Emoji equation: 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 on black | 5s |
+| 53 | Closing equations on black (three lines) | 15s |
+| 54 | End card: YouTube: Nir Strulovitz + github.com/strulovitz on black | 10s |
+
+---
+
 ### 🧠 MECHANISM X — older single-paragraph version (superseded, kept for history)
 
 After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
