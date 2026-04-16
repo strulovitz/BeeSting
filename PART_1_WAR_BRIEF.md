@@ -245,7 +245,7 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 | Time | What | Who it hooks |
 |---|---|---|
 | **Hook** (~0:30) | Emoji equation 🇨🇳 💪 ➕ 🇮🇱 🧠 🟰 🇺🇸 💀 → first spoken line *"Israeli invention exists. Chinese production starting."* → missile launches → *"not a bomb, worse"* → nose cone opens, drones pour out → bunker entry through ventilation | 👀 Secretary |
-| **Attack proper** (~1:00) | Drones through corridors. The POV + Terminator-HUD drone's-eye view enters mid-way. We approach General X. Text overlays in Terminator green/red: `TARGET ACQUIRED`, `GENERAL X CONFIRMED`, `MISSION OBJECTIVE: TERMINATE`. Viewer quietly switches sides — they are now inside the attacker, rooting for completion. The discomfort of wanting the attack to succeed is the second hook, layered under the first. | 👀 Secretary → 👔 Manager |
+| **Attack proper** (~1:00) | Drones through corridors. The POV + military-HUD drone's-eye view enters mid-way. We approach General X. Text overlays in military green: `TARGET ACQUIRED`, `GENERAL X CONFIRMED`, `MISSION OBJECTIVE: TERMINATE`. Viewer quietly switches sides — they are now inside the attacker, rooting for completion. The discomfort of wanting the attack to succeed is the second hook, layered under the first. | 👀 Secretary → 👔 Manager |
 | ⏸️ **THE PAUSE** | Right before the kill. Two white vertical rectangles appear centered on screen — universal pause icon. The frame freezes. Narrator, calm: *"But before that — let me show you how we got here."* | Transition |
 | **Feature tease** (~30s) | 5 forensic observations of what the viewer just watched, 5-6 seconds each. Voice: observation, not marketing. Not *"our system can..."* — *"notice what this attack just did, that should not have been possible..."* The 5 observations are the promises the rest of the video will cash. | 👔 Manager |
 | 🧠 **Mechanism X** (~75-90s) | SMS ladder (video → voice → SMS, the drones are Gen Z) + divide-and-conquer (queen splits task → workers think → queen combines) + payoff (bunkers, underwater, Faraday cage, anywhere drones can fly). Three features cashed in one teaching. | 👔 Manager |
@@ -262,11 +262,11 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 **Why one pause beats four:**
 
 1. 🎭 **Hitchcock used single unbearable frozen moments, not strings of them.** One unresolved cliffhanger holds the entire teaching segment in tension. Four pauses dilute the tension across four smaller beats that each resolve quickly.
-2. 💰 **Kling only has to deliver one cinematic moment** (the Terminator POV approach + freeze frame). Everything else is illustration-grade b-roll over narration — Kling's sweet spot. Production budget spent where it matters.
+2. 💰 **Kling only has to deliver one cinematic moment** (the military-HUD POV approach + freeze frame). Everything else is illustration-grade b-roll over narration — Kling's sweet spot. Production budget spent where it matters.
 3. 📖 **The content carries the video, not the action.** The ~4 minutes between the pause and the unpause is pure content — feature tease + four mechanism teachings + the clean narration voice. If the ideas are real and original (they are), attention holds itself. No gimmicks needed.
 4. ⛔ **Zero repeat of the fighter-metaphor mistake.** The fighter cutaways were rejected earlier because they were production theater masquerading as content. Four action pauses would have been the same mistake in a different costume.
 
-**The one Hollywood moment — the Terminator POV + pause:**
+**The one Hollywood moment — the military-HUD POV + pause:**
 - Stylized HUD, not shaky-cam. Triggers action-movie brain, not found-footage brain.
 - Drone's-eye-view flips the viewer's emotional axis — they were an American watching an attack, now they are the attacker closing in, and they caught themselves rooting for completion. The discomfort is a second hook.
 - No body-cam rule suspended for this beat because the news-broadcast frame is already dead (killed earlier, see §0.5).
