@@ -403,6 +403,49 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 
 ---
 
+### 👁️ MECHANISM W — finds the invisible (locked 2026-04-16 morning)
+
+**What this teaching cashes:** Observation #5 — *"A hive can find a target it cannot see — by the air between the drones themselves."*
+
+**Runtime:** ~60-90 seconds.
+
+**The teaching's spine:** Two examples, easy then hard. Bunker: cross-referencing infrared + CO2 + microphone to map rooms before firing a shot. Submarine: autonomous underwater vehicles using real navigation (INS, DVL, depth-from-pressure), spreading out via dolphin-style acoustic pings, then cross-referencing thermistor + hydrophone + pressure to discriminate real submarine from decoys. Core principle in both: one sensor can be fooled, all three cannot.
+
+**Narration (locked by Nir 2026-04-16 morning):**
+
+> *"Observation five said: a hive can find a target it cannot see — by the air between the drones themselves."*
+>
+> *"The drones enter the bunker through the ventilation, silently. Nobody inside knows they are there. Every drone carries a few cheap sensors — an infrared sensor, a CO2 detector, a microphone. The CO2 smells the breath seeping out of occupied rooms. The infrared feels which rooms are warm and which are cold. The microphone picks up voices, machinery, silence. No single sensor tells you much. But the queen collects every reading from every corridor and cross-references them — CO2 says people, heat confirms it, voices confirm it again. A room can fool one sensor. It cannot fool all three at once. The map appears before a single shot is fired."*
+>
+> *"Spotting people in a bunker is easy. Let us check a tough one."*
+>
+> *"The same system can run on cheap autonomous underwater vehicles. First, they reach the patrol zone using inertial navigation, Doppler velocity log, and depth from pressure — no GPS, no satellite, no surface ship. Then, thinking together, they spread out autonomously — navigating relative to each other by pinging with sound, the way dolphins navigate by echo. Each one carries a thermistor, a hydrophone, and a pressure sensor. A submarine leaves a thermal wake — warmer water where it passed — and simple scaffolding code turns the raw readings into tracks: NumPy, SciPy, FilterPy for Kalman filtering. Points become vectors. Vectors become curves. The drones know where the submarine is heading."*
+>
+> *"But a submarine commander is not stupid. He shoots decoys — small missiles that produce heat, that maneuver, that are designed to look exactly like a submarine's thermal trail. Suddenly there are five heat sources in the water."*
+>
+> *"The queen cross-references. One target is hot, AND noisy, AND pushing water like something that weighs five thousand tons. The other four are hot — but silent, and weightless. They fooled the thermistor. They could not fool all three."*
+>
+> *"The information was never inside any one drone. It was in the differences between them."*
+
+**Register rules:**
+- Bunker section is QUIET — silent entry, mapping BEFORE any shots. No smoke, no chaos, no explosions during the sensing phase. Smoke comes only after targeting is done.
+- "A room can fool one sensor. It cannot fool all three at once." — the cross-referencing principle stated once for bunker, then demonstrated again for submarine. Same principle, harder target.
+- Infrared for bunker (air, works fine), thermistor for underwater (measures water temperature by contact, infrared dies in water after 2 meters).
+- Navigation terms are real: INS (inertial navigation system), DVL (Doppler velocity log), depth from pressure. These exist on every commercial AUV today.
+- "The way dolphins navigate by echo" — not bats, we are underwater.
+- Library names (NumPy, SciPy, FilterPy) add engineering credibility — this is real code, not a TED talk.
+- Nuclear submarines do NOT produce exhaust. Multi-modal cross-referencing uses thermal + acoustic + pressure (water displacement). Three modalities, not four.
+- "They fooled the thermistor. They could not fool all three." — the closing punch, same structure as the bunker version.
+
+**What this teaching covers:**
+- 👁️ Gradient field principle — information is in the differences between sensors, not in any single one
+- 🏗️ Cross-referencing multiple sensor types — one can be fooled, all three cannot
+- 🤖 Real AUV navigation — INS, DVL, depth-from-pressure, acoustic relative positioning
+- 🧠 AI layer — scaffolding (NumPy/SciPy/FilterPy) turns readings into tracks, queen's LLM discriminates real from decoy
+- 🎯 Decoy discrimination — the hard version of the same principle
+
+---
+
 ### 🧠 MECHANISM X — older single-paragraph version (superseded, kept for history)
 
 After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
