@@ -316,6 +316,46 @@ Part 1 runs on a **single Hitchcock-style pause**, not multiple action beats. Cl
 
 ---
 
+### ⚡ MECHANISM Y — jamming / near-field physics (locked 2026-04-16 morning)
+
+**What this teaching cashes:** Observation #3 — *"A hive cannot be jammed. No matter how powerful the jammer, it fails."*
+
+**Runtime:** ~60 seconds.
+
+**Context that informed the draft (NOT included in the narration):** Operation Spiderweb (June 1, 2025) — Ukraine's SBU struck five Russian air bases with 117 FPV quadcopters ($2,000 each), destroying ~12-13 strategic bombers across 4,300 km. Each drone had its own human pilot operating remotely from Ukraine, connected via Russian mobile phone networks (SIM cards). AI handled targeting + autonomous flight during signal loss. The drones used dead reckoning (no GPS) to avoid jamming. This is the current state of the art: the brain (human pilot) is still far away from the drone. The hive eliminates this distance entirely.
+
+**The ELI5 entry point:** Nir's shouting-across-the-street metaphor, then the "brain far away" framing (human with joystick OR cloud AI — both are far from the drone), then the hive's 2-meter proximity, then frequency hopping + relay chain as additional defenses.
+
+**Narration (locked by Nir 2026-04-16 morning):**
+
+> *"Observation three said: a hive cannot be jammed. Here is why."*
+>
+> *"Imagine your friend is standing across a busy street, shouting something important to you. Now imagine someone walks up right next to your ear and starts screaming. You cannot hear your friend anymore. That is jamming. Whoever is loudest at your ear wins."*
+>
+> *"Every drone flying today has a brain somewhere far away. Either a human sitting with a joystick, or a big AI running in a data center. The drone is just hands and eyes — the thinking happens somewhere else, and the instructions travel over radio."*
+>
+> *"The hive has no brain far away. The brain is inside the swarm. The queen is two meters from her workers. Not in Ukraine. Not in California. Not in a relay truck. Two meters."*
+>
+> *"To jam the conversation between two drones two meters apart, the jammer would have to stand closer than two meters. The only thing that close to a drone inside the swarm — is another drone inside the swarm."*
+>
+> *"And the drones change frequency with every message — like switching radio stations mid-sentence. And if one link does get jammed, the message steps around it, drone to drone to drone, like passing a note around a dead desk in a classroom."*
+>
+> *"To jam this hive, you would need to be everywhere at once, on every frequency at once, closer than two meters to every drone at once. That is not jamming. That is magic."*
+
+**Register rules:**
+- "Brain far away" is the load-bearing frame — it covers BOTH human-piloted (Spiderweb-style) and cloud-AI (American-style) without naming either specifically. The viewer fills in whichever they know.
+- "Not in Ukraine. Not in California. Not in a relay truck." — three concrete locations that cover the three architectures: human pilot (Ukraine), cloud AI (California), relay vehicle (truck). No need to explain what each refers to — the rhythm carries the meaning.
+- Frequency hopping keeps the word "hop" exclusively — do NOT use "hop" for the relay chain. The relay chain uses "steps around" and "passing a note."
+- The closing line ("That is not jamming. That is magic.") is the quotable — short, punchy, memeable, repeatable by the general in a board meeting.
+- Do NOT add Operation Spiderweb details to the narration. The viewer does not need a history lesson. The context informed the draft; it does not appear in the draft.
+
+**What this teaching does NOT cover (saved for other mechanisms):**
+- 🔪 No head to cut off — Mechanism Z
+- 👁️ Gradient field / finds the invisible — Mechanism W
+- 🧠 Divide-and-conquer / SMS ladder — already cashed in Mechanism X
+
+---
+
 ### 🧠 MECHANISM X — older single-paragraph version (superseded, kept for history)
 
 After Claude spent several turns overcomplicating the mechanism explanation with sub-sampling, fovea-plus-peripheral-vision, and multi-beat structures, Nir simplified the whole thing to one clean divide-and-conquer paragraph. This is the locked version. Everything else is downstream.
