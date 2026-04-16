@@ -979,25 +979,44 @@ Testing showed Kling 3.0 Omni with audio at 1080p costs 600 credits/15sec and sk
 - **Music + sound effects** = sourced separately or added in Premiere
 - **Premiere** = stitch clips + lay narration audio track + add music/sounds + trim headroom + 3 text-on-black frames
 
-**Voice:** ElevenLabs, "Frank - Wise, Deep and Motivational" voice. Reference sample saved at `voice/narrator_frank_reference.mp3`. Deep, calm, serious, American male, documentary register.
+**Voice:** ElevenLabs, **"Frank - Wise, Deep and Motivational"** voice. $6/month subscription, 31,451 ElevenLabs credits available (~30 minutes of speech, we need ~7.5 min). Reference sample saved at `voice/narrator_frank_reference.mp3`. Deep, calm, serious, American male. Narration audio files saved to `audio/` folder, named `shot01_*.mp3`, `shot02_*.mp3`, etc.
+
+**Breathing room rule (locked — gives all clips the same "feel"):**
+
+Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds.
+
+| Narration duration | Breathing room | Video clip duration |
+|---|---|---|
+| 4 sec | +1 sec (minimum) | 5 sec |
+| 6 sec | +1.5 → round to +2 | 8 sec |
+| 8 sec | +2 sec | 10 sec |
+| 10 sec | +2.5 → round to +3 | 13 sec |
+| 12 sec | +3 sec (maximum) | 15 sec |
+| 14+ sec | +3 sec (maximum) | 17+ → must split into 2 clips |
+
+The breathing room sits at the BEGINNING of each clip — 1-2 seconds of pure visual before the narrator speaks. The viewer sees the new image, their brain registers the scene, THEN the voice comes in. Same rhythm across every clip in the whole video.
+
+**Production workflow per shot:**
+1. Generate narration audio in ElevenLabs (Frank voice) → download → save to `audio/`
+2. Measure the narration duration in seconds
+3. Apply the breathing room rule → calculate video clip duration
+4. Generate reference image in OpenArt (ChatGPT Image 1.5, 16:9, 2 variants, pick best) → save to `elements/`
+5. Generate Kling video clip (720p, no audio, reference image mode or start/end frame mode) → download → save to `clips/`
+6. Push everything to GitHub
 
 **Kling pricing (720p, no audio):**
 - 25 credits per second of video (linear scaling)
-- 5 sec = 125 credits, 10 sec = 250 credits, 15 sec = 375 credits
+- 5 sec = 125, 8 sec = 200, 10 sec = 250, 13 sec = 325, 15 sec = 375
 
 **Budget (19,335 OpenArt credits available):**
 
 | Item | Credits |
 |---|---|
 | 50 reference images (2 variants each, 50 credits/image) | 2,500 |
-| ~450 seconds of video clips (25 credits/sec) | 11,250 |
-| **Total production** | **13,750** |
+| ~500 seconds of video clips including breathing room (25 credits/sec) | 12,500 |
+| **Total production** | **15,000** |
 | **Available** | **19,335** |
-| **Margin for retakes/mistakes** | **5,585** |
-
-Plus $6 ElevenLabs subscription (30 min narration, we need 7.5 min).
-
-**Headroom rule:** Every clip generates 2-3 seconds LONGER than needed. Trim in Premiere.
+| **Margin for retakes/mistakes** | **4,335** |
 
 **Backup model on OpenArt:** Veo 3.1 (better cinematic quality, limited to 4/6/8 sec clips only)
 
