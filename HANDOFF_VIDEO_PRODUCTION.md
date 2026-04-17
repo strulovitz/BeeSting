@@ -89,11 +89,22 @@ See the full shot list in PART_1_WAR_BRIEF.md for every clip planned with durati
 
 ---
 
+## 🚫 Audio rule — CRITICAL (do not violate)
+
+The final BeeSting video has **ONLY ElevenLabs narration in the Frank voice**. No music. No ambient sound. No sound effects. No Kling native audio.
+
+This is a **money constraint**, not a creative choice. Kling's Native Audio feature and licensed music are both out of budget. Any silence in a shot is REAL silence in the final cut — no music covers gaps.
+
+**Implications:**
+- Plan shot durations so narration covers the visual OR the silence is a deliberate dramatic beat (Hitchcock pause, aftermath, end-card hold). Avoid long silent shots that exist only because the narration ran out before the video did. Err SHORTER when unsure.
+- Kling prompts describe VISUALS ONLY — never sound, never music, never ambient. Native Audio toggle stays OFF every time.
+- Do NOT say "we'll add music later to cover the silence." There is no music pass. What the viewer hears in the rough cut is what the viewer hears in the final cut.
+
 ## Kling settings (NEVER change these without checking with Nir)
 
 - Model: Kling 3.0 Omni
 - Resolution: 720p
-- Native Audio: OFF
+- Native Audio: **OFF** (always — see Audio rule above)
 - Duration: 3-15 seconds (any integer), matched to narration + breathing room
 - Two modes: reference image (standalone clips) or start/end frame (chains)
 - Cost: 25 credits per second of video
