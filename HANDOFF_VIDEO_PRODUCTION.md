@@ -54,7 +54,7 @@ Total exterior sequence: ~36 seconds.
 
 The next shots go inside the bunker corridors. This is the ATTACK section from the war brief structure table (lines 248-249). The narration is:
 
-"The basic idea is simple: an ant colony is a living computer, even though each ant is dumb. But as a colony, they combine into an intelligent super-organism. Pathfinding. The piano movers problem. All of it with no leader. No General Ant. Our competitors only talk the talk as marketing theater: swarm intelligence. Emergence. We are the first to walk the walk. We are the first to really do it. Remember Devastator from the Transformers? A group of separate machines that combined into one giant robot far more powerful than any of them alone. Our drones do the same thing — except they combine their minds, not their bodies. And instead of science fiction, it is real computer science."
+"The basic idea is simple: an ant colony is a living computer, even though each ant is dumb. But as a colony, they combine into an intelligent super-organism. Pathfinding. The piano movers problem. All of it with no leader. No General Ant. Our competitors only talk the talk as marketing hand-waving: swarm intelligence. Emergence. We are the first to walk the walk. We are the first to really do it. Remember Devastator from the Transformers? A group of separate machines that combined into one giant robot far more powerful than any of them alone. Our drones do the same thing — except they combine their minds, not their bodies. And instead of science fiction, it is real computer science."
 
 Then the corridor sequence transitions to night-vision green HUD POV with white text overlays: TARGET ACQUIRED, GENERAL X CONFIRMED, MISSION OBJECTIVE: TERMINATE.
 
