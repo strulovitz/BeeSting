@@ -35,11 +35,13 @@ The first word is **"The"** — deliberately chosen as a sacrificial first sylla
 
 ---
 
-## Block 5 — Hive-mind / bees / slime mold / weaponized nature (DRAFT — pending final polish)
+## Block 5 — Hive-mind / bees / slime mold / weaponized nature
 
-> *"And it's not just ants. People say 'hive-mind.' The expression comes from the democratic way that small bees make big decisions, like choosing a new hive location. Through the waggle dance, they pass messages and coordinate a collective decision. Small contributions aggregate to a smart consensus. Now nature scales this up: a creature without any brain, slime mold, has millions of nuclei inside its membrane. Each nucleus is a tiny control center. Attracted to food. Rejected by light. Each makes its own tiny decision. But the combined result is amazing: the brainless creature re-designed the Tokyo rail network just like engineers. This is the power of parallel computing. We simply copied the genius of mother nature, to turn a conventional drone swarm into an unconventional intelligent hive-mind."*
+> *"Small bees make big decisions together in a 'hive-mind', such as choosing a new hive location. Through waggle dance, they pass messages and coordinate a collective decision. Small contributions aggregate to a smart consensus. Now nature scales this up: Slime mold has millions of tiny control centers inside of it. Each makes its own tiny decision at the same time: attracted to food and rejected by light. But combined, the result is amazing: the brainless creature re-designed the Tokyo rail network just like engineers! This is the magic of parallel computing. We simply weaponized the genius of nature, turning a conventional drone swarm into an unconventional intelligent hive-mind."*
 
-This block primes the commander for the post-pause technical theoretical. Bees establish "hive-mind" as a *literal* democratic coordination mechanism (waggle dance, quorum consensus). Slime mold escalates: distributed parallel computing without any brain at all. The close — *"we simply copied the genius of mother nature"* — positions our system as the modern realization of what nature has been doing for millions of years, preparing the viewer to accept task parallelism as the mechanism when it lands after the pause.
+This block primes the commander for the post-pause technical theoretical. Bees establish "hive-mind" as a *literal* democratic coordination mechanism (waggle dance, quorum consensus). Slime mold escalates: distributed parallel computing without any brain at all. The close — *"we simply weaponized the genius of nature"* — positions our system as the modern realization of what nature has been doing for millions of years, preparing the viewer to accept task parallelism as the mechanism when it lands after the pause.
+
+Estimated runtime: ~43 seconds.
 
 ---
 
