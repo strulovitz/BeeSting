@@ -54,7 +54,7 @@ Total exterior sequence: ~36 seconds.
 
 The next shots go inside the bunker corridors. This is the ATTACK section from the war brief structure table (lines 248-249). The narration is:
 
-"Until tonight, this was impossible. Every drone in history was either flown by remote control — or too stupid to find a doorway. This was something new."
+"Until tonight — this was impossible. Every drone in history was either flown by remote control, or too stupid to find a doorway. This was something different. Remember Devastator from the Transformers? A group of separate machines that combined into one giant robot far more powerful than any of them alone. These drones do the same thing. Except they combine their minds, not their bodies. And instead of science fiction, it is real computer science."
 
 Then the corridor sequence transitions to night-vision green HUD POV with white text overlays: TARGET ACQUIRED, GENERAL X CONFIRMED, MISSION OBJECTIVE: TERMINATE.
 

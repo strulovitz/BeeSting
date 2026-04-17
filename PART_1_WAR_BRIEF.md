@@ -533,11 +533,15 @@ One continuous seamless drone-POV shot from sky to bunker to general. Each clip'
 | 4 | A3: inside vent shaft | A4: dim corridor, emergency lights | Drone travels down dark shaft, emerges into corridor | 9 (7+2) | "...buried deep under a mountain, walls lined with metal..." |
 | 5 | A4: dim corridor | A5: deeper wider corridor, doors | Drone FPV through corridor, passing infrastructure | 9 (7+2) | "No radio reaches in or out. And yet — they came in through the air vents." + "Until tonight, this was impossible..." |
 | 6 | A5: wider corridor, doors | A6: night-vision green corridor | Corridor continues, view shifts to night-vision green tint | 7 (5+2) | "...every drone in history was either flown by remote control — or too stupid to find a doorway." |
-| 7 | A6: green corridor | A7: green, door, TARGET ACQUIRED | Green HUD POV approaches a door, text appears | 7 (5+2) | "This was something new." [music intensifies] |
-| 8 | A7: TARGET ACQUIRED | A8: general at desk, TERMINATE | Green HUD POV enters room, closes in on general | 6 (4+2) | [music only, tension peak] |
-| 9 | A8: TERMINATE frame | A9: same frame frozen, white pause bars | Frame freezes, pause rectangles appear | 5 (3+2) | "But before that — let me show you how we got here." |
+| 7 | A6: corridor with branching paths | A7: drones peeling off into specialized groups | Drones splitting into task-groups down different paths | 5 (3+2) | "This was something different." |
+| 8 | A7: drones splitting | A8: coordinated formation, hint of combining | Swarm moving in tight coordinated pattern | 11 (9+2) | "Remember Devastator from the Transformers? A group of separate machines that combined into one giant robot far more powerful than any of them alone." |
+| 9 | A8: coordinated swarm | A9: close-up drone with pulsing comms light, neighbor responding | Close-up drones whispering to each other | 8 (6+2) | "These drones do the same thing. Except they combine their minds, not their bodies." |
+| 10 | A9: close-up comms | A10: night-vision green HUD boots up | Transition into HUD POV, green phosphor tint fades in | 6 (4+2) | "And instead of science fiction, it is real computer science." |
+| 11 | A10: green HUD | A11: green, door, TARGET ACQUIRED | Green HUD POV approaches a door, text appears | 5 (3+2) | [music intensifies, no narration] |
+| 12 | A11: TARGET ACQUIRED | A12: general at desk, TERMINATE | Green HUD POV enters room, closes in on general | 6 (4+2) | [music only, tension peak] |
+| 13 | A12: TERMINATE frame | A13: same frame frozen, white pause bars | Frame freezes, pause rectangles appear | 5 (3+2) | "But before that — let me show you how we got here." |
 
-**Chain A total: 9 clips, ~72s generated, ~60s after trimming headroom.** One seamless ride from the sky to the general's desk.
+**Chain A total: 13 clips, ~91s generated, ~78s after trimming headroom.** One seamless ride from the sky to the general's desk, with the combiner meta-frame reveal folded into the bridge.
 
 ---
 
@@ -929,7 +933,7 @@ Nir specified the invention demo runs from **1:00 to 3:00** (2 full minutes). Wi
 | 0:05-0:15 | ballistic missile launches, climbs into night | *"This ballistic missile is not carrying a bomb."* [beat] *"It is carrying something much worse."* | 👀 Secretary |
 | 0:15-0:30 | missile arcs over Pacific; nose cone opens; drones pour out | *"Inside it — a swarm of small cheap drones. Military-hardened. Disposable. Nothing exotic. Anyone can build them."* | 👀 Secretary → 👔 Manager |
 | 0:30-0:50 | drones descend toward generic mountain bunker, enter through ventilation, interior corridors | *"They flew into one of our most secure military bunkers — buried deep under a mountain, walls lined with metal. No radio reaches in or out. And yet — they came in through the air vents."* | 👔 Manager |
-| 0:50-1:00 | bridge to mechanism middle | *"Until tonight, this was impossible. Every drone in history was either flown by remote control — or too stupid to find a doorway. This was something new."* | 👔 Manager |
+| 0:50-1:22 | bridge to mechanism middle — combiner reveal installs the META-FRAME for the whole video (minds-not-bodies) before the feature list lands | *"Until tonight — this was impossible. Every drone in history was either flown by remote control, or too stupid to find a doorway. This was something different. Remember Devastator from the Transformers? A group of separate machines that combined into one giant robot far more powerful than any of them alone. These drones do the same thing. Except they combine their minds, not their bodies. And instead of science fiction, it is real computer science."* | 👔 Manager |
 | **1:00-1:40** | 🔵 **BEAT A** — old swarms falling from the sky under jamming; new swarm passing short-text captions between drones inside the bunker | **Short-text-not-video paragraph** (bandwidth — a few words fit through any pipe) | 👔 **Manager** |
 | **1:40-2:40** | 🔵 **BEAT B (the discovery)** — human eye close-up with fovea highlighted + peripheral defocused; cut to drone-swarm mirror shot; bunker floor plan assembling corridor-by-corridor as drone reports light up the map | **Fovea+peripheral paragraph** — sub-sampling / collective perception / *"no single drone sees the whole bunker, the swarm does"* / *"the map existed nowhere except inside the swarm itself"* | 👔 **Manager → 🎖️ General** |
 | **2:40-3:00** | 🔵 **BEAT C** — identical-looking drones in flight; soldier shoots down one drone; reveal of another drone on the opposite side already taking over | **Scattered-queens paragraph** (no head to cut off, all queens look identical, heart is everywhere and nowhere) | 🎖️ **General** |
