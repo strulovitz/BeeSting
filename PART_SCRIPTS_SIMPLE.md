@@ -20,7 +20,7 @@ This is the canonical script for Part 1. Every line in here was Nir-approved dur
 >
 > The drones flew straight into one of our most secure military bunkers. The bunker is buried deep under the mountain. Its walls are lined with thick metal, so no radio signal can reach in or out. No pilot from the outside could have flown those drones from a distance, even if they had wanted to. And yet — the drones came in through the air vents. They blew open locked doors. When our soldiers tried to block a hallway, another drone exploded through the ceiling and the rest dropped in behind it. Room by room, the swarm changed its plan whenever it hit a wall. It reached the generals sheltering at the bottom.
 >
-> Until tonight, this was technically impossible. Every drone in history was either flown by a human on a radio, or too stupid to do more than fly straight and crash.
+> Until tonight, this was technically impossible. Every drone in history was either flown by remote control, or too stupid to find a doorway.
 
 ### Act 2, first half — Reporter live at the bunker entrance (~60 sec, the topology lesson)
 

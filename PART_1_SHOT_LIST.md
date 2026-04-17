@@ -172,7 +172,7 @@ Fight cutaways (silent, 3 total): Shots 9, 19, 29 — triggered at loss beats pe
 
 **Visual:** Photorealistic archival-style photo montage — a 1990s MQ-1 Predator drone, then a modern consumer quadcopter with a pilot holding a remote control in a field, then a fixed-wing military drone crashing into a mountain. Classic news b-roll style.
 
-**Audio (VO):** *"Every drone in history was either flown by a human on a radio — or too stupid to do more than fly straight and crash."*
+**Audio (VO):** *"Every drone in history was either flown by remote control — or too stupid to find a doorway."*
 
 **Purpose:** Establish contrast with the new thing. End of cold open.
 
