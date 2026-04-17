@@ -63,6 +63,24 @@ Content locked 2026-04-16 after Nir's three corrections (synchronize underwater,
 
 > *"But before that — let me show you how we got here."*
 
+### HUD kill visual sequence — locked 2026-04-18
+
+Block 5 feature tease narration plays OVER a two-drone HUD kill sequence (compression principle: visual hooks the secretary, audio hooks the commander, at the same second):
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S07 | Green HUD POV, drone cruises corridor | 6s |
+| S08 | Green HUD POV, drone locates generator room full of diesel barrels | 6s |
+| S09 | Green HUD POV, drone on top of barrels, on-screen text **"Kamikaze Mode: ON"** | 5s |
+| S10 | Massive fireball explosion ripping through corridor | 5s |
+| S11 | Bunker goes pitch dark (power out) | 4s |
+| S12 | IR/thermal HUD boots up on Drone #2, dark corridor with thermal human signatures | 7s |
+| S13 | IR HUD, Drone #2 finds general's room, thermal signature of him at a desk | 5s |
+| S14 | IR HUD, crosshair locks on general's thermal body | 5s |
+| S15 | Freeze frame with white vertical pause bars | 5s (Block 6 pause bridge narration plays over this) |
+
+**Accidental observation cashes:** Observation #4 (*"no command center, every drone you kill another is doing its job"*) cashes visually on S10-S12 (Drone #1 dies, Drone #2 takes over). Observation #5 (*"find a target it cannot see"*) cashes visually on S12-S14 (general found in total darkness via thermal).
+
 **The pause is structurally special.** Everything BEFORE this line is **metaphor** (ants, bees, slime mold, Devastator, colony, combiner) — emotional, visceral, hypnotic for both audiences. Everything AFTER this line is **technical theoretical** — task parallelism, split-each-combine, TL;DR of *The Distributed AI Revolution* (Book 1). A deeper level of nerdiness earned by the metaphors already hooking both audiences hard.
 
 ---
