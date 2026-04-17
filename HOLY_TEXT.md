@@ -35,13 +35,27 @@ The first word is **"The"** — deliberately chosen as a sacrificial first sylla
 
 ---
 
-## Block 5 — Hive-mind / bees / slime mold / weaponized nature
+## Block 5 — Feature tease (5 observations, the promise list)
 
-> *"Small bees make big decisions together in a 'hive-mind', such as choosing a new hive location. Through waggle dance, they pass messages and coordinate a collective decision. Small contributions aggregate to a smart consensus. Now nature scales this up: Slime mold has millions of tiny control centers inside of it. Each makes its own tiny decision at the same time: attracted to food and rejected by light. But combined, the result is amazing: the brainless creature re-designed the Tokyo rail network just like engineers! This is the magic of parallel computing. We simply weaponized the genius of nature, turning a conventional drone swarm into an unconventional intelligent hive-mind."*
+> *"Impossible, you say?"*
+>
+> *"You need to realize — this is not just any swarm. It is a hive. And a hive can do five things that are impossible for any conventional swarm."*
+>
+> *"One. A hive can operate inside a hardened bunker, buried under a mountain, sealed against every outside radio signal."*
+>
+> *"Two. A hive can synchronize underwater, where no radio reaches at all."*
+>
+> *"Three. A hive cannot be jammed. No matter how powerful the jammer, it fails."*
+>
+> *"Four. A hive has no command center to hit. Every drone you kill, another is already doing its job."*
+>
+> *"Five. A hive can find a target it cannot see — by the air between the drones themselves."*
 
-This block primes the commander for the post-pause technical theoretical. Bees establish "hive-mind" as a *literal* democratic coordination mechanism (waggle dance, quorum consensus). Slime mold escalates: distributed parallel computing without any brain at all. The close — *"we simply weaponized the genius of nature"* — positions our system as the modern realization of what nature has been doing for millions of years, preparing the viewer to accept task parallelism as the mechanism when it lands after the pause.
+The promise list. Five specific impossible-today capabilities, delivered as forensic observations of what the viewer just watched the attack do. Each observation plants a seed that the post-pause Mechanism X/Y/Z/W will cash mechanically. The pause then reads literally as *"let me show you how each of these impossible things actually works."*
 
-Estimated runtime: ~43 seconds.
+Content locked 2026-04-16 after Nir's three corrections (synchronize underwater, powerful not loud jamming, no command center not no leader). Estimated runtime: ~37 seconds.
+
+**Deprecated alternative Block 5 — hive-mind / bees / slime mold / weaponized nature.** The bees+slime-mold block was drafted and recorded on 2026-04-17 (44 sec, `E01-block05-hive-mind.mp3`) before Nir realized the feature tease was missing from its correct pre-pause position. That recording is kept in `audio/` for possible reuse in another Part or a bonus cut.
 
 ---
 
