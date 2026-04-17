@@ -25,7 +25,7 @@ The first word is **"The"** — deliberately chosen as a sacrificial first sylla
 
 ## Block 3 — Competitors (marketing hand-waving attack)
 
-> *"Our competitors only talk the talk as marketing hand-waving: swarm intelligence. Emergence. We are the first to walk the walk. We are the first to really do it."*
+> *"Our competitors only talk the talk as marketing hand-waving: swarm intelligence. Emergence. We are the first to walk the walk. We are the first to really build it."*
 
 ---
 
