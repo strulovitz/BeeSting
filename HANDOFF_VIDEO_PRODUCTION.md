@@ -177,6 +177,8 @@ Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds. The br
 
 11. **ALWAYS remind Nir to import the new clip to Premiere after every clip lands.** Every time a clip is renamed and committed to `clips/`, end the response with a one-line Premiere import reminder ("👉 Now drag `E01S##-*.mp4` into Premiere on the video track after the previous clip 🎞️"). Nir works on many clips in parallel with other tasks and it is easy to forget the Premiere step between OpenArt download and the next shot. The reminder is not optional — do it every single time, not "the first time each session."
 
+12. **NEVER MOVE audio/clip/image files out of Downloads — COPY them, never move.** Nir's Premiere workflow drags files directly from the Downloads folder. If Claude moves a file from Downloads into `clips/` (or `audio/`, `elements/`), Nir cannot find it to drag into Premiere and has to hunt through the repo folders. Instead: `cp` the file to the repo with the clean `E01S##-description.ext` name for the git commit, AND keep/rename a copy in Downloads with the same clean name. Downloads is Nir's active working folder; the repo is the permanent archive. Both must have the file. Rule: **rename in place in Downloads first, then `cp` into the repo**, never `mv`.
+
 ---
 
 ## Files in the repo
