@@ -75,6 +75,42 @@ Every reference image prompt for ChatGPT Image 1.5 should open with the same sty
 
 ---
 
+## Three engagement tricks ON TOP OF the style (locked 2026-04-18)
+
+The Kurzgesagt visual style is necessary but not sufficient to hold attention across a 95-second Mechanism X segment. INSIDE the style, every shot in the Mechanism section must also obey these three tricks — requested verbatim by Nir 2026-04-18:
+
+### Trick 1 — Split each ~12-second "shot" into 2× ~6-second clips
+Instead of 8 long 12-second shots for Mechanism X, generate 16 short ~6-second clips. Kling 3.0 Omni is more reliable on shorter clips (Handoff Lesson 2: "If narration is 12+ seconds, split into two ElevenLabs recordings and two video clips. Kling is more reliable on shorter clips"). Shorter clips also give the editor more cut points in Premiere, which is essential for pacing a teaching section.
+
+### Trick 2 — Every clip is a MICRO-BEAT (start → happen → land)
+A clip is NEVER just one static pose. Each clip has a tiny three-step micro-story:
+- **Start** — something enters the frame, or the character is in a ready position
+- **Happen** — something changes, moves, glitches, gets sent, arrives, fails, succeeds
+- **Land** — the consequence clicks into place (a reaction, a label appears, the symbol snaps into its final position)
+
+Even a 6-second clip can hold a visible start → happen → land arc if the motion is confident (Kurzgesagt's whole aesthetic is built on this). A static character holding a phone for 6 seconds is wasted credits; a character who raises the phone, watches it glitch, and winces is alive.
+
+### Trick 3 — Mix angle changes across consecutive clips (wide → close, or side → POV)
+Across the 16 clips of one mechanism, consecutive clips SHOULD NOT share the same composition. Alternate deliberately:
+- Wide establishing → tight close-up of the same subject
+- Side profile → over-the-shoulder POV
+- Character-centered → object-centered (phone, drone, network diagram)
+- Flat icon view → isometric-angled view
+
+This mimics how real explainer videos on Kurzgesagt / Vox / TED-Ed keep the eye moving without the underlying scene changing. Same scene, different angle on each clip = alive. Same scene, same angle = frozen and boring.
+
+### Applying all three tricks to a shot prompt
+
+Every Kling prompt for a Mechanism shot should:
+1. Name the Kurzgesagt style (opening line of the prompt as above)
+2. Name ONE specific camera framing for this specific clip (wide / close / side / POV / top-down)
+3. Describe the MICRO-BEAT as three steps in one sentence (e.g., *"character starts holding the phone flat, the screen pixelates and freezes, the character winces and leans back"*)
+4. NAME consistent palette items (navy + amber + cream) so clips stitch visually across all 16
+
+If a prompt is generating a still reference image (ChatGPT Image 1.5), skip trick 2 (micro-beats are for motion) and focus on a single SNAPSHOT from the middle of the micro-beat — typically the "happen" moment, which is the most visually interesting frame.
+
+---
+
 ## Rejected options (for the record)
 
 ### Option 2 — RSA Animate whiteboard
