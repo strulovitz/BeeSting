@@ -77,7 +77,7 @@ See the full shot list in PART_1_WAR_BRIEF.md for every clip planned with durati
 3. Download, note the duration in seconds
 4. Apply breathing room rule: +25% of narration duration, minimum +1 sec, maximum +3 sec = video clip duration
 5. Write OpenArt reference image prompt in Downloads/openart_prompt.txt
-6. Generate in OpenArt: ChatGPT Image 1.5, 16:9, 2 variants, pick best
+6. Generate in ChatGPT Image 1.5, 1:1 1024×1024, 2 variants, pick best
 7. Download, rename to E01S##-description.png, save to elements/ in repo
 8. Write Kling prompt in Downloads/kling_prompt.txt
 9. Generate in Kling 3.0 Omni: 720p, NO audio, reference image mode (or start/end frame for chains)
@@ -118,7 +118,7 @@ This is a **money constraint**, not a creative choice. Kling's Native Audio feat
 ## OpenArt reference image settings
 
 - Model: ChatGPT Image 1.5
-- Aspect ratio: 16:9
+- Aspect ratio: 1:1 1024×1024
 - Variants: 2 (pick best)
 - Cost: 50 credits per image (2 variants)
 
@@ -184,6 +184,10 @@ Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds. The br
     - Videos: **Kling 3.0 Omni** (the default video model) or **Kling Avatar** (only for lip-sync) or **Veo 3.1** (backup cinematic, 4/6/8s only)
     - Audio: **ElevenLabs Frank voice**
     Also ban the bare word "OpenArt" in Lesson 13 announcement templates — the template is `**S## — 2-3 word description — ChatGPT Image 1.5**` or `**S## — 2-3 word description — Ns — Kling 3.0 Omni — ref: file.png**`. Never `**S## — 2-3 words — OpenArt**`. Same rule in all prompt filenames, comments, docs, and git commit messages going forward. Rewriting "OpenArt" as the engine name in older docs is fine but not urgent — what matters is every NEW line says the engine, not the host. Rule set 2026-04-17 by Nir during video-production work, re-locked 2026-04-18 after a relapse.
+
+15. **ASPECT RATIO IS SET IN THE GUI, NEVER IN THE PROMPT TEXT.** Both ChatGPT Image 1.5 and Kling 3.0 Omni have explicit aspect-ratio dropdowns in the OpenArt GUI. Writing "16:9 aspect ratio" or "1:1 framing" or "cinematic widescreen" inside the prompt text competes with the GUI setting and sometimes produces wrong results. The prompt describes the scene; the GUI sets the canvas. Do not mix them.
+
+16. **Reference images are 1:1 1024×1024, not 16:9.** Verified 2026-04-18: all 8 existing S01-S06 reference images in `elements/` are 1024×1024 square. Only the text-heavy S00 emoji equation card was 1280×720. The docs in `PART_1_WAR_BRIEF.md`, `HANDOFF_VIDEO_PRODUCTION.md`, and `PART_1_SHOT_LIST.md` said 16:9 — they were WRONG and are being corrected. `PART_1_ELEMENTS.md` had it right from the start (1:1 1024×1024). **The canonical ChatGPT Image 1.5 setting for BeeSting references is 1:1 1024×1024, Medium or Pro quality, 2 variants.** Kling 3.0 Omni video clips stay at 16:9 (that is a separate setting).
 
 13. **MINIMAL ANNOUNCEMENTS — Nir knows the tools, do not wall-of-text him.** Nir has used ChatGPT Image 1.5, Kling 3.0 Omni, ElevenLabs, and Premiere every day for months. He does NOT need numbered step-by-step instructions, settings lists, or encouragement. When a prompt is saved to Downloads, announce it in ONE line with only the must-know items. Templates:
     - **Image prompt:** `**S## — 2-3 word description — ChatGPT Image 1.5**` (the model name is required every time so Nir does not accidentally generate a video and burn credits)
