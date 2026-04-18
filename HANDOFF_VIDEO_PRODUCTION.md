@@ -175,6 +175,8 @@ Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds. The br
 
 10. **ALWAYS look at the reference PNG before writing the Kling prompt.** Use the Read tool on the actual `elements/E01S##-*.png` file before drafting or editing `Downloads/kling_prompt.txt`. Describe what is literally in the image (positions, colors, lighting, specific doorways, characters) and write the motion prompt relative to those concrete elements ("drones bank right through the red-lit doorway on the right side of the room" — not vague "continues deeper"). Kling 3.0 Omni costs 25 credits per second — a 5-second clip is 125 credits. On 2026-04-18 the S06 prompt was written without viewing the PNG, Kling left the drones static and flew the camera alone, and we burned a full regen to fix it. One Read call saves 125+ credits. Never write a Kling prompt from imagination when the reference image is on disk.
 
+11. **ALWAYS remind Nir to import the new clip to Premiere after every clip lands.** Every time a clip is renamed and committed to `clips/`, end the response with a one-line Premiere import reminder ("👉 Now drag `E01S##-*.mp4` into Premiere on the video track after the previous clip 🎞️"). Nir works on many clips in parallel with other tasks and it is easy to forget the Premiere step between OpenArt download and the next shot. The reminder is not optional — do it every single time, not "the first time each session."
+
 ---
 
 ## Files in the repo
