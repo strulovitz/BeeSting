@@ -33,31 +33,35 @@ Cel-animated limited palette (muted tans, faded greens, dusty browns), slightly 
 
 ## The choice
 
-**Option 3 — 80s military training film / declassified briefing.** Locked by Nir 2026-04-18.
+**Option 1 — Kurzgesagt / Vox-style flat 2D motion graphics.** Locked by Nir 2026-04-18.
 
-Rationale (Nir's words): *"I want you to keep all 3 options in github and push but i want to choose number 3 it is awesome."*
+Rationale (Nir's words, after briefly choosing Option 3 and reconsidering): *"after smiling for a few seconds it just looks lame. i want number 1 please. what you called the golden standard."*
+
+Option 3 (80s military training film) was rejected because even though it is visually striking for the first few seconds, the worn-film retro vibe has a shallow laugh curve — after the ironic smile it just reads as "old and lame" and loses energy across a 95-second teaching segment. Option 1 scales better across four full mechanisms because it is built to be SUSTAINED educational viewing (the entire Kurzgesagt / Vox / TED-Ed category is proof of concept).
 
 Applied to all Mechanism X, Y, Z, W shots. The HUD kill sequence (S07-S15) stays photoreal and is not affected by this decision. The pre-HUD sequence (S00-S06) also stays photoreal.
 
 ---
 
-## Style bible for Option 3 (for all Mechanism shots going forward)
+## Style bible for Option 1 (for all Mechanism shots going forward)
 
-**Medium:** cel animation, hand-drawn-inked look. Not 3D, not photoreal, not modern flat vector.
+**Medium:** flat 2D vector motion graphics, clean and polished. Think Kurzgesagt-style, Vox Explained, TED-Ed, Polygon's "Explained in 5 minutes." Not photoreal, not 3D, not cel animation, not hand-drawn.
 
-**Palette:** muted military training film — faded army green, dusty tan, cream, dull orange, chalk white, charcoal. Think 1970s-80s Pentagon classroom projector reels. No bright saturated colors.
+**Palette:** duotone or triotone, bold and confident. Suggested core palette for BeeSting: deep navy or charcoal background, warm amber/orange highlight color, soft cream or white for the accents. (Keep the SAME palette across all 4 mechanisms so the Mechanism section reads as one unified teaching segment, visually distinct from the photoreal sections on either side.) Avoid muddy tones. No gradients inside shapes — flat fills only, occasional subtle background gradient is fine.
 
-**Characters:** slightly stiff, simplified anatomy, limited animation frames (the kind of movement an animator on a 1980s government budget could afford). Faces are legible but not emotive — expressions are held for multiple frames.
+**Characters:** simplified geometric bodies, round heads, no facial features beyond eyes (sometimes a mouth). Expressive through POSE and GESTURE, not facial detail. Limbs are simple cylinders or rectangles. Proportions are slightly stylized (larger heads, shorter bodies) so characters read at any size.
 
-**Backgrounds:** sparse, diagrammatic. Rooms are indicated with a few lines and a flat color. Drones, phones, bunker walls render as simple shapes with hand-inked outlines.
+**Objects and props:** flat vector with clean bold outlines, simplified geometric forms. Phones, drones, bunker walls are iconic shapes — immediately recognizable silhouettes, never fussy detail. A drone is a square body with four circles for propellers and a small antenna line, not a rendering of a specific model.
 
-**Overlay treatment:** visible film grain, occasional dust specks, mild frame jitter, "CLASSIFIED" / "CONFIDENTIAL" / "TRAINING FILM" stamps in corners, a small reel-countdown number bottom-right on occasion, the general feel of a 16mm film being projected.
+**Backgrounds:** flat color or simple two-band gradient. Environments indicated with minimal elements (a single horizon line, a stylized building outline, a few abstract shapes). Never photo-realistic backgrounds under the vector characters.
 
-**Typography (when needed):** stenciled military sans-serif, monospaced typewriter type. White or cream over the image.
+**Motion:** smooth, confident, easing in and out. Objects slide/pop/bounce into frame rather than fade. Text labels snap into place. Diagrams build element by element. Camera moves are simple (straight push-in, straight pan) — no handheld shake.
 
-**Tone:** the narrator is a quietly competent briefer walking trainees through the material. Absolutely no wink at the camera. The visuals are slightly dated and slightly slow — but they are NEVER comedic on purpose. The irony is the audience's to find.
+**Typography:** modern geometric sans-serif (think Kurzgesagt's "Andada" or Helvetica-adjacent). Used sparingly for labels and key concepts. Bold weights.
 
-**What to avoid:** anime faces (too contemporary), comic-book halftone (wrong era), Kurzgesagt flat-vector (too modern), modern 3D, speech bubbles, memes, emojis in the shots themselves.
+**Tone:** confident, warm, educational. The narrator is explaining something fascinating to a smart friend — not lecturing, not performing. The visuals trust the viewer to follow.
+
+**What to avoid:** 3D rendering, photo-realistic textures, hand-drawn sketchiness, cel-animation line wobble, retro film grain, halftone comic dots, speech bubbles, emojis in the shots themselves, cluttered backgrounds, busy color palettes.
 
 ---
 
@@ -65,9 +69,19 @@ Applied to all Mechanism X, Y, Z, W shots. The HUD kill sequence (S07-S15) stays
 
 Every Kling prompt for a Mechanism X/Y/Z/W shot should open with something like:
 
-> *"1980s military training film cel-animation aesthetic — muted faded palette (army green, dusty tan, cream), simplified hand-inked characters, sparse diagrammatic backgrounds, visible film grain, occasional CLASSIFIED corner stamp. [then describe the specific action]."*
+> *"Kurzgesagt-style flat 2D motion-graphics animation — simplified geometric characters, bold duotone palette (deep navy background + warm amber highlight + cream accents), clean flat vector shapes, smooth confident motion, no gradients inside shapes, no photo-realism. [then describe the specific action]."*
 
 Every reference image prompt for ChatGPT Image 1.5 should open with the same style-bible intro.
+
+---
+
+## Rejected options (for the record)
+
+### Option 2 — RSA Animate whiteboard
+Lo-fi hand-drawn illustrations appearing live on a white or black background. Rejected because it reads as TED-talk-y and too informal for the catastrophe-weight frame of BeeSting.
+
+### Option 3 — 80s military training film / declassified briefing
+Cel animation with muted retro palette, film grain, CLASSIFIED corner stamps. Rejected after brief selection because the retro vibe reads as "lame" after the first few seconds of irony — it does not sustain across a 95-second teaching segment.
 
 ---
 
