@@ -173,6 +173,8 @@ Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds. The br
 
 9. **No Premiere effects needed.** Nir is a beginner. Just stitch clips + lay audio + trim. No transitions, no effects, no audio mixing.
 
+10. **ALWAYS look at the reference PNG before writing the Kling prompt.** Use the Read tool on the actual `elements/E01S##-*.png` file before drafting or editing `Downloads/kling_prompt.txt`. Describe what is literally in the image (positions, colors, lighting, specific doorways, characters) and write the motion prompt relative to those concrete elements ("drones bank right through the red-lit doorway on the right side of the room" — not vague "continues deeper"). Kling 3.0 Omni costs 25 credits per second — a 5-second clip is 125 credits. On 2026-04-18 the S06 prompt was written without viewing the PNG, Kling left the drones static and flew the camera alone, and we burned a full regen to fix it. One Read call saves 125+ credits. Never write a Kling prompt from imagination when the reference image is on disk.
+
 ---
 
 ## Files in the repo
