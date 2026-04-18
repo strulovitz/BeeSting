@@ -179,6 +179,12 @@ Add 25% to the narration duration. Minimum +1 second. Maximum +3 seconds. The br
 
 12. **NEVER MOVE audio/clip/image files out of Downloads — COPY them, never move.** Nir's Premiere workflow drags files directly from the Downloads folder. If Claude moves a file from Downloads into `clips/` (or `audio/`, `elements/`), Nir cannot find it to drag into Premiere and has to hunt through the repo folders. Instead: `cp` the file to the repo with the clean `E01S##-description.ext` name for the git commit, AND keep/rename a copy in Downloads with the same clean name. Downloads is Nir's active working folder; the repo is the permanent archive. Both must have the file. Rule: **rename in place in Downloads first, then `cp` into the repo**, never `mv`.
 
+13. **MINIMAL ANNOUNCEMENTS — Nir knows the tools, do not wall-of-text him.** Nir has used OpenArt, Kling, ElevenLabs, and Premiere every day for months. He does NOT need numbered step-by-step instructions, settings lists, or encouragement. When a prompt is saved to Downloads, announce it in ONE line with only the must-know items. Templates:
+    - **Image prompt:** `**S## — 2-3 word description — ChatGPT Image 1.5**` (the model name is required every time so Nir does not accidentally generate a video and burn credits)
+    - **Video prompt:** `**S## — 2-3 word description — Ns — ref: E01S##-*.png**` (scene number, tiny description, duration in seconds, reference image filename; for start/end frame chains, name both frames)
+    - **Audio (ElevenLabs):** `**Block ## — 2-3 word description — Frank voice**`
+    No numbered lists. No settings blocks. No "fingers crossed" flavor text. No enumerated instructions. Just the scene, the description, and the critical parameter. If Nir wants more detail he will ask. The LESS Claude writes, the MORE likely Nir notices the one important detail. Walls of text bury the signal.
+
 ---
 
 ## Files in the repo
