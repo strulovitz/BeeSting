@@ -1,12 +1,13 @@
-# Mechanism Z — Shot Plan (13 clips, ~6 seconds each) — DRAFT
+# Mechanism Z — Shot Plan (17 clips, ~6 seconds each) — COMPLETE ✅
 
 **Drafted:** 2026-04-19
+**Completed:** 2026-04-20
 **Narration block:** Block 9 (no head to cut off / piranhas → Great White, see `HOLY_TEXT.md`)
-**Audio file:** `audio/E01-block09-mechanism-z.mp3` (NOT YET RECORDED — record in ElevenLabs Frank voice, then final clip count will adjust to match exact duration)
+**Audio file:** `audio/E01-block09-mechanism-z.mp3` — RECORDED, 99 seconds
 **Visual style:** Kurzgesagt-style flat 2D motion graphics, duotone palette (**deep teal/ocean background + warm orange highlight + cream accents**), per `MECHANISM_SECTION_VISUAL_STYLE.md`.
-**Engagement tricks applied:** 13 short ~6s clips, micro-beat per clip (start → happen → land), alternating camera framings across consecutive clips. Each clip is an independent visual illustrating one concept — no recurring characters across clips, no story arcs, no narrator-echo text cards. Same style as Mechanism X and Mechanism Y.
+**Engagement tricks applied:** 17 short clips (mostly 6s, S54e = 3s), micro-beat per clip (start → happen → land), alternating camera framings across consecutive clips. Each clip is an independent visual illustrating one concept — no recurring characters across clips, no story arcs, no narrator-echo text cards. Same style as Mechanism X and Mechanism Y.
 
-**Planning assumption:** Block 9 narration estimated 45-75s. 13 clips × 6s = 78s planned runtime. After recording the audio, if actual duration is shorter, drop the least essential clip(s); if longer, split one clip in half. The shot-by-shot visual concepts below are the canonical plan regardless of final count.
+**LESSON LEARNED:** Audio was 99s but original 13 clips × 6s = 78s. Always record audio FIRST, then calculate clips needed: audio_duration ÷ 6s = minimum clip count. S54 was split into S54a+S54b+S54c+S54d+S54e to fill the gap.
 
 ---
 
@@ -21,7 +22,11 @@
 | **S51** | Tight hive formation: queen drone with stylized crown-tag + 5 worker drones; orange speech-bubbles bouncing happily between them |
 | **S52** | Close on queen: a large cream question-mark problem-shape above her splits into 4 small pieces, each flies outward to a different worker |
 | **S53** | Wide split-screen: 4 panels, each showing a worker processing its piece; each panel returns a small orange answer-bubble |
-| **S54** | Wide panning: a cluster of small cream piranha-fish silhouettes on the left morph/combine on the pan to form ONE large cream Great-White-shark on the right |
+| **S54a** | School of ~20 cream piranhas swimming tightly together, orange particles between them, no shark |
+| **S54b** | Piranhas transform into one large cream Great White shark (Kling start/end frame mode: S54a→S54b) |
+| **S54c** | Many cream drones flying together in loose wide formation, orange sparks between them |
+| **S54d** | Many identical cream drones packed together, tiny cream crown barely visible among them |
+| **S54e** | Single cream drone with large cream floppy disk icon above it (backup symbol), drones in background — 3 seconds |
 | **S55** | Close on a tight group of identical quadcopter drones; an orange crosshair picks one, fires, that drone explodes — the crown-tag icon instantly reappears above a different drone nearby |
 | **S56** | Wide: one huge cream datacenter building, a cream "$ BILLIONS" label above it, an orange missile-crosshair aims from off-screen |
 | **S57** | Orange missile arrives and explodes the datacenter; in the background, previously-alive cream drones all go dim/grey; camera zooms out to reveal a field of dark drones |
@@ -63,7 +68,9 @@
 | *"The queen takes a hard problem, splits it into small pieces, hands each piece to a different drone..."* | S52 |
 | *"...and combines the answers into one."* | S53 |
 | *"A hundred weak brains, working together on pieces of the same problem, become one strong brain. A pack of piranhas becomes a Great White shark. That is the magic that did not exist until today. That is what makes all of this possible."* | S54a + S54b (start/end frame mode) |
-| *"And because every piece is cheap — you can have live backups, flying with the swarm. The queens are scattered among the workers. From the outside, they look identical to every other drone. Shoot one queen down — a backup queen takes over."* | S55 |
+| *"And because every piece is cheap — you can have live backups, flying with the swarm."* | S54c + S54e |
+| *"The queens are scattered among the workers. From the outside, they look identical to every other drone."* | S54d |
+| *"Shoot one queen down — a backup queen takes over."* | S55 |
 | *"America also wants a backup for its AI. But each American AI center costs dozens of billions of dollars."* | S56 |
 | *"One missile hits it — and all the drones become no-brainers."* | S57 |
 | *"You cannot scatter a data center across a battlefield. You cannot hide it among drones. You cannot build a spare one and have it ready just in case."* | S58 |
