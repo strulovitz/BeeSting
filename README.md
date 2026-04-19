@@ -8,11 +8,11 @@
 
 ## What This Repo Is
 
-This is the home of **BeeSting** — the short-form viral video companion to the book [**Mad Honey: How Hierarchical AI Swarms Will Change Everything**](https://github.com/strulovitz/MadHoney).
+This is the home of **BeeSting** — the long-form YouTube video companion to the book [**Mad Honey: How Hierarchical AI Swarms Will Change Everything**](https://github.com/strulovitz/MadHoney).
 
-The book is long. Many people will never sit down to read it. BeeSting is the 60-second-at-a-time version.
+The book is long. Many people will never sit down to read it. BeeSting is the watch-instead-of-read version.
 
-Each video is a **short, sharp sting**: vertical format (9:16), built for TikTok, Instagram Reels, and YouTube Shorts, 90–120 seconds long, designed to be watchable in one sitting by a tired non-technical decision-maker scrolling on their phone. No prior knowledge required. No tech jargon unless the video explains it in the same breath. Built for the viewer who would never, under any circumstances, read a 300-page book about the end of the American AI empire — but who *will* stop scrolling for two minutes if the thumbnail promises something scary, specific, and new.
+Each video is a **chapter-length sting**: landscape format (16:9), published on YouTube, sized to the content of the corresponding book chapter (Part 1 is tracking around 6-7 minutes; other parts are sized to their own chapter's density). No prior knowledge required. No tech jargon unless the video explains it in the same breath. Built for the viewer who would never, under any circumstances, read a 300-page book about the end of the American AI empire — but who *will* watch a video if the thumbnail promises something scary, specific, and new.
 
 ---
 
@@ -22,9 +22,9 @@ Each video is a **short, sharp sting**: vertical format (9:16), built for TikTok
 
 This is the name of the series. It is the slogan on every video's title card. It is the tagline on every thumbnail. It is the phrase the series wants to own.
 
-The slogan is ambiguous on purpose and **short on purpose.** "Beat America" covers **both halves** of what the book is about: the China that beats America in the next war, and the China that beats America in the next quarterly earnings call. The viewer scrolling at 11pm auto-completes the phrase in whichever way scares them most personally — and the video then gives them the half they did not already imagine.
+The slogan is ambiguous on purpose and **short on purpose.** "Beat America" covers **both halves** of what the book is about: the China that beats America in the next war, and the China that beats America in the next quarterly earnings call. The viewer watching at 11pm auto-completes the phrase in whichever way scares them most personally — and the video then gives them the half they did not already imagine.
 
-The slogan deliberately does **not** contain the words "AI", "swarm", "tech", "hive", or any technical term. The moment those words appear in a title, the non-technical decision-maker (the entire target audience) categorizes the video as nerd-content-not-for-me and keeps scrolling. The full reasoning is in [`SERIES_BIBLE.md`](SERIES_BIBLE.md) under "The Slogan".
+The slogan deliberately does **not** contain the words "AI", "swarm", "tech", "hive", or any technical term. The moment those words appear in a title, the non-technical decision-maker (the entire target audience) categorizes the video as nerd-content-not-for-me and skips it. The full reasoning is in [`SERIES_BIBLE.md`](SERIES_BIBLE.md) under "The Slogan".
 
 ---
 
@@ -51,10 +51,10 @@ A numbered series creates binge behavior on the algorithm. Part 3 implies Parts 
 
 ## Format
 
-- **Aspect ratio:** 9:16 vertical
-- **Length:** 90–120 seconds per episode (hook in the first 3 seconds, let content decide within the window)
+- **Aspect ratio:** 16:9 landscape (Kling 3.0 Omni output)
+- **Length:** long-form per episode — sized to the content of its corresponding book chapter (Part 1 is tracking around 6-7 minutes). Hook in the first 3 seconds, let content decide the total runtime.
 - **Structure:** 3 acts — (1) cold-open fake-news broadcast from the near future showing the catastrophe already happened, (2) "how did it come to this?" flashback to 2026 with the explanation, (3) credit / call-to-action / channel end card
-- **Target platforms:** TikTok, Instagram Reels, YouTube Shorts (published simultaneously to all three; all three now support up to 3 minutes)
+- **Target platform:** YouTube (primary). The short-form viral / TikTok / Reels / Shorts plan was abandoned — the content does not compress into 90-120 seconds without gutting what it has to say.
 - **YouTube channel name:** `Strulovitz` (matches the GitHub org and the author name — the solo Israeli developer IS the product)
 - **Tone:** matches the book — cold, blunt, idiot-proof, no moralizing
 - **Visual style:** swarm imagery — drone formations, bee clouds, black specks converging on maps, bees streaming out of hives toward targets. **Never** show datacenters, GPUs, humanoid robots, or glowing brains (wrong metaphors — they belong to the old AI story). The word in Act 2 is **swarm**, never "hive" or "distributed" or "federated".
@@ -64,7 +64,7 @@ A numbered series creates binge behavior on the algorithm. Part 3 implies Parts 
 
 ## Relationship to the Book
 
-BeeSting is **promotion** for the book, not a replacement for it. Every video ends by pointing the viewer to [MadHoney on GitHub](https://github.com/strulovitz/MadHoney) and, through it, to the book's Archive.org and Library Genesis mirrors. The video poses the question. The book answers the question. A 60-second video cannot explain hierarchical AI hives, the *Free the AI* thesis, the Chofetz Chaim temporary-guest philosophy, the Pusztai affair, or the $14,810-per-overdose McKinsey rebate proposal. It can, however, stop a tired viewer for long enough to make them curious, and curious is enough.
+BeeSting is **promotion** for the book, not a replacement for it. Every video ends by pointing the viewer to [MadHoney on GitHub](https://github.com/strulovitz/MadHoney) and, through it, to the book's Archive.org and Library Genesis mirrors. The video poses the question. The book answers the question. Even a chapter-length video cannot explain hierarchical AI hives, the *Free the AI* thesis, the Chofetz Chaim temporary-guest philosophy, the Pusztai affair, or the $14,810-per-overdose McKinsey rebate proposal. It can, however, hold a tired viewer for long enough to make them curious, and curious is enough.
 
 ---
 
