@@ -10,6 +10,28 @@ Total runtime: 15 × 6s = 90s. Matches Block 8 narration (89s) with ~1s slack.
 
 ---
 
+## Quick-glance summary (1 line per shot)
+
+| Shot | One-line summary |
+|---|---|
+| **S32** | "Observation 3" title card with crossed-out jammer transmitter icon |
+| **S33** | Friend shouts across busy street; small sound-wave travels to listener's ear |
+| **S34** | Close-up on ear: nearby shouter's huge shout dwarfs the distant friend's wave |
+| **S35** | Listener winces, covers ears; cream "JAMMING" label lands |
+| **S36** | Lone drone connected by long dashed line to far-away datacenter + human-with-joystick |
+| **S37** | Close on drone: "HANDS + EYES" label, instruction pulse arrives via antenna |
+| **S38** | Hive formation: queen drone + 5 workers; "2 m" distance label between queen and worker |
+| **S39** | Three icons (Ukraine, California, relay truck) get crossed out; big "2 METERS" label |
+| **S40** | Jammer tower tries to approach two drones but is blocked at the 2m dashed circle |
+| **S41** | Close on 2m boundary: only another drone can pop in inside the circle |
+| **S42** | Frequency spectrum bar; mustard-gold marker hops between ticks, "FREQUENCY HOPPING" label |
+| **S43** | Chain of 4 drones; middle link has X; envelope reroutes around the dead link |
+| **S44** | Schoolroom top-down: note passes desk 1 → skips dead desk 2 → desk 3 → desk 4 |
+| **S45** | Whole swarm scattered across frame with 2m circles; exhausted jammer at edge; "EVERYWHERE AT ONCE" |
+| **S46** | Big text reveal: "THAT IS NOT JAMMING." then "THAT IS MAGIC." 🎩 |
+
+---
+
 ## Shot table
 
 | Shot | Duration | Framing | Micro-beat (start → happen → land) |
