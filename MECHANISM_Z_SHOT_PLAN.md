@@ -7,7 +7,7 @@
 **Visual style:** Kurzgesagt-style flat 2D motion graphics, duotone palette (**deep teal/ocean background + warm orange highlight + cream accents**), per `MECHANISM_SECTION_VISUAL_STYLE.md`.
 **Engagement tricks applied:** 17 short clips (mostly 6s, S54e = 3s), micro-beat per clip (start → happen → land), alternating camera framings across consecutive clips. Each clip is an independent visual illustrating one concept — no recurring characters across clips, no story arcs, no narrator-echo text cards. Same style as Mechanism X and Mechanism Y.
 
-**LESSON LEARNED:** Audio was 99s but original 13 clips × 6s = 78s. Always record audio FIRST, then calculate clips needed: audio_duration ÷ 6s = minimum clip count. S54 was split into S54a+S54b+S54c+S54d+S54e to fill the gap.
+**LESSON LEARNED:** Audio was 99s but original 13 clips × 6s = 78s. Always record audio FIRST, then ASK NIR for the duration before starting any clip generation. S54 was split into S54a+S54b+S54c+S54d+S54e to fill the gap.
 
 ---
 
