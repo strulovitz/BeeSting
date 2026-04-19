@@ -64,7 +64,7 @@ A numbered series creates binge behavior on the algorithm. Part 3 implies Parts 
 
 ## Relationship to the Book
 
-BeeSting is **promotion** for the book, not a replacement for it. Every video ends by pointing the viewer to [MadHoney on GitHub](https://github.com/strulovitz/MadHoney) and, through it, to the book's Archive.org and Library Genesis mirrors. The video poses the question. The book answers the question. Even a chapter-length video cannot explain hierarchical AI hives, the *Free the AI* thesis, the Chofetz Chaim temporary-guest philosophy, the Pusztai affair, or the $14,810-per-overdose McKinsey rebate proposal. It can, however, hold a tired viewer for long enough to make them curious, and curious is enough.
+BeeSting is **promotion** for the book, not a replacement for it. Every video ends by pointing the viewer to [MadHoney on GitHub](https://github.com/strulovitz/MadHoney). The video poses the question. The book answers the question. Even a chapter-length video cannot explain hierarchical AI hives, the *Free the AI* thesis, the Chofetz Chaim temporary-guest philosophy, the Pusztai affair, or the $14,810-per-overdose McKinsey rebate proposal. It can, however, hold a tired viewer for long enough to make them curious, and curious is enough.
 
 ---
 
