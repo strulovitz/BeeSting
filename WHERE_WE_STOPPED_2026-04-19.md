@@ -22,27 +22,18 @@ All 16 clips imported into Premiere by Nir. The Mechanism X segment of the timel
 
 ## 🔜 TODO — pick up here tomorrow
 
-### Pick palette for each remaining mechanism (FIRST thing to do tomorrow)
+### Palette picks — LOCKED 2026-04-19 morning ✅
 
-Nir approved DIFFERENT palettes per mechanism for visual subject-change signaling, but did not lock which palette goes with which mechanism yet. The seven candidate palettes (all Kurzgesagt-bold, duotone+cream, just swap bg+highlight):
+Nir locked the per-mechanism palettes this morning. Decision table now lives in `MECHANISM_SECTION_VISUAL_STYLE.md`. Summary:
 
-| # | Background | Highlight | Feel |
+| Mech | Palette | Background + Highlight | Rationale |
 |---|---|---|---|
-| A | deep forest green | coral-orange | organic, sturdy |
-| B | deep burgundy/wine | mustard gold | dramatic, earthy |
-| C | deep plum/purple | mint teal | tech-cool, electric |
-| D | deep teal/ocean | warm orange | aquatic, predatory |
-| E | deep charcoal | hot pink | high-contrast, modern |
-| F | deep slate blue-grey | bright yellow | clinical, confident |
-| G | deep maroon | sky blue | contrasty, unexpected |
+| X | 🔒 shipped | deep navy + warm amber + cream | SMS ladder / divide-and-conquer |
+| **Y** | **B** | deep burgundy/wine + mustard gold + cream | dramatic/earthy for the *"not jamming, that is magic"* reveal |
+| **Z** | **D** | deep teal/ocean + warm orange + cream | aquatic/predatory — piranhas are literally fish |
+| **W** | **A** | deep forest green + coral + cream | green is cognitively restful; W is the densest mechanism (triple-modality cross-reference twice), viewer needs palette-calm to absorb the content. Bonus: organic-sensing biology angle (CO2 = breath). |
 
-Mechanism X = deep navy + amber + cream (locked, already shipped).
-
-**Mechanism Y = ? (pick tomorrow)**
-**Mechanism Z = ? (pick tomorrow)**
-**Mechanism W = ? (pick tomorrow)**
-
-Cream accents stay across all four for continuity.
+Background family alternation X→Y→Z→W = blue → red → teal → green — unmistakable subject-change cue at every boundary. Cream accents across all four for continuity.
 
 ### Mechanism Y (Block 8 — jamming / near-field physics)
 - **Narration text:** already locked in `HOLY_TEXT.md` Block 8, ~60 seconds.

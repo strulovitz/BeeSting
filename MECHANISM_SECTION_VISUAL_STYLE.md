@@ -47,7 +47,18 @@ Applied to all Mechanism X, Y, Z, W shots. The HUD kill sequence (S07-S15) stays
 
 **Medium:** flat 2D vector motion graphics, clean and polished. Think Kurzgesagt-style, Vox Explained, TED-Ed, Polygon's "Explained in 5 minutes." Not photoreal, not 3D, not cel animation, not hand-drawn.
 
-**Palette:** duotone or triotone, bold and confident. Suggested core palette for BeeSting: deep navy or charcoal background, warm amber/orange highlight color, soft cream or white for the accents. (Keep the SAME palette across all 4 mechanisms so the Mechanism section reads as one unified teaching segment, visually distinct from the photoreal sections on either side.) Avoid muddy tones. No gradients inside shapes — flat fills only, occasional subtle background gradient is fine.
+**Palette:** duotone or triotone, bold and confident. **Updated 2026-04-19:** Nir decided to use a DIFFERENT palette per mechanism so the viewer gets a visual subject-change cue at each new mechanism, with cream accents shared across all four for continuity. The locked assignments are:
+
+| Mech | Background | Highlight | Accent | Feel | Rationale |
+|---|---|---|---|---|---|
+| **X** (SMS ladder) | deep navy | warm amber | cream | tech-cool, electric | already shipped; fits "the big brain is the queen texting her workers" |
+| **Y** (jamming / near-field) | deep burgundy/wine | mustard gold | cream | dramatic, earthy | the *"that is not jamming. That is magic."* reveal — wine = lecture-hall gravitas for the near-field physics argument; gold = warmth of the 2-meter whisper between drones |
+| **Z** (piranhas → Great White) | deep teal/ocean | warm orange | cream | aquatic, predatory | piranhas are literally fish and the Great White lives in the ocean — teal is the water the predator metaphor swims in; orange = heat of the hungry swarm |
+| **W** (finds the invisible / gradient field) | deep forest green | coral | cream | organic, sturdy, **cognitively restful** | W is the *densest* mechanism (triple-modality cross-reference twice: bunker CO2+IR+mic, then submarine thermal+acoustic+pressure + decoy discrimination). Green is a known cognitively-relaxing color that lets the viewer absorb the heaviest load without palette-stress. Bonus: forest-green also sells the organic-sensing angle (CO2 = breath). Chosen by Nir 2026-04-19 explicitly for its calming effect on the hardest segment. |
+
+Avoid muddy tones. No gradients inside shapes — flat fills only, occasional subtle background gradient is fine.
+
+**Background color family alternation:** X blue → Y red → Z teal → W green. Every adjacent pair flips the background color family so the subject-change signal is unmistakable.
 
 **Characters:** simplified geometric bodies, round heads, no facial features beyond eyes (sometimes a mouth). Expressive through POSE and GESTURE, not facial detail. Limbs are simple cylinders or rectangles. Proportions are slightly stylized (larger heads, shorter bodies) so characters read at any size.
 
@@ -69,9 +80,15 @@ Applied to all Mechanism X, Y, Z, W shots. The HUD kill sequence (S07-S15) stays
 
 Every Kling prompt for a Mechanism X/Y/Z/W shot should open with something like:
 
-> *"Kurzgesagt-style flat 2D motion-graphics animation — simplified geometric characters, bold duotone palette (deep navy background + warm amber highlight + cream accents), clean flat vector shapes, smooth confident motion, no gradients inside shapes, no photo-realism. [then describe the specific action]."*
+> *"Kurzgesagt-style flat 2D motion-graphics animation — simplified geometric characters, bold duotone palette ([THIS MECHANISM'S background] + [THIS MECHANISM'S highlight] + cream accents), clean flat vector shapes, smooth confident motion, no gradients inside shapes, no photo-realism. [then describe the specific action]."*
 
-Every reference image prompt for ChatGPT Image 1.5 should open with the same style-bible intro.
+Substitute the correct palette per the table above:
+- **X:** deep navy background + warm amber highlight + cream accents
+- **Y:** deep burgundy/wine background + mustard gold highlight + cream accents
+- **Z:** deep teal/ocean background + warm orange highlight + cream accents
+- **W:** deep forest green background + coral highlight + cream accents
+
+Every reference image prompt for ChatGPT Image 1.5 should open with the same style-bible intro, using the same per-mechanism palette.
 
 ---
 
