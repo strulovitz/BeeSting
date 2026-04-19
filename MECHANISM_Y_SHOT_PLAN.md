@@ -14,7 +14,7 @@ Total runtime: 15 × 6s = 90s. Matches Block 8 narration (89s) with ~1s slack.
 
 | Shot | One-line summary |
 |---|---|
-| **S32** | "Observation 3" title card with crossed-out jammer transmitter icon |
+| **S32** | Kurzgesagt jammer truck slides in, blasts mustard-gold noise waves at distant drone swarm — sets up the adversary |
 | **S33** | Friend shouts across busy street; small sound-wave travels to listener's ear |
 | **S34** | Close-up on ear: nearby shouter's huge shout dwarfs the distant friend's wave |
 | **S35** | Listener winces, covers ears; cream "JAMMING" label lands |
@@ -36,7 +36,7 @@ Total runtime: 15 × 6s = 90s. Matches Block 8 narration (89s) with ~1s slack.
 
 | Shot | Duration | Framing | Micro-beat (start → happen → land) |
 |---|---|---|---|
-| **S32** | 6s | Centered, title-card | Cream "Observation 3" text fades in from below onto burgundy; mustard gold underline sweeps left-to-right beneath it; a crossed-out jamming icon (a transmitter tower with a bold cream X through it) pops in at center. |
+| **S32** | 6s | Wide establishing shot, jammer truck left-center foreground, distant drone swarm back-right | Burgundy field empty; a Kurzgesagt-style cream-outlined military jammer truck slides in from the left with a large dish antenna on its roof; the dish rotates to aim toward the back-right of the frame where a small formation of quadcopter drones (mechanical square bodies, four propellers each — NOT bees, NOT insects) hovers in the distance; jagged mustard-gold noise cones blast outward from the dish toward the swarm; a cream "JAMMER" label lands beside the truck on the final beat. |
 | **S33** | 6s | Wide side profile, two characters on opposite sides of frame | Character A on the left waves with cream outline; character B on the right cups a hand to his ear; a small mustard-gold sound-wave ripple travels across the busy road between them with simple cream car silhouettes sliding past; the wave lands at B's ear with a subtle cream tick mark. |
 | **S34** | 6s | Extreme close-up on one ear (receiving character's ear fills the frame) | A small distant sound-wave from the far friend is already arriving at the ear; a new character rushes in from frame-left and leans right at the ear; a huge jagged mustard-gold shout-shape erupts between the shouter's mouth and the ear, visibly dwarfing the tiny friend-wave. |
 | **S35** | 6s | Wide 3/4 angle on the receiving character | Character's geometric face squeezes shut; simple cylinder hands fly up and clamp over both ears; the mustard-gold shout-shape throbs once at his head; a cream "JAMMING" label slides in from the top and lands clean. |
