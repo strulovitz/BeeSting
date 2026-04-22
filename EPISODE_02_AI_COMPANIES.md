@@ -19,32 +19,31 @@ The tertiary move: the chapter's most specific case study is **OpenClaw / Steinb
 ## Episode 2 — Title options
 
 **Primary pick:**
-> **The $25 Billion AI Industry Just Became 90% Free (And China Already Has The Proof)**
+> **How China Just Replaced America As The AI Superpower (With One Free Tool)**
 
 **Alternatives:**
-- DeepSeek + One Free Tool = The End Of ChatGPT's Revenue Model
-- I Built The System That Makes 90% Of ChatGPT Obsolete. It Runs On Your Laptop.
-- OpenAI's $1.4 Trillion Bet Is About To Lose. Here's The Open Source That Kills It.
+- Every Computer In China Is Now An AI Server. America Cannot Match That.
+- The $25 Billion AI Industry Is 90% Free Now. China Leads. America Loses.
+- OpenAI Is Over. Anthropic Is Over. China Rules AI Now.
+- The World Now Pays Beijing For AI Instead Of Silicon Valley. Here's How.
 - Why OpenAI Hired Peter Steinberger (And Why They Cannot Hire Me)
 
-Primary leads with the dollar figure (stops scroll in the first five words — same rule as Episode 1) and a China proof-point (concrete, not abstract). "90% Free" matches the exact chapter thesis. Keeps the *"(brand-adjacent-but-not-brand)"* parenthetical pattern established in Episode 1.
+Primary leads with the thesis verb — *replaced* — in the first seven words. This is not "China has the proof" or "China might catch up." The chapter's claim, and Nir's stated claim, is that the replacement is arithmetic once the missing piece (the hive coordination layer) meets the Chinese models, and the hive is on GitHub right now. The title has to carry that verb, not soften it. Keeps the *"(brand-adjacent-but-not-brand)"* parenthetical pattern established in Episode 1.
 
 ---
 
 ## Episode 2 — Description (copy-paste-ready)
 
 ```
-🐝 $55 billion in annual AI subscription revenue rests on one assumption: that you must send your data to a cloud to get AI. That assumption is already wrong. DeepSeek is 96% cheaper than GPT-4o. Qwen is 10 to 17 times cheaper than Claude Opus. Both are free to self-host.
-
-I built the open-source system that stacks these free Chinese models into hierarchical swarms that scale to unlimited power — on hardware people already own, completely offline, completely invisible to the companies currently charging you for the privilege.
+🐝 China just replaced America as the world's AI superpower. DeepSeek is 96% cheaper than GPT-4o. Qwen is 10 to 17 times cheaper than Claude Opus. Both are open-weight and free to self-host. The only missing piece was the coordination layer that turns every household computer into a node in a hierarchical AI mega-hive. I built that missing piece. It is on GitHub. It is free.
 
 I am Nir Strulovitz. Independent inventor.
 
-OpenAI is putting advertisements in ChatGPT to cover $8 billion in annual compute costs. Anthropic hit $30 billion in annualized revenue and is still not profitable until 2030. These are symptoms of a business model that does not survive contact with distributed local AI. When free Chinese models — DeepSeek, Qwen, Kimi — run inside a hierarchical hive on hardware people already own, 90% of what their paying customers currently pay them for becomes free.
+Starting today, 1.4 billion Chinese citizens and hundreds of millions of Chinese household computers are the world's largest AI compute base. Chinese LLMs — DeepSeek, Qwen, Kimi — stack inside hierarchical hives that run across all of it. The mega-hive is the new global AI infrastructure. The rest of the world pays Chinese companies to use it, the way they used to pay OpenAI and Anthropic. That revenue flow reverses now. Not in five years. Now.
 
-The remaining 10% — bleeding-edge frontier training data on the largest possible models — is a moat. Everything else is a faucet, and the faucet just became free, forever.
+OpenAI collects $25 billion annually and is not profitable until 2030. Anthropic collects $30 billion annually and burns cash on $8 billion of yearly compute. Their moat was "you have to send your data to our cloud to get AI." That moat just became false. Ninety percent of what their paying customers currently pay them for runs for free, offline, on hardware those customers already own. The remaining ten percent — bleeding-edge frontier training on the largest possible models — is a moat; everything else is a faucet, and the faucet just reversed.
 
-Anthropic squeezed Peter Steinberger out of his own users' subscriptions in April 2026. OpenAI hired him in February. The software was free. The insurance policy was not. I am the next Steinberger — only the scale of disruption is orders of magnitude larger, and the offer is simpler: one wire, once, to banks you do not control, and the repositories come down.
+Anthropic squeezed Peter Steinberger out of his own users' subscriptions in April 2026. OpenAI hired him in February 2026. The software was free. The insurance policy was not. I am the next Steinberger — at a scale that does not erase one OAuth integration but the entire American AI industry's revenue model. The offer is simpler than Steinberger's: one wire, once, to banks you do not control, and the repositories come down before the adoption curve steepens.
 
 This is the warning you received before it happened.
 
@@ -64,9 +63,9 @@ https://github.com/strulovitz/GiantHoneyBee
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AMERICA'S AI LEAD EQUALS YOUR CALL.
-DO NOTHING — CHINA WINS ON COST.
-FORWARD THIS — AMERICA KEEPS THE HIGH GROUND.
+AMERICA'S AI LEADERSHIP EQUALS YOUR CALL.
+DO NOTHING — CHINA RULES.
+FORWARD THIS — AMERICA FIGHTS BACK.
 
 #AI #ChatGPT #Claude #OpenAI #Anthropic #DeepSeek #Qwen #Kimi #localAI #openSource #distributedAI #AIeconomics #OpenClaw #Steinberger #MadHoney
 ```
@@ -104,9 +103,9 @@ The code is on GitHub. The test logs are on GitHub. Any engineer can reproduce t
 
 **Block 7 — Death spiral (~45s):** Ads arriving in ChatGPT. Criteo partnership. $200K advertiser minimums. $1B projected ad revenue against $8B annual compute cost. The arithmetic does not work.
 
-**Block 8 — The China equation (~60s):** DeepSeek R1 → Nvidia loses $600B in a single day, the largest single-day loss in US stock market history. That was ONE model. The hive makes every future Chinese model behave the same way, at unlimited scale, on hardware everyone already owns.
+**Block 8 — The replacement (~90s):** DeepSeek R1 alone cost Nvidia $600B in a single day — the largest single-day loss in US stock market history. That was one model, one afternoon. Now stack every Chinese model inside a hierarchical hive that runs across 1.4 billion Chinese household computers plus Chinese data centers. The world's largest AI compute base, running for free on electricity Chinese citizens already pay, coordinated by software that anyone on Earth can download today. The world used to pay OpenAI and Anthropic for AI. The world now pays DeepSeek, Alibaba, and Moonshot — the Chinese stack is cheaper, equally capable on most tasks, and not locked behind one American company's API that Anthropic or OpenAI can change at any time. America does not lose its AI lead slowly over a decade. America is replaced. The replacement starts the day a single Chinese engineer stitches DeepSeek + the hive together for mass distribution — and that engineer is not blocked by anything any American institution controls.
 
-**Block 9 — Closing equations (identical cadence to Episode 1):** *"America's AI lead equals your call. Do nothing — China wins on cost. Forward this — America keeps the high ground."*
+**Block 9 — Closing equations (same cadence as Episode 1, sharper verbs):** *"America's AI leadership equals your call. Do nothing — China rules. Forward this — America fights back."*
 
 **Block 10 — End card (silent):** `YouTube: Nir Strulovitz` + `github.com/strulovitz`. ~5s. Final note. Cut to black.
 
