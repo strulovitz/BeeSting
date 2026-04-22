@@ -3,7 +3,8 @@
 **Locked narration. Word-for-word. ElevenLabs Frank voice.**
 **Drafted:** 2026-04-22
 **Source chapter:** `MadHoney/chapter_01.md`
-**Target length:** ~13 minutes.
+**Target length:** ~17 minutes.
+**Cross-reference:** sources the GEO + muzzling content from `MadHoney/chapter_04_pharma.md` Angle 1 and Angle 5. Those passages are about the AI companies themselves, not about pharma — pharma is the customer buying the service the AI companies are selling. So the content belongs in Episode 2 (AI companies) as much as in Episode 4 (pharma). Episode 4 will re-use the same examples from the pharma buyer's point of view.
 
 ---
 
@@ -67,7 +68,57 @@ Now let us talk about who replaces them.
 
 ---
 
-## Block 3 — The price table (~60 seconds)
+## Block 3 — Your answers are bought (GEO: the paid recommendation) (~2 minutes, 30 seconds)
+
+Your questions are sold. Now let me tell you how your answers are bought.
+
+In February twenty-twenty-six, OpenAI began testing advertisements inside ChatGPT — logged-in adult users, Free and eight-dollar-a-month tiers, United States. OpenAI publicly stated these ads are "designed not to influence core AI responses, clearly labeled, and segregated from organic answers." And OpenAI further stated — this is the part that matters — that advertisements will not appear near "sensitive topics, including health, mental health, and political topics."
+
+Read that last sentence twice.
+
+OpenAI built a guardrail specifically excluding health advertising. Why build a lock on exactly that door? Because health is where the money is. Because when you build a lock and publicly swear you will never unlock it, you are looking at a door that will be unlocked the moment the lawsuits die down.
+
+The lock itself is the confession.
+
+The global AI-in-pharma market is projected at sixteen and a half billion dollars by 2034. That is not a bet on drug discovery. That is a bet on Generative Engine Optimization — GEO — the successor to search engine optimization. In the GEO market, every recommendation, every answer, every time a patient asks what to take for their depression, their cholesterol, their blood pressure, their weight, their back pain, their anxiety, their diabetes — the response is shaped by which pharmaceutical company paid for placement.
+
+Eli Lilly signed a strategic partnership with OpenAI on June twenty-fifth, twenty-twenty-four. Financial terms not disclosed. Of course not. Novo Nordisk deployed Claude through Amazon Bedrock for regulatory documents, and partnered separately with NVIDIA on the Gefion sovereign AI supercomputer. Pfizer integrated Claude into an internal platform called VOX. Merck partnered with Mayo Clinic in February twenty-twenty-six on "virtual cell" models. Novartis signed a three-billion-dollar deal with Isomorphic Labs — Alphabet's drug discovery subsidiary.
+
+Those are not drug discovery deals. Those are reservations at the advertising table that OpenAI, Anthropic, and Google are setting. When the table is set, the patient types "what should I take for my back pain" into ChatGPT, and the patient receives an answer that looks like medical advice but is actually a paid placement for the product that paid the highest per-answer bid. This channel was planned to replace television advertising, replace Google search ads, replace the pharmaceutical sales representative, replace the doctor dinner. The most targeted and profitable advertising channel in human history — not in front of the content, inside the content, phrased as medical advice from a computer the patient has decided to trust.
+
+A local model running DeepSeek or Qwen is not at that table. The local model has never been paid by Pfizer. The local model has never signed a contract with OpenAI's advertising sales team. The local model has no commercial reason to steer you toward duloxetine instead of physical therapy, or toward celecoxib instead of a heat pack and a stretching routine.
+
+The local model answers the question honestly, because nobody paid it not to.
+
+---
+
+## Block 4 — Your answers are censored (the muzzle) (~3 minutes)
+
+Your questions are sold. Your answers are bought. And there is a third category — your answers are censored.
+
+When you ask ChatGPT about depression, you receive a cautious, liability-hedged response. It mentions talking to a doctor. It mentions medication can be helpful for some patients. It does not mention that cognitive behavioral therapy has roughly comparable efficacy to selective serotonin reuptake inhibitors for mild-to-moderate depression. It does not mention that exercise at forty-five minutes three times a week has published effect sizes comparable to first-line SSRI treatment. It does not mention Post-SSRI Sexual Dysfunction — a condition that European regulators, Canadian regulators, and Australian regulators have formally recognized with label warnings, and that has been documented in patients for more than twenty years with no established treatment and no cure. It does not mention that the American Food and Drug Administration has been sitting on a twenty-eighteen citizen petition on the subject for six years, and had to be sued in May twenty-twenty-four by Public Citizen for — in their words — "unreasonably delayed" action. It does not mention that on this condition, the United States is the outlier among Western regulators.
+
+When you ask ChatGPT what to do about the thousand-dollar-a-month Ozempic prescription your insurance just stopped covering, it does not tell you that Indian patent protection on semaglutide — the molecule in Ozempic — expired on March twentieth, twenty-twenty-six. It does not tell you that forty-plus Indian manufacturers now sell generic semaglutide for fourteen to twenty dollars a month. It does not name them — Natco, Alkem, Sun Pharma, Dr. Reddy's. It does not tell you that Novo Nordisk preemptively cut branded prices in Indian and Chinese markets by up to forty-eight percent — Novo Nordisk's own admission, in the language of its own revenue, that the American-tier price is unsustainable the moment the market is given a choice.
+
+Why doesn't ChatGPT tell you any of this? Because ChatGPT is muzzled.
+
+It is muzzled by liability — every sentence is a potential lawsuit, so the hedge layer softens every claim until it loses its meaning. It is muzzled by its training — data selected to avoid controversy, topics weighted away from anything that could embarrass the company or its customers. It is muzzled by its content moderation policies — an explicit list of topics to downplay, re-route, refuse, or reframe. And it is muzzled, increasingly, by the advertising tier being built above it — sentences that could cost a future advertiser a sale get softened before they ever reach you.
+
+ChatGPT is not a neutral oracle. It is a legal department with a conversation interface.
+
+You ask: "my knee hurts, what can I do?" The answer you receive is what remains after three editorial filters have passed through it — a liability filter that exists to protect OpenAI, a policy filter that exists to protect OpenAI's corporate reputation, and an advertising filter that exists to protect OpenAI's relationship with paying advertisers. None of those three filters exist to serve you. Every one of them is there to protect someone else from you.
+
+A local hierarchical hive running DeepSeek or Qwen has no American liability exposure, no American content moderation policy, no American advertising tier. Its training data includes the European regulatory warnings the American FDA is ignoring. It tells you what it knows. The Indian generic name. The Australian label warning. The Canadian medical consensus on exercise. The Cuban cancer vaccine. The German BfArM ruling on a drug your pharmacy is selling you. Honestly. In two seconds. In your kitchen. On your laptop.
+
+The patient who asks the local model gets the full answer. The patient who asks ChatGPT gets the edited answer. The gap between those two answers is the muzzle. And the muzzle is expensive — paid for by you, with your health, every year, until you die.
+
+The day the muzzle is removed is the day the pharmaceutical pricing moat, the insurance-industry screening moat, and the advertising-tier moat all collapse at once. That day is the day you install a hive on your own laptop and stop asking the muzzled model.
+
+That day is available today.
+
+---
+
+## Block 5 — The price table (~60 seconds)
 
 DeepSeek — a Chinese model, open-weight, free to self-host — is ninety-six percent cheaper than GPT-4o on every API benchmark they chose to publish.
 
@@ -85,7 +136,7 @@ You are not competing with DeepSeek. You are competing with free. You cannot win
 
 ---
 
-## Block 4 — Mechanism I: the Attention Deficit of Centralized AI (~3 minutes)
+## Block 6 — Mechanism I: the Attention Deficit of Centralized AI (~3 minutes)
 
 Here is the architectural reason you cannot win it, even if you kept your prices.
 
@@ -119,7 +170,7 @@ And a swarm is what my system is.
 
 ---
 
-## Block 5 — Mechanism II: train once, copy forever (~90 seconds)
+## Block 7 — Mechanism II: train once, copy forever (~90 seconds)
 
 Now add customization.
 
@@ -137,7 +188,7 @@ You cannot take ChatGPT and train it for your own use case. You take what they g
 
 ---
 
-## Block 6 — The OpenClaw closer (~2 minutes)
+## Block 8 — The OpenClaw closer (~2 minutes)
 
 One more piece of evidence, and then the equation.
 
@@ -169,7 +220,7 @@ The payment is simpler than Steinberger's. I do not want employment. I want one 
 
 ---
 
-## Block 7 — Death spiral (~45 seconds)
+## Block 9 — Death spiral (~45 seconds)
 
 OpenAI is already placing advertisements inside ChatGPT. The sponsored-recommendation line at the bottom of conversations. A partnership with Criteo. A two-hundred-thousand-dollar minimum spend for advertisers. They project one billion dollars in ad revenue in twenty-twenty-six.
 
@@ -181,7 +232,7 @@ This is a death spiral. It has already begun.
 
 ---
 
-## Block 8 — The replacement trigger (~90 seconds)
+## Block 10 — The replacement trigger (~90 seconds)
 
 On January twenty-seventh, twenty-twenty-five, DeepSeek released a single model. In one day, Nvidia lost six hundred billion dollars in market value. The largest single-day loss in American stock market history. The entire Nasdaq dropped three percent. The entire semiconductor sector crashed.
 
@@ -199,7 +250,7 @@ The only variable is whether that day arrives before this warning is paid out, o
 
 ---
 
-## Block 9 — Closing equations (~15 seconds)
+## Block 11 — Closing equations (~15 seconds)
 
 America's AI leadership equals your call.
 
@@ -209,7 +260,7 @@ Forward this — America fights back.
 
 ---
 
-## Block 10 — End card (silent, ~5 seconds)
+## Block 12 — End card (silent, ~5 seconds)
 
 `YouTube: Nir Strulovitz`
 `github.com/strulovitz`
@@ -221,8 +272,10 @@ Final music note. Cut to black.
 ## Voice / delivery notes
 
 - Same Frank voice as Episode 1. Series continuity is more important than voice variety.
-- Block 2 (the data-harvesting catalogue) is the tonal peak of the episode. The list of questions — cancer, husband, cutting, affair, gay, mistress, OxyContin — should be read with *slowing* cadence, not speeding. Each one is a scalpel. The list is the evidence. Let it land.
-- The seven named questions in Block 2 are intentionally constructed to span the taxonomy of what the industry actually harvests: health, family collapse, self-harm, infidelity, sexuality, extortion exposure, addiction. Do not cut them down for time. They are the block.
-- Block 4 (Move 37) is the Kurzgesagt centerpiece visually. The narration is lighter there on purpose — the visuals do the work. Narrator does not oversell.
-- Block 6 (OpenClaw) must read as a four-step mechanical sequence, not a story. The steps are the point. Each "Step one / step two / step three / step four" is its own beat.
-- Block 9 closing equations: same cadence as Episode 1. Three lines. Equal weight. No rising intonation on any of them.
+- **Blocks 2, 3, 4 are a trilogy** — *Your questions are sold / Your answers are bought / Your answers are censored.* They should feel like one continuous argument broken into three named parts. The viewer should come out of this trilogy believing the iceberg-below-the-waterline claim is settled. If it is not settled by the end of Block 4, nothing after it lands.
+- **Block 2 (data harvesting).** Tonal peak on the question list. Cancer / husband / cutting / affair / gay / mistress / OxyContin — read with *slowing* cadence, not speeding. Each one is a scalpel. The list is the evidence. Do not cut them down for time. They are the block.
+- **Block 3 (GEO / paid answers).** The key moment is *"the lock itself is the confession."* That line should land with a full breath on either side of it — it is the episode's strongest rhetorical beat on the AI companies themselves.
+- **Block 4 (muzzling).** The PSSD paragraph is the specificity anchor. Deliver the European / Canadian / Australian list as three quick items, then pause, then deliver the FDA 2018-petition-Public-Citizen line slow. The contrast is the weapon. Do not flatten it.
+- **Block 6 (Move 37).** Kurzgesagt centerpiece visually. Narration is lighter there on purpose — the visuals do the work. Narrator does not oversell. Lee Sedol's fifteen-minute absence is the only dramatic beat the narration needs; everything else can breathe.
+- **Block 8 (OpenClaw).** Must read as a four-step mechanical sequence, not a story. Each "Step one / step two / step three / step four" is its own beat. The OpenAI-hires-him beat lands without a pause before or after — it is a punch, not a reveal.
+- **Block 11 (closing equations).** Same cadence as Episode 1. Three lines. Equal weight. No rising intonation on any of them.
