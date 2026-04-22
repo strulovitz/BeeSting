@@ -172,24 +172,69 @@ Delivered at Samantha's desk with each point appearing as an animated graphic be
 
 ### Block 2.9 — Samantha, bridge to the mechanism explainers (~10s)
 
-> *"Coming up: how each of these eight advantages actually works. Starting with the one that frightens American Big AI the most. Stay with us."*
+> *"Coming up: how each of these eight advantages actually works. Starting with the first promise — that nothing ever leaves your building. Stay with us."*
 
 ---
 
-## What comes after Block 2 (to be drafted next, per block, with Nir's approval)
+## Block 3 — Mechanism cashing Point 1: Nothing leaves your building
 
-- **Block 3** — Mechanism explainer for Point 1 (Nothing leaves your building). Kurzgesagt-style flat 2D animation. Palette to be chosen.
+**Named concept:** *The Vault You Keep At Home.*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** charcoal + brass + cream — institutional-bank-vault aesthetic, signals trust/security/money. Distinct from every Ep1 mechanism palette.
+**Target length:** ~70s narration / 60s+ visual runtime.
+
+### Block 3.1 — The narration (Samantha, ~70s)
+
+> *"Point one. Nothing leaves your building. Here is how it actually works."*
+>
+> *"Imagine you own a bank. Customers bring you their diamonds. Their grandfather's gun. Their private papers. You say — 'Trust us. We will not open your box. We pinky-swear.'"*
+>
+> *"That is Big AI."*
+>
+> *"Your medical questions are the diamonds. Your company's trade secrets. Your hospital's patient records. Your law firm's client files. Your defense contractor's classified designs. Every one of them travels across the public internet to a bank in California. And you hope the pinky-swear holds."*
+>
+> *"Pinky-swears break. Big AI has been hacked. Employees have leaked. Governments have subpoenaed. Advertisers have bought the data after it was 'anonymized' — a fiction that re-identification software cracks in under two seconds per record."*
+>
+> *"The Hive does not hold your diamonds."*
+>
+> *"The Hive runs on your own computer, in your own office, on your own electricity, behind your own firewall. When you ask the Hive a question, the question travels three feet from your keyboard to your Hive. The answer travels three feet back. Total distance over the public internet: zero."*
+>
+> *"There is no bank. There is no box. There is no pinky-swear to break. The diamonds never leave your house."*
+>
+> *"And this is why Big AI cannot match it. Not because they do not want to — because their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
+
+### Block 3.2 — Shot plan skeleton (10 shots × 6s = 60s visual wallpaper)
+
+*Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | Title card: *"Point 1. Nothing leaves your building."* Brass vault-door icon on charcoal background. | 6 |
+| S2 | Wide shot: a bank exterior, brass sign **"TRUST US BANK."** Customers walk in carrying small bundles. | 6 |
+| S3 | Interior: a banker locks a diamond-filled box into a rack of safe deposit boxes. Each box is labeled — *Medical Q* · *Trade Secret* · *Patient Record* · *Classified Design*. | 6 |
+| S4 | Cross-section of the bank: hidden sub-basement. A shadow-banker secretly opens the boxes while customers sleep. | 6 |
+| S5 | Diamonds flow out of the sub-basement through four labeled pipes: **Hackers · Subpoenas · Advertisers · Employee Leaks**. | 6 |
+| S6 | Hard cut to a small office labeled **"YOUR BUILDING."** Just a laptop on a desk. A glowing bee-hive icon beside it. | 6 |
+| S7 | Close-up: user types a question. Arrow animates from keyboard to Hive icon — label **"3 FT."** Answer arrow returns **"3 FT."** | 6 |
+| S8 | Wide shot of **YOUR BUILDING**. A pipe leading out toward a cloud labeled **"BIG AI"** — scissors snip the pipe. Cloud recedes. | 6 |
+| S9 | Building stands sealed. No pipe. Hive glows inside. Text card overlay: *"No bank. No box. No pinky-swear."* | 6 |
+| S10 | Final beat: zoom out. A street of sealed buildings, each one glowing with its own Hive inside. No cloud in the sky. | 6 |
+
+---
+
+## What comes after Block 3 (to be drafted next, per block, with Nir's approval)
+
 - **Block 4** — Mechanism explainer for Point 2 (Train once, copy forever).
 - **Block 5** — Mechanism explainer for Point 3 (Scaffolding).
 - **Block 6** — Mechanism explainer for Point 4 (Infinite scaling).
 - **Block 7** — Mechanism explainer for Point 5 (Snowden / NSA).
-- **Block 8** — Mechanism explainer for Point 6 (Move 37 / Attention Deficit).
+- **Block 8** — Mechanism explainer for Point 6 (Move 37 / Attention Deficit). ⭐ The architectural killer blow.
 - **Block 9** — Mechanism explainer for Point 7 (Any model type).
 - **Block 10** — Mechanism explainer for Point 8 (Offline / air-gapped).
 - **Block 11** — Closing equations (Ep2 equivalent of Ep1 Block 12, same cadence).
 - **Block 12** — End card, silent (same as Ep1 Block 13).
 
-Order of mechanism explainers may be re-arranged so that the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating (Move 37) placed strategically.
+Order of mechanism explainers may be re-arranged so that the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating (Move 37) placed strategically. Current draft follows Samantha's summary order 1→8 for cleanliness; final cut may re-sequence.
 
 ---
 
