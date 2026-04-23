@@ -195,7 +195,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Vault You Keep At Home.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** charcoal + brass + cream — institutional-bank-vault aesthetic, signals trust/security/money. Distinct from every Ep1 mechanism palette.
-**Target length:** ~60s narration. 10 shots × 6s = 60s (per `feedback_clip_count_narration.md`).
+**Target length:** ~60s narration. 11 shots × 6s = 66s. S11 is a post-narration landing beat (sealed buildings + warm sun replacing the thunder-cloud) — the block's emotional aftermath, not filler. See `LANDING_BEATS_NOT_FILLER.md` for the full rule.
 
 ### Block 3.1 — The narration (Samantha, ~60s)
 
@@ -211,7 +211,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"Big AI cannot match this. Their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
 
-### Block 3.2 — Shot plan skeleton (10 shots × 6s = 60s to cover ~60s narration)
+### Block 3.2 — Shot plan skeleton (11 shots × 6s = 66s to cover ~60s narration + 6s landing beat)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -227,6 +227,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S8 | Hard cut to an office labeled **YOUR BUILDING**. Inside: a cluster of workstations glowing together as a local Hive — multiple nodes. | 6 |
 | S9 | Wide shot of **YOUR BUILDING**. A pipe runs out of it toward a **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning. Scissors snip the pipe. The cloud immediately starts to starve — gears grind, angry face deflates, cloud shrinks. | 6 |
 | S10 | Three quick tiles in sequence. Tile 1: a cartoon bank — big red **X** crashes across it. Tile 2: a safe-deposit box — big red **X**. Tile 3: two pinky-promise hands — big red **X**. | 6 |
+| S11 | Landing beat (plays after narration ends): zoom out on a street of sealed buildings, each glowing with its own Hive inside. Above them, a **warm smiling sun** has replaced the dark thunder-cloud — bright, kind, daytime. Held aftermath of the block; gives the audience six seconds to absorb the closer before Block 4 begins. | 6 |
 
 ---
 
@@ -235,7 +236,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
-**Target length:** ~120s narration. Shot count (per `feedback_clip_count_narration.md`) — 18 shots × 6s = 108s; any narration tail is held on the last shot (S18 tombstones carving) in the Premiere edit.
+**Target length:** ~120s narration. 19 shots × 6s = 114s. S19 is a post-Napster landing beat (wilted flower falls on the Big Tech grave) — aftermath of the block, not filler. Per BeeSting's audio-wins rule (HOLY_TEXT.md production workflow), shots inside the closer (S14, S18) may stretch past 6s in the final edit so audio plays at ElevenLabs' natural tempo. See `LANDING_BEATS_NOT_FILLER.md` for the full rule.
 **Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
 
 ### Block 4.1 — The narration (Samantha, ~120s)
@@ -260,7 +261,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"What Napster did to music record stores. What torrent did to Blockbuster. The HIVE will do to Big Tech!"*
 
-### Block 4.2 — Shot plan skeleton (18 shots × 6s = 108s to cover ~120s narration)
+### Block 4.2 — Shot plan skeleton (19 shots × 6s = 114s to cover ~120s narration, audio-wins in the closer)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_2_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -284,6 +285,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. A **warm smiling sun** rises in the corner of the map. | 6 |
 | S17 | A giant Chinese flag fills the frame. Cartoon hands emerge out of the flag and throw handfuls of gold coins and dollar bills in every direction across the screen. The money rains down onto a small "Big Tech" silhouette in the corner, burying it under the pile. | 6 |
 | S18 | Graveyard at dusk. Three tombstones in a row. Left tombstone: **MUSIC RECORD STORES · 1894 – 1999 · KILLED BY NAPSTER.** Middle tombstone: **VIDEO RENTAL STORES · 1977 – 2001 · KILLED BY TORRENT.** Right tombstone: **BIG TECH · 2022 – 2026 · KILLED BY CHINA'S HIVE** — the dates and last line are being chiseled onto the stone in real time by an unseen hand as Samantha lands the closing line. No real company names or logos anywhere on any stone. | 6 |
+| S19 | Landing beat (plays after narration ends): camera pulls back. All three tombstones fully carved, standing side by side under a grey sky. A single wilted flower falls slowly from above onto the BIG TECH grave. Six-second held aftermath — the audience absorbs the closer before Block 5 begins. | 6 |
 
 ---
 
@@ -292,7 +294,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Ghost-Copied Radiologist.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** silver + ghost-white + soft violet — spectral, ethereal. Reinforces the "xerox a radiologist into every room" metaphor. Distinct from Block 3's charcoal/brass vault and Block 4's forest-green/gold money.
-**Target length:** ~45s narration. 7 shots × 6s = 42s (per `feedback_clip_count_narration.md`). Block 5 is the shortest mechanism block because hospital adoption is the least certain of the nine — less airtime, same essence.
+**Target length:** ~50s narration. 7 shots × 6s = 42s nominal. Per BeeSting's audio-wins rule (HOLY_TEXT.md production workflow), S7 (the combined stake + sun + hospital-row closer) will naturally stretch in the final edit to cover the wooden-stake paragraph at ElevenLabs' natural tempo. Block 5 is the shortest mechanism block because hospital adoption is the least certain of the nine — less airtime, same essence.
 **Palantir naming carve-out:** Palantir may be named directly in Block 5 Point 6 because the cited event is a documented Guardian / Intercept news story from March 2026, not a jab at a Big AI LLM lab. See `BEESTING_2_BLOCK_5_PREP.md` for full carve-out notes. The never-say-names rule remains in force for all four American Big AI labs everywhere else.
 **Metaphor escalation lock:** Block 3 bank vault → Block 4 final nail in the coffin → Block 5 **wooden stake through the heart of the vampire.** Samantha must say the phrase "a wooden stake through the heart of the vampire" verbatim. Do not paraphrase. Vampires return from coffins. Vampires do not return from stakes.
 
