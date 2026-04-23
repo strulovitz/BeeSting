@@ -376,9 +376,42 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 ---
 
-## What comes after Block 5 (to be drafted next, per block, with Nir's approval)
+## Block 6 — Mechanism cashing Point 4: Yours to build
 
-- **Block 6** — Mechanism explainer for Point 4 (Yours to build — scaffolding).
+**Named concept:** *Yours to Build.*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** warm construction-orange + teal + cream — workshop / builder / customizable vibe. Distinct from Block 3's charcoal/brass vault, Block 4's forest-green/gold money, and Block 5's silver/violet spectral.
+**Target length:** ~30s narration. 5 shots × 6s = 30s visual. Block 6 is structurally the shortest mechanism explainer — Point 4 does not carry an extra beat like Block 4's tombstones or Block 5's Palantir wooden stake.
+**Visual-metaphor lock:** three different metaphors used consecutively, one per example — LEGO brick (robotics/physics), toolbelt tool (engineering/math), PC expansion card (legal). Metaphors do NOT rotate back; each metaphor appears once. Opening shot hints all three side by side.
+
+### Block 6.1 — The narration (Samantha, ~30s)
+
+> *"Point four. The hive is yours to build. Here is what that means."*
+>
+> *"A robotics company adds its own physics library — and every worker in the hive can simulate a robot arm."*
+>
+> *"An engineering firm adds its own mathematical packages — and every worker in the hive can crunch engineering equations."*
+>
+> *"A law firm adds its own case-law database — and every worker in the hive can research any precedent in seconds."*
+>
+> *"What does Big AI offer? Take it or leave it."*
+
+### Block 6.2 — Shot plan skeleton (5 shots × 6s = 30s to cover ~30s narration)
+
+*Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_4_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | Screen split into three vertical thirds. Left: a LEGO cube with empty studs on top. Middle: a craftsman's empty toolbelt hanging on a hook. Right: a PC expansion card held in a hand. All three gently glowing — hint of the three metaphors coming. | 6 |
+| S2 | LEGO scene. A custom brick labeled **PHYSICS** clicks onto a LEGO baseplate. Next to it, a simple robot arm icon moves its joints up and down. | 6 |
+| S3 | Toolbelt scene. A ruler-icon tool labeled **MATH** hangs onto an empty loop of a craftsman's toolbelt. Next to it, a simple bridge icon with an equation floating above it. | 6 |
+| S4 | PC scene. A hand plugs a custom card labeled **LEGAL** into an expansion slot of a motherboard. Next to it, a simple judge's gavel icon sits on top of a cylindrical database icon. | 6 |
+| S5 | Screen split in half. Left: a closed sealed cardboard box sits on a table — you cannot see what is inside. Right: the same kind of table, empty. | 6 |
+
+---
+
+## What comes after Block 6 (to be drafted next, per block, with Nir's approval)
+
 - **Block 7** — Mechanism explainer for Point 5 (Infinite stack — hierarchical scaling, software supports as many layers as hardware can stack).
 - **Block 8** — Mechanism explainer for Point 6 (Snowden / NSA / de-anonymization / insurer + employer harms). ⭐ The de-anonymization chain is the important part; spell it out in simple words so the viewer understands their Big AI conversation is quietly being matched back to their name by data brokers and used against them by insurers and employers.
 - **Block 9** — Mechanism explainer for Point 7 (Every branch — the chess explanation from the prologue of *The Distributed AI Revolution* and the Public Mode video). Chess grandmaster brags about focusing on the heart of the matter; then computers started winning because the branches humans dismissed were sometimes the decisive ones. Centralized AI is the human chess player — must prune. The Hive checks all branches in parallel.
