@@ -467,7 +467,7 @@ Generate these reference images once, re-use across all three shots:
 | Shot | Visual | ~Sec |
 |---|---|---|
 | S1 | A single **Hive icon** at the center of the frame. Three small icons float in toward it from around the edges: a **photo frame**, an **audio waveform**, a **document**. Small caption: **EVERY SENSE**. Nothing else on the canvas. | 6 |
-| S2 | Three cartoon people standing in a simple lineup — **two men and one woman**. A red flag pops above the woman's head. Nothing else — no CCTV background, no side panel, no computer icons on each person. | 6 |
+| S2 | A single CCTV-style photograph with **three cartoon people visible — two men and one woman**. Two dashed lines cut the photograph into **4 quadrants**. Each quadrant slides down into its own small **computer icon** below. A low-res thumbnail of the whole photo floats up into a slightly larger computer icon at the top. A red flag pops above the woman's head. Nothing else — no side panel, no extra labels. | 6 |
 | S3 | A single horizontal **audio waveform** fills the frame. Two vertical dashed lines split it into **3 time-slices**. Each slice slides down into its own small **computer icon** below. Above the sliced waveform, a smaller version of the same waveform floats up — marked with a **⏩ fast-forward symbol** — into its own slightly larger computer icon at the top. Nothing else. Small caption: **DETAIL + OVERVIEW**. | 6 |
 
 ---
