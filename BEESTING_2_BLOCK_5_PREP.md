@@ -1,0 +1,60 @@
+# BeeSting Part 2 — Block 5 preparation notes (Point 3: Train once, copy forever)
+
+**Purpose:** these are the source notes for writing Block 5's narration. Block 5 is the third of nine mechanism explainers in BeeSting Part 2, cashing Point 3 of Samantha's 9-point summary in Block 2.8. The 9-point summary line for this point is locked: *"Three. Train a specialist once, copy it forever. A hospital trains one machine on a thousand melanoma photographs — then ghost-copies the trained specialist to every workstation in the building in one hour."* Block 5 is the ~70-90 second Samantha narration that expands that one-sentence tease into a full mechanism explainer. It follows the Block 3 and Block 4 pattern: narration paragraph + ~14-shot Kurzgesagt-style visual skeleton.
+
+**Context this file is meant to survive:** the next Claude session that sits down to actually write Block 5's narration may not have the full conversation context from 2026-04-24, and may be a different model (Sonnet 4.6 or a later Opus). This file is written to be fully self-contained so the next Claude can produce the narration without re-deriving the research. Everything below has already been discussed, corrected, and locked with Nir during the 2026-04-24 session. Do not re-debate any of it unless Nir himself asks to re-open it.
+
+**The strict rule for this block (and all of BeeSting Ep2) — names:** never say the real American Big AI company names or product names, not in the script, not in chyrons, not in shot captions, and not in chat explanations about this script either. Banned: OpenAI, Google, Anthropic, xAI, ChatGPT, Claude, Gemini, Grok. Use "Big AI" / "Big Tech" / "the American cloud giants" / "Silicon Valley" instead. See `NEVER_SAY_BIG_AI_NAMES.md` in this repo for the full rule. The vertical medical AI vendors (Tempus, Paige, PathAI, Owkin, NVIDIA BioNeMo, MedGemma) are a *different* category and can be named or referred to as "medical AI vendors" — they are not the targets of this video.
+
+---
+
+## The five points Block 5 has to make
+
+### Point 1 — What "train once, copy forever" actually means
+
+A hospital takes one computer in the building and runs Hive software that teaches a small AI to do one very specific medical task — for example, recognize melanoma from a dermatology photograph. The training runs overnight on that one machine, against the hospital's own labeled data. When it finishes, the trained AI is a single file sitting on that computer — it is not a subscription, it is not a cloud endpoint, it is not an API, it is a file. The hospital then copies that file across its local network to every other workstation in the building, and every workstation is now as good at spotting melanoma as the first one. It is exactly like xeroxing a trained radiologist into every room of the hospital, for free, in one hour — which is why Samantha's 9-point summary used the phrase "ghost-copies."
+
+### Point 2 — The easy training path: the hospital's own database IS the training set
+
+Every hospital in the developed world already keeps patient photos, scans, and test results in an electronic health record (EHR) system, and every image in that database is already linked by foreign key to the patient's diagnosis code (ICD-10), biopsy result, treatment, and follow-up outcome. That means the hospital does not need doctors to sit down and manually label photos — the labels already exist, they were written by the original treating physicians at the time of care, twenty years of them, quietly accumulated in the database. One intern with a database password can write a single SQL query along the lines of *"return every dermatology image whose linked diagnosis code is melanoma, together with the biopsy-confirmed diagnosis and the six-month outcome"* — and the result of that query is a fully labeled training set of thousands of images, assembled in a few minutes. The Hive software then feeds that query result to a free open-source vision model (examples of such open models in 2026 include Qwen-VL, MedGemma, and LLaVA-NeXT variants — all downloadable and fine-tunable on the hospital's own hardware) and trains it overnight on a single workstation GPU. This is the low-effort path and it works for most hospitals because the hospital's own twenty-year archive of diagnosed cases is already a stronger training set than any off-the-shelf dataset.
+
+### Point 3 — The distillation path: hire a medical AI vendor ONCE as a teacher, then cut them loose
+
+Some hospitals have databases that are too small, too sparsely labeled, or too concentrated in easy cases to produce a strong specialist via the Point-2 easy path. For those hospitals there is a stronger move, called distillation. There is an entire industry of specialized medical AI vendors — companies like Tempus, Paige, PathAI, Owkin, and NVIDIA's BioNeMo stack — who have already spent years training powerful medical specialists on millions of real medical images and who sell access to those specialists. Their standard business model is to charge the hospital per workstation per query, forever, as a subscription — which is expensive and exactly the kind of recurring-revenue arrangement the Hive is designed to disrupt. In the Hive architecture, the hospital hires such a vendor exactly *once*: the vendor's strong specialist runs across the hospital's dataset in a single batch and produces high-quality labels for every image. The hospital pays the vendor for that one batch job, then cuts them loose. After that, the hospital trains its own local open-source model on the vendor-provided labels, and the resulting student model is nearly as good as the vendor's original expensive specialist, runs entirely on the hospital's own workstations, and is copied across the building for free. One one-time bill instead of a forever bill. The vendor's recurring-revenue subscription model dies. Important for the script: this distillation move does NOT use Big AI (OpenAI / Google / Anthropic / xAI) as the teacher — Big AI's fine-tuning on medical images is shallow and not strong enough to be a good teacher for this purpose, see Point 5. Only a real medical AI vendor is strong enough to play the teacher role.
+
+### Point 4 — Multimodal: this is NOT just photos, and NOT just text
+
+The Hive architecture perceives any input by mechanically cutting the input along whatever axes it has and handing the pieces to workers running small AI models in parallel — this is the principle explained in Chapter 12 of *The Distributed AI Revolution* (Book 1). For photos, the image is cut into spatial tiles and each worker analyzes its tile. For sound recordings, the audio is cut into short time-slices and each worker listens to its slice. That means the same exact "train once, copy forever" workflow applies to every medical modality a hospital deals with: dermatology skin-cancer photographs, X-ray images, pathology-slide micrographs, retinal photographs, otoscope (ear) photographs, CT and MRI slices, stethoscope recordings of the heart, cough-sound recordings, lung-sound recordings, audio interviews, and more. A single hospital, over time, can train hundreds of specialists — one per organ, one per test, one per condition — and every one of them is a single file that gets copied to every workstation in the building for free. Important for the script: do NOT discuss video in this block. Video has its own structural handling and its own dedicated block later in the script — covering it here would overload Block 5 and overlap with the later block.
+
+### Point 5 — What Big AI offers instead is not a real alternative
+
+Big AI — the large American closed-LLM providers — will let a hospital upload photos and pay to "fine-tune" their model on those photos. This service technically exists. But it was primarily built for adjusting the model's *tone, formatting, and brand voice* — not for teaching it brand-new medical skills like melanoma recognition. The result of pushing medical images through such a fine-tune is a shallow, weak medical specialist that is nowhere near what a real medical AI vendor or a Hive-trained local specialist can deliver. More importantly, even that weak result stays inside Big AI's own cloud data center — the hospital never receives a file it can copy or run on its own hardware. Every query from every workstation still flies across the public internet to Big AI's servers, and Big AI still charges the hospital for every query, every workstation, every day, forever. That is the recurring-revenue model. It is the exact opposite of "train once, copy forever," and it is what Block 5 exposes.
+
+---
+
+## Narration length and shot count for Block 5
+
+Target narration length: approximately 70 to 90 seconds of Samantha reading. At 6 seconds per visual shot (the BeeSting standard per `feedback_clip_count_narration.md`), this means the shot-plan skeleton should have approximately 14 shots × 6s = 84 seconds of visual coverage. Same size class as Block 3 (Point 1, "Nothing leaves your building") and similar to Block 4 (Point 2, "The Hive pays the American folks real money back"). Do not make Block 5 longer than Block 4 — the whole episode is targeted at ~15 to 20 minutes total across all 13 blocks and Block 5 is one of nine mechanism explainers.
+
+## Palette and style for Block 5
+
+Style: the standard BeeSting mechanism-explainer style — Kurzgesagt-flat 2D motion graphics, no live actors (Samantha narrates but is not on screen during mechanism explainers — she narrates over the 2D animation). Palette proposal: silver + ghost-white + soft violet, spectral / ethereal, reinforcing the "ghost that clones itself" metaphor from Samantha's 9-point summary line; this palette should be clearly distinct from Block 3's charcoal-brass-cream bank-vault palette and Block 4's forest-green-warm-gold-cream money palette. Final palette is Nir's call — he may veto silver/violet and pick a different direction, but if unspecified, use silver + ghost-white + violet.
+
+## Where the actual narration and shot plan will live
+
+The narration paragraph and the 14-shot skeleton for Block 5 go into `BEESTING_2.md` as a new section titled `Block 5 — Mechanism cashing Point 3: Train once, copy forever`, placed directly after Block 4's shot plan and before the `What comes after Block 4` backlog list. The detailed per-shot production plan (if and when we generate clips) goes into its own file `BEESTING_2_MECH_3_SHOT_PLAN.md` following the pattern set by `BEESTING_2_MECH_1_SHOT_PLAN.md` and `BEESTING_2_MECH_2_SHOT_PLAN.md`.
+
+## Closing line for Block 5 — to be decided with Nir
+
+Block 3 ended cold. Block 4 ended with the Napster / Torrent / Big Tech tombstone triptych. Block 5 does not yet have a locked closing line. Suggestion if Nir wants one: end on the phrase *"One file. Copied to every room. Free forever."* — three beats, echoing the "one overnight run" earlier. But do not commit this without Nir approving it first. If Nir says "just end cold," end cold.
+
+---
+
+## What is already locked (do not re-debate)
+
+- The 9-point summary line for Point 3 is locked in Block 2.8 as written above; do not change it.
+- The "never say Big AI names anywhere" rule is absolute; do not slip into saying OpenAI / Google / Anthropic / xAI / ChatGPT / Claude / Gemini / Grok anywhere in the script or shot captions.
+- The distinction between Big AI and medical AI vendors is load-bearing — do not conflate them. Big AI = the four frontier closed-LLM labs. Medical AI vendors (Tempus, Paige, PathAI, Owkin, NVIDIA BioNeMo) = different category, not the targets of this video.
+- Distillation uses a medical AI vendor as teacher, NOT Big AI as teacher. Big AI as teacher would produce a bad student — they are too shallow at medical vision to be useful teachers.
+- Do not discuss video in Block 5; video has its own dedicated block.
+- Do not re-prove the research about Big AI fine-tuning limitations; it was verified with Nir through three Google AI search queries during the 2026-04-24 session and the conclusion is locked.
