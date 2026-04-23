@@ -211,7 +211,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"Big AI cannot match this. Their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
 
-### Block 3.2 — Shot plan skeleton (11 shots × 6s = 66s to cover ~60s narration)
+### Block 3.2 — Shot plan skeleton (10 shots × 6s = 60s to cover ~60s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -227,7 +227,6 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S8 | Hard cut to an office labeled **YOUR BUILDING**. Inside: a cluster of workstations glowing together as a local Hive — multiple nodes. | 6 |
 | S9 | Wide shot of **YOUR BUILDING**. A pipe runs out of it toward a **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning. Scissors snip the pipe. The cloud immediately starts to starve — gears grind, angry face deflates, cloud shrinks. | 6 |
 | S10 | Three quick tiles in sequence. Tile 1: a cartoon bank — big red **X** crashes across it. Tile 2: a safe-deposit box — big red **X**. Tile 3: two pinky-promise hands — big red **X**. | 6 |
-| S11 | Final beat: zoom out. A street of sealed buildings, each glowing with its own Hive inside. Above them, a **warm smiling sun** has replaced the dark thunder-cloud — bright, kind, daytime. | 6 |
 
 ---
 
