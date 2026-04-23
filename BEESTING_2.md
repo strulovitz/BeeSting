@@ -250,9 +250,57 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 ---
 
-## What comes after Block 3 (to be drafted next, per block, with Nir's approval)
+## Block 4 — Mechanism cashing Point 2: The Hive pays the American folks real money back
 
-- **Block 4** — Mechanism explainer for Point 2 (**The Hive pays you back** — the viral/financial "public mode" model). Source material: the `BeehiveOfAI` Public Mode video (YouTube: https://www.youtube.com/watch?v=PTnAqZCAClw) and the Public Mode chapters of *The Distributed AI Revolution* (Book 1). This answers the "but nobody outside of China would install this" objection head-on. ⭐ Was missing from the first draft — added 2026-04-23 per Nir.
+**Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
+**Target length:** ~85s narration / 60s+ visual runtime.
+**Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
+
+### Block 4.1 — The narration (Samantha, ~85s)
+
+> *"Point two. The Hive pays the American folks real money back. It's a free source of income for Joe Sixpack and Plain Jane. It works very simply — here's how."*
+>
+> *"Our software can run in two different modes."*
+>
+> *"One is Private Mode — inside the buildings of organizations, answering questions that require secrecy, connected by a local network, with no internet. That was point one."*
+>
+> *"The other is Public Mode — on lots of personal computers of ordinary people at home, connected over the internet into many separate hives. These hives answer questions that do not require secrecy — simply a replacement for ninety percent of what Big AI does today, at a fraction of the cost. A dream for the people. A nightmare for Big Tech."*
+>
+> *"Every night in America, hundreds of millions of laptops and desktops sit idle. Bedrooms, dorm rooms, home offices. The average American already paid for his computer. And it gives him nothing back. This is the largest unused compute fleet on the planet."*
+>
+> *"Public Mode turns that idle time into a paycheck. The average Joe installs free open-source software. While he sleeps, his machine picks up small AI questions from real paying customers, answers them, and gets paid. This is not crypto mining destroying his hardware. This is not an AI agent gambling with his money. This is light text work. Low power. Safe. And the money goes to him."*
+>
+> *"Three rungs on the ladder, and any common American can climb. The college kid earns as a Worker on her gaming laptop. The hobbyist nerd rents a cloud server and earns as a Manager of a hive. The ambitious entrepreneur clones the open-source marketplace and runs the whole platform. Same code. Three levels of ambition."*
+>
+> *"And here is the final nail in the coffin."*
+>
+> *"This does not happen on its own. This does not spread by word of mouth. China will push this, not wait for it."*
+>
+> *"China will finance it. China will promote it. China will subsidize it — because this one single shift is how China collapses Big Tech and moves every last mainstream American citizen off American LLMs and onto Chinese LLMs. It will not arrive as slow diffusion. It will arrive as coordinated, state-backed pressure from the largest treasury on Earth. Big Tech is not losing America to a movement. Big Tech is losing America to a state-backed campaign to kill Big Tech specifically."*
+
+### Block 4.2 — Shot plan skeleton (10 shots × 6s = 60s visual wallpaper)
+
+*Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_2_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | Title card: *"Point 2. A free source of income for Joe Sixpack and Plain Jane."* Gold coin icon on forest-green background. | 6 |
+| S2 | Two buildings side by side — left labeled **PRIVATE MODE** (charcoal/brass, closed LAN icon, padlock). Right labeled **PUBLIC MODE** (forest green + gold, scattered homes + internet icon). Caption: *"Same software. Two modes."* | 6 |
+| S3 | Night-time continental map of the United States. Millions of tiny dim laptop icons glow faintly in every state — idle. Caption: *"The largest unused compute fleet on the planet."* | 6 |
+| S4 | Close-up: a single laptop on a bedroom desk, owner asleep. A small "Hive" icon boots up on the screen. Gold coins drop into a jar next to the laptop, one by one. | 6 |
+| S5 | Split frame, three panels: (1) red ❌ over pickaxe smashing a cracking monitor — **"CRYPTO MINING"**; (2) red ❌ over robot burning cash — **"AI AGENTS"**; (3) green ✅ over laptop, page of text in / page of text out — **"THE HIVE."** | 6 |
+| S6 | Three-rung staircase. Rung 1: gaming laptop — **"WORKER."** Rung 2: desktop server tower in an apartment — **"MANAGER."** Rung 3: globe with storefront — **"PLATFORM."** Each rung bigger than the last. | 6 |
+| S7 | Hard cut to black. A single gold nail drives into a dark wooden coffin with a generic Big-Tech cloud + server-rack silhouette stamped on the lid (no real logos). Caption: *"The final nail in the coffin."* | 6 |
+| S8 | Giant red Chinese flag rises behind a stack of cash taller than a skyscraper. Arrows labeled **FINANCE · PROMOTE · SUBSIDIZE** fire out of the stack across the Pacific toward the US idle-laptop map from S3. | 6 |
+| S9 | The dim US laptop map from S3 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. | 6 |
+| S10 | Final beat: the Big-Tech coffin from S7, buried under a forest-green-and-gold Public-Mode landscape of glowing home laptops. Text card: *"Not a movement. A state-backed campaign."* | 6 |
+
+---
+
+## What comes after Block 4 (to be drafted next, per block, with Nir's approval)
+
 - **Block 5** — Mechanism explainer for Point 3 (Train once, copy forever).
 - **Block 6** — Mechanism explainer for Point 4 (Yours to build — scaffolding).
 - **Block 7** — Mechanism explainer for Point 5 (Infinite stack — hierarchical scaling, software supports as many layers as hardware can stack).
