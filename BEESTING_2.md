@@ -360,9 +360,28 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 ---
 
-## What comes after Block 6 (to be drafted next, per block, with Nir's approval)
+## Block 7 — Mechanism cashing Point 5: Infinite stacking
 
-- **Block 7** — Mechanism explainer for Point 5 (Infinite stack — hierarchical scaling, software supports as many layers as hardware can stack).
+**Named concept:** *Stack of Pyramids (Sierpiński tetrahedron).*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** sky blue + gold + cream — sky / stacking / ascending vibe. Distinct from previous blocks.
+**Target length:** ~31s narration. 3 shots × 6s = 18s nominal; S2 stretches in the final edit to cover its long narration chunk (audio-wins rule, per `LANDING_BEATS_NOT_FILLER.md`). Block 7 is intentionally short — hierarchy is self-evident once you see a pyramid stack, so Nir's old-book epilogue on "Hierarchical Hives" did not become a chapter in MadHoney either.
+
+### Block 7.1 — The narration (Samantha, ~31s)
+
+> *"Point five. The Hive can stack on top of itself. When you put one hive on top of four others, the queens of the lower hives become workers to the queen of the upper hive. In the same way you can add more layers — as many as your hardware supports. China stacks half a billion computers this way. Big AI cannot stack. To scale, Big AI has to build another data center — tens of billions of dollars. The Hive runs on computers people already own. Free."*
+
+### Block 7.2 — Shot plan skeleton (3 shots × 6s = 18s nominal, S2 stretches per audio-wins)
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | A single pyramid sits on the ground. At the sharp peak: one figure labeled **QUEEN**. At the wide base: several figures labeled **WORKERS**. Clean, simple diagram of one hive. | 6 |
+| S2 | Four pyramids sit on the ground arranged in a 2×2 square, sharp peaks pointing up. A fifth pyramid descends from above and lands balanced on all four peaks. The **QUEEN** labels on the four lower pyramids flip to **WORKER** as the upper pyramid settles in. Then the whole structure repeats — another layer stacks on top, then another, and the pyramid-of-pyramids grows into a tall tower. Chinese flag at the top. Side label: **500,000,000 COMPUTERS**. | 6 |
+| S3 | Split frame. **LEFT:** a grey Big AI data-center with a huge price tag reading **$10 BILLION**. Beside it, construction on an identical second data-center with another **$10 BILLION** tag. Money visibly burning around both. **RIGHT:** a massive smooth tetrahedron standing on the ground — visibly larger than the two Big AI data-centers on the left combined, dwarfing them. Label across its front face: **"Sierpiński tetrahedron (or tetrix)"**. Floating nearby: **FREE — HARDWARE ALREADY PAID FOR**. (Tetrahedron rendered solid because Kling cannot paint true fractal recursion — the label tells the informed viewer it is conceptually built from infinitely many smaller tetrahedra.) | 6 |
+
+---
+
+## What comes after Block 7 (to be drafted next, per block, with Nir's approval)
 - **Block 8** — Mechanism explainer for Point 6 (Snowden / NSA / de-anonymization / insurer + employer harms). ⭐ The de-anonymization chain is the important part; spell it out in simple words so the viewer understands their Big AI conversation is quietly being matched back to their name by data brokers and used against them by insurers and employers.
 - **Block 9** — Mechanism explainer for Point 7 (Every branch — the chess explanation from the prologue of *The Distributed AI Revolution* and the Public Mode video). Chess grandmaster brags about focusing on the heart of the matter; then computers started winning because the branches humans dismissed were sometimes the decisive ones. Centralized AI is the human chess player — must prune. The Hive checks all branches in parallel.
 - **Block 10** — Mechanism explainer for Point 8 (Every sense — any model type).
