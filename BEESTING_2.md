@@ -173,7 +173,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 > *"Five. Infinite stacking. The Hive is hierarchical — stack layer upon layer, as many as your hardware allows. China has half a billion computers. Your ceiling is whatever you already own."*
 
 **6. SNOWDEN DIAGNOSED. THE HIVE CURES. 🕵️**
-> *"Six. Snowden diagnosed. The Hive cures. Every question you ask Big AI reveals whether you have cancer, a mistress, depression. Big AI sells that data — data brokers re-identify you in seconds. Your insurance raises your premium. Your employer does not hire you. The Hive knows nothing — your data never left the building."*
+> *"Six. Snowden diagnosed. The Hive cures. Every question you ask Big AI reveals whether you have cancer, a mistress, or are gay. Big AI sells that data — data brokers re-identify you in seconds. Your insurance raises your premium. Your employer does not hire you. The Hive knows nothing — your data never left the building."*
 
 **7. EVERY BRANCH. 🧠**
 > *"Seven. Every branch gets full attention. A centralized AI must prune — one brain, one context window. The Hive does not prune. Every Worker gets a branch. What Big AI architecturally cannot find — the Hive finds."*
@@ -381,8 +381,40 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 ---
 
-## What comes after Block 7 (to be drafted next, per block, with Nir's approval)
-- **Block 8** — Mechanism explainer for Point 6 (Snowden / NSA / de-anonymization / insurer + employer harms). ⭐ The de-anonymization chain is the important part; spell it out in simple words so the viewer understands their Big AI conversation is quietly being matched back to their name by data brokers and used against them by insurers and employers.
+## Block 8 — Mechanism cashing Point 6: Snowden diagnosed, the Hive cures
+
+**Named concept:** *Rubber-Stamp Surveillance.*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** dark slate grey + red ink + cream — surveillance / paper-trail vibe. Distinct from previous blocks.
+**Target length:** ~27s narration. 3 shots × 6s = 18s nominal; S1 and S2 stretch naturally in the final edit per audio-wins rule.
+**Source:** MadHoney `chapter_03a.md` (NSA legally subpoenas, no hacking needed; "anonymized" data re-identifiable via big data per MIT's Yves-Alexandre de Montjoye 2009 — four spatio-temporal points identify 95% of people).
+
+### Block 8.1 — The narration (Samantha, ~27s)
+
+> *"Point six. Snowden diagnosed. The Hive cures. Snowden proved the NSA was wiretapping everyone. Today, the NSA doesn't need to hack — a court order, a rubber stamp, exposes every question you ever typed. Cancer. A mistress. Gay. Big AI also sells your data labeled 'anonymized' — but with big data, a few details unmask you in seconds. In Private Mode, your data never leaves the building. No court order. Nothing to sell."*
+
+### Block 8.2 — Shot plan skeleton (3 shots × 6s = 18s nominal, S1 + S2 stretch per audio-wins)
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | Corner banner reads **2013 · SNOWDEN**. A KGB-style agent stands in the foreground — **long dark trench coat, black fedora pulled low, dark round sunglasses, collar turned up, serious expression, flat 2D Kurzgesagt style**. Floating label over his head: **NSA**. He holds a giant **rubber stamp** in one hand and slams it down hard onto a document — a bright red circular seal appears on the paper. The angry Big AI thunder-cloud (re-used from Blocks 3/4/5) tilts and pours three personal-data files straight into a basket at the NSA agent's feet — each file labeled **CANCER**, **MISTRESS**, **GAY**. | 6 |
+| S2 | Center of frame: a regular cartoon everyman — **jeans, plain t-shirt, mid-40s, average build, NO hood, NOT a hacker** — wearing a classic **Guy Fawkes / V-for-Vendetta mask** (white, curved smile, upturned mustache, pointed goatee). Label beside him: **JOHN SMITH · ANONYMIZED**. A big-data cross-reference engine clicks twice; the Guy Fawkes mask flies off his face — same man, same clothes, now plain-faced. Label updates to: **JOHN SMITH · 52 · CHICAGO · DIABETES**. Around him, three **cartoon thieves** in caricature style — **black bandit eye-masks, black-and-white horizontal striped shirts, each carrying a money sack with a big $ on it** — all reaching for the now-unmasked John. Their labels: **INSURANCE**, **EMPLOYER**, **ADVERTISER**. | 6 |
+| S3 | A sealed office building with a big sign reading **PRIVATE MODE**. Inside the windows, workstations glow warmly. At the front door, the KGB-style NSA agent from S1 holds his rubber stamp over a **blank** piece of paper — no file to expose, nothing to stamp. Beside him, one of the bandit-thieves from S2 holds an **empty** money bag. Both look defeated, turn, and walk away in opposite directions. | 6 |
+
+### Block 8.3 — Reference-image pipeline (for Sonnet / OpenArt / Kling hand-off)
+
+Generate these reference images once, re-use across all three shots:
+
+1. **NSA agent** (S1 + S3): KGB-style — long dark trench coat, black fedora pulled low, dark round sunglasses, collar up, holding a **large rubber stamp**. "NSA" label floating over his head. Flat 2D Kurzgesagt style. 1024×1024 via ChatGPT Image 1.5.
+2. **John Smith, masked** (S2): jeans + plain t-shirt, no hood, mid-40s average build, wearing Guy Fawkes mask. 1024×1024.
+3. **John Smith, unmasked** (S2): same body, same clothes, same pose as #2, mask off, plain face visible. 1024×1024. *Both John Smith images given to Kling simultaneously as multi-reference inputs; Kling prompt describes the mask flying off.*
+4. **Three bandit-thieves** (S2 + S3): three cartoon figures in a row, each with black bandit eye-mask, black-and-white striped shirt, money sack with $ sign. Labels INSURANCE / EMPLOYER / ADVERTISER floating above each. 1024×1024.
+5. **Big AI angry thunder-cloud** (S1): re-used from Block 3 / Block 4 / Block 5. Already locked.
+
+---
+
+## What comes after Block 8 (to be drafted next, per block, with Nir's approval)
+
 - **Block 9** — Mechanism explainer for Point 7 (Every branch — the chess explanation from the prologue of *The Distributed AI Revolution* and the Public Mode video). Chess grandmaster brags about focusing on the heart of the matter; then computers started winning because the branches humans dismissed were sometimes the decisive ones. Centralized AI is the human chess player — must prune. The Hive checks all branches in parallel.
 - **Block 10** — Mechanism explainer for Point 8 (Every sense — any model type).
 - **Block 11** — Mechanism explainer for Point 9 (No internet needed — offline / air-gapped).
