@@ -255,7 +255,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
-**Target length:** ~85s narration / 60s+ visual runtime.
+**Target length:** ~100s narration / 60s+ visual runtime.
 **Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
 
 ### Block 4.1 — The narration (Samantha, ~85s)
@@ -266,7 +266,11 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"One is Private Mode — inside the buildings of organizations, answering questions that require secrecy, connected by a local network, with no internet. That was point one."*
 >
-> *"The other is Public Mode — on lots of personal computers of ordinary people at home, connected over the internet into many separate hives. These hives answer questions that do not require secrecy — simply a replacement for ninety percent of what Big AI does today, at a fraction of the cost. A dream for the people. A nightmare for Big Tech."*
+> *"The other is Public Mode — on lots of personal computers of ordinary people at home, connected over the internet into many separate hives. These hives answer questions that do not require secrecy."*
+>
+> *"Where does the money come from? Small and medium businesses need AI — and are happy to pay for it. A hotel wants one thousand public reviews analyzed in parallel. A furniture manufacturer wants one hundred table catalogs written in parallel, each given a different initial seed. A Quality Assurance company needs tons of software modules tested in parallel. John Doe needs help planning his trip, or brainstorming birthday gift ideas — and the Hive tests every country, every idea, in parallel."*
+>
+> *"All of these clients use Public Mode Hives. They are happy to pay real money for the answers. They get the same level of AI service, delivered faster because it is all in parallel, at a fraction of the cost — because no expensive data center is involved, and no subscription is required. This simply replaces ninety percent of what Big AI profits from today. A dream for the people. A nightmare for Big Tech."*
 >
 > *"Every night in America, hundreds of millions of laptops and desktops sit idle. Bedrooms, dorm rooms, home offices. The average American already paid for his computer. And it gives him nothing back. This is the largest unused compute fleet on the planet."*
 >
