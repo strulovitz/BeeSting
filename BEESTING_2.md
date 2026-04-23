@@ -158,43 +158,31 @@ Content strictly adapted from the MadHoney prologue's "You Just Ask Them" sectio
 Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease that will be cashed by its own mechanism block later.
 
 **1. NOTHING LEAVES YOUR BUILDING. 🏢**
-> *"One. Nothing leaves your building. Trade secrets, patient records, classified military files — all stay on your own hardware, inside your own walls. You don't need the internet at all."*
+> *"One. Nothing leaves your building. Trade secrets, patient records, classified military files — all stay on your own hardware, inside your own walls. No internet needed."*
 
 **2. THE HIVE PAYS YOU BACK. 💰**
-> *"Two. The Hive pays you back. Today, your computer sits idle at night and on weekends. You paid for the hardware. You pay for the electricity. It gives you nothing back."*
->
-> *"In the Hive, that idle time rents itself out to the network. Every query that runs on your machine pays you. The more you contribute, the more you earn. The more people who join, the bigger the network — the more queries, the more money for everyone."*
->
-> *"This is not China forcing a billion citizens to install software. This is every American laptop owner discovering that the machine they already paid for can pay them back. The Hive is not something that happens to you. It is something you join, voluntarily, because it is in your own interest to join."*
+> *"Two. The Hive pays you back. Your idle computer becomes a paycheck. Every query earns money. Not something China forces on you — something you join because it pays."*
 
 **3. TRAIN ONCE, COPY FOREVER. 🎯**
 > *"Three. Train a specialist once, copy it forever. A hospital trains one machine on a thousand melanoma photographs — then ghost-copies the trained specialist to every workstation in the building in one hour."*
 
 **4. YOURS TO BUILD. 🔧**
-> *"Four. The hive is yours to build. A robotics company adds its own physics library. An engineering firm adds its own mathematical packages. Big AI is take it or leave it — you cannot change it, you cannot extend it, you cannot customize it. The Hive is whatever you build."*
+> *"Four. The hive is yours to build. A robotics company adds its own physics library. An engineering firm adds its own mathematical packages. Big AI is take it or leave it. The Hive is whatever you build."*
 
 **5. INFINITE STACK. ♾️**
-> *"Five. Infinite stacking. The Hive is hierarchical — you stack layer upon layer of the same simple building block, as many layers as your hardware can support. China has half a billion computers. Your ceiling is whatever hardware you already own — hardware that has already been paid for. Sunk cost, already sitting on desks."*
+> *"Five. Infinite stacking. The Hive is hierarchical — stack layer upon layer, as many as your hardware allows. China has half a billion computers. Your ceiling is whatever you already own."*
 
 **6. SNOWDEN DIAGNOSED. THE HIVE CURES. 🕵️**
-> *"Six. Snowden diagnosed. The Hive cures."*
->
-> *"Snowden told us the NSA was secretly wiretapping everyone. Today, the wiretap is voluntary. Every question you type into Big AI tells the network whether you have cancer, whether you have a mistress, whether you are gay, whether your child is on drugs. Big AI sells that data, labeled 'anonymized' — and the buyers run de-anonymization software that puts your name back on the record in under two seconds. Your future employer buys the record and does not hire you. Your insurance company buys the record and raises your premium."*
->
-> *"Big AI knows more about you than your spouse does. The Hive knows nothing about you — because your data never left the building."*
+> *"Six. Snowden diagnosed. The Hive cures. Every question you ask Big AI reveals whether you have cancer, a mistress, depression. Big AI sells that data — data brokers re-identify you in seconds. Your insurance raises your premium. Your employer does not hire you. The Hive knows nothing — your data never left the building."*
 
 **7. EVERY BRANCH. 🧠**
-> *"Seven. Every branch gets full attention."*
->
-> *"For a hundred years, we thought the human mind beat the computer at chess because the human could focus on the heart of the matter, while the computer wasted time on irrelevant branches. A hundred years of chess grandmasters bragged about their focus. Then the computer started winning — because it turned out the branches the human dismissed as irrelevant were sometimes the branches that mattered most."*
->
-> *"A centralized AI has to prune. It has one brain, one context window. It must skim and ignore. The Hive does not prune. Every Worker gets a branch. Every branch gets full attention. The insight Big AI architecturally cannot find — the Hive finds."*
+> *"Seven. Every branch gets full attention. A centralized AI must prune — one brain, one context window. The Hive does not prune. Every Worker gets a branch. What Big AI architecturally cannot find — the Hive finds."*
 
 **8. EVERY SENSE. 🌐**
-> *"Eight. The Hive runs any kind of model. Text. Vision. Speech. Audio. Video. The Hive does not care what the Worker is running. It only cares that the Worker returns a result."*
+> *"Eight. The Hive runs any kind of model. Text. Vision. Speech. Audio. Video. It does not care what the Worker runs — only that the Worker returns a result."*
 
 **9. NO INTERNET NEEDED. 🔌**
-> *"Nine. No internet needed. Submarine. Military forward operating base. Disaster zone. Hospital in a poor-connectivity region. The Hive runs on your own local network — as long as that network exists, the Hive runs. Big AI needs a live pipe to a United States data center. The Hive does not."*
+> *"Nine. No internet needed. Submarine. Forward operating base. Disaster zone. The Hive runs on your own local network. Big AI needs a live pipe to a United States data center. The Hive does not."*
 
 ### Block 2.9 — Samantha, bridge to the mechanism explainers (~10s)
 
@@ -207,50 +195,39 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Vault You Keep At Home.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** charcoal + brass + cream — institutional-bank-vault aesthetic, signals trust/security/money. Distinct from every Ep1 mechanism palette.
-**Target length:** ~80s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 14 shots.
+**Target length:** ~60s narration. 11 shots × 6s = 66s (per `feedback_clip_count_narration.md`).
 
-### Block 3.1 — The narration (Samantha, ~80s)
+### Block 3.1 — The narration (Samantha, ~60s)
 
-> *"Point one. Nothing leaves your building. Here is how it actually works."*
+> *"Point one. Nothing leaves your building. Here is how."*
 >
-> *"Imagine you own a bank. Customers bring you their diamonds. Their grandfather's gun. Their private papers. You say — 'Trust us. We will not open your box. We pinky-swear.'"*
+> *"Imagine you own a bank. Customers bring you their diamonds. You promise — 'Trust us. We pinky-swear.' That is Big AI."*
 >
-> *"That is Big AI."*
+> *"Your medical questions are the diamonds. Your trade secrets. Your patient records. Your classified designs. Every one travels across the public internet to a bank in California."*
 >
-> *"Your medical questions are the diamonds. Your company's trade secrets. Your hospital's patient records. Your law firm's client files. Your defense contractor's classified designs. Every one of them travels across the public internet to a bank in California. And you hope the pinky-swear holds."*
+> *"Pinky-swears break. The NSA reads them. Advertisers buy them. Data brokers re-identify them in seconds. Your insurance raises your premium. Your future employer quietly does not hire you."*
 >
-> *"Pinky-swears break. The NSA learns every secret you ever typed. Advertisers buy the data in bulk — and the data brokers who buy it next run de-anonymization software that cracks the 'anonymous' label in under two seconds per record. Your insurance company buys the record and raises your premium after you asked a question about cancer. Your future employer buys the record and quietly does not hire you after you asked about depression."*
+> *"The Hive holds no diamonds. It runs on your own computers, your own local network, your own walls. No bank. No box. No pinky-swear to break."*
 >
-> *"The diamonds go missing. And you do not even know which box was opened."*
->
-> *"The Hive does not hold your diamonds."*
->
-> *"The Hive runs on your own computers, in your own building, on your own local network. When you ask the Hive a question, the question does not travel across the public internet. The answer does not travel across the public internet. You do not need the internet at all."*
->
-> *"There is no bank. There is no box. There is no pinky-swear to break. The diamonds never leave your house."*
->
-> *"And this is why Big AI cannot match it. Not because they do not want to — because their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
+> *"Big AI cannot match this. Their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
 
-### Block 3.2 — Shot plan skeleton (14 shots × 6s = 84s of visual to cover ~80s narration)
+### Block 3.2 — Shot plan skeleton (11 shots × 6s = 66s to cover ~60s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
 | Shot | Visual | ~Sec |
 |---|---|---|
 | S1 | A simple flat office building. A sheet of paper labeled **SECRETS** flies out of a window trying to escape. A big red **STOP** sign slams down over the window — the paper bounces back inside. | 6 |
-| S2 | Wide shot: a bank exterior, brass sign **"TRUST US BANK."** Customers walk in carrying small bundles. | 6 |
-| S3 | Interior: a banker locks a diamond-filled box into a rack of safe deposit boxes. Each box is labeled — *Medical Q* · *Trade Secret* · *Patient Record* · *Classified Design*. | 6 |
-| S3b | Close-up montage of the labels on the boxes: *HOSPITAL — PATIENT RECORDS*, *LAW FIRM — CLIENT FILES*, *DEFENSE CONTRACTOR — CLASSIFIED DESIGNS*, *TRADE SECRETS*. Each label flashes on screen in turn. | 6 |
+| S2 | Wide shot: a bank exterior, brass sign **TRUST US BANK**. Customers walk in carrying small bundles. | 6 |
+| S3 | Interior: a banker locks a diamond-filled box into a rack of safe deposit boxes. Each box is labeled — **MEDICAL** · **TRADE SECRET** · **PATIENT RECORD** · **CLASSIFIED DESIGN**. | 6 |
 | S4 | Cross-section of the bank: hidden sub-basement. A shadow-banker secretly opens the boxes while customers sleep. | 6 |
-| S5 | Diamonds flow out of the sub-basement through four labeled pipes: **NSA · Advertisers · Insurers · Employers**. These are the four buyers of your Big-AI conversation history that harm you, none of which affect a local Hive user. | 6 |
-| S5b | Close-up: a data-broker's computer terminal. On screen, a record labeled **"ANONYMIZED"** — a countdown timer runs: 2… 1… 0. Label flips to **"JOHN Q. PUBLIC — 44 — PALO ALTO"** with a red de-anonymized stamp. | 6 |
-| S5c | Split frame: left — an insurance-company desk raising a premium on a paper (red up-arrow, dollar sign); right — an employer's desk sliding a resume into a shredder. Both triggered by the de-anonymized record from S5b. | 6 |
-| S6 | Hard cut to a small office labeled **"YOUR BUILDING."** Inside: a cluster of workstations glowing together as a local Hive — multiple nodes, not just one laptop. | 6 |
-| S7 | Close-up: user types a question. Arrow animates from keyboard to the local Hive cluster across the office. Answer arrow returns. Caption: *"YOUR LOCAL NETWORK — NO INTERNET NEEDED."* | 6 |
-| S8 | Wide shot of **YOUR BUILDING**. A pipe leads out of it toward a **threatening dark thunder-cloud labeled BIG AI** — an angry face glowers inside the cloud, lightning crackles around it. Scissors snip the pipe. | 6 |
-| S8b | The angry thunder-cloud, pipe severed, starts to starve: gears beneath it grind to a halt, the angry face deflates, the cloud shrinks and darkens. | 6 |
-| S9 | Three quick tiles in sequence. Tile 1: a cartoon bank — big red **X** crashes across it. Tile 2: a safe-deposit box — big red **X** crashes across it. Tile 3: two pinky-promise hands — big red **X** crashes across them. | 6 |
-| S10 | Final beat: zoom out. A street of sealed buildings, each glowing with its own Hive inside. Above them, a **warm smiling sun** has replaced the dark thunder-cloud — bright, kind, daytime. | 6 |
+| S5 | Diamonds flow out of the sub-basement through four labeled pipes: **NSA · ADVERTISERS · INSURERS · EMPLOYERS**. | 6 |
+| S6 | Close-up: a data-broker's terminal. On screen, a record labeled **ANONYMIZED** — a countdown timer runs 2… 1… 0. Label flips to a specific patient's name with a red **DE-ANONYMIZED** stamp. | 6 |
+| S7 | Split frame: left — an insurance desk raising a premium (red up-arrow, dollar sign). Right — an employer's desk sliding a resume into a shredder. | 6 |
+| S8 | Hard cut to an office labeled **YOUR BUILDING**. Inside: a cluster of workstations glowing together as a local Hive — multiple nodes. | 6 |
+| S9 | Wide shot of **YOUR BUILDING**. A pipe runs out of it toward a **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning. Scissors snip the pipe. The cloud immediately starts to starve — gears grind, angry face deflates, cloud shrinks. | 6 |
+| S10 | Three quick tiles in sequence. Tile 1: a cartoon bank — big red **X** crashes across it. Tile 2: a safe-deposit box — big red **X**. Tile 3: two pinky-promise hands — big red **X**. | 6 |
+| S11 | Final beat: zoom out. A street of sealed buildings, each glowing with its own Hive inside. Above them, a **warm smiling sun** has replaced the dark thunder-cloud — bright, kind, daytime. | 6 |
 
 ---
 
@@ -259,28 +236,22 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
-**Target length:** ~110s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 19 shots.
+**Target length:** ~120s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 19 shots.
 **Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
 
-### Block 4.1 — The narration (Samantha, ~110s)
+### Block 4.1 — The narration (Samantha, ~120s)
 
-> *"Point two. The Hive pays the American folks real money back. It's a free source of income for Joe Sixpack and Plain Jane. It works very simply — here's how."*
+> *"Point two. The Hive pays the American folks real money back. A free source of income for Joe Sixpack and Plain Jane. Here's how."*
 >
-> *"Our software can run in two different modes."*
+> *"Two modes. Private Mode is inside walls for secrets — that was point one. Public Mode is home computers connected over the internet into many separate hives."*
 >
-> *"One is Private Mode — inside the buildings of organizations, answering questions that require secrecy, connected by a local network, with no internet. That was point one."*
+> *"Where does the money come from? Small businesses are happy to pay. A hotel analyzes a thousand reviews in parallel. A factory writes a hundred catalogs. A QA firm tests software. John Doe plans his trip. Same AI service, faster, fraction of the cost. No data center. No subscription. Ninety percent of what Big AI does. A dream for the people. A nightmare for Big Tech."*
 >
-> *"The other is Public Mode — on lots of personal computers of ordinary people at home, connected over the internet into many separate hives. These hives answer questions that do not require secrecy."*
+> *"Every night, hundreds of millions of American laptops sit idle. The average American already paid for his computer. It gives him nothing back. The largest unused compute fleet on the planet."*
 >
-> *"Where does the money come from? Small and medium businesses need AI — and are happy to pay for it. A hotel wants one thousand public reviews analyzed in parallel. A furniture manufacturer wants one hundred table catalogs written in parallel, each given a different initial seed. A Quality Assurance company needs tons of software modules tested in parallel. John Doe needs help planning his trip, or brainstorming birthday gift ideas — and the Hive tests every country, every idea, in parallel."*
+> *"Public Mode turns idle time into a paycheck. While Joe sleeps, his machine answers small AI questions for paying customers. Not crypto mining. Not AI agents. Light text work. Safe."*
 >
-> *"All of these clients use Public Mode Hives. They are happy to pay real money for the answers. They get the same level of AI service, delivered faster because it is all in parallel, at a fraction of the cost — because no expensive data center is involved, and no subscription is required. This simply replaces ninety percent of what Big AI profits from today. A dream for the people. A nightmare for Big Tech."*
->
-> *"Every night in America, hundreds of millions of laptops and desktops sit idle. Bedrooms, dorm rooms, home offices. The average American already paid for his computer. And it gives him nothing back. This is the largest unused compute fleet on the planet."*
->
-> *"Public Mode turns that idle time into a paycheck. The average Joe installs free open-source software. While he sleeps, his machine picks up small AI questions from real paying customers, answers them, and gets paid. This is not crypto mining destroying his hardware. This is not an AI agent gambling with his money. This is light text work. Low power. Safe. And the money goes to him."*
->
-> *"Three rungs on the ladder, and any common American can climb. The college kid earns as a Worker on her gaming laptop. The hobbyist nerd rents a cloud server and earns as a Manager of a hive. The ambitious entrepreneur clones the open-source marketplace and runs the whole platform. Same code. Three levels of ambition."*
+> *"Three rungs. Worker — your gaming laptop. Manager — rent a cloud server, run a hive. Platform — clone the marketplace. You pick."*
 >
 > *"And here is the final nail in the coffin."*
 >
@@ -323,56 +294,46 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Ghost-Copied Radiologist.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** silver + ghost-white + soft violet — spectral, ethereal. Reinforces the "xerox a radiologist into every room" metaphor. Distinct from Block 3's charcoal/brass vault and Block 4's forest-green/gold money.
-**Target length:** ~130–145s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 24 shots.
+**Target length:** ~85s narration. 14 shots × 6s = 84s (per `feedback_clip_count_narration.md`).
 **Palantir naming carve-out:** Palantir may be named directly in Block 5 Point 6 because the cited event is a documented Guardian / Intercept news story from March 2026, not a jab at a Big AI LLM lab. See `BEESTING_2_BLOCK_5_PREP.md` for full carve-out notes. The never-say-names rule remains in force for all four American Big AI labs everywhere else.
 **Metaphor escalation lock:** Block 3 bank vault → Block 4 final nail in the coffin → Block 5 **wooden stake through the heart of the vampire.** Samantha must say the phrase "a wooden stake through the heart of the vampire" verbatim. Do not paraphrase. Vampires return from coffins. Vampires do not return from stakes.
 
-### Block 5.1 — The narration (Samantha, ~130–145s)
+### Block 5.1 — The narration (Samantha, ~85s)
 
 > *"Point three. Train a specialist once, copy it forever. Here is how."*
 >
-> *"A hospital takes one computer. Overnight, it teaches a small AI to spot melanoma from a dermatology photo. When training finishes, the trained AI is a single file. The hospital copies that file across its local network to every workstation. Every workstation now spots melanoma as well as the first one. Xerox a radiologist into every room of the hospital. One hour. Free forever. And then, using the HIVE, these weak AI's are connected to one combined strong AI."*
+> *"A hospital takes one computer. Overnight, it teaches a small AI to spot melanoma. The trained AI is a single file — the hospital copies it to every workstation. Xerox a radiologist into every room. One hour. Free forever. And then, using the HIVE, these weak AI's are connected to one combined strong AI."*
 >
-> *"Where do the training photos come from? The hospital's own database. Twenty years of patient scans, each one already labeled at the time of care by the treating doctor — diagnosis, biopsy result, outcome. One SQL query assembles the training set in minutes."*
+> *"The training data comes from the hospital's own database. Twenty years of patient scans, already labeled by the treating doctor. One SQL query assembles it in minutes."*
 >
-> *"Want higher quality? Use distillation. A specialist medical AI vendor — Tempus, Paige, PathAI — already has a powerful AI trained on millions of medical images. The hospital hires them once. In a single session, their AI teaches the hospital's small AI everything it knows. The hospital cuts them loose. The student is now nearly as sharp as the teacher — and it is a file the hospital owns. One bill. Not a forever bill."*
+> *"Want higher quality? Use distillation. A medical AI vendor — Tempus, Paige, PathAI — already has a powerful AI trained on millions of medical images. Hire them once. Their AI teaches your small AI everything it knows in one session. Then cut them loose. The student is nearly as sharp as the teacher — and the hospital owns the file. One bill. Not a forever bill."*
 >
-> *"And this is not only for photos. Same trick on stethoscope heart sounds, X-rays, pathology slides, otoscope ear photos, retinal scans. Hundreds of specialists. Each one a file. Each one copied to every workstation for free."*
+> *"Not only photos. Same trick on stethoscope heart sounds, X-rays, pathology slides. Hundreds of specialists, each a copyable file."*
 >
-> *"What is wrong with Big AI? Big AI was never trained on medical imaging. Fine-tune Big AI on a thousand melanoma photos, and Big AI only learns to talk a little more like a dermatologist. The eyes stay generalist. The diagnosis stays generalist. Useless product for medical imaging. And the trained thing stays in Big AI's cloud, billed forever."*
+> *"What is wrong with Big AI? Big AI was never trained on medical imaging. Fine-tune it on a thousand melanoma photos, and it only learns to talk like a dermatologist. The eyes stay generalist. The diagnosis stays generalist. Useless product for medical imaging. And it stays in Big AI's cloud, billed forever."*
 >
-> *"And here is the wooden stake through the heart of the vampire. In March 2026, the largest public hospital system in America canceled its Palantir contract. The scandal: patient records were being fed to Palantir, 'de-identified' for use 'for purposes other than research.' With big data, a 'de-identified' medical record is re-identified back to a patient's name in seconds. Public outrage moved the entire job in-house. The Hive is the tool that lets every other hospital in the world do the same thing."*
+> *"And here is the wooden stake through the heart of the vampire. In March 2026, America's largest public hospital system canceled its Palantir contract. Patient records were flowing to Palantir, 'de-identified' for use beyond research. With big data, a 'de-identified' record is re-identified in seconds. Public outrage moved the job in-house. The Hive is the tool that lets every other hospital in the world do the same thing."*
 
-### Block 5.2 — Shot plan skeleton (24 shots × 6s = 144s of visual to cover ~130–145s narration)
+### Block 5.2 — Shot plan skeleton (14 shots × 6s = 84s to cover ~85s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_3_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
 | Shot | Visual | ~Sec |
 |---|---|---|
-| S1 | A hospital exterior at night, red-cross sign glowing on the wall. Most windows dark. One glowing upper-floor window — inside, a computer screen shows a stack of dermatology melanoma photos loading in bulk. A training progress bar begins to fill. | 6 |
-| S2 | Close-up of that lit window from inside: laptop open on the desk, photos still loading, progress bar halfway. A silhouetted doctor watches at the keyboard. | 6 |
-| S3 | Close-up of that computer: a stack of dermatology melanoma photos feeds into it. A training progress bar fills from empty to full. | 6 |
-| S4 | The computer ejects a single glowing ghost-white disk file, labeled **MELANOMA-SPECIALIST.MODEL**. Violet glow around it. | 6 |
-| S5 | The file multiplies along a local-network diagram, fanning out to every workstation in the hospital. Every workstation turns ghost-violet as it receives its copy. | 6 |
-| S6 | Visual metaphor: a single radiologist silhouette in the center splits into many identical ghost copies of itself, one appearing in every exam room of a hospital floor plan. | 6 |
-| S7 | All the workstations from S5, now visibly linked by glowing network lines into one large combined hive-node hovering above the building. Caption: *"Weak AIs — connected into one strong AI."* | 6 |
-| S8 | Cross-section of a hospital EHR database server. Twenty shelves of patient records stacked high. Each record has a small tag attached: DIAGNOSIS · BIOPSY · OUTCOME. | 6 |
-| S9 | Close-up on a terminal: a SQL query is typed on screen (`SELECT image FROM scans WHERE diagnosis = 'melanoma'...`) and thousands of labeled photos stream out into a folder. Caption: *"No labeling. The labels were written at the time of care."* | 6 |
-| S10 | Split frame: left — a huge **TEACHER** AI icon surrounded by millions of medical images (labeled *Medical AI vendor — Tempus, Paige, PathAI*). Right — a small **STUDENT** AI icon sitting in the hospital. | 6 |
-| S11 | A single glowing stream of knowledge pours from the Teacher's head into the Student's head, in one continuous session. Caption: *"Distillation. One session."* | 6 |
-| S12 | The vendor Teacher fades to grey, with a one-time dollar sign dropping away. The Student AI stays, glowing brighter than before. Caption: *"One bill. Not a forever bill."* | 6 |
-| S13 | The Student file copies outward to every workstation in the hospital, same way the file did in S5. | 6 |
-| S14 | A library wall of glowing specialist files — each one labeled: **MELANOMA · HEART SOUND · CHEST X-RAY · PATHOLOGY SLIDE · OTOSCOPE · RETINA · LUNG SOUND · COUGH · …** — each one a copy-able ghost-white disk. | 6 |
-| S15 | Hospital floor plan top-down view. Every room on every floor holds the full library of specialist files, all glowing violet together. | 6 |
-| S16 | Hard cut. A **threatening dark thunder-cloud labeled BIG AI** with an angry face inside and lightning crackling is scrolling through a cascade of source material: Wikipedia pages, product reviews, social-media posts, stock photos. NO medical imaging anywhere. | 6 |
-| S17 | Split frame. Left — a trained doctor's eye looks at a melanoma dermatology photo and sees sharp, confident outlines with a clear specialist diagnosis. Right — the angry thunder-cloud's eye looks at the same photo and sees only a fuzzy, generic blob. | 6 |
-| S18 | The hospital from S15, now with a chain running from every workstation up to the angry Big-AI thunder-cloud. A coin drops into the cloud from each workstation, on loop. | 6 |
-| S19 | Hard transition. A newspaper front page lands with a thud. Headline: *"NYC HOSPITALS CANCEL PALANTIR"* — dateline March 2026. | 6 |
-| S20 | A patient medical record card labeled **DE-IDENTIFIED** (name blanked, marked as "for purposes other than research"). A big-data cross-reference engine beside it clicks twice, and the blanked name field fills back in with a specific patient's name. | 6 |
-| S21 | Pull back: hundreds of those newly re-identified records, each matched to a real named patient. Crowd-silhouette outside the hospital holds protest signs. | 6 |
-| S22 | The hospital seals itself: the chain up to the angry thunder-cloud snaps. The angry cloud fades away, replaced in the sky by a **warm smiling sun**. The hospital keeps its own library of specialist files inside, glowing violet. | 6 |
-| S23 | A wooden stake drives all the way through a dark silhouette labeled **CLOUD AI FOR HOSPITALS** (a vampire-shaped silhouette, no face, just a cloaked outline). Silhouette bursts into ghost-violet dust. | 6 |
-| S24 | Final held beat: a row of hospital buildings stretching to the horizon, each glowing violet from within. Above them, the **warm smiling sun**. In the foreground, the wooden stake from S23 stands upright where it was driven — its shadow stretches long across the landscape. | 6 |
+| S1 | Hospital exterior at night, red-cross sign glowing. Most windows dark. One upper-floor window glows — inside, a computer screen shows dermatology melanoma photos loading in bulk; a training progress bar begins to fill. | 6 |
+| S2 | Computer ejects a single glowing ghost-white disk file labeled **MELANOMA-SPECIALIST.MODEL**. The file immediately multiplies along a local-network diagram, fanning out to every workstation in the hospital. Each workstation turns ghost-violet as it receives its copy. | 6 |
+| S3 | All those workstations linked by glowing network lines into one large combined hive-node hovering above the building. | 6 |
+| S4 | Cross-section of a hospital EHR database server. Twenty shelves of patient records stacked high, each record tagged: **DIAGNOSIS · BIOPSY · OUTCOME**. A terminal at the bottom runs a SQL query; thousands of labeled photos stream out into a folder. | 6 |
+| S5 | Split frame. Left — a huge **TEACHER** AI icon surrounded by millions of medical images, labeled **MEDICAL AI VENDOR**. Right — a small **STUDENT** AI icon in the hospital. A glowing stream of knowledge pours from Teacher's head into Student's head. | 6 |
+| S6 | The Teacher fades to grey as a one-time dollar sign drops away. The Student stays, glowing brighter than before. The Student file then copies outward to every workstation in the hospital. | 6 |
+| S7 | A library wall of glowing specialist files, each labeled: **MELANOMA · HEART SOUND · CHEST X-RAY · PATHOLOGY** — each a copy-able ghost-white disk. | 6 |
+| S8 | Hard cut. A **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning is scrolling through Wikipedia pages, product reviews, social-media posts, stock photos. NO medical imaging anywhere. | 6 |
+| S9 | Split frame. Left — a trained doctor's eye looks at a melanoma dermatology photo and sees sharp, confident outlines with a clear specialist diagnosis. Right — the angry thunder-cloud's eye looks at the same photo and sees only a fuzzy, generic blob. | 6 |
+| S10 | The hospital now with a chain running from every workstation up to the angry Big-AI thunder-cloud. A coin drops into the cloud from each workstation, on loop. | 6 |
+| S11 | Hard transition. A newspaper front page lands with a thud. Headline: **NYC HOSPITALS CANCEL PALANTIR** — dateline March 2026. | 6 |
+| S12 | A patient medical record card labeled **DE-IDENTIFIED**. A big-data cross-reference engine beside it clicks twice; the blanked name field fills back in with a specific patient's name. Pull back to hundreds of such re-identified records, with a crowd-silhouette outside the hospital holding protest signs. | 6 |
+| S13 | The chain from the hospital up to the angry thunder-cloud snaps. The angry cloud fades away, replaced in the sky by a **warm smiling sun**. A wooden stake drives through a dark cloaked silhouette labeled **CLOUD AI FOR HOSPITALS** — silhouette bursts into ghost-violet dust. | 6 |
+| S14 | Final held beat: a row of hospital buildings stretching to the horizon, each glowing violet from within. Above them, the **warm smiling sun**. In the foreground, the wooden stake stands upright where it was driven — its shadow stretches long across the landscape. | 6 |
 
 ---
 
