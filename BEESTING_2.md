@@ -313,8 +313,8 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S15 | Giant red Chinese flag rises behind a stack of cash taller than a skyscraper. Arrows labeled **FINANCE · PROMOTE · SUBSIDIZE** fire out of the stack across the Pacific toward the US idle-laptop map from S9. | 6 |
 | S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. | 6 |
 | S17 | The Big-Tech coffin from S14, buried under a forest-green-and-gold Public-Mode landscape of glowing home laptops. Text card: *"Not a movement. A state-backed campaign."* | 6 |
-| S18 | Three falling dominoes, left to right: tile 1 — a record-store sign with a **Napster** icon beside it, already flat on the ground; tile 2 — a **Blockbuster** sign with a torrent icon, mid-fall; tile 3 — a **Big Tech** cloud with a Hive/bee icon beside it, just starting to tip. | 6 |
-| S19 | Final held beat: all three tiles now flat on the ground. Big-Tech tile lands hard. Text card: *"The HIVE will do to Big Tech!"* | 6 |
+| S18 | Graveyard at dusk. Three tombstones in a row. Left tombstone: **MUSIC RECORD STORES · 1894 – 1999 · KILLED BY NAPSTER.** Middle tombstone: **VIDEO RENTAL STORES · 1977 – 2001 · KILLED BY TORRENT.** Right tombstone: **BIG TECH · 2022 – 2026 · KILLED BY CHINA'S HIVE** — the dates and last line are being chiseled onto the stone in real time by an unseen hand as Samantha lands the closing line. No real company names or logos anywhere on any stone. | 6 |
+| S19 | Final held beat: camera pulls back. All three tombstones now fully carved, standing side by side under a grey sky. A small red Chinese flag and a Hive/bee icon rest at the foot of the third stone. Text card overlay: *"The HIVE will do to Big Tech!"* | 6 |
 
 ---
 
