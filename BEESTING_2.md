@@ -282,7 +282,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"This does not happen on its own. This does not spread by word of mouth. China will push this, not wait for it."*
 >
-> *"China will finance it. China will promote it. China will subsidize it — because this one single shift is how China collapses Big Tech and moves every last mainstream American citizen off American LLMs and onto Chinese LLMs. It will not arrive as slow diffusion. It will arrive as coordinated, state-backed pressure from the largest treasury on Earth. Big Tech is not losing America to a movement. Big Tech is losing America to a state-backed campaign to kill Big Tech specifically."*
+> *"China will finance it. China will promote it. China will subsidize it — because this one single shift is how China collapses Big Tech and moves every last mainstream American citizen off American LLMs and onto Chinese LLMs. It will not arrive as slow diffusion. It will arrive as coordinated, behind-the-scenes pressure, funded by the largest treasury on Earth. Big Tech is not losing America to a movement. Big Tech is losing America to a state-backed campaign to kill Big Tech specifically."*
 
 ### Block 4.2 — Shot plan skeleton (10 shots × 6s = 60s visual wallpaper)
 
