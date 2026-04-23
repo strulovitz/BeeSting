@@ -413,9 +413,39 @@ Generate these reference images once, re-use across all three shots:
 
 ---
 
-## What comes after Block 8 (to be drafted next, per block, with Nir's approval)
+## Block 9 — Mechanism cashing Point 7: Every branch gets full attention
 
-- **Block 9** — Mechanism explainer for Point 7 (Every branch — the chess explanation from the prologue of *The Distributed AI Revolution* and the Public Mode video). Chess grandmaster brags about focusing on the heart of the matter; then computers started winning because the branches humans dismissed were sometimes the decisive ones. Centralized AI is the human chess player — must prune. The Hive checks all branches in parallel.
+**Named concept:** *One Brain vs. Many Helpers (Move 37).*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** deep burgundy + gold + cream — royal chess-club aesthetic. Distinct from previous blocks.
+**Target length:** ~38s narration. 4 shots × 6s = 24s nominal; S4 stretches per audio-wins rule.
+**Reference source:** the chess scene structure from the Honeymation Video 2 (Public Mode) — `Honeymation/scripts/video2_narration.md` scenes 5a/5b/5c. Block 9 follows the same three-beat Honeymation chess arc, then adds a fourth beat (Move 37 + AlphaGo vs. Hive hierarchy) that Honeymation did not have.
+**Key framing (Nir lock 2026-04-24):** AlphaGo is NOT the Hive. AlphaGo was one giant centralized computer that still prunes internally — it just does not inherit 2,500 years of human cultural pruning, so it finds moves humans never would. The Hive, given a whole country's worth of computers, does not prune at all. Hierarchy: **Human < AlphaGo < Hive**. Do not conflate AlphaGo with the Hive in any future edit.
+
+### Block 9.1 — The narration (Samantha, ~38s)
+
+> *"Point seven. Every branch gets full attention."*
+>
+> *"Imagine playing chess alone. Too many moves, too little time. You think about a few. You miss the rest."*
+>
+> *"With helpers — one per piece — every move gets thought about at the same time."*
+>
+> *"Each helper returns with their best move. You pick the winner. The updated board goes back to all the helpers. Next turn, same thing."*
+>
+> *"This is how AlphaGo beat the human world champion at Go with Move 37 — a move no human would have played. But AlphaGo was still one giant computer. The Hive, running on half a billion computers, misses nothing at all."*
+
+### Block 9.2 — Shot plan skeleton (4 shots × 6s = 24s nominal, S4 stretches per audio-wins)
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | A cartoon human sits alone at a chess board, sweating and stressed. Above his head, five chess pieces — pawn, knight, bishop, rook, queen — rotate chaotically in a spinning cloud, too many to track. A chess clock beside him ticks loudly, about to hit zero. He has both hands on his head. | 6 |
+| S2 | Six cartoon helpers sitting side by side in their own small booths. Above each helper, **one piece type** hovers calmly — one has a pawn, one a knight, one a bishop, one a rook, one a queen, one a king. Each helper has a thought bubble filled with their piece's possible moves. All six thinking at once. | 6 |
+| S3 | Six chess pieces line up in a row, each wearing a small gold-medal ribbon (their winning move). The original chess player stands in front of them, confident now, and points at one — the winner. The chosen piece floats up onto the board. **Then the updated board hovers above the six helpers — all of them look up and see the new board state.** An arrow loops back labeled **NEXT TURN**. | 6 |
+| S4 | The chess board transitions into a **Go board**. A **three-tier hierarchy** is visible, each tier larger than the last. **LEFT (smallest):** the human Go champion silhouette, looking stumped. **MIDDLE (medium):** a single large computer / server tower, clearly labeled **ALPHAGO**. A red flag and the label **MOVE 37** float on the stone AlphaGo just placed on the Go board. **RIGHT (huge, dwarfs the other two):** the **Hive pyramid** — Sierpiński tetrahedron callback from Block 7 — towering over both. A tiny caption floats on the pyramid: **HALF A BILLION COMPUTERS · MISSES NOTHING**. | 6 |
+
+---
+
+## What comes after Block 9 (to be drafted next, per block, with Nir's approval)
 - **Block 10** — Mechanism explainer for Point 8 (Every sense — any model type).
 - **Block 11** — Mechanism explainer for Point 9 (No internet needed — offline / air-gapped).
 - **Block 12** — Combined closing: spoken equations + YouTube/GitHub credits on the same near-black screen. This is ONE block, not two. In the actual Ep1 finished cut, the originally-planned separate "equations shot" and "silent end card" were merged into a single held closing beat — see `CLOSING_SHOT_PLAN.md` for the corrected spec. Ep2 follows the same one-block-closer structure.
