@@ -530,10 +530,58 @@ Generate these reference images once, re-use across all three shots:
 
 ---
 
-## What comes after Block 11 (to be drafted next, per block, with Nir's approval)
-- **Block 12** — Combined closing: spoken equations + YouTube/GitHub credits on the same near-black screen. This is ONE block, not two. In the actual Ep1 finished cut, the originally-planned separate "equations shot" and "silent end card" were merged into a single held closing beat — see `CLOSING_SHOT_PLAN.md` for the corrected spec. Ep2 follows the same one-block-closer structure.
+## Block 12 — Combined closing (equations + credits, reused verbatim from Ep1)
 
-Order of mechanism explainers may be re-arranged so that the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating (Point 7 — the chess / every-branch explainer) placed strategically. Current draft follows Samantha's summary order 1→9 for cleanliness; final cut may re-sequence.
+**Named concept:** *America's Fate Equals Your Call.*
+
+**Visual style:** static graphic held on screen for the full block duration. Optional subtle motion — a slow camera push-in or fade-in is fine — but the text does not animate. Near-black background, cream text, with **FORWARD** accented in coral-orange.
+
+**Palette:** near-black `#0f0808` background, cream `#F5F0DC` text, coral-orange `#FF6B47` on the single word **FORWARD**.
+
+**Target length:** ~12–15s total. Samantha's narration runs ~10s; the screen then holds for an additional ~3–5s so the credit lines below the divider are readable and the viewer can screenshot or click the book link.
+
+**Visual asset — reused EXACTLY from Ep1, zero changes:**
+- `elements/E01S77-final-screen.png` — the rendered PNG (1920×1080) displayed for the full block.
+- `elements/make_s77.py` — the Python/PIL script that generates the PNG.
+- `elements/s77-final-screen.html` — the canonical HTML source for the design.
+- `elements/s77-screen1.html` / `elements/s77-screen2.html` — earlier two-screen variants from the original `CLOSING_SHOT_PLAN.md` era, before the two screens were merged into one S77 final in the Ep1 finished cut. Kept for reference only; **do not use these**.
+
+### Block 12.1 — The narration (Samantha, ~10s)
+
+> *"America's fate equals your call. Do nothing — China wins. Forward this — America lives."*
+
+### Block 12.2 — What the screen shows (verbatim)
+
+Three big cream lines, stacked and centered, with **FORWARD** in coral-orange:
+
+```
+AMERICA'S FATE EQUALS YOUR CALL.
+DO NOTHING — CHINA WINS.
+FORWARD THIS — AMERICA LIVES.
+```
+
+A thin divider line, then three smaller cream/grey lines below:
+
+```
+YouTube: Nir Strulovitz  |  github.com/strulovitz
+Everything is explained in my FREE book:
+github.com/strulovitz/MadHoney/blob/main/README.md
+```
+
+### Why the Ep1 screen is reused verbatim for Ep2 (Nir lock 2026-04-24)
+
+- **Series continuity.** Every episode of the 14-part BeeSting series ends on the same closing screen. Viewers who see multiple episodes recognize the signature. Changing it per episode would break the pattern.
+- **"Angels, not paratroopers" principle.** The viral forwarding path for this video runs through secretaries, middle managers, junior engineers, ordinary tired Americans — not Big Tech CEOs. The patriotic *"AMERICA'S FATE"* framing resonates with the forwarding chain, who care about the country more than they care about any CEO's margin. Rewriting the closing for a Big Tech audience would miss the actual viewers.
+- **"FORWARD" in coral is literal.** The colored word is engineered to cue the physical action of pressing the forward / share button. The viral engineering of this line must not be diluted by a theme-specific rewrite.
+- **Book link points to `MadHoney/blob/main/README.md` on purpose.** README shows the full table of contents — the "tip of the iceberg" feeling that rewards the viewer who just watched the video with a sense that this one video was only a fragment of a much larger body of work. Drives book interest and support.
+
+---
+
+## After Block 12
+
+Nothing. The video ends on Block 12. Cut to pure black after the held credit screen.
+
+Order of mechanism explainers (Blocks 3–11) may still be re-arranged before production so the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating placed strategically. Current draft follows Samantha's 9-point summary order 1→9 for cleanliness; final cut may re-sequence.
 
 ---
 
