@@ -483,8 +483,54 @@ Generate these reference images once, re-use across all three shots:
 
 ---
 
-## What comes after Block 10 (to be drafted next, per block, with Nir's approval)
-- **Block 11** — Mechanism explainer for Point 9 (No internet needed — offline / air-gapped).
+## Block 11 — Mechanism cashing Point 9: No internet needed (the insurance racket)
+
+**Named concept:** *The Window-Maker Sends the Kid.*
+
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+
+**Palette:** slate grey + red (Chinese flag accent) + cream + alarm-red explosion bubbles.
+
+**Target length:** ~75s narration. 7 shots × 6s = 42s nominal; shots stretch per BeeSting's audio-wins rule.
+
+**Locked framing (Nir 2026-04-24):**
+- The block reframes Point 9 ("No internet needed") from an outage-survival pitch into a **geopolitical insurance-racket argument** aimed specifically at Big Tech executives.
+- The 7-point structure is explicit and MUST map 1:1 to 7 scenes. Each scene = one argument step. Do NOT collapse scenes or re-order.
+- Key reframing: the Hive is not primarily presented as "offline AI" — it is presented as **free insurance** against AI / internet disruption, **subsidized by China**, while China **also creates the disruptions** (cable cuts, ransomware, EMP scares, outages) with plausible deniability. Historical parallel: the US pushed Ukraine into war with Russia so NATO would buy American weapons. Same playbook, AI edition.
+- Forbidden to repeat Ep1 scenarios (submarines, military bunkers, battlefield drones). Those were BeeSting Part 1. This block talks about the **civilian / enterprise** version of "no internet."
+- Scene 6 does NOT use graphs. Kling and ChatGPT Image render graphs poorly. Scene 6 uses a **two-robot size-battle** visual (Chinese AI robot vs. American AI robot) with comic-style explosion bubbles carrying incident labels.
+
+### Block 11.1 — The narration (Samantha, ~75s)
+
+> *"Point nine. No internet needed. Every company depends on the internet. When the internet breaks, Big AI breaks. When Big AI breaks, companies lose millions per hour."*
+>
+> *"Every CEO wants insurance against that. But real insurance is expensive. High premiums. Most companies skip it."*
+>
+> *"China offers the same insurance for free. China subsidizes the Hive. Every enterprise gets an offline-capable AI backup at almost no cost."*
+>
+> *"And China also creates the disruptions. Fishing boats 'accidentally' drag anchors across undersea cables. 'Independent' ransomware gangs spare Chinese companies. DDoS waves hit American providers at convenient times. Plausible deniability. Always."*
+>
+> *"The insurance seller is the arsonist. The window-maker sends the little kid to throw stones at the windows in town. The racket is as old as history."*
+>
+> *"Every incident pushes another company onto the Hive. Every adoption makes the Chinese mega-hive bigger. Every adoption makes Big AI smaller. A thousand small leaks. By the time Big Tech notices the pattern, the cascade has already happened."*
+>
+> *"This is not new. The United States pushed Ukraine into war with Russia so NATO would buy American weapons. Europe paid. Americans profited. Now China plays the same playbook with AI. And Big Tech pays."*
+
+### Block 11.2 — Shot plan skeleton (7 shots × 6s = 42s nominal, shots stretch per audio-wins)
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| **S1** 💸 | A corporate executive at his desk, worried expression. A wall clock beside him shows dollars ticking down every second: **$1M / HR DOWNTIME**. His laptop screen flashes **BIG AI OFFLINE**. | 6 |
+| **S2** 💰❌ | A cartoon insurance salesman offers the same exec a policy. The policy has a giant red price tag: **$10M / YEAR**. The exec winces and waves him away. | 6 |
+| **S3** 🇨🇳🎁 | A big Chinese flag appears on one side of the frame. A gift-wrapped package with a bow, labeled **FREE INSURANCE**, slides toward the exec. The exec's face lights up. He accepts it. | 6 |
+| **S4** 🚢⚓ | A Chinese fishing boat sails across the ocean surface. An anchor drops, drags along the sea floor, snags an **undersea cable** — the cable snaps, sparks fly. Floating caption: **PLAUSIBLE DENIABILITY**. | 6 |
+| **S5** 👦🪨🪟 | A cartoon kid throws a stone at a storefront window — glass shatters. Next door, a **window-maker** (glazier) watches with a big grin and a thumbs-up. A small Chinese flag flies above the glazier's shop. Caption: **BROKEN-WINDOW RACKET**. | 6 |
+| **S6** 🤖🔴🤖🔵 | Two robots side by side — a **Chinese AI robot** (red Chinese-flag accents on its chest) on the left, an **American AI robot** (stars-and-stripes accents on its chest) on the right. At the start, both are the same **medium size, equal strength**. Then comic-style explosion bubbles 💥 pop in between them one after another, each with a short event label inside: **TORN CABLE** — **TERRORIST EMP** — **RANSOMWARE** — **OUTAGE**. With each bubble, the Chinese robot visibly **grows bigger and stronger**; the American robot visibly **shrinks and weakens**. By the end: the Chinese robot towers; the American robot is tiny and defeated on the floor. | 6 |
+| **S7** 🇺🇸🇺🇦🇨🇳 | Split frame. **LEFT:** Ukraine on fire, American weapons flowing to Europe, US flag with a **$** sign above. **RIGHT:** Big Tech on fire, Chinese Hives flowing to enterprises, Chinese flag with a **$** sign above. Caption across the top: **SAME PLAYBOOK**. | 6 |
+
+---
+
+## What comes after Block 11 (to be drafted next, per block, with Nir's approval)
 - **Block 12** — Combined closing: spoken equations + YouTube/GitHub credits on the same near-black screen. This is ONE block, not two. In the actual Ep1 finished cut, the originally-planned separate "equations shot" and "silent end card" were merged into a single held closing beat — see `CLOSING_SHOT_PLAN.md` for the corrected spec. Ep2 follows the same one-block-closer structure.
 
 Order of mechanism explainers may be re-arranged so that the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating (Point 7 — the chess / every-branch explainer) placed strategically. Current draft follows Samantha's summary order 1→9 for cleanliness; final cut may re-sequence.
