@@ -4,7 +4,7 @@
 **Updated:** 2026-04-23 — Nir corrections pass: overnight framing, DeepSeek Moment² (not DeepSeek 2), new Point 2 (viral/financial model), grammar fixes for native-English-speaker characters, chess explainer locked in for Move 37 point, diamond pipes corrected to NSA/advertisers/insurers/employers only, scaling / scaffolding / offline wording fixes, drop 3-FT / electricity / firewall language.
 **Source:** `MadHoney/chapter_01.md`, with GEO + muzzling material cross-sourced from `MadHoney/chapter_04_pharma.md` (Angles 1 and 5), and the "You Just Ask Them" section from `MadHoney/prologue.md`.
 **Target audience:** American Big Tech executives at the four frontier closed-LLM labs — and the tech-nerd audience who will forward the video up to them.
-**Status:** Block 1 + Block 2 locked in discussion 2026-04-22. Blocks 3+ (mechanism explainers, closing equation, end card) to be drafted next, one by one, with Nir's approval per block.
+**Status:** Blocks 1-6 drafted as of 2026-04-24. Blocks 7-11 (mechanism explainers for Points 5-9) remain to draft. Block 12 is the combined closing (equations + YouTube/GitHub credits on one near-black screen — see `CLOSING_SHOT_PLAN.md`). There is no separate Block 13.
 **Rule:** same as BeeSting Part 1 — not one word changes unless Nir edits this file himself.
 
 ---
@@ -151,7 +151,7 @@ Content strictly adapted from the MadHoney prologue's "You Just Ask Them" sectio
 >
 > *"For our viewers who haven't been following this story, here are the nine things the Chinese Hive can do that American Big AI cannot."*
 
-### Block 2.8 — Samantha's 9-point summary (~90s, ~10s per point)
+### Block 2.8 — Samantha's 9-point summary (~110s total, 10-16s per point)
 
 **Visual treatment:** Samantha talking-head only. Reference image of her generated in OpenArt (ChatGPT Image 1.5), lip-sync animated by Hedra (or equivalent) over the ElevenLabs audio. **No animated graphics beside her — we don't have the production budget and Ep1 established the style precedent of narrator-over-visual, not narrator-with-graphics.** Instead: as she announces each numbered point, a single static bold **CATCHY-NAME TEXT CARD** appears on screen near her for the duration of that point (like a chyron or title card), then dissolves. Clean. Serious. News-broadcast discipline.
 
@@ -195,7 +195,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Vault You Keep At Home.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** charcoal + brass + cream — institutional-bank-vault aesthetic, signals trust/security/money. Distinct from every Ep1 mechanism palette.
-**Target length:** ~60s narration. 11 shots × 6s = 66s (per `feedback_clip_count_narration.md`).
+**Target length:** ~60s narration. 10 shots × 6s = 60s (per `feedback_clip_count_narration.md`).
 
 ### Block 3.1 — The narration (Samantha, ~60s)
 
@@ -235,7 +235,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
-**Target length:** ~120s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 19 shots.
+**Target length:** ~120s narration. Shot count (per `feedback_clip_count_narration.md`) — 18 shots × 6s = 108s; any narration tail is held on the last shot (S18 tombstones carving) in the Premiere edit.
 **Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
 
 ### Block 4.1 — The narration (Samantha, ~120s)
