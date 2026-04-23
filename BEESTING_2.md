@@ -298,11 +298,11 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Palantir naming carve-out:** Palantir may be named directly in Block 5 Point 6 because the cited event is a documented Guardian / Intercept news story from March 2026, not a jab at a Big AI LLM lab. See `BEESTING_2_BLOCK_5_PREP.md` for full carve-out notes. The never-say-names rule remains in force for all four American Big AI labs everywhere else.
 **Metaphor escalation lock:** Block 3 bank vault → Block 4 final nail in the coffin → Block 5 **wooden stake through the heart of the vampire.** Samantha must say the phrase "a wooden stake through the heart of the vampire" verbatim. Do not paraphrase. Vampires return from coffins. Vampires do not return from stakes.
 
-### Block 5.1 — The narration (Samantha, ~45s)
+### Block 5.1 — The narration (Samantha, ~50s)
 
 > *"Point three. Train once, copy forever. Here is how."*
 >
-> *"A hospital trains one computer overnight to spot melanoma. The trained AI is a single file — copied to every workstation. Xerox a radiologist into every room. One hour. Free forever. Using the HIVE, these weak AI's combine into one strong AI."*
+> *"A hospital hires a medical AI vendor once. Their powerful AI teaches the hospital's small AI everything it knows — that's distillation. The trained file is copied to every workstation. Xerox a radiologist into every room. One bill, not forever. Using the HIVE, these weak AI's combine into one strong AI."*
 >
 > *"Same trick on heart sounds, X-rays, pathology."*
 >
@@ -310,15 +310,15 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"And here is the wooden stake through the heart of the vampire. In March 2026, America's largest public hospital system canceled its Palantir contract. Patient records were being re-identified in seconds. The job moved in-house."*
 
-### Block 5.2 — Shot plan skeleton (7 shots × 6s = 42s to cover ~45s narration)
+### Block 5.2 — Shot plan skeleton (7 shots × 6s = 42s to cover ~50s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_3_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
 | Shot | Visual | ~Sec |
 |---|---|---|
-| S1 | Hospital exterior at night, red-cross sign glowing. One upper-floor window glows — inside, a computer screen shows dermatology melanoma photos loading in bulk; a training progress bar begins to fill. | 6 |
-| S2 | Computer ejects a single glowing ghost-white disk file labeled **MELANOMA-SPECIALIST.MODEL**. The file multiplies along a local-network diagram, fanning out to every workstation in the hospital — each turning ghost-violet as it receives its copy. A radiologist silhouette in the middle splits into many ghost copies, one per exam room. | 6 |
-| S3 | All the workstations link by glowing network lines into one large combined hive-node above the building. | 6 |
+| S1 | Hospital exterior at night, red-cross sign glowing. One upper-floor window glows — inside, a computer screen is just starting up its training process. | 6 |
+| S2 | Split frame. Left — a huge **TEACHER** AI icon surrounded by millions of medical images, labeled **MEDICAL AI VENDOR**. Right — a small **STUDENT** AI icon in the hospital. A glowing stream of knowledge pours from Teacher's head into Student's head. A **DISTILLATION** label floats above the stream. | 6 |
+| S3 | The Teacher fades to grey as a one-time dollar sign drops away. The Student stays, glowing brighter. A single glowing ghost-white disk file labeled **MELANOMA-SPECIALIST.MODEL** ejects from the Student and multiplies along a local-network diagram to every workstation in the hospital. A radiologist silhouette in the middle splits into many ghost copies, one per exam room. All workstations link by glowing network lines into one combined hive-node above the building. | 6 |
 | S4 | A library wall of glowing specialist files, each labeled: **MELANOMA · HEART SOUND · CHEST X-RAY · PATHOLOGY** — each a copy-able ghost-white disk. | 6 |
 | S5 | A **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning is scrolling through Wikipedia pages, product reviews, social-media posts, stock photos — NO medical imaging anywhere. Split panel: a trained doctor's eye reads a melanoma photo with sharp confident outlines; the angry thunder-cloud's eye looks at the same photo and sees only a fuzzy generic blob. | 6 |
 | S6 | Hard transition. A newspaper front page lands with a thud. Headline: **NYC HOSPITALS CANCEL PALANTIR** — dateline March 2026. Beside it, a patient medical record card marked **DE-IDENTIFIED**; a big-data engine clicks twice, and the blanked name field fills back in with a specific patient's name. | 6 |
