@@ -1,6 +1,8 @@
 # NO BORING TEXT-ON-COLOR TITLE CARDS IN BEESTING VIDEOS
 
-**The rule:** punchy section-title or punchline text IS allowed in BeeSting — but it must live inside a real animated visual scene, not on a flat colored background with nothing else happening. The forbidden thing is silent-film-era boredom, not the words themselves.
+**Every shot is 6 seconds of moving video. Never a still image. This is a hard constraint that applies to every shot in every block of every episode.** Doors swing shut, chisels carve, dust flies, stakes drive in, smoke rises, coins drop, hands hammer, pipes snap. Motion in every frame. Static slides do not exist in this project.
+
+**The rule:** punchy section-title or punchline text IS allowed in BeeSting — but it must live inside a real animated visual scene with motion, not on a flat colored background with nothing happening. The forbidden thing is silent-film-era boredom, not the words themselves.
 
 **Why:** this is 2026, not 1926. BeeSting is not a silent film. A shot whose only content is a few words centered on a solid color is a 6-second dead zone — it tells the viewer "the animator ran out of ideas" and it tells the narrator "repeat the words I just said, slower." Every shot must earn its runtime with real visual content. But that does not mean text is banned — it means text must be inside a scene, not the whole scene.
 
