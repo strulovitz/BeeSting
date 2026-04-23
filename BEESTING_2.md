@@ -318,9 +318,66 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 ---
 
-## What comes after Block 4 (to be drafted next, per block, with Nir's approval)
+## Block 5 — Mechanism cashing Point 3: Train once, copy forever
 
-- **Block 5** — Mechanism explainer for Point 3 (Train once, copy forever).
+**Named concept:** *The Ghost-Copied Radiologist.*
+**Visual style:** Kurzgesagt flat 2D motion graphics.
+**Palette:** silver + ghost-white + soft violet — spectral, ethereal. Reinforces the "xerox a radiologist into every room" metaphor. Distinct from Block 3's charcoal/brass vault and Block 4's forest-green/gold money.
+**Target length:** ~130–145s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 24 shots.
+**Palantir naming carve-out:** Palantir may be named directly in Block 5 Point 6 because the cited event is a documented Guardian / Intercept news story from March 2026, not a jab at a Big AI LLM lab. See `BEESTING_2_BLOCK_5_PREP.md` for full carve-out notes. The never-say-names rule remains in force for all four American Big AI labs everywhere else.
+**Metaphor escalation lock:** Block 3 bank vault → Block 4 final nail in the coffin → Block 5 **wooden stake through the heart of the vampire.** Samantha must say the phrase "a wooden stake through the heart of the vampire" verbatim. Do not paraphrase. Vampires return from coffins. Vampires do not return from stakes.
+
+### Block 5.1 — The narration (Samantha, ~130–145s)
+
+> *"Point three. Train a specialist once, copy it forever. Here is how."*
+>
+> *"A hospital takes one computer. Overnight, it teaches a small AI to spot melanoma from a dermatology photo. When training finishes, the trained AI is a single file. The hospital copies that file across its local network to every workstation. Every workstation now spots melanoma as well as the first one. Xerox a radiologist into every room of the hospital. One hour. Free forever. And then, using the HIVE, these weak AI's are connected to one combined strong AI."*
+>
+> *"Where do the training photos come from? The hospital's own database. Twenty years of patient scans, each one already labeled at the time of care by the treating doctor — diagnosis, biopsy result, outcome. One SQL query assembles the training set in minutes."*
+>
+> *"Want higher quality? Use distillation. A specialist medical AI vendor — Tempus, Paige, PathAI — already has a powerful AI trained on millions of medical images. The hospital hires them once. In a single session, their AI teaches the hospital's small AI everything it knows. The hospital cuts them loose. The student is now nearly as sharp as the teacher — and it is a file the hospital owns. One bill. Not a forever bill."*
+>
+> *"And this is not only for photos. Same trick on stethoscope heart sounds, X-rays, pathology slides, otoscope ear photos, retinal scans. Hundreds of specialists. Each one a file. Each one copied to every workstation for free."*
+>
+> *"What is wrong with Big AI? Big AI was never trained on medical imaging. Fine-tune Big AI on a thousand melanoma photos, and Big AI only learns to talk a little more like a dermatologist. The eyes stay generalist. The diagnosis stays generalist. Useless product for medical imaging. And the trained thing stays in Big AI's cloud, billed forever."*
+>
+> *"And here is the wooden stake through the heart of the vampire. In March 2026, the largest public hospital system in America canceled its Palantir contract. The scandal: patient records were being fed to Palantir, 'de-identified' for use 'for purposes other than research.' With big data, a 'de-identified' medical record is re-identified back to a patient's name in seconds. Public outrage moved the entire job in-house. The Hive is the tool that lets every other hospital in the world do the same thing."*
+
+### Block 5.2 — Shot plan skeleton (24 shots × 6s = 144s of visual to cover ~130–145s narration)
+
+*Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_3_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
+
+| Shot | Visual | ~Sec |
+|---|---|---|
+| S1 | Title card: *"Point 3. Train once, copy forever."* Ghost-radiologist icon on silver-violet background. | 6 |
+| S2 | Hospital building exterior at night. One glowing window on an upper floor shows a computer screen inside. Caption: *"One computer. Overnight."* | 6 |
+| S3 | Close-up of that computer: a stack of dermatology melanoma photos feeds into it. A training progress bar fills from empty to full. | 6 |
+| S4 | The computer ejects a single glowing ghost-white disk file, labeled **MELANOMA-SPECIALIST.MODEL**. Violet glow around it. | 6 |
+| S5 | The file multiplies along a local-network diagram, fanning out to every workstation in the hospital. Every workstation turns ghost-violet as it receives its copy. | 6 |
+| S6 | Visual metaphor: a single radiologist silhouette in the center splits into many identical ghost copies of itself, one appearing in every exam room of a hospital floor plan. | 6 |
+| S7 | All the workstations from S5, now visibly linked by glowing network lines into one large combined hive-node hovering above the building. Caption: *"Weak AIs — connected into one strong AI."* | 6 |
+| S8 | Cross-section of a hospital EHR database server. Twenty shelves of patient records stacked high. Each record has a small tag attached: DIAGNOSIS · BIOPSY · OUTCOME. | 6 |
+| S9 | Close-up on a terminal: a SQL query is typed on screen (`SELECT image FROM scans WHERE diagnosis = 'melanoma'...`) and thousands of labeled photos stream out into a folder. Caption: *"No labeling. The labels were written at the time of care."* | 6 |
+| S10 | Split frame: left — a huge **TEACHER** AI icon surrounded by millions of medical images (labeled *Medical AI vendor — Tempus, Paige, PathAI*). Right — a small **STUDENT** AI icon sitting in the hospital. | 6 |
+| S11 | A single glowing stream of knowledge pours from the Teacher's head into the Student's head, in one continuous session. Caption: *"Distillation. One session."* | 6 |
+| S12 | The vendor Teacher fades to grey, with a one-time dollar sign dropping away. The Student AI stays, glowing brighter than before. Caption: *"One bill. Not a forever bill."* | 6 |
+| S13 | The Student file copies outward to every workstation in the hospital, same way the file did in S5. | 6 |
+| S14 | A library wall of glowing specialist files — each one labeled: **MELANOMA · HEART SOUND · CHEST X-RAY · PATHOLOGY SLIDE · OTOSCOPE · RETINA · LUNG SOUND · COUGH · …** — each one a copy-able ghost-white disk. | 6 |
+| S15 | Hospital floor plan top-down view. Every room on every floor holds the full library of specialist files, all glowing violet together. | 6 |
+| S16 | Hard cut. A generic "BIG AI" cloud icon is scrolling through a cascade of source material: Wikipedia pages, product reviews, social-media posts, stock photos. NO medical imaging anywhere. | 6 |
+| S17 | Split frame. Left — a trained doctor's eye looks at a melanoma dermatology photo and sees sharp, confident outlines with a clear specialist diagnosis. Right — a Big-AI "eye" looks at the same photo and sees a fuzzy, generic blob. Caption: *"The eyes stay generalist."* | 6 |
+| S18 | The hospital from S15, now with a chain running from every workstation up to the Big-AI cloud. A coin drops into the cloud from each workstation, on loop. Caption: *"Billed forever."* | 6 |
+| S19 | Hard transition. A newspaper front page lands with a thud. Headline: *"NYC HOSPITALS CANCEL PALANTIR"* — dateline March 2026. | 6 |
+| S20 | A patient medical record card labeled **DE-IDENTIFIED** (name blanked, marked as "for purposes other than research"). A big-data cross-reference engine beside it clicks twice, and the blanked name field fills back in with a specific patient's name. | 6 |
+| S21 | Pull back: hundreds of those newly re-identified records, each matched to a real named patient. Crowd-silhouette outside the hospital holds protest signs. Caption: *"Public outrage."* | 6 |
+| S22 | The hospital seals itself: the chain from S18 running up to the Big-AI cloud snaps. The Big-AI cloud recedes, small and defeated. The hospital keeps its own library of specialist files inside, glowing violet. | 6 |
+| S23 | A wooden stake drives all the way through a dark silhouette labeled **CLOUD AI FOR HOSPITALS** (a vampire-shaped silhouette, no face, just a cloaked outline). Silhouette bursts into ghost-violet dust. | 6 |
+| S24 | Final held beat: a row of hospital buildings stretching to the horizon, each one glowing violet from within with its own library of specialist files. No cord in the sky. Text card: *"The stake has already been driven."* | 6 |
+
+---
+
+## What comes after Block 5 (to be drafted next, per block, with Nir's approval)
+
 - **Block 6** — Mechanism explainer for Point 4 (Yours to build — scaffolding).
 - **Block 7** — Mechanism explainer for Point 5 (Infinite stack — hierarchical scaling, software supports as many layers as hardware can stack).
 - **Block 8** — Mechanism explainer for Point 6 (Snowden / NSA / de-anonymization / insurer + employer harms). ⭐ The de-anonymization chain is the important part; spell it out in simple words so the viewer understands their Big AI conversation is quietly being matched back to their name by data brokers and used against them by insurers and employers.
