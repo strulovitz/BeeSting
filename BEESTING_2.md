@@ -445,34 +445,8 @@ Generate these reference images once, re-use across all three shots:
 
 ---
 
-## Block 10 — Mechanism cashing Point 8: Every sense
-
-**Named concept:** *The Hive Reads, Sees, Hears — Same Trick.*
-**Visual style:** Kurzgesagt flat 2D motion graphics.
-**Palette:** warm amber + soft teal + cream.
-**Target length:** ~52s narration. 3 shots × 6s = 18s nominal; shots stretch per audio-wins rule.
-**Source:** `TheDistributedAIRevolution/chapter_12.md` (sub-sampling mechanic — boss keeps a low-res / sped-up overview, workers get full-res pieces of the whole).
-**Locked framing (Nir 2026-04-24):** S1 general, S2 photo-specific with rapist narration, S3 sound-specific with grandma-scam narration. On the rapist case: the Hive does NOT prune the "non-suspicious" (woman, elderly, dog-walker); Big AI does; the suspect was the woman nobody would have looked at. On the scam case: no AI catches a cloned voice (neither local nor frontier); what the Hive recognizes is the SCRIPT / EXCUSE pattern compared across connected homes for SIMILAR (not identical) matches. Visuals stay minimal — Kling fails with many objects in one shot.
-
-### Block 10.1 — The narration (Samantha, ~52s)
-
-> *"Point eight. Every sense. The Hive reads text, sees photos, hears speech. Same trick for all: cut the input, give each piece to one computer, keep an overview at the top. Detail plus big picture."*
->
-> *"For photos: a serial rapist in a city. Every CCTV near every victim's home goes to the Hive. Every face in every feed, its own computer. Big AI skips most faces — it can't hold this much. The Hive skips none. And finds the rapist — even a woman nobody would have suspected."*
->
-> *"For sound: a grandmother gets a call from 'her son' begging for money. The voice is a clone — no AI catches it. But the Hive compares the script to three similar scam calls across connected homes today. Similar, not identical. Close enough. Hang up. Every face. Every voice. All at once."*
-
-### Block 10.2 — Shot plan skeleton (3 shots × 6s = 18s nominal, shots stretch per audio-wins)
-
-| Shot | Visual | ~Sec |
-|---|---|---|
-| S1 | A single **Hive icon** at the center of the frame. Three small icons float in toward it from around the edges: a **photo frame**, an **audio waveform**, a **document**. Small caption: **EVERY SENSE**. Nothing else on the canvas. | 6 |
-| S2 | A single CCTV-style photograph with **three cartoon people visible — two men and one woman**. Two dashed lines cut the photograph into **4 quadrants**. Each quadrant slides down into its own small **computer icon** below. A low-res thumbnail of the whole photo floats up into a slightly larger computer icon at the top. A red flag pops above the woman's head. Nothing else — no side panel, no extra labels. | 6 |
-| S3 | A single horizontal **audio waveform** fills the frame. Two vertical dashed lines split it into **3 time-slices**. Each slice slides down into its own small **computer icon** below. Above the sliced waveform, a smaller version of the same waveform floats up — marked with a **⏩ fast-forward symbol** — into its own slightly larger computer icon at the top. Nothing else. Small caption: **DETAIL + OVERVIEW**. | 6 |
-
----
-
-## What comes after Block 10 (to be drafted next, per block, with Nir's approval)
+## What comes after Block 9 (to be drafted next, per block, with Nir's approval)
+- **Block 10** — Mechanism explainer for Point 8 (Every sense — any model type).
 - **Block 11** — Mechanism explainer for Point 9 (No internet needed — offline / air-gapped).
 - **Block 12** — Combined closing: spoken equations + YouTube/GitHub credits on the same near-black screen. This is ONE block, not two. In the actual Ep1 finished cut, the originally-planned separate "equations shot" and "silent end card" were merged into a single held closing beat — see `CLOSING_SHOT_PLAN.md` for the corrected spec. Ep2 follows the same one-block-closer structure.
 
