@@ -261,7 +261,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"What Napster did to music record stores. What torrent did to Blockbuster. The HIVE will do to Big Tech!"*
 
-### Block 4.2 — Shot plan skeleton (19 shots × 6s = 114s of visual to cover ~110s narration)
+### Block 4.2 — Shot plan skeleton (18 shots × 6s = 108s to cover ~120s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_2_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -285,7 +285,6 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. A **warm smiling sun** rises in the corner of the map. | 6 |
 | S17 | A giant Chinese flag fills the frame. Cartoon hands emerge out of the flag and throw handfuls of gold coins and dollar bills in every direction across the screen. The money rains down onto a small "Big Tech" silhouette in the corner, burying it under the pile. | 6 |
 | S18 | Graveyard at dusk. Three tombstones in a row. Left tombstone: **MUSIC RECORD STORES · 1894 – 1999 · KILLED BY NAPSTER.** Middle tombstone: **VIDEO RENTAL STORES · 1977 – 2001 · KILLED BY TORRENT.** Right tombstone: **BIG TECH · 2022 – 2026 · KILLED BY CHINA'S HIVE** — the dates and last line are being chiseled onto the stone in real time by an unseen hand as Samantha lands the closing line. No real company names or logos anywhere on any stone. | 6 |
-| S19 | Final held beat: camera pulls back. All three tombstones now fully carved, standing side by side under a grey sky. A single wilted flower falls slowly from above onto the BIG TECH grave. Hold. | 6 |
 
 ---
 
