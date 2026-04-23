@@ -13,7 +13,6 @@
 - *"< DINNER"* — inline label next to a drone in Mechanism Z S59
 - *"IN THE DIFFERENCES"* — landing label in Mechanism W S74b
 - *"NumPy / SciPy / FilterPy"* — subtle stack label in Mechanism W S70b
-- *"LEGAL"* — stamp in Honeymation Video 2 Scene 3
 - *"WORKER" / "MANAGER" / "PLATFORM"* — rung labels on the three-rung ladder
 - *"NSA · ADVERTISERS · INSURERS · EMPLOYERS"* — labels on the four pipes in Block 3 S5
 - *"PATIENT RECORDS" / "TRADE SECRETS" / "CLASSIFIED DESIGNS"* — labels on safe-deposit boxes
@@ -36,14 +35,14 @@ Concrete forbidden examples (these were in my draft of Block 3, 4, 5 and are bei
 Why these are forbidden:
 1. **Samantha is already speaking those exact words.** Showing them on screen at the same time is redundant.
 2. **Kling butchers full-sentence rendering** — letters swim, words wrap wrong, the reader spends the whole 6 seconds trying to parse a slide instead of watching the story.
-3. **The Honeymation pattern, which works, is different:** a simple concrete visual metaphor of what the narration is saying. For "Nothing leaves your building" → a building + a sheet of paper trying to fly out + a big red STOP sign blocking it. For "No bank, no box, no pinky-swear" → three quick tiles, each with an object (bank / box / pinky-promise hands) and a big red X crossing it out. The narration delivers the words; the visual illustrates the concept.
+3. **The pattern the existing BeeSting Part 1 shot plans use is different:** a simple concrete visual metaphor of what the narration is saying. For "Nothing leaves your building" → a building + a sheet of paper trying to fly out + a big red STOP sign blocking it. For "No bank, no box, no pinky-swear" → three quick tiles, each with an object (bank / box / pinky-promise hands) and a big red X crossing it out. The narration delivers the words; the visual illustrates the concept.
 
 ## The decision rule for any shot
 
 When writing a shot plan, ask two questions:
 
 1. **Is the text on screen 1–3 words?** If yes, fine, go ahead — label it on an object or HUD, make sure Kling can render it.
-2. **Is the text on screen a full sentence or most of a narration line?** If yes, cut it. Keep the full sentence in Samantha's spoken narration only. Replace the visual with a simple concrete illustration of what the narration is saying — Honeymation style — using objects, icons, X signs, STOP signs, arrows, whatever carries the concept without words.
+2. **Is the text on screen a full sentence or most of a narration line?** If yes, cut it. Keep the full sentence in Samantha's spoken narration only. Replace the visual with a simple concrete illustration of what the narration is saying — same style as the existing BeeSting Part 1 mechanism shot plans — using objects, icons, X signs, STOP signs, arrows, whatever carries the concept without words.
 
 Chyrons behind a live on-screen anchor (Samantha's 9-point news-desk summary cards in Block 2.8) are their own category and already approved by Nir — they are broadcast-news chyrons, not title slides.
 
