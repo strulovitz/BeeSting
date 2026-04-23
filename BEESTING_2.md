@@ -367,8 +367,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 - **Block 9** — Mechanism explainer for Point 7 (Every branch — the chess explanation from the prologue of *The Distributed AI Revolution* and the Public Mode video). Chess grandmaster brags about focusing on the heart of the matter; then computers started winning because the branches humans dismissed were sometimes the decisive ones. Centralized AI is the human chess player — must prune. The Hive checks all branches in parallel.
 - **Block 10** — Mechanism explainer for Point 8 (Every sense — any model type).
 - **Block 11** — Mechanism explainer for Point 9 (No internet needed — offline / air-gapped).
-- **Block 12** — Closing equations (Ep2 equivalent of Ep1 Block 12, same cadence).
-- **Block 13** — End card, silent (same as Ep1 Block 13).
+- **Block 12** — Combined closing: spoken equations + YouTube/GitHub credits on the same near-black screen. This is ONE block, not two. In the actual Ep1 finished cut, the originally-planned separate "equations shot" and "silent end card" were merged into a single held closing beat — see `CLOSING_SHOT_PLAN.md` for the corrected spec. Ep2 follows the same one-block-closer structure.
 
 Order of mechanism explainers may be re-arranged so that the most plausible / most accepted features come first (foot-in-the-door technique per Nir's direction), with the most architecturally devastating (Point 7 — the chess / every-branch explainer) placed strategically. Current draft follows Samantha's summary order 1→9 for cleanliness; final cut may re-sequence.
 
