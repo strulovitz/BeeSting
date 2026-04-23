@@ -237,7 +237,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 | Shot | Visual | ~Sec |
 |---|---|---|
-| S1 | Title card: *"Point 1. Nothing leaves your building."* Brass vault-door icon on charcoal background. | 6 |
+| S1 | A simple flat office building. A sheet of paper labeled **SECRETS** flies out of a window trying to escape. A big red **STOP** sign slams down over the window — the paper bounces back inside. | 6 |
 | S2 | Wide shot: a bank exterior, brass sign **"TRUST US BANK."** Customers walk in carrying small bundles. | 6 |
 | S3 | Interior: a banker locks a diamond-filled box into a rack of safe deposit boxes. Each box is labeled — *Medical Q* · *Trade Secret* · *Patient Record* · *Classified Design*. | 6 |
 | S3b | Close-up montage of the labels on the boxes: *HOSPITAL — PATIENT RECORDS*, *LAW FIRM — CLIENT FILES*, *DEFENSE CONTRACTOR — CLASSIFIED DESIGNS*, *TRADE SECRETS*. Each label flashes on screen in turn. | 6 |
@@ -247,10 +247,10 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S5c | Split frame: left — an insurance-company desk raising a premium on a paper (red up-arrow, dollar sign); right — an employer's desk sliding a resume into a shredder. Both triggered by the de-anonymized record from S5b. | 6 |
 | S6 | Hard cut to a small office labeled **"YOUR BUILDING."** Inside: a cluster of workstations glowing together as a local Hive — multiple nodes, not just one laptop. | 6 |
 | S7 | Close-up: user types a question. Arrow animates from keyboard to the local Hive cluster across the office. Answer arrow returns. Caption: *"YOUR LOCAL NETWORK — NO INTERNET NEEDED."* | 6 |
-| S8 | Wide shot of **YOUR BUILDING**. A pipe leading out toward a cloud labeled **"BIG AI"** — scissors snip the pipe. Cloud recedes. | 6 |
-| S8b | The Big-AI cloud, now cut off, begins to starve: the data-center factory beneath it loses diamonds flowing in, gears slow and stop, the dollar-sign sign on the building dims. Caption: *"The moment the diamonds stop flowing — the business stops."* | 6 |
-| S9 | Building stands sealed. No pipe. Hive glows inside. Text card overlay: *"No bank. No box. No pinky-swear."* | 6 |
-| S10 | Final beat: zoom out. A street of sealed buildings, each one glowing with its own Hive inside. No cloud in the sky. | 6 |
+| S8 | Wide shot of **YOUR BUILDING**. A pipe leads out of it toward a **threatening dark thunder-cloud labeled BIG AI** — an angry face glowers inside the cloud, lightning crackles around it. Scissors snip the pipe. | 6 |
+| S8b | The angry thunder-cloud, pipe severed, starts to starve: gears beneath it grind to a halt, the angry face deflates, the cloud shrinks and darkens. | 6 |
+| S9 | Three quick tiles in sequence. Tile 1: a cartoon bank — big red **X** crashes across it. Tile 2: a safe-deposit box — big red **X** crashes across it. Tile 3: two pinky-promise hands — big red **X** crashes across them. | 6 |
+| S10 | Final beat: zoom out. A street of sealed buildings, each glowing with its own Hive inside. Above them, a **warm smiling sun** has replaced the dark thunder-cloud — bright, kind, daytime. | 6 |
 
 ---
 
@@ -296,25 +296,25 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 | Shot | Visual | ~Sec |
 |---|---|---|
-| S1 | Title card: *"Point 2. A free source of income for Joe Sixpack and Plain Jane."* Gold coin icon on forest-green background. | 6 |
+| S1 | **Joe Sixpack** (plaid shirt, trucker cap) and **Plain Jane** (minivan keys, grocery bag) stand in front of their small suburban home. An American flag flies on the porch. A single gold coin falls from above between them and clinks into a glass jar. Joe gives Jane a thumbs-up. | 6 |
 | S2 | Two buildings side by side — left labeled **PRIVATE MODE** (charcoal/brass, closed LAN icon, padlock). Right labeled **PUBLIC MODE** (forest green + gold, scattered homes + internet icon). Caption: *"Same software. Two modes."* | 6 |
 | S3 | Hotel building exterior with a glowing rating-star sign; 1000 tiny review speech-bubbles stream into the Hive icon on a server and fan out into happy/angry piles, sorted in parallel. Caption: *"1000 reviews, parallel."* | 6 |
 | S4 | Furniture factory floor — 100 identical blank catalog pages fan out onto 100 worker desks simultaneously, each desk typing under a different style label (*FORMAL · PLAYFUL · RUSTIC · MODERN · LUXURY · …*). Caption: *"100 catalogs, parallel."* | 6 |
 | S5 | QA testing lab — a wall of software-module icons, each one being stress-tested by its own tiny robot in parallel. Green ✅ marks pop across the wall. Caption: *"Software QA, parallel."* | 6 |
 | S6 | John Doe at a kitchen-table laptop, smiling. A globe spins above the Hive icon with pins dropping simultaneously on Japan, Italy, Brazil, Thailand (trip planning). Then birthday-gift boxes of different types fan out in parallel. Caption: *"Plain Jane's trip. Joe's birthday list."* | 6 |
 | S7 | Gold coins pour from the hotel, the furniture factory, the QA lab, and John Doe — four streams — all into one central Hive piggy-bank. Caption: *"They pay real money."* | 6 |
-| S8 | Split frame: left — a huge grey fenced data-center labeled **BIG AI** (cold, lifeless); right — a warm neighborhood of homes labeled **THE HIVE** (forest green + gold, smiling windows). Red ❌ on the data-center. Green ✅ on the homes. Caption: *"Same service. No data center. No subscription."* | 6 |
+| S8 | Split frame. Left — a **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning around it, sitting atop a huge grey fenced data-center. Right — a warm neighborhood of homes labeled **THE HIVE** (forest green + gold, smiling windows) under a **warm smiling sun**. Red ❌ on the data-center. Green ✅ on the homes. | 6 |
 | S9 | Night-time continental map of the United States. Millions of tiny dim laptop icons glow faintly in every state — idle. Caption: *"The largest unused compute fleet on the planet."* | 6 |
-| S10 | Close-up: a single laptop on a bedroom desk, owner asleep. A small "Hive" icon boots up on the screen. Gold coins drop into a jar next to the laptop, one by one. | 6 |
+| S10 | Interior of a suburban bedroom at night. A father, mother, and two small kids asleep together peacefully in one big bed. On the nightstand, a laptop is open, screen glowing softly, a small Hive icon spinning on it. Gold coins drop one by one into a jar on the nightstand. | 6 |
 | S11 | Split frame, three panels: (1) red ❌ over pickaxe smashing a cracking monitor — **"CRYPTO MINING"**; (2) red ❌ over robot burning cash — **"AI AGENTS"**; (3) green ✅ over laptop, page of text in / page of text out — **"THE HIVE."** | 6 |
 | S12 | Three-rung staircase. Rung 1: gaming laptop — **"WORKER."** Rung 2: desktop server tower in an apartment — **"MANAGER."** Rung 3: globe with storefront — **"PLATFORM."** Each rung bigger than the last. | 6 |
 | S13 | Same three-rung staircase — a common-American figure visibly climbs from rung 1 up to rung 3. Each step earns a bigger pile of gold coins. | 6 |
-| S14 | Hard cut to black. A single gold nail drives into a dark wooden coffin with a generic Big-Tech cloud + server-rack silhouette stamped on the lid (no real logos). Caption: *"The final nail in the coffin."* | 6 |
+| S14 | Flat-style world map. China on the left, USA on the right, Pacific between them. A giant red sleeved hand reaches out of China across the Pacific, holding a hammer and a nail. The hand drives the nail directly into the United States. Cold cut. | 6 |
 | S15 | Giant red Chinese flag rises behind a stack of cash taller than a skyscraper. Arrows labeled **FINANCE · PROMOTE · SUBSIDIZE** fire out of the stack across the Pacific toward the US idle-laptop map from S9. | 6 |
-| S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. | 6 |
-| S17 | The Big-Tech coffin from S14, buried under a forest-green-and-gold Public-Mode landscape of glowing home laptops. Text card: *"Not a movement. A state-backed campaign."* | 6 |
+| S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. A **warm smiling sun** rises in the corner of the map. | 6 |
+| S17 | A giant Chinese flag fills the frame. Cartoon hands emerge out of the flag and throw handfuls of gold coins and dollar bills in every direction across the screen. The money rains down onto a small "Big Tech" silhouette in the corner, burying it under the pile. | 6 |
 | S18 | Graveyard at dusk. Three tombstones in a row. Left tombstone: **MUSIC RECORD STORES · 1894 – 1999 · KILLED BY NAPSTER.** Middle tombstone: **VIDEO RENTAL STORES · 1977 – 2001 · KILLED BY TORRENT.** Right tombstone: **BIG TECH · 2022 – 2026 · KILLED BY CHINA'S HIVE** — the dates and last line are being chiseled onto the stone in real time by an unseen hand as Samantha lands the closing line. No real company names or logos anywhere on any stone. | 6 |
-| S19 | Final held beat: camera pulls back. All three tombstones now fully carved, standing side by side under a grey sky. A small red Chinese flag and a Hive/bee icon rest at the foot of the third stone. Text card overlay: *"The HIVE will do to Big Tech!"* | 6 |
+| S19 | Final held beat: camera pulls back. All three tombstones now fully carved, standing side by side under a grey sky. A single wilted flower falls slowly from above onto the BIG TECH grave. Hold. | 6 |
 
 ---
 
@@ -349,8 +349,8 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 
 | Shot | Visual | ~Sec |
 |---|---|---|
-| S1 | Title card: *"Point 3. Train once, copy forever."* Ghost-radiologist icon on silver-violet background. | 6 |
-| S2 | Hospital building exterior at night. One glowing window on an upper floor shows a computer screen inside. Caption: *"One computer. Overnight."* | 6 |
+| S1 | A hospital exterior at night, red-cross sign glowing on the wall. Most windows dark. One glowing upper-floor window — inside, a computer screen shows a stack of dermatology melanoma photos loading in bulk. A training progress bar begins to fill. | 6 |
+| S2 | Close-up of that lit window from inside: laptop open on the desk, photos still loading, progress bar halfway. A silhouetted doctor watches at the keyboard. | 6 |
 | S3 | Close-up of that computer: a stack of dermatology melanoma photos feeds into it. A training progress bar fills from empty to full. | 6 |
 | S4 | The computer ejects a single glowing ghost-white disk file, labeled **MELANOMA-SPECIALIST.MODEL**. Violet glow around it. | 6 |
 | S5 | The file multiplies along a local-network diagram, fanning out to every workstation in the hospital. Every workstation turns ghost-violet as it receives its copy. | 6 |
@@ -364,15 +364,15 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S13 | The Student file copies outward to every workstation in the hospital, same way the file did in S5. | 6 |
 | S14 | A library wall of glowing specialist files — each one labeled: **MELANOMA · HEART SOUND · CHEST X-RAY · PATHOLOGY SLIDE · OTOSCOPE · RETINA · LUNG SOUND · COUGH · …** — each one a copy-able ghost-white disk. | 6 |
 | S15 | Hospital floor plan top-down view. Every room on every floor holds the full library of specialist files, all glowing violet together. | 6 |
-| S16 | Hard cut. A generic "BIG AI" cloud icon is scrolling through a cascade of source material: Wikipedia pages, product reviews, social-media posts, stock photos. NO medical imaging anywhere. | 6 |
-| S17 | Split frame. Left — a trained doctor's eye looks at a melanoma dermatology photo and sees sharp, confident outlines with a clear specialist diagnosis. Right — a Big-AI "eye" looks at the same photo and sees a fuzzy, generic blob. Caption: *"The eyes stay generalist."* | 6 |
-| S18 | The hospital from S15, now with a chain running from every workstation up to the Big-AI cloud. A coin drops into the cloud from each workstation, on loop. Caption: *"Billed forever."* | 6 |
+| S16 | Hard cut. A **threatening dark thunder-cloud labeled BIG AI** with an angry face inside and lightning crackling is scrolling through a cascade of source material: Wikipedia pages, product reviews, social-media posts, stock photos. NO medical imaging anywhere. | 6 |
+| S17 | Split frame. Left — a trained doctor's eye looks at a melanoma dermatology photo and sees sharp, confident outlines with a clear specialist diagnosis. Right — the angry thunder-cloud's eye looks at the same photo and sees only a fuzzy, generic blob. | 6 |
+| S18 | The hospital from S15, now with a chain running from every workstation up to the angry Big-AI thunder-cloud. A coin drops into the cloud from each workstation, on loop. | 6 |
 | S19 | Hard transition. A newspaper front page lands with a thud. Headline: *"NYC HOSPITALS CANCEL PALANTIR"* — dateline March 2026. | 6 |
 | S20 | A patient medical record card labeled **DE-IDENTIFIED** (name blanked, marked as "for purposes other than research"). A big-data cross-reference engine beside it clicks twice, and the blanked name field fills back in with a specific patient's name. | 6 |
-| S21 | Pull back: hundreds of those newly re-identified records, each matched to a real named patient. Crowd-silhouette outside the hospital holds protest signs. Caption: *"Public outrage."* | 6 |
-| S22 | The hospital seals itself: the chain from S18 running up to the Big-AI cloud snaps. The Big-AI cloud recedes, small and defeated. The hospital keeps its own library of specialist files inside, glowing violet. | 6 |
+| S21 | Pull back: hundreds of those newly re-identified records, each matched to a real named patient. Crowd-silhouette outside the hospital holds protest signs. | 6 |
+| S22 | The hospital seals itself: the chain up to the angry thunder-cloud snaps. The angry cloud fades away, replaced in the sky by a **warm smiling sun**. The hospital keeps its own library of specialist files inside, glowing violet. | 6 |
 | S23 | A wooden stake drives all the way through a dark silhouette labeled **CLOUD AI FOR HOSPITALS** (a vampire-shaped silhouette, no face, just a cloaked outline). Silhouette bursts into ghost-violet dust. | 6 |
-| S24 | Final held beat: a row of hospital buildings stretching to the horizon, each one glowing violet from within with its own library of specialist files. No cord in the sky. Text card: *"The stake has already been driven."* | 6 |
+| S24 | Final held beat: a row of hospital buildings stretching to the horizon, each glowing violet from within. Above them, the **warm smiling sun**. In the foreground, the wooden stake from S23 stands upright where it was driven — its shadow stretches long across the landscape. | 6 |
 
 ---
 
