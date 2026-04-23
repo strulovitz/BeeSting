@@ -207,7 +207,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *The Vault You Keep At Home.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** charcoal + brass + cream — institutional-bank-vault aesthetic, signals trust/security/money. Distinct from every Ep1 mechanism palette.
-**Target length:** ~70s narration / 60s+ visual runtime.
+**Target length:** ~80s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 14 shots.
 
 ### Block 3.1 — The narration (Samantha, ~80s)
 
@@ -231,7 +231,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"And this is why Big AI cannot match it. Not because they do not want to — because their entire business model depends on your diamonds flowing to them. The moment the diamonds stop flowing — the business stops."*
 
-### Block 3.2 — Shot plan skeleton (10 shots × 6s = 60s visual wallpaper)
+### Block 3.2 — Shot plan skeleton (14 shots × 6s = 84s of visual to cover ~80s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -240,11 +240,15 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S1 | Title card: *"Point 1. Nothing leaves your building."* Brass vault-door icon on charcoal background. | 6 |
 | S2 | Wide shot: a bank exterior, brass sign **"TRUST US BANK."** Customers walk in carrying small bundles. | 6 |
 | S3 | Interior: a banker locks a diamond-filled box into a rack of safe deposit boxes. Each box is labeled — *Medical Q* · *Trade Secret* · *Patient Record* · *Classified Design*. | 6 |
+| S3b | Close-up montage of the labels on the boxes: *HOSPITAL — PATIENT RECORDS*, *LAW FIRM — CLIENT FILES*, *DEFENSE CONTRACTOR — CLASSIFIED DESIGNS*, *TRADE SECRETS*. Each label flashes on screen in turn. | 6 |
 | S4 | Cross-section of the bank: hidden sub-basement. A shadow-banker secretly opens the boxes while customers sleep. | 6 |
 | S5 | Diamonds flow out of the sub-basement through four labeled pipes: **NSA · Advertisers · Insurers · Employers**. These are the four buyers of your Big-AI conversation history that harm you, none of which affect a local Hive user. | 6 |
+| S5b | Close-up: a data-broker's computer terminal. On screen, a record labeled **"ANONYMIZED"** — a countdown timer runs: 2… 1… 0. Label flips to **"JOHN Q. PUBLIC — 44 — PALO ALTO"** with a red de-anonymized stamp. | 6 |
+| S5c | Split frame: left — an insurance-company desk raising a premium on a paper (red up-arrow, dollar sign); right — an employer's desk sliding a resume into a shredder. Both triggered by the de-anonymized record from S5b. | 6 |
 | S6 | Hard cut to a small office labeled **"YOUR BUILDING."** Inside: a cluster of workstations glowing together as a local Hive — multiple nodes, not just one laptop. | 6 |
 | S7 | Close-up: user types a question. Arrow animates from keyboard to the local Hive cluster across the office. Answer arrow returns. Caption: *"YOUR LOCAL NETWORK — NO INTERNET NEEDED."* | 6 |
 | S8 | Wide shot of **YOUR BUILDING**. A pipe leading out toward a cloud labeled **"BIG AI"** — scissors snip the pipe. Cloud recedes. | 6 |
+| S8b | The Big-AI cloud, now cut off, begins to starve: the data-center factory beneath it loses diamonds flowing in, gears slow and stop, the dollar-sign sign on the building dims. Caption: *"The moment the diamonds stop flowing — the business stops."* | 6 |
 | S9 | Building stands sealed. No pipe. Hive glows inside. Text card overlay: *"No bank. No box. No pinky-swear."* | 6 |
 | S10 | Final beat: zoom out. A street of sealed buildings, each one glowing with its own Hive inside. No cloud in the sky. | 6 |
 
@@ -255,10 +259,10 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 **Named concept:** *A Free Source of Income for Joe Sixpack and Plain Jane.*
 **Visual style:** Kurzgesagt flat 2D motion graphics.
 **Palette:** forest green + warm gold + cream — money / growth / honey. Deliberately distinct from Block 3's charcoal + brass institutional-vault palette, so the viewer instantly reads Private Mode (Block 3) vs. Public Mode (Block 4) as two different worlds.
-**Target length:** ~100s narration / 60s+ visual runtime.
+**Target length:** ~110s narration. Shot count must cover the full narration at 6s per shot (per `feedback_clip_count_narration.md`) — 19 shots.
 **Catchy-name text card behind Samantha in Block 2.8 Point 2:** stays as the short version — **THE HIVE PAYS YOU BACK** (locked, do not expand the on-screen card).
 
-### Block 4.1 — The narration (Samantha, ~85s)
+### Block 4.1 — The narration (Samantha, ~110s)
 
 > *"Point two. The Hive pays the American folks real money back. It's a free source of income for Joe Sixpack and Plain Jane. It works very simply — here's how."*
 >
@@ -284,9 +288,9 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"China will finance it. China will promote it. China will subsidize it — because this one single shift is how China collapses Big Tech and moves every last mainstream American citizen off American LLMs and onto Chinese LLMs. It will not arrive as slow diffusion. It will arrive as coordinated, behind-the-scenes pressure, funded by the largest treasury on Earth. Big Tech is not losing America to a movement. Big Tech is losing America to a state-backed campaign to kill Big Tech specifically."*
 >
-> *"What Napster did to music record stores. What torrent did to Blockbuster. The Hive will do to Big Tech."*
+> *"What Napster did to music record stores. What torrent did to Blockbuster. The HIVE will do to Big Tech!"*
 
-### Block 4.2 — Shot plan skeleton (10 shots × 6s = 60s visual wallpaper)
+### Block 4.2 — Shot plan skeleton (19 shots × 6s = 114s of visual to cover ~110s narration)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_2_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -294,14 +298,23 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 |---|---|---|
 | S1 | Title card: *"Point 2. A free source of income for Joe Sixpack and Plain Jane."* Gold coin icon on forest-green background. | 6 |
 | S2 | Two buildings side by side — left labeled **PRIVATE MODE** (charcoal/brass, closed LAN icon, padlock). Right labeled **PUBLIC MODE** (forest green + gold, scattered homes + internet icon). Caption: *"Same software. Two modes."* | 6 |
-| S3 | Night-time continental map of the United States. Millions of tiny dim laptop icons glow faintly in every state — idle. Caption: *"The largest unused compute fleet on the planet."* | 6 |
-| S4 | Close-up: a single laptop on a bedroom desk, owner asleep. A small "Hive" icon boots up on the screen. Gold coins drop into a jar next to the laptop, one by one. | 6 |
-| S5 | Split frame, three panels: (1) red ❌ over pickaxe smashing a cracking monitor — **"CRYPTO MINING"**; (2) red ❌ over robot burning cash — **"AI AGENTS"**; (3) green ✅ over laptop, page of text in / page of text out — **"THE HIVE."** | 6 |
-| S6 | Three-rung staircase. Rung 1: gaming laptop — **"WORKER."** Rung 2: desktop server tower in an apartment — **"MANAGER."** Rung 3: globe with storefront — **"PLATFORM."** Each rung bigger than the last. | 6 |
-| S7 | Hard cut to black. A single gold nail drives into a dark wooden coffin with a generic Big-Tech cloud + server-rack silhouette stamped on the lid (no real logos). Caption: *"The final nail in the coffin."* | 6 |
-| S8 | Giant red Chinese flag rises behind a stack of cash taller than a skyscraper. Arrows labeled **FINANCE · PROMOTE · SUBSIDIZE** fire out of the stack across the Pacific toward the US idle-laptop map from S3. | 6 |
-| S9 | The dim US laptop map from S3 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. | 6 |
-| S10 | Final beat: the Big-Tech coffin from S7, buried under a forest-green-and-gold Public-Mode landscape of glowing home laptops. Text card: *"Not a movement. A state-backed campaign."* | 6 |
+| S3 | Hotel building exterior with a glowing rating-star sign; 1000 tiny review speech-bubbles stream into the Hive icon on a server and fan out into happy/angry piles, sorted in parallel. Caption: *"1000 reviews, parallel."* | 6 |
+| S4 | Furniture factory floor — 100 identical blank catalog pages fan out onto 100 worker desks simultaneously, each desk typing under a different style label (*FORMAL · PLAYFUL · RUSTIC · MODERN · LUXURY · …*). Caption: *"100 catalogs, parallel."* | 6 |
+| S5 | QA testing lab — a wall of software-module icons, each one being stress-tested by its own tiny robot in parallel. Green ✅ marks pop across the wall. Caption: *"Software QA, parallel."* | 6 |
+| S6 | John Doe at a kitchen-table laptop, smiling. A globe spins above the Hive icon with pins dropping simultaneously on Japan, Italy, Brazil, Thailand (trip planning). Then birthday-gift boxes of different types fan out in parallel. Caption: *"Plain Jane's trip. Joe's birthday list."* | 6 |
+| S7 | Gold coins pour from the hotel, the furniture factory, the QA lab, and John Doe — four streams — all into one central Hive piggy-bank. Caption: *"They pay real money."* | 6 |
+| S8 | Split frame: left — a huge grey fenced data-center labeled **BIG AI** (cold, lifeless); right — a warm neighborhood of homes labeled **THE HIVE** (forest green + gold, smiling windows). Red ❌ on the data-center. Green ✅ on the homes. Caption: *"Same service. No data center. No subscription."* | 6 |
+| S9 | Night-time continental map of the United States. Millions of tiny dim laptop icons glow faintly in every state — idle. Caption: *"The largest unused compute fleet on the planet."* | 6 |
+| S10 | Close-up: a single laptop on a bedroom desk, owner asleep. A small "Hive" icon boots up on the screen. Gold coins drop into a jar next to the laptop, one by one. | 6 |
+| S11 | Split frame, three panels: (1) red ❌ over pickaxe smashing a cracking monitor — **"CRYPTO MINING"**; (2) red ❌ over robot burning cash — **"AI AGENTS"**; (3) green ✅ over laptop, page of text in / page of text out — **"THE HIVE."** | 6 |
+| S12 | Three-rung staircase. Rung 1: gaming laptop — **"WORKER."** Rung 2: desktop server tower in an apartment — **"MANAGER."** Rung 3: globe with storefront — **"PLATFORM."** Each rung bigger than the last. | 6 |
+| S13 | Same three-rung staircase — a common-American figure visibly climbs from rung 1 up to rung 3. Each step earns a bigger pile of gold coins. | 6 |
+| S14 | Hard cut to black. A single gold nail drives into a dark wooden coffin with a generic Big-Tech cloud + server-rack silhouette stamped on the lid (no real logos). Caption: *"The final nail in the coffin."* | 6 |
+| S15 | Giant red Chinese flag rises behind a stack of cash taller than a skyscraper. Arrows labeled **FINANCE · PROMOTE · SUBSIDIZE** fire out of the stack across the Pacific toward the US idle-laptop map from S9. | 6 |
+| S16 | The dim US laptop map from S9 lights up — one by one, every laptop flips from dim to bright gold. A wave of gold sweeps across the continent. | 6 |
+| S17 | The Big-Tech coffin from S14, buried under a forest-green-and-gold Public-Mode landscape of glowing home laptops. Text card: *"Not a movement. A state-backed campaign."* | 6 |
+| S18 | Three falling dominoes, left to right: tile 1 — a record-store sign with a **Napster** icon beside it, already flat on the ground; tile 2 — a **Blockbuster** sign with a torrent icon, mid-fall; tile 3 — a **Big Tech** cloud with a Hive/bee icon beside it, just starting to tip. | 6 |
+| S19 | Final held beat: all three tiles now flat on the ground. Big-Tech tile lands hard. Text card: *"The HIVE will do to Big Tech!"* | 6 |
 
 ---
 
@@ -341,4 +354,4 @@ Order of mechanism explainers may be re-arranged so that the most plausible / mo
 - **Beach babe's closer:** she delivers it *casually*, not with urgency — the point is that the Hive's superiority is so obvious it doesn't need advocacy. Then she *skates away*. She doesn't try.
 - **AI-Feynman:** delivered at slow, thoughtful, slightly amused Feynman cadence. Land the "You mean… you just ask them?" line with a beat of genuine wonder before the pivot.
 - **Samantha's four-word payoff:** *"You just ask them."* Said slowly, each word a drop of water. This is the line the Big AI CEO hears in their sleep.
-- **Samantha's 8-point summary:** tight, rapid-fire, no pauses between points other than the beat needed for the graphic to land. Each point ~10 seconds. The audience is Big Tech execs — they understand quickly, don't lecture.
+- **Samantha's 9-point summary:** tight, rapid-fire, no pauses between points other than the beat needed for the graphic to land. Each point ~10 seconds. The audience is Big Tech execs — they understand quickly, don't lecture.
