@@ -14,7 +14,7 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | # | Character | ElevenLabs Voice | Duration |
 |---|---|---|---|
 | 1 | Surfer dude | Sam - Relaxed, Light and Soothing | 5s |
-| 2 | California beach babe | Gracie Valley - Seductive and Sassy | - |
+| 2 | California beach babe | Gracie Valley - Seductive and Sassy | 4s |
 | 10 | Beach babe returns | Gracie Valley - Seductive and Sassy | - |
 | 3 | Latino guy | TBD | - |
 | 4 | Young Black student | TBD | - |
