@@ -41,6 +41,8 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 |---|---|---|
 | E02-block02.2-tony-field-open.mp3 | ElevenLabs / Tony (Joey) | 10s |
 
-**Status:** Audio ✅. Visual: Tony talking head — pending.
+**Kling Avatar rule (confirmed 2026-04-24):** Kling Avatar always adds ~2 bad seconds at the end. Always trim in Premiere back to match the audio duration exactly.
+
+**Status:** Audio ✅ 10s. Clip ✅ trimmed to 10s in Premiere.
 
 ---
