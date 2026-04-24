@@ -14,7 +14,8 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | # | Character | ElevenLabs Voice | Duration |
 |---|---|---|---|
 | 1 | Surfer dude | Sam - Relaxed, Light and Soothing | 5s |
-| 2 | California beach babe | TBD | - |
+| 2 | California beach babe | Gracie Valley - Seductive and Sassy | - |
+| 10 | Beach babe returns | Gracie Valley - Seductive and Sassy | - |
 | 3 | Latino guy | TBD | - |
 | 4 | Young Black student | TBD | - |
 | 5 | Blonde cheerleader | TBD | - |
@@ -22,7 +23,6 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | 7 | Redhead bartender | TBD | - |
 | 8 | Hippie old guy | TBD | - |
 | 9 | Mother with children | TBD | - |
-| 10 | Beach babe returns | Same as #2 | - |
 
 ## Rules
 - AI-Feynman: NO voice clone of real Feynman. Generic older male voice only.
