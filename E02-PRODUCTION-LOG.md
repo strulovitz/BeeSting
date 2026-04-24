@@ -21,6 +21,16 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 **Audio:** 11s. Total visuals = 11s. Perfect match. No SFX ever.
 **Kling mode:** start/end frame. Clip A: Image1→Image2. Clip B: Image2→Image3.
 **Reference images:** Image1 ✅ Image2 ✅ Image3: pending.
-**Status:** Equation frame ✅ in Premiere. Clips A+B: pending.
+**Status:** Block 1 COMPLETE ✅ — Nir approved.
+
+---
+
+## Block 2.1 — Samantha studio open
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.1-samantha-studio-open.mp3 | ElevenLabs / Samantha (Madeline) | 35s |
+
+**Status:** Audio ✅. Visual: Samantha talking head (ChatGPT Image 1.5 ref → Hedra lip-sync) — pending.
 
 ---
