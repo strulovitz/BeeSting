@@ -31,6 +31,16 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 |---|---|---|
 | E02-block02.1-samantha-studio-open.mp3 | ElevenLabs / Samantha (Madeline) | 35s |
 
-**Status:** Audio ✅. Visual: Samantha talking head (ChatGPT Image 1.5 ref → Hedra lip-sync) — pending.
+**Status:** Audio ✅. Visual: Samantha talking head (ChatGPT Image 1.5 ref → Kling Avatar lip-sync) — COMPLETE ✅ 35s, chyron added in Premiere.
+
+---
+
+## Block 2.2 — Tony field open
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.2-tony-field-open.mp3 | ElevenLabs / Tony (Joey) | 10s |
+
+**Status:** Audio ✅. Visual: Tony talking head — pending.
 
 ---
