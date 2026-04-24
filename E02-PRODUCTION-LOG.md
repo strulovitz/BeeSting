@@ -16,9 +16,11 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 
 **Premiere timeline (confirmed by Nir 2026-04-24):**
 - 0:00–0:05 → equation frame (5s, static PNG) — narration plays
-- 0:05–0:11 → Clip A (6s, Golden Gate rust) — narration plays
-- 0:11–0:17 → Clip B (6s, Golden Gate collapse) — silence
-**Audio:** 11s. No SFX ever. If timing looks bad in edit, will shorten clips to 3s each.
+- 0:05–0:08 → Clip A (3s, Golden Gate rust) — narration plays
+- 0:08–0:11 → Clip B (3s, Golden Gate collapse) — narration ends exactly here
+**Audio:** 11s. Total visuals = 11s. Perfect match. No SFX ever.
+**Kling mode:** start/end frame. Clip A: Image1→Image2. Clip B: Image2→Image3.
+**Reference images:** Image1 ✅ Image2 ✅ Image3: pending.
 **Status:** Equation frame ✅ in Premiere. Clips A+B: pending.
 
 ---
