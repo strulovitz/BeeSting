@@ -14,8 +14,11 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | E02-block01-clip-A-golden-gate-rust.mp4 | Kling 3.0 Omni | 6s |
 | E02-block01-clip-B-golden-gate-collapse.mp4 | Kling 3.0 Omni | 6s |
 
-**Visual total:** ~7s (equation) + 6s (Clip A) + 6s (Clip B) = ~19s
-**Audio:** 11s — plays 2/3 (~7s) over equation frame, 1/3 (~4s) over start of Clip A. Clip A remainder + Clip B are silent (no SFX — zero budget for sound effects, Ep1 precedent).
-**Status:** ✅
+**Premiere timeline (confirmed by Nir 2026-04-24):**
+- 0:00–0:05 → equation frame (5s, static PNG) — narration plays
+- 0:05–0:11 → Clip A (6s, Golden Gate rust) — narration plays
+- 0:11–0:17 → Clip B (6s, Golden Gate collapse) — silence
+**Audio:** 11s. No SFX ever. If timing looks bad in edit, will shorten clips to 3s each.
+**Status:** Equation frame ✅ in Premiere. Clips A+B: pending.
 
 ---
