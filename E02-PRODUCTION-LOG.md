@@ -59,7 +59,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 6 | Skater dude | E02-block02.3-vox06-skater.mp3 | Brayden - Cheery, Clear and Chill | 3s | ✅ In Premiere |
 | 7 | Asian bartender | E02-block02.3-vox07-bartender.mp3 | Sapphire - Sweet, Youthful, and Clear | 4s | ✅ In Premiere |
 | 8 | Hippie old guy | E02-block02.3-vox08-hippie.mp3 | Dar - Southern California Male Voice | 4s | ✅ In Premiere |
-| 9 | Mother with children | — | TBD | — | NOT STARTED |
+| 9 | Mother with children | E02-block02.3-vox09-mom.mp3 | Amy - Upbeat and Excited | 3s | 🔄 Audio ✅ — ref image + Kling pending |
 | 10 | Beach babe returns | — | Gracie Valley | — | NOT STARTED |
 
 **Note on Vox03:** Script line changed from "The price, dude." to "The price, Ese. BIG AI is for the one percent. Not for me." — "Ese" capitalized so ElevenLabs pronounces it correctly as the Latino slang.

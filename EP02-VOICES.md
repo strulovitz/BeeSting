@@ -22,7 +22,7 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | 6 | Skater dude | Brayden - Cheery, Clear and Chill | 3s |
 | 7 | Asian bartender | Sapphire - Sweet, Youthful, and Clear | 4s |
 | 8 | Hippie old guy | Dar - Southern California Male Voice | 4s |
-| 9 | Mother with children | TBD | - |
+| 9 | Mother with children | Amy - Upbeat and Excited | 3s |
 
 ## Rules
 - AI-Feynman: NO voice clone of real Feynman. Generic older male voice only.
