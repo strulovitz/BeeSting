@@ -55,7 +55,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 2 | Beach babe | E02-block02.3-vox02-beach-babe.mp3 | Gracie Valley | 4s | ✅ Clip in Premiere |
 | 3 | Latino guy | E02-block02.3-vox03-latino.mp3 | Antonio - Youthful and Direct | 3s | ✅ In Premiere |
 | 4 | Young Black student | E02-block02.3-vox04-black-student.mp3 | Misha - Friendly, Bold, and Engaging | 3s | ✅ In Premiere |
-| 5 | Redhead cheerleader | E02-block02.3-vox05-cheerleader.mp3 | Kristen - Upbeat social media influencer | **3s** | 🔄 Audio ✅, ref image ✅ — Kling pending |
+| 5 | Redhead cheerleader | E02-block02.3-vox05-cheerleader.mp3 | Kristen - Upbeat social media influencer | 3s | 🔄 Audio ✅, ref image ✅ — Kling pending |
 | 6 | Skater dude | — | TBD | — | NOT STARTED |
 | 7 | Redhead bartender | — | TBD | — | NOT STARTED |
 | 8 | Hippie old guy | — | TBD | — | NOT STARTED |
