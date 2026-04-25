@@ -77,8 +77,8 @@ Each person is captured in a short street-interview clip. Different ElevenLabs v
 **4. Young Black student** (backpack, campus):
 > *"Oh my God, the Hive is so cheap, it's crazy."*
 
-**5. Blonde cheerleader** (school parking lot):
-> *"The Hive doesn't sell my information."*
+**5. Redhead cheerleader** (school parking lot):
+> *"The Hive doesn't sell my information. Big AI totally does."*
 
 **6. Skater dude** (skate park):
 > *"The Hive doesn't say 'sorry, I cannot help you with that.'"*
