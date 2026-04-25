@@ -57,7 +57,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 4 | Young Black student | E02-block02.3-vox04-black-student.mp3 | Misha - Friendly, Bold, and Engaging | 3s | ✅ In Premiere |
 | 5 | Redhead cheerleader | E02-block02.3-vox05-cheerleader.mp3 | Kristen - Upbeat social media influencer | 3s | ✅ In Premiere |
 | 6 | Skater dude | E02-block02.3-vox06-skater.mp3 | Brayden - Cheery, Clear and Chill | 3s | ✅ In Premiere |
-| 7 | Asian bartender | E02-block02.3-vox07-bartender.mp3 | Sapphire - Sweet, Youthful, and Clear | 3s | 🔄 Audio ✅, ref image ✅ — Kling pending |
+| 7 | Asian bartender | E02-block02.3-vox07-bartender.mp3 | Sapphire - Sweet, Youthful, and Clear | 3s | ✅ In Premiere (clip 4s) |
 | 8 | Hippie old guy | — | TBD | — | NOT STARTED |
 | 9 | Mother with children | — | TBD | — | NOT STARTED |
 | 10 | Beach babe returns | — | Gracie Valley | — | NOT STARTED |
