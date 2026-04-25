@@ -58,7 +58,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 5 | Redhead cheerleader | E02-block02.3-vox05-cheerleader.mp3 | Kristen - Upbeat social media influencer | 3s | ✅ In Premiere |
 | 6 | Skater dude | E02-block02.3-vox06-skater.mp3 | Brayden - Cheery, Clear and Chill | 3s | ✅ In Premiere |
 | 7 | Asian bartender | E02-block02.3-vox07-bartender.mp3 | Sapphire - Sweet, Youthful, and Clear | 4s | ✅ In Premiere |
-| 8 | Hippie old guy | E02-block02.3-vox08-hippie.mp3 | Dar - Southern California Male Voice | 3s | 🔄 Audio ✅ — ref image + Kling pending |
+| 8 | Hippie old guy | E02-block02.3-vox08-hippie.mp3 | Dar - Southern California Male Voice | 4s | ✅ In Premiere |
 | 9 | Mother with children | — | TBD | — | NOT STARTED |
 | 10 | Beach babe returns | — | Gracie Valley | — | NOT STARTED |
 
