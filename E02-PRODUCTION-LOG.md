@@ -46,3 +46,22 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 **Status:** Audio ✅ 10s. Clip ✅ trimmed to 10s in Premiere.
 
 ---
+
+## Block 2.3 — Vox pop (10 characters)
+
+| # | Character | File | Voice | Duration | Status |
+|---|---|---|---|---|---|
+| 1 | Surfer dude | E02-block02.3-vox01-surfer.mp3 | Sam - Relaxed | 5s | ✅ Clip in Premiere |
+| 2 | Beach babe | E02-block02.3-vox02-beach-babe.mp3 | Gracie Valley | 4s | ✅ Clip in Premiere |
+| 3 | Latino guy | E02-block02.3-vox03-latino.mp3 | Antonio - Youthful and Direct | 3s | ✅ In Premiere |
+| 4 | Young Black student | — | TBD | — | NOT STARTED |
+| 5 | Blonde cheerleader | — | TBD | — | NOT STARTED |
+| 6 | Skater dude | — | TBD | — | NOT STARTED |
+| 7 | Redhead bartender | — | TBD | — | NOT STARTED |
+| 8 | Hippie old guy | — | TBD | — | NOT STARTED |
+| 9 | Mother with children | — | TBD | — | NOT STARTED |
+| 10 | Beach babe returns | — | Gracie Valley | — | NOT STARTED |
+
+**Note on Vox03:** Script line changed from "The price, dude." to "The price, Ese. BIG AI is for the one percent. Not for me." — "Ese" capitalized so ElevenLabs pronounces it correctly as the Latino slang.
+
+---

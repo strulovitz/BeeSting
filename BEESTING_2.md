@@ -72,7 +72,7 @@ Each person is captured in a short street-interview clip. Different ElevenLabs v
 > [Question hangs. She'll answer at the end.]
 
 **3. Latino guy, cool gang style:**
-> *"The price, dude."*
+> *"The price, Ese. BIG AI is for the one percent. Not for me."*
 
 **4. Young Black student** (backpack, campus):
 > *"The Hive is so cheap, it's crazy."*
