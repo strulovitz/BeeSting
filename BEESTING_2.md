@@ -83,8 +83,8 @@ Each person is captured in a short street-interview clip. Different ElevenLabs v
 **6. Skater dude** (skate park):
 > *"The Hive doesn't say 'sorry, I cannot help you with that.'"*
 
-**7. Redhead bartender** (behind the bar):
-> *"The Hive doesn't push products that paid them."*
+**7. Asian bartender** (behind the bar):
+> *"The Hive does NOT push products that paid them. Big AI DOES."*
 
 **8. Hippie old guy** (VW van, tie-dye shirt):
 > *"Dude, the Hive empowers small people."*
