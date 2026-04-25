@@ -19,7 +19,7 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | 3 | Latino guy | Antonio - Youthful and Direct | 3s |
 | 4 | Young Black student | Misha - Friendly, Bold, and Engaging | 3s |
 | 5 | Redhead cheerleader | Kristen - Upbeat social media influencer | 3s |
-| 6 | Skater dude | TBD | - |
+| 6 | Skater dude | Brayden - Cheery, Clear and Chill | 3s |
 | 7 | Redhead bartender | TBD | - |
 | 8 | Hippie old guy | TBD | - |
 | 9 | Mother with children | TBD | - |
