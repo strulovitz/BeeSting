@@ -54,7 +54,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 1 | Surfer dude | E02-block02.3-vox01-surfer.mp3 | Sam - Relaxed | 5s | ✅ Clip in Premiere |
 | 2 | Beach babe | E02-block02.3-vox02-beach-babe.mp3 | Gracie Valley | 4s | ✅ Clip in Premiere |
 | 3 | Latino guy | E02-block02.3-vox03-latino.mp3 | Antonio - Youthful and Direct | 3s | ✅ In Premiere |
-| 4 | Young Black student | — | TBD | — | NOT STARTED |
+| 4 | Young Black student | E02-block02.3-vox04-black-student.mp3 | Misha - Friendly, Bold, and Engaging | 3s | ✅ In Premiere |
 | 5 | Blonde cheerleader | — | TBD | — | NOT STARTED |
 | 6 | Skater dude | — | TBD | — | NOT STARTED |
 | 7 | Redhead bartender | — | TBD | — | NOT STARTED |

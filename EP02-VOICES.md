@@ -17,7 +17,7 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | 2 | California beach babe | Gracie Valley - Seductive and Sassy | 4s |
 | 10 | Beach babe returns | Gracie Valley - Seductive and Sassy | - |
 | 3 | Latino guy | Antonio - Youthful and Direct | 3s |
-| 4 | Young Black student | TBD | - |
+| 4 | Young Black student | Misha - Friendly, Bold, and Engaging | 3s |
 | 5 | Blonde cheerleader | TBD | - |
 | 6 | Skater dude | TBD | - |
 | 7 | Redhead bartender | TBD | - |

@@ -75,7 +75,7 @@ Each person is captured in a short street-interview clip. Different ElevenLabs v
 > *"The price, Ese. BIG AI is for the one percent. Not for me."*
 
 **4. Young Black student** (backpack, campus):
-> *"The Hive is so cheap, it's crazy."*
+> *"Oh my God, the Hive is so cheap, it's crazy."*
 
 **5. Blonde cheerleader** (school parking lot):
 > *"The Hive doesn't sell my information."*
