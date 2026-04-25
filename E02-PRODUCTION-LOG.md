@@ -60,7 +60,7 @@ Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 | 7 | Asian bartender | E02-block02.3-vox07-bartender.mp3 | Sapphire - Sweet, Youthful, and Clear | 4s | ✅ In Premiere |
 | 8 | Hippie old guy | E02-block02.3-vox08-hippie.mp3 | Dar - Southern California Male Voice | 4s | ✅ In Premiere |
 | 9 | Mother with children | E02-block02.3-vox09-mom.mp3 | Amy - Upbeat and Excited | 3s | ✅ In Premiere |
-| 10 | Beach babe returns | — | Gracie Valley | — | NOT STARTED |
+| 10 | Beach babe returns | E02-block02.3-vox10-beachbabe-return.mp3 | Gracie Valley - Seductive and Sassy | 7s | 🔄 Audio ✅ — Kling pending (reuse E02-vox02-beach-babe-reference.png) |
 
 **Note on Vox03:** Script line changed from "The price, dude." to "The price, Ese. BIG AI is for the one percent. Not for me." — "Ese" capitalized so ElevenLabs pronounces it correctly as the Latino slang.
 
