@@ -87,7 +87,7 @@ Each person is captured in a short street-interview clip. Different ElevenLabs v
 > *"The Hive does NOT push products that paid them. Big AI DOES."*
 
 **8. Hippie old guy** (VW van, tie-dye shirt):
-> *"Dude, the Hive empowers small people."*
+> *"the Hive empowers small people. power to the people, dude."*
 
 **9. Mother with children** (playground):
 > *"The Hive isn't lying to me to push medicine on my kids."*

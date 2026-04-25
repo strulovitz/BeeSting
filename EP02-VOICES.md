@@ -21,7 +21,7 @@ All ElevenLabs voice selections for Episode 2. Locked 2026-04-24.
 | 5 | Redhead cheerleader | Kristen - Upbeat social media influencer | 3s |
 | 6 | Skater dude | Brayden - Cheery, Clear and Chill | 3s |
 | 7 | Asian bartender | Sapphire - Sweet, Youthful, and Clear | 4s |
-| 8 | Hippie old guy | TBD | - |
+| 8 | Hippie old guy | Dar - Southern California Male Voice | 3s |
 | 9 | Mother with children | TBD | - |
 
 ## Rules
