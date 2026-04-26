@@ -122,7 +122,7 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 | E02-block02.6-feynman.mp3 | ElevenLabs / Adam (American - New York) | 55s |
 
 **Voice locked:** Adam - Confident, Clear and Direct (American - New York). Locked 2026-04-26.
-**Status:** Audio ✅ 55s. Clip: pending (Kling Avatar). Premiere: pending.
+**Status:** Audio ✅ 55s. Clip ✅ 54s (Kling Avatar). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
