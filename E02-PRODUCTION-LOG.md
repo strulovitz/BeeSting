@@ -146,7 +146,7 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 |---|---|---|
 | E02-block02.8a-samantha-points-1-3.mp3 | ElevenLabs / Samantha (Madeline) | 44s |
 
-**Status:** Audio ✅ 44s. Clip ✅ 44s (Kling Avatar). Premiere: pending.
+**Status:** COMPLETE ✅ — Audio 44s, clip 44s, in Premiere.
 
 ### Block 2.8b — Points 4–6
 
