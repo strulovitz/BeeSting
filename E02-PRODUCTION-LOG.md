@@ -94,3 +94,14 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 **Note on Vox03:** Script line changed from "The price, dude." to "The price, Ese. BIG AI is for the one percent. Not for me." — "Ese" capitalized so ElevenLabs pronounces it correctly as the Latino slang.
 
 ---
+
+## Block 2.4 — Tony closer with DeepSeek Moment² reveal
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.4-tony-deepseek-reveal.mp3 | ElevenLabs / Tony (Joey) | 37s |
+
+**Status:** Audio ✅ 37s. Clip: pending (Kling Avatar). Premiere: pending.
+**Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
+
+---
