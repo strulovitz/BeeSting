@@ -176,3 +176,14 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
+
+## Block 3 — The Hive Pays You Back (mechanism animation)
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block03-hive-pays-you.mp3 | ElevenLabs / Samantha (Madeline) | 137s (2m17s) |
+
+**Clips needed:** 137s ÷ 6s = **23 clips minimum** (Kling 3.0 Omni, 16:9, Pro)
+**Status:** Audio ✅ 137s. Clips: pending.
+
+---
