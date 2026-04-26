@@ -111,7 +111,7 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 |---|---|---|
 | E02-block02.5-samantha-link-to-feynman.mp3 | ElevenLabs / Samantha (Madeline) | 16s |
 
-**Status:** Audio ✅ 16s. Clip: pending (Kling Avatar). Premiere: pending.
+**Status:** Audio ✅ 16s. Clip ✅ 17s raw (Kling Avatar added 1s silence at end — trim to 16s in Premiere). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
