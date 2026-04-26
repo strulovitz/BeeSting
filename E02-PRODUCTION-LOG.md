@@ -133,6 +133,16 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 | E02-block02.7-samantha-four-word-payoff.mp3 | ElevenLabs / Samantha (Madeline) | 20s |
 
 **Status:** COMPLETE ✅ — Audio 20s, clip trimmed in Premiere.
+
+---
+
+## Block 2.8 — Samantha 9-point summary
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.8-samantha-9point-summary.mp3 | ElevenLabs / Samantha (Madeline) | 137s (2m17s) |
+
+**Status:** Audio ✅ 137s. Clip: pending (Kling Avatar). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
