@@ -160,9 +160,9 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 
 | File | Type | Duration |
 |---|---|---|
-| E02-block02.8c-samantha-points-7-9.mp3 | ElevenLabs / Samantha (Madeline) | TBD |
+| E02-block02.8c-samantha-points-7-9.mp3 | ElevenLabs / Samantha (Madeline) | 46s |
 
-**Status:** Audio pending.
+**Status:** Audio ✅ 46s. Clip: pending (Kling Avatar). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
