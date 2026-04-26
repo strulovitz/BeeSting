@@ -173,7 +173,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 > *"Five. In PRIVATE-MODE - Nothing leaves your building. Trade secrets, patient records, classified military files — all stay on your own hardware, inside your own walls. No internet needed."*
 
 **6. EVERY SENSE. 🌐**
-> *"Six. The Hive runs any kind of model. Text. Vision. Speech. Audio. Video. It does not care what the Worker runs — only that the Worker returns a result."*
+> *"Six. The Hive runs any kind of model. Text. Vision. Speech. Audio. Video. It does not care what the Worker runs — only that the Worker returns a result. Where there is demand there will be supply: We can arrange a specialized hive for any model on Huggingface: Multi-modal , Mixture of Experts , and so on."*
 
 **7. TRAIN ONCE, COPY FOREVER. 🎯**
 > *"Seven. Train a specialist once, copy it forever. A hospital trains one machine on a thousand melanoma photographs — then ghost-copies the trained specialist to every workstation in the building in one hour."*
