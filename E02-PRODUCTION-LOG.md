@@ -101,7 +101,7 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 |---|---|---|
 | E02-block02.4-tony-deepseek-reveal.mp3 | ElevenLabs / Tony (Joey) | 37s |
 
-**Status:** Audio ✅ 37s. Clip ✅ 37s (Kling Avatar). Premiere: pending.
+**Status:** Audio ✅ 37s. Clip ✅ 37s (Kling Avatar). Premiere ✅. DeepSeek Moment² overlay graphic: pending. Chyron (BREAKING red + "The Hive." dark blue): pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
