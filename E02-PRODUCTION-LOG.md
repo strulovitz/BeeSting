@@ -183,7 +183,34 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 |---|---|---|
 | E02-block03-hive-pays-you.mp3 | ElevenLabs / Samantha (Madeline) | 137s (2m17s) |
 
-**Clips needed:** 137s ÷ 6s = **23 clips minimum** (Kling 3.0 Omni, 16:9, Pro)
-**Status:** Audio ✅ 137s. Clips: pending.
+**Clips needed:** 23 shots × 6s = 138s (Kling 3.0 Omni, 720p, Native Audio OFF)
+
+| Shot | File | Status |
+|---|---|---|
+| S1 | E02-block03-S1-joe-and-jane.mp4 | ✅ In Premiere |
+| S2 | E02-block03-S2-private-vs-public.mp4 | ✅ In Premiere |
+| S3a | E02-block03-S3a-hotel-reviews.mp4 | ✅ In Premiere |
+| S3b | E02-block03-S3b-reviews-sorted.mp4 | ✅ In Premiere |
+| S4 | E02-block03-S4-factory-catalogs.mp4 | ✅ In Premiere |
+| S5 | E02-block03-S5-qa-testing.mp4 | ✅ In Premiere |
+| S6a | E02-block03-S6a-john-doe-trip.mp4 | ✅ In Premiere |
+| S6b | E02-block03-S6b-plain-jane-birthday.mp4 | ✅ In Premiere |
+| S7a | E02-block03-S7a-no-datacenter-no-sub.mp4 | ✅ In Premiere |
+| S7b | E02-block03-S7b-dream-vs-nightmare.mp4 | ✅ In Premiere |
+| S8 | E02-block03-S8-bigai-vs-hive.mp4 | ✅ In Premiere |
+| S9a | E02-block03-S9a-sleeping-homes.mp4 | ✅ In Premiere |
+| S9b | E02-block03-S9b-usa-map-zzz.mp4 | ✅ In Premiere |
+| S10 | E02-block03-S10-family-sleeping.mp4 | ✅ In Premiere |
+| S11 | E02-block03-S11-crypto-no-hive-yes.mp4 | ✅ In Premiere |
+| S12 | E02-block03-S12-staircase.mp4 | ✅ In Premiere |
+| S13 | E02-block03-S13-climb-staircase.mp4 | ✅ In Premiere |
+| S14 | E02-block03-S14-china-hammer.mp4 | ✅ In Premiere |
+| S15 | E02-block03-S15-china-finances.mp4 | ✅ In Premiere |
+| S16 | E02-block03-S16-laptops-light-up.mp4 | ✅ In Premiere |
+| S17 | E02-block03-S17-china-buries-bigtech.mp4 | ⏳ Pending |
+| S18 | E02-block03-S18-tombstones.mp4 | ⏳ Pending |
+| S19 | E02-block03-S19-wilted-flower.mp4 | ⏳ Pending (landing beat) |
+
+**Status:** Audio ✅. Clips: 20/23 done. S17, S18, S19 remaining.
 
 ---
