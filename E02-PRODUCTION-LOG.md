@@ -136,13 +136,33 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 
 ---
 
-## Block 2.8 — Samantha 9-point summary
+## Block 2.8 — Samantha 9-point summary (split into 3 parts)
+
+Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file E02-block02.8-samantha-9point-summary.mp3 superseded — do not use.
+
+### Block 2.8a — Points 1–3
 
 | File | Type | Duration |
 |---|---|---|
-| E02-block02.8-samantha-9point-summary.mp3 | ElevenLabs / Samantha (Madeline) | 137s (2m17s) |
+| E02-block02.8a-samantha-points-1-3.mp3 | ElevenLabs / Samantha (Madeline) | TBD |
 
-**Status:** Audio ✅ 137s. Clip: pending (Kling Avatar). Premiere: pending.
+**Status:** Audio pending.
+
+### Block 2.8b — Points 4–6
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.8b-samantha-points-4-6.mp3 | ElevenLabs / Samantha (Madeline) | TBD |
+
+**Status:** Audio pending.
+
+### Block 2.8c — Points 7–9
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.8c-samantha-points-7-9.mp3 | ElevenLabs / Samantha (Madeline) | TBD |
+
+**Status:** Audio pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
