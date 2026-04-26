@@ -156,6 +156,16 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 
 **Status:** COMPLETE ✅ — Audio 62s, clip 62s, in Premiere.
 
+### Block 2.9 — Samantha bridge "Coming up"
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.9-samantha-coming-up.mp3 | ElevenLabs / Samantha (Madeline) | 10s |
+
+**Status:** Audio ✅ 10s. Clip: pending (Kling Avatar). Premiere: pending.
+
+---
+
 ### Block 2.8c — Points 7–9
 
 | File | Type | Duration |
