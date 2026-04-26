@@ -167,7 +167,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 > *"Three. Every branch gets full attention. A centralized AI must prune — one brain, one context window. The Hive does not prune. Every Worker gets a branch. What Big AI architecturally cannot find — the Hive finds."*
 
 **4. SNOWDEN DIAGNOSED. THE HIVE CURES. 🕵️**
-> *"Four. Snowden diagnosed. The Hive cures. Every question you ask Big AI reveals whether you have cancer, a mistress, or are gay. Big AI sells that data — data brokers re-identify you in seconds. Your insurance raises your premium. Your employer does not hire you. The Hive knows nothing — your data never left the building."*
+> *"Four. Snowden diagnosed. The Hive cures. Every question you ask Big AI reveals whether you have cancer, a mistress, or are gay. Big AI sells that data — data brokers re-identify you in seconds. Your insurance raises your premium. Your employer does not hire you. The hive is run by many people just like YOU, competition keeps them straight."*
 
 **5. NOTHING LEAVES YOUR BUILDING. 🏢**
 > *"Five. Nothing leaves your building. Trade secrets, patient records, classified military files — all stay on your own hardware, inside your own walls. No internet needed."*
