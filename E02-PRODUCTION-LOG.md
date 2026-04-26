@@ -102,6 +102,16 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 | E02-block02.4-tony-deepseek-reveal.mp3 | ElevenLabs / Tony (Joey) | 37s |
 
 **Status:** COMPLETE ✅ — Audio 37s, Kling Avatar clip 37s, in Premiere. No overlay graphic, no chyron (dropped for simplicity).
+
+---
+
+## Block 2.5 — Samantha link to Feynman
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.5-samantha-link-to-feynman.mp3 | ElevenLabs / Samantha (Madeline) | 16s |
+
+**Status:** Audio ✅ 16s. Clip: pending (Kling Avatar). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---
