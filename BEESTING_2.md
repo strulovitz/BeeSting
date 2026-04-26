@@ -220,7 +220,7 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 >
 > *"What Napster did to music record stores. What torrent did to Blockbuster. The HIVE will do to Big Tech!"*
 
-### Block 3.2 — Shot plan skeleton (19 shots × 6s = 114s to cover ~120s narration, audio-wins in the closer)
+### Block 3.2 — Shot plan skeleton (23 shots × 6s = 138s to cover 137s narration, audio-wins in the closer)
 
 *Full shot-by-shot plan to be locked in its own file `BEESTING_2_MECH_1_SHOT_PLAN.md` when we're ready to produce clips. Skeleton here for narrative alignment.*
 
@@ -234,7 +234,8 @@ Equivalent role to Ep1 Block 5's "5 observations." Each point is a feature tease
 | S5 | QA testing lab — a wall of software-module icons, each one being stress-tested by its own tiny robot in parallel. Green ✅ marks pop across the wall. Caption: *"Software QA, parallel."* | 6 |
 | S6a | John Doe at a kitchen-table laptop, smiling. A globe spins above the Hive icon with pins dropping simultaneously on Japan, Italy, Brazil, Thailand. Caption: *"John Doe plans his trip."* | 6 |
 | S6b | Plain Jane at the same kitchen table. Birthday-gift boxes of different types fan out in parallel above the Hive icon. Caption: *"Plain Jane's birthday list."* | 6 |
-| S7 | Gold coins pour from the hotel, the furniture factory, and the QA lab — three streams — all into one central Hive piggy-bank. Caption: *"They pay real money."* | 6 |
+| S7a | Graphic card. Two flat 2D icons side by side on dark navy background. Left: a data center tower with a big bold red ❌ stamped over it, label **NO DATA CENTER**. Right: a subscription calendar (1 MONTH + dollar coin) with a big bold red ❌ stamped over it, label **NO SUBSCRIPTION**. | 6 |
+| S7b | Split frame. Left: Joe Sixpack (plaid shirt, trucker cap) smiling wide, gold coins raining down on him, green ✅ above his head. Right: a Big Tech suited figure sweating and panicking, buildings crumbling behind him, red ❌ above his head. Caption: *"A dream for the people. A nightmare for Big Tech."* | 6 |
 | S8 | Split frame. Left — a **threatening dark thunder-cloud labeled BIG AI** with an angry face and lightning around it, sitting atop a huge grey fenced data-center. Right — a warm neighborhood of homes labeled **THE HIVE** (forest green + gold, smiling windows) under a **warm smiling sun**. Red ❌ on the data-center. Green ✅ on the homes. | 6 |
 | S9a | Night-time suburban street. First half (3s): one house, one window glowing softly from a laptop inside, a big **ZZZ** bubble floating above the roof. Second half (3s): three houses side by side, each with a glowing window and a **ZZZ** bubble above it. Caption: *"The average American already paid for his computer. It gives him nothing back."* | 6 |
 | S9b | Dark flat map. First half (3s): California state outline, a handful of laptop icons scattered across it, each with a **ZZZ** bubble above it. Second half (3s): full USA map, same laptop icons with **ZZZ** bubbles scattered across all states. Caption: *"The largest unused compute fleet on the planet."* | 6 |
