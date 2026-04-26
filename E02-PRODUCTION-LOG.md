@@ -3,10 +3,34 @@
 Tracks every generated file, its duration, and clip math for each block.
 Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 
-## File workflow (locked rule)
-1. ALWAYS `mv` rename in Downloads FIRST (e.g. `mv "ElevenLabs_*.mp3" "E02-block02.4-tony-deepseek-reveal.mp3"`)
-2. THEN `cp` to repo (Downloads copy stays for Premiere drag-in)
-Never give the repo copy command without first giving the Downloads rename.
+---
+
+## 🚨 MANDATORY CHECKLIST — EVERY SINGLE FILE, NO EXCEPTIONS 🚨
+
+**After Nir downloads ANY file (audio MP3, reference PNG, video MP4 — anything):**
+
+### Step 1 — Rename in Downloads
+```
+mv "C:\Users\nir_s\Downloads\<ugly-auto-name>" "C:\Users\nir_s\Downloads\<proper-E02-name>"
+```
+
+### Step 2 — Copy to BeeSting repo
+```
+cp "C:\Users\nir_s\Downloads\<proper-E02-name>" "C:\Users\nir_s\Projects\BeeSting\<audio|elements|clips>\"
+```
+
+### Step 3 — Remind Nir to drag into Premiere
+**Say explicitly: "Now drag `<filename>` into Premiere!"**
+If Nir forgets this step the whole timeline breaks. Claude must say it every time without being asked.
+
+### Step 4 — Commit and push to BeeSting repo
+```
+cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message>" && git push
+```
+
+**This checklist runs for EVERY file. No skipping. No assuming Nir will remember.**
+
+---
 
 ---
 
