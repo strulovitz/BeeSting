@@ -3,6 +3,11 @@
 Tracks every generated file, its duration, and clip math for each block.
 Rule: clips × 6s must be ≥ audio duration. Audio wins if they disagree.
 
+## File workflow (locked rule)
+1. ALWAYS `mv` rename in Downloads FIRST (e.g. `mv "ElevenLabs_*.mp3" "E02-block02.4-tony-deepseek-reveal.mp3"`)
+2. THEN `cp` to repo (Downloads copy stays for Premiere drag-in)
+Never give the repo copy command without first giving the Downloads rename.
+
 ---
 
 ## Block 1 — Equation hook + Golden Gate collapse

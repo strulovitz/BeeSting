@@ -113,9 +113,9 @@ On-screen chyron during this block: *"BREAKING — The Hive."* As Tony says the 
 >
 > *"DeepSeek Moment squared."*
 >
-> *"The first DeepSeek Moment was a moment. Nvidia recovered. Big AI copied the chain-of-thought trick from DeepSeek R1 into their own models. They were back to selling subscriptions within weeks."*
+> *"The first DeepSeek Moment was a moment. Nvidia recovered. Big AI copied the chain-of-thought trick from DeepSeek R1 into their own models. They came out of this stronger than ever."*
 >
-> *"This one does not recover. Big AI cannot copy what lives in half a billion computers they do not own. Big AI does not fall and rise again. Big AI falls — forever."*
+> *"This one does not recover. There is no trick for America to copy from China. China just found the hidden Achilles' heel of America. Big AI does not fall and rise again. Big AI falls — forever."*
 >
 > *"Back to you, Samantha."*
 
