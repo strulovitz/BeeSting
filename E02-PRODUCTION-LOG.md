@@ -123,6 +123,16 @@ cd C:\Users\nir_s\Projects\BeeSting && git add <file> && git commit -m "<message
 
 **Voice locked:** Adam - Confident, Clear and Direct (American - New York). Locked 2026-04-26.
 **Status:** COMPLETE ✅ — Audio 55s, clip 54s, in Premiere.
+
+---
+
+## Block 2.7 — Samantha four-word payoff
+
+| File | Type | Duration |
+|---|---|---|
+| E02-block02.7-samantha-four-word-payoff.mp3 | ElevenLabs / Samantha (Madeline) | 20s |
+
+**Status:** Audio ✅ 20s. Clip: pending (Kling Avatar). Premiere: pending.
 **Note:** Narration updated 2026-04-26 — "They came out of this stronger than ever" + "There is no trick for America to copy from China. China just found the hidden Achilles' heel of America."
 
 ---

@@ -147,7 +147,7 @@ Content strictly adapted from the MadHoney prologue's "You Just Ask Them" sectio
 
 > *"Thank you, Professor."*
 >
-> *"So there you have it, America. The whole American Big AI industry — the trillion-dollar cloud giants of the Bay Area — is afraid of those four words. You just ask them."*
+> *"So there you have it, America. The whole American Big AI industry — the trillion-dollar cloud giants of the Bay Area — is afraid of those four words: "YOU JUST ASK THEM"."*
 >
 > *"For our viewers who haven't been following this story, here are the nine things the Chinese Hive can do that American Big AI cannot."*
 
