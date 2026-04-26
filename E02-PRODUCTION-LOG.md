@@ -162,7 +162,7 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 |---|---|---|
 | E02-block02.9-samantha-coming-up.mp3 | ElevenLabs / Samantha (Madeline) | 10s |
 
-**Status:** Audio ✅ 10s. Clip ✅ (Kling Avatar, trim ~2s bad ending in Premiere). Premiere: pending.
+**Status:** Audio ✅ 10s. Clip ✅ 12s raw (trim to 10s in Premiere). Premiere: pending.
 
 ---
 
