@@ -237,3 +237,17 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 | E02-block04-S7c-bigtech-topples.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 
 **Status:** COMPLETE ✅ — Audio + all 15 clips in Premiere.
+
+---
+
+## Block 5 — Every branch gets full attention (chess metaphor)
+
+| File | Type | Duration | Status |
+|---|---|---|---|
+| E02-block05-every-branch.mp3 | ElevenLabs / Samantha (Madeline) | 40s | ✅ In Premiere |
+| E02-block05-S1-chess-alone.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block05-S2-helpers-booths.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block05-S3-pick-winner.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block05-S4-alphago-hive.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+
+**Status:** Audio ✅ 40s. 0/4 clips done. Next: S1.
