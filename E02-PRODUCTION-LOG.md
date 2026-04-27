@@ -254,3 +254,20 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 | E02-block05-S7-hive-towers.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 
 **Status:** COMPLETE ✅ — Audio + all 7 clips in Premiere.
+
+---
+
+## Block 6 — Snowden diagnosed, the Hive cures (mechanism Point 4)
+
+| File | Type | Duration | Status |
+|---|---|---|---|
+| E02-block06-snowden-hive.mp3 | ElevenLabs / Samantha (Madeline) | 30s | ✅ In Premiere |
+| E02-block06-S1-snowden-laptop.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
+| E02-block06-S2-rubber-stamp.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
+| E02-block06-S3-private-questions.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
+| E02-block06-S4-mask-cracks.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
+| E02-block06-S5-private-mode-dome.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
+
+**Clips:** 5 × 6s = 30s. Audio = 30s. Perfect match.
+**Palette:** Dark slate grey + red ink + cream.
+**Status:** COMPLETE ✅ — Audio + all 5 clips in Premiere.
