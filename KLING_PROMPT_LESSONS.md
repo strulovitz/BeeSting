@@ -2,6 +2,8 @@
 
 **Written after Block 5 (2026-04-27) — lessons paid for in poor clips.**
 
+> 🚨 **READ FIRST: `KLING_NOT_HOLLYWOOD.md`.** ONE motion per clip. No "and then." No chained verbs. Kling cannot do Hollywood. The rule below (4 elements) sits on top of that hard rule, not next to it.
+
 ---
 
 ## The core failure
