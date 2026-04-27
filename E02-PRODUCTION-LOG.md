@@ -207,10 +207,10 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 | S14 | E02-block03-S14-china-hammer.mp4 | ✅ In Premiere |
 | S15 | E02-block03-S15-china-finances.mp4 | ✅ In Premiere |
 | S16 | E02-block03-S16-laptops-light-up.mp4 | ✅ In Premiere |
-| S17 | E02-block03-S17-china-buries-bigtech.mp4 | ⏳ Pending |
-| S18 | E02-block03-S18-tombstones.mp4 | ⏳ Pending |
-| S19 | E02-block03-S19-wilted-flower.mp4 | ⏳ Pending (landing beat) |
+| S17 | E02-block03-S17-china-buries-bigtech.mp4 | ✅ In Premiere |
+| S18 | E02-block03-S18-tombstones.mp4 | ✅ In Premiere |
+| S19 | E02-block03-S19-wilted-flower.mp4 | ✅ In Premiere |
 
-**Status:** Audio ✅. Clips: 20/23 done. S17, S18, S19 remaining.
+**Status:** COMPLETE ✅ — Audio + all 23 clips in Premiere.
 
 ---
