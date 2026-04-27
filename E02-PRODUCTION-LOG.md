@@ -231,7 +231,7 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 | E02-block04-S5b-glazier-grins.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block04-S6a-companies-migrate.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block04-S6b-hive-grows-bigai-shrinks.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
-| E02-block04-S6c-ceo-too-late.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block04-S6c-ceo-too-late.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block04-S7a-ukraine-playbook.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block04-S7b-china-same-playbook.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block04-S7c-bigtech-topples.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
