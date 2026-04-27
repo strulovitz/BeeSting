@@ -246,11 +246,11 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 |---|---|---|---|
 | E02-block05-every-branch.mp3 | ElevenLabs / Samantha (Madeline) | 40s | ✅ In Premiere |
 | E02-block05-S1-chess-alone.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
-| E02-block05-S2-miss-the-rest.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block05-S2-miss-the-rest.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block05-S3-helpers-booths.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block05-S4-pick-winner.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block05-S5-next-turn.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block05-S6-alphago-move37.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 | E02-block05-S7-hive-towers.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
 
-**Status:** Audio ✅ 40s. Shot plan ✅ (`BEESTING_2_BLOCK_5_SHOT_PLAN.md`). 1/7 clips done. Next: S2.
+**Status:** Audio ✅ 40s. Shot plan ✅ (`BEESTING_2_BLOCK_5_SHOT_PLAN.md`). 2/7 clips done. Next: S3.
