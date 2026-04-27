@@ -15,8 +15,8 @@
 
 ## Core principles — Kling is NOT Hollywood
 
-1. **One simple thing per scene.** Kling can barely animate one motion in 6 seconds. Do not stack five animations into one clip.
-2. **Reference image = finished state.** Kling adds motion only. Never animate text. All labels frozen in the PNG.
+1. **ONE real motion per scene.** Something physical that actually MOVES — extends, slams, rises, cracks, shoots. NO "glow / pulse / shimmer / twinkle" filler. If you can't describe the motion in one verb, you don't have a motion.
+2. **Reference image = finished scene state.** Kling adds motion only. Never animate text. All labels frozen in the PNG.
 3. **Symbolize, don't write.** Concepts = icons (mask = anonymous, padlock = sealed, X-ray = cancer, lipstick = mistress, rainbow heart = gay). Only allowed text in visuals: NSA, BIG AI, PRIVATE MODE, TOP SECRET.
 4. **No real Big AI names.** OpenAI / Google / Anthropic / xAI / ChatGPT / Claude / Gemini / Grok / Microsoft / Meta = forbidden. Snowden + NSA = allowed (script names them).
 5. **Camera varies every clip.** S1 push-in → S2 static → S3 pull-back → S4 push-in → S5 tilt-up.
@@ -35,13 +35,13 @@
 
 **Reference image:** A hooded figure at a laptop in a dim slate grey hotel room, back to camera. The laptop screen fills the centre of the frame: a tall dark slate grey building labeled **NSA** in cream, with thin red lines branching outward across a cream world-map background to small cream house silhouettes.
 
-**Animation:** The red lines on the screen pulse outward from NSA to the houses in waves.
+**The ONE motion:** A new red wiretap line GROWS outward from the NSA building, extending across the map until it reaches a new house silhouette.
 
 **Camera:** Slow push-in toward the laptop screen.
 
 **Kling prompt:**
 
-> *"Kurzgesagt-style flat 2D animation. A hooded figure sits at a laptop in a dim slate grey hotel room, back to camera. The laptop screen fills the centre of the frame, showing a tall dark NSA building labeled in cream, with thin red wiretap lines branching out across a cream world map to small cream house silhouettes. The red wiretap lines pulse outward from the NSA building to the houses in rhythmic waves. Camera pushes in slowly toward the laptop screen."*
+> *"Kurzgesagt-style flat 2D animation. A hooded figure sits at a laptop in a dim slate grey hotel room, back to camera. The laptop screen shows a tall NSA building labeled in cream, with red wiretap lines branching out across a cream world map to small cream house silhouettes. A new red wiretap line grows outward from the NSA building, extending across the map until it reaches a new house silhouette in the corner. Camera pushes in slowly toward the laptop screen."*
 
 ---
 
@@ -49,15 +49,15 @@
 
 **Narration:** *"Today, the NSA doesn't need to hack — a court order, a rubber stamp..."*
 
-**Reference image:** Overhead view of a cream court document on a dark slate grey desk. A massive dark wooden rubber stamp with a red ring face (cream checkmark inside the ring) hovers just above the document. One previous red-ring imprint already on the paper.
+**Reference image:** Overhead view of a cream court document on a dark slate grey desk. A massive dark wooden rubber stamp with a red ring face (cream checkmark inside the ring) hovers high above the document. One previous red-ring imprint already on the paper.
 
-**Animation:** The stamp slams down onto the document, leaving a fresh red ring imprint with red ink splatter.
+**The ONE motion:** The rubber stamp SLAMS DOWN onto the document, leaving a fresh red ring imprint and splattering red ink outward.
 
-**Camera:** Overhead static hold (stamp moves into frame from above).
+**Camera:** Overhead static hold.
 
 **Kling prompt:**
 
-> *"Kurzgesagt-style flat 2D animation. Overhead view of a cream court document on a dark slate grey desk. A massive dark wooden rubber stamp with a red ring face containing a cream checkmark hovers above the document; one previous red ring imprint is already on the paper. The rubber stamp slams down onto the document, leaving a fresh red ring imprint with red ink splattering outward in flat geometric shapes. Camera holds steady on a high overhead static shot."*
+> *"Kurzgesagt-style flat 2D animation. Overhead view of a cream court document on a dark slate grey desk. A massive dark wooden rubber stamp with a red ring face containing a cream checkmark hovers high above the document; one previous red ring imprint is already on the paper. The rubber stamp slams down hard onto the document, leaving a fresh red ring imprint and splattering red ink outward in flat geometric shapes. Camera holds steady on a high overhead static shot."*
 
 ---
 
@@ -65,50 +65,50 @@
 
 **Narration:** *"...exposes every question you ever typed. Cancer. A mistress. Gay."*
 
-**Reference image:** A cream search bar centred on a dark slate grey background. Three icons float in a row above the search bar, each in a small cream thought-bubble:
+**Reference image:** A cream search bar centred on a dark slate grey background. Three icons floating above the search bar in cream thought-bubbles:
 - A cream X-ray of lungs with a red blot inside one lung *(cancer)*
 - A red lipstick kiss-mark on cream *(mistress)*
 - A flat rainbow heart on cream *(gay)*
 
-**Animation:** The three icons pulse and glow brighter red over the 6 seconds.
+**The ONE motion:** The three icon-bubbles RISE UP out of the search bar from below, floating upward into the frame.
 
 **Camera:** Slow pull-back / zoom-out.
 
 **Kling prompt:**
 
-> *"Kurzgesagt-style flat 2D animation. A cream search bar centred on a dark slate grey background. Three icons float in a row above the search bar in small cream thought-bubbles: a cream X-ray of lungs with a red blot, a red lipstick kiss-mark, and a flat rainbow heart. The three icons pulse and glow brighter red, intensifying together over time. Camera slowly pulls back and zooms out from the search bar."*
+> *"Kurzgesagt-style flat 2D animation. A cream search bar centred on a dark slate grey background. Three icons in cream thought-bubbles — a cream X-ray of lungs with a red blot, a red lipstick kiss-mark, and a flat rainbow heart — rise up out of the search bar from below, floating upward into the frame above the bar. Camera slowly pulls back."*
 
 ---
 
-### S4 — Anonymization is theater
+### S4 — The mask cracks
 
 **Narration:** *"Big AI also sells your data labeled 'anonymized' — but with big data, a few details unmask you in seconds."*
 
-**Reference image:** A cream manila folder on a dark slate grey table, slightly ajar, with a red ring stamp on its cover containing a cream Venetian theater mask icon. From inside the folder, thin red lines emerge and connect to a generic cream cartoon head silhouette floating above-right, with a large cream question mark **(?)** drawn across its face.
+**Reference image:** A cream manila folder on a dark slate grey table, slightly ajar. On its cover, a red ring stamp containing a cream Venetian theater mask icon. From inside the folder, thin red lines extend to a generic cream cartoon head silhouette floating above-right, with a large cream question mark **(?)** drawn across its face.
 
-**Animation:** The red lines pulse with travelling pulses of light from the folder to the portrait. The mask-stamp cracks with a diagonal red split. The question mark on the portrait's face glows red.
+**The ONE motion:** The mask icon on the folder cover CRACKS down the middle and SPLITS APART into two halves that fall away.
 
 **Camera:** Slow push-in toward the folder.
 
 **Kling prompt:**
 
-> *"Kurzgesagt-style flat 2D animation. A cream manila folder on a dark slate grey table, slightly ajar, with a red ring stamp on its cover containing a cream Venetian theater mask icon. From inside the folder, thin red lines emerge and connect to a generic cream cartoon head silhouette floating above and to the right, with a large cream question mark drawn across its face. The red lines pulse with travelling pulses of red light moving from the folder outward to the portrait. The mask-stamp cracks with a diagonal red split. The cream question mark on the portrait's face glows red. Camera pushes in slowly toward the folder."*
+> *"Kurzgesagt-style flat 2D animation. A cream manila folder on a dark slate grey table, slightly ajar, with a red ring stamp on its cover containing a cream Venetian theater mask icon. From inside the folder, thin red lines extend to a generic cream cartoon head silhouette floating above-right with a cream question mark on its face. The mask icon on the folder cover cracks down the middle and splits apart into two halves that fall away from each other. Camera pushes in slowly toward the folder."*
 
 ---
 
-### S5 — Private Mode
+### S5 — The dome holds
 
 **Narration:** *"In Private Mode, your data never leaves the building. No court order. Nothing to sell."*
 
-**Reference image:** A warm cream cottage at night under a dark slate grey starry sky. A translucent cream force-field dome wraps around the entire house with a single large cream **padlock icon** drawn on its front-facing curve. Four thick red surveillance tendrils reach in from the four edges of the frame, each one shattered against the dome — broken tips fragmenting into red shards.
+**Reference image:** A warm cream cottage at night under a dark slate grey starry sky. A translucent cream force-field dome wraps around the entire house with a single large cream **padlock icon** on its front-facing curve.
 
-**Animation:** The red tendrils pulse inward toward the house and shatter against the cream dome on contact, sparking new red shards that drift outward like ash. The dome ripples cream at each impact. The cottage windows glow warmer.
+**The ONE motion:** A single thick red surveillance tendril SHOOTS in from the left edge of the frame, SLAMS into the dome, and SHATTERS into red shards that scatter outward.
 
-**Camera:** Slow upward tilt, ending on the chimney smoke trailing into the starry sky.
+**Camera:** Slow upward tilt.
 
 **Kling prompt:**
 
-> *"Kurzgesagt-style flat 2D animation. A warm cream cottage at night under a dark slate grey starry sky. A translucent cream force-field dome wraps around the entire house with a single large cream padlock icon on its front-facing curve. Four thick red surveillance tendrils reach in from the four edges of the frame, each one shattered against the dome with red shards floating at the broken tips. The red tendrils pulse inward toward the house and break apart against the cream dome, sparking new red shards that drift outward like ash. The dome ripples cream at each impact. The cottage windows glow warmer. Camera slowly tilts upward, ending on the chimney smoke trailing into the starry sky."*
+> *"Kurzgesagt-style flat 2D animation. A warm cream cottage at night under a dark slate grey starry sky, surrounded by a translucent cream force-field dome with a cream padlock icon on its front-facing curve. A single thick red surveillance tendril shoots in from the left edge of the frame, slams into the dome, and shatters into red shards that scatter outward across the frame. Camera slowly tilts upward, ending on the chimney smoke trailing into the starry sky."*
 
 ---
 
@@ -151,4 +151,4 @@ If a clip looks wrong, ask Nir what's wrong before regenerating. Never burn cred
 
 ## After Block 6
 
-Block 7 in `BEESTING_2.md` is next. Read it, count words, divide by 6, write `BEESTING_2_BLOCK_7_SHOT_PLAN.md` in this same simplified format. Audio for Block 7 not yet generated.
+Block 7 in `BEESTING_2.md` is next. Read it, count words, divide by 6, write `BEESTING_2_BLOCK_7_SHOT_PLAN.md` in this same simplified format.
