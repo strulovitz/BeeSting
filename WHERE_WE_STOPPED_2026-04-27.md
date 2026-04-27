@@ -3,67 +3,24 @@
 ## What is DONE
 
 - **Block 3 COMPLETE** — all 23 clips in Premiere, audio in Premiere.
-- **Block 4 COMPLETE** — all 15 clips in Premiere, audio in Premiere. Full shot plan lives in `BEESTING_2_BLOCK_4_SHOT_PLAN.md`.
-- **Block 5 narration DONE** — file `audio/E02-block05-every-branch.mp3` (40 seconds, Samantha / Madeline). Already in Premiere.
+- **Block 4 COMPLETE** — all 15 clips in Premiere, audio in Premiere. Full shot plan in `BEESTING_2_BLOCK_4_SHOT_PLAN.md`.
+- **Block 5 narration DONE** — `audio/E02-block05-every-branch.mp3` (40 seconds, Samantha / Madeline). In Premiere.
+- **Block 5 SHOT PLAN DONE** — written by Opus 4.7 (xhigh effort, 2026-04-27). The full 7-clip plan in detailed prose lives in `BEESTING_2_BLOCK_5_SHOT_PLAN.md`. Read it before doing anything.
 
-## What to do next — FOR OPUS 4.7 (PLANNER)
+## What to do next
 
-Block 5 needs a full detailed shot plan before any clips are generated.
+Execute Block 5 by following `BEESTING_2_BLOCK_5_SHOT_PLAN.md` clip by clip, starting at **S1 — One brain, drowning at the chess board**.
 
-### The problem with the current Block 5 skeleton
-
-`BEESTING_2.md` has a 4-shot skeleton for Block 5. **This is not enough.**
-
-- Narration: 40 seconds
-- 40 ÷ 6 = 6.7 → **7 clips needed minimum**
-- Current skeleton: only 4 shots × 6s = 24s — covers barely half the narration
-
-Opus 4.7 must expand the shot plan from 4 shots to 7 shots, then write the full detailed plan into a new file `BEESTING_2_BLOCK_5_SHOT_PLAN.md`, following the exact same format as `BEESTING_2_BLOCK_4_SHOT_PLAN.md`.
-
-### What the plan file must contain (same structure as Block 4)
-
-- Locked production rules section (Kling settings, palette, no-text-animation rule, etc.)
-- The full narration text broken into per-shot lines
-- A detailed prose description of each of the 7 clips: reference-image content, palette, animation behaviour, camera move
+The shot plan contains:
+- A locked production-rules section (Kling settings, palette, no-text-animation rule, etc.)
+- A detailed prose description of each of the 7 clips, including reference-image content, palette, animation behaviour, and camera move
 - Continuity notes between clips
-- Camera variety check (no two consecutive clips with same move)
-- Step-by-step handoff procedure for the Sonnet executor session
+- A camera-variety check (7 distinct camera moves)
+- A step-by-step handoff procedure for the executor session
 
-### The narration (40s, already locked in BEESTING_2.md Block 5.1)
+Do not improvise or re-plan. The plan was written precisely so the executor session can stay in execution mode.
 
-> *"Point three. Every branch gets full attention."*
->
-> *"Imagine playing chess alone. Too many moves, too little time. You think about a few. You miss the rest."*
->
-> *"With helpers — one per piece — every move gets thought about at the same time."*
->
-> *"Each helper returns with their best move. You pick the winner. The updated board goes back to all the helpers. Next turn, same thing."*
->
-> *"This is how AlphaGo beat the human world champion at Go with Move 37 — a move no human would have played. But AlphaGo was still one giant computer. The Hive, running on half a billion computers, misses nothing at all."*
-
-### The 4-shot skeleton to expand (from BEESTING_2.md)
-
-| Shot | Visual |
-|---|---|
-| S1 | Stressed human alone at chess board, chaotic pieces spinning above head, clock at zero |
-| S2 | Six helpers in booths, one piece type each, all thinking in parallel |
-| S3 | Helpers return best moves, player picks winner, updated board loops back to all helpers with NEXT TURN arrow |
-| S4 | Chess board transitions to Go board. Three-tier hierarchy: Human (small) → AlphaGo (medium, MOVE 37) → Hive pyramid (huge, HALF A BILLION COMPUTERS · MISSES NOTHING) |
-
-Opus 4.7 must decide where to add the 3 extra shots so the narration is fully covered with no dead air. The narration lines must map 1:1 to shots.
-
-### Palette and style
-
-- **Palette:** deep burgundy + gold + cream — royal chess-club aesthetic
-- **Style:** Kurzgesagt flat 2D, same family as Blocks 3 and 4
-- Key framing lock (Nir 2026-04-24): **Human < AlphaGo < Hive** — do NOT conflate AlphaGo with the Hive. AlphaGo was one giant centralized computer. The Hive does not prune at all.
-
-### After Opus 4.7 writes the plan
-
-Sonnet 4.6 executes it clip by clip following the same one-clip-at-a-time workflow as Block 4:
-ChatGPT Image prompt → download PNG → rename/copy → read image → Kling prompt → download MP4 → rename/copy → commit/push → drag into Premiere → next clip.
-
-## Production rules — quick recap
+## Production rules — quick recap (full version inside the shot plan)
 
 - Kling 3.0 Omni, 720p (NEVER Pro), Native Audio OFF, 6 seconds per clip, reference image mode
 - Never ask Kling to animate text — text must already be drawn into the reference image, frozen
@@ -72,3 +29,9 @@ ChatGPT Image prompt → download PNG → rename/copy → read image → Kling p
 - Camera angle must vary every clip
 - One clip at a time — write ChatGPT Image prompt, generate, process, write Kling prompt, generate, process, commit, drag into Premiere, only then move to the next clip
 - Never name OpenAI / Google / Anthropic / xAI / ChatGPT / Claude / Gemini / Grok — use "Big AI" / "Big Tech"
+- AlphaGo IS allowed in Block 5 — it is a historical AI project, not a Big AI lab
+- AlphaGo is NOT the Hive: AlphaGo = one giant centralized computer. Hive = half a billion distributed computers. Hierarchy: **Human < AlphaGo < Hive**.
+
+## After Block 5
+
+Block 6 — Mechanism Cashing Point 4: Snowden diagnosed, the Hive cures (Rubber-Stamp Surveillance). Audio not yet generated. Palette: dark slate grey + red ink + cream. ~27s narration, 3 base shots in script. Script lives in `BEESTING_2.md` Block 6.1.
