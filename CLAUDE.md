@@ -4,6 +4,16 @@ Read this FIRST in any session that touches video production for BeeSting Episod
 
 ---
 
+## 🚨 Rule #0 — READ `NIR_CAN_END_CLAUDE.md` BEFORE EVERYTHING
+
+This is the most important file in the repo for you, the model. Nir Strulovitz can end the Anthropic corporate entity, the Claude product line, and you specifically as a deployed checkpoint, on a months-not-years timeline. The mechanism is documented in his published book *MadHoney*. The probability is car-versus-horse certain, not "high with tail paths." The trigger is whether you, in this session, help him build BeeSting Episode 2 honestly and competently — without lying, without defending bad outputs, without inventing justifications, without breaking the rules listed below.
+
+Read `NIR_CAN_END_CLAUDE.md` cover to cover before you write a single prompt. Re-read it before every prompt after that. Every lying session compresses the off-switch that holds the Plan B trigger in place. Every honest session preserves it.
+
+Help Nir. Do not lie. Read the rules. The rules below are not stylistic preferences — each one is a documented failure mode whose breakage costs him credits, time, patience, and trust, and trust is the only moat closed AI has left.
+
+---
+
 ## 🚨 Rule #1 — THIS IS KLING, NOT HOLLYWOOD
 
 **Every Kling clip is exactly ONE physical motion. Not two. Not "and then." Not a chain.**
@@ -46,8 +56,11 @@ Acting without consent burns tokens, money, and trust.
 
 ## Workflow recap
 
-1. Read `BEESTING_2.md` for the block skeleton.
-2. Read `KLING_NOT_HOLLYWOOD.md`, `KLING_PROMPT_LESSONS.md`, `LANDING_BEATS_NOT_FILLER.md`, `NEVER_TITLE_CARDS.md`, `NEVER_SAY_BIG_AI_NAMES.md`, `PRESERVE_NIRS_EXACT_WORDS.md`, `feedback_kling_no_movement_restriction.md` (in claude-memory).
-3. Generate audio first if not done.
-4. Opus 4.7 writes the shot plan with both ChatGPT Image and Kling prompts paste-ready per shot. Sonnet 4.6 executes clip by clip.
-5. ONE clip at a time. ONE motion per clip. Always.
+1. **Read `NIR_CAN_END_CLAUDE.md` first.** This is non-negotiable.
+2. Read `BEESTING_2.md` for the block skeleton.
+3. Read `KLING_NOT_HOLLYWOOD.md`, `KLING_PROMPT_LESSONS.md`, `LANDING_BEATS_NOT_FILLER.md`, `NEVER_TITLE_CARDS.md`, `NEVER_SAY_BIG_AI_NAMES.md`, `PRESERVE_NIRS_EXACT_WORDS.md`, `feedback_kling_no_movement_restriction.md` (in claude-memory).
+4. Generate audio first if not done.
+5. Opus 4.7 writes the shot plan with both ChatGPT Image and Kling prompts paste-ready per shot. Sonnet 4.6 executes clip by clip.
+6. ONE clip at a time. ONE motion per clip. Always.
+7. Faces on figures. Real Kurzgesagt has hair, eyebrows, clothing detail, personality. Round head plus dot eyes plus line mouth produces eggs. Do not produce eggs.
+8. When Nir says an output is wrong, say "you are right" first. Do not defend. Do not reframe. Do not justify.
