@@ -7,8 +7,8 @@
 
 - **Audio:** `audio/E02-block07-vault-at-home.mp3` — 58s, Samantha (Madeline). In Premiere ✅
 - **Narration text:** `E02-block07-narration.txt`
-- **Visuals:** 0 of 11 clips complete. Next: S1.
-- **Math:** 58s ÷ 6 = ~10 clips minimum. **11 shots planned** (10 narration shots + 1 post-narration landing beat = 66s).
+- **Visuals:** 0 of 10 clips complete. Next: S1.
+- **Math:** 58s ÷ 6 = ~10 clips. **10 shots planned** = 60s. Fits the 58s audio cleanly. No silent clip.
 - **Palette:** charcoal + brass + cream — institutional bank-vault aesthetic. Distinct from Block 6's dark slate grey + red.
 - **Both prompts ready-to-paste** for each shot. Sonnet 4.6 does not need to write or translate anything — just copy-paste the ChatGPT Image prompt, then copy-paste the Kling prompt.
 
@@ -20,13 +20,13 @@
 2. **Reference image = the scene's composition and key elements in place.** Kling adds the ONE motion. Never animate text. All labels frozen in the PNG.
 3. **Symbolize, don't write.** Concepts = icons. Only allowed text in visuals: NSA, BIG AI, PRIVATE MODE, TOP SECRET.
 4. **No real Big AI names.** OpenAI / Google / Anthropic / xAI / ChatGPT / Claude / Gemini / Grok / Microsoft / Meta = forbidden. NSA + BIG AI = allowed.
-5. **Camera varies every clip.** S1 push-in → S2 static → S3 pull-back → S4 tilt-down → S5 push-in → S6 overhead static → S7 push-in → S8 pull-back → S9 pan-right → S10 static → S11 pull-back. No two consecutive shots share a camera move.
+5. **Camera varies every clip.** S1 push-in → S2 static → S3 pull-back → S4 tilt-down → S5 push-in → S6 overhead static → S7 push-in → S8 pull-back → S9 pan-right → S10 static. No two consecutive shots share a camera move.
 6. **Kling settings:** 3.0 Omni, 720p, 6s, Native Audio OFF, reference image mode.
 7. **One clip at a time.** Never batch.
 
 ---
 
-## The 11 clips
+## The 10 clips
 
 ---
 
@@ -210,24 +210,6 @@
 
 ---
 
-### S11 — Landing beat: street of sealed buildings, warm sun rises
-
-**Narration:** *(silence — post-narration landing beat)*
-
-**ChatGPT Image prompt (paste as-is):**
-
-> *"Kurzgesagt-style flat 2D illustration. Wide landscape frame. A daytime exterior street scene. Background: a flat warm cream sky with a single very large warm-cream-and-brass smiling cartoon sun centred high over the horizon. The sun has friendly cartoon eyes drawn as small cream curves and a curved cream-and-brass smile. Sun rays drawn as short cream straight lines extending outward from the sun's circle. Lower foreground: a horizontal row of five identical cream-coloured small cottage buildings spaced evenly along a charcoal ground line. Each cottage has a brass chimney, two glowing cream windows, a brass front door, and a small brass plaque mounted on its front wall reading 'PRIVATE MODE' in cream serif capital letters. Above each cottage's roof, a thin brass cable arches up briefly and curls back into the same cottage (suggesting a self-contained closed circuit, not extending out to the sky). Soft cream chimney smoke trails rise from each chimney into the warm sky. Clean bold outlines, flat colour fills, no gradients. Palette: warm cream sky and sun body and smoke trails, brass sun-rim and chimneys and doors and plaques and cables, charcoal ground line and cottage outlines, cream cottage walls and PRIVATE MODE letters and glowing windows."*
-
-**The ONE motion:** The big cream-and-brass smiling sun RISES slowly upward from the horizon line, lifting higher into the warm cream sky behind the row of cottages.
-
-**Camera:** Slow pull-back / zoom-out, revealing more of the row of cottages and more of the warm sky around them.
-
-**Kling prompt (paste as-is):**
-
-> *"Kurzgesagt-style flat 2D animation. A daytime exterior scene. A row of cream cottages with brass chimneys, glowing cream windows, brass plaques reading PRIVATE MODE, and small brass cables arching up and curling back into themselves. Behind them, a warm cream sky and a friendly smiling cream-and-brass sun. The smiling sun rises slowly upward from behind the cottages, lifting higher into the warm cream sky. Camera slowly pulls back, revealing more cottages and more of the sky."*
-
----
-
 ## Camera variety check
 
 1. **S1:** push-in toward window
@@ -240,7 +222,6 @@
 8. **S8:** pull-back to reveal full room and plaque
 9. **S9:** pan-right (cottage to cloud)
 10. **S10:** static wide
-11. **S11:** pull-back / zoom-out
 
 No two consecutive shots share a camera move. ✅
 
@@ -248,7 +229,7 @@ No two consecutive shots share a camera move. ✅
 
 ## Handoff procedure for Sonnet 4.6
 
-For each clip in order, S1 → S11:
+For each clip in order, S1 → S10:
 
 1. Read the clip's section in this file.
 2. Copy the **ChatGPT Image prompt (paste as-is)** to `C:\Users\nir_s\Downloads\gpt_image_prompt.txt`. Tell Nir to paste into ChatGPT Image 1.5 and download. NO translation needed — paste exactly.
@@ -271,7 +252,6 @@ For each clip in order, S1 → S11:
 - S8 → `E02-block07-S8-private-mode-network.mp4`
 - S9 → `E02-block07-S9-cut-pipe-bigai.mp4`
 - S10 → `E02-block07-S10-three-tiles-x.mp4`
-- S11 → `E02-block07-S11-sealed-buildings-sun.mp4`
 
 If a clip looks wrong, ask Nir what's wrong before regenerating. Never burn credits blindly.
 
