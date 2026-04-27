@@ -251,6 +251,6 @@ Split into 3 × 3 points to keep Kling Avatar clips manageable. Old single-file 
 | E02-block05-S4-pick-winner.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block05-S5-next-turn.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 | E02-block05-S6-alphago-move37.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
-| E02-block05-S7-hive-towers.mp4 | Kling 3.0 Omni | 6s | ⏳ Pending |
+| E02-block05-S7-hive-towers.mp4 | Kling 3.0 Omni | 6s | ✅ In Premiere |
 
-**Status:** Audio ✅ 40s. Shot plan ✅ (`BEESTING_2_BLOCK_5_SHOT_PLAN.md`). 6/7 clips done. Next: S7.
+**Status:** COMPLETE ✅ — Audio + all 7 clips in Premiere.
