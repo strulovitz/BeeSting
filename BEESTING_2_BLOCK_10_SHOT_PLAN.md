@@ -120,13 +120,13 @@
 
 > *"Kurzgesagt-style flat 2D illustration. Wide landscape frame. Cream background. The frame is split vertically down the dead centre by a thin charcoal divider line into two equal halves. LEFT HALF: a flat 2D charcoal-outlined cream wooden table seen straight-on — rectangular table-top, four simple cream legs visible, sitting on a thin charcoal ground-line. Centred on top of the table-top: a closed cardboard box seen at a slight three-quarter angle — warm construction-orange cardboard body with charcoal flap-edges and charcoal taped seams running along the top of the box, the lid solidly shut and clearly sealed with a wide cream packing-tape strip running across the top from front to back. Stamped boldly across the front face of the box in charcoal serif capitals: 'BIG AI.' The box is solid, opaque, and visibly closed — there is no hint of what is inside, no opening, no window. RIGHT HALF: an identical flat 2D charcoal-outlined cream wooden table seen straight-on, same rectangular shape, same four cream legs, same charcoal ground-line — but the table-top is completely empty. Nothing on it. Just the bare cream table surface stretching across the right half of the frame. Clean bold outlines, flat colour fills, no gradients. Palette: cream background and table-top fills and table legs and packing-tape strip, warm construction-orange BIG AI cardboard box body, charcoal BIG AI label and box flap-edges and box taped seams and table outlines and table-leg outlines and divider line and ground-line, teal accent absent in this shot (deliberate — both sides feel cold and stripped, no tooling-warmth here)."*
 
-**The ONE motion:** The camera pulls back slowly from a tight close-up on the sealed BIG AI box on the left half, gradually revealing the full split frame including the empty table on the right half.
+**The ONE motion:** The BIG AI cardboard box slides forward across the left table toward the viewer about a half box-length, stopping near the front edge of the table — like the offer is being shoved at you.
 
-**Camera:** Slow pull-back wide from a tight close-up on the BIG AI box to a full wide split-frame shot showing both tables.
+**Camera:** Static wide split-frame shot showing both tables from the start.
 
 **Kling prompt (paste as-is):**
 
-> *"Kurzgesagt-style flat 2D animation. A wide cream scene split vertically by a thin charcoal divider line into two equal halves. Left half: a flat 2D charcoal-outlined cream wooden table on a charcoal ground-line, with a closed warm construction-orange cardboard box sealed by a cream packing-tape strip across its top, the box stamped with the bold charcoal serif label BIG AI on its front face. Right half: an identical flat 2D charcoal-outlined cream wooden table on the same charcoal ground-line, completely empty — nothing on its surface. The camera pulls back slowly from a tight close-up on the sealed BIG AI box on the left half, gradually revealing the full split frame including the empty table on the right half."*
+> *"Kurzgesagt-style flat 2D animation. A wide cream scene split vertically by a thin charcoal divider line into two equal halves. Left half: a flat 2D charcoal-outlined cream wooden table on a charcoal ground-line, with a closed warm construction-orange cardboard box sealed by a cream packing-tape strip across its top, the box stamped with the bold charcoal serif label BIG AI on its front face. Right half: an identical flat 2D charcoal-outlined cream wooden table on the same charcoal ground-line, completely empty — nothing on its surface. The BIG AI cardboard box slides forward across the left table toward the viewer about a half box-length, stopping near the front edge of the table. Camera holds steady on a static wide split-frame shot of both tables."*
 
 ---
 
@@ -136,9 +136,9 @@
 2. **S2:** slow push-in toward LEGO baseplate as PHYSICS brick descends
 3. **S3:** slow pan-right across toolbelt and bridge as MATH tool slides in
 4. **S4:** slow tilt-down following LEGAL card into the PCI slot
-5. **S5:** slow pull-back wide from tight close-up on BIG AI box to full split frame
+5. **S5:** static wide split-frame (BIG AI box slides forward on the left table; camera holds steady)
 
-No two consecutive shots share a camera move. ✓
+No two consecutive shots share a camera move. ✓ (S4 tilt-down → S5 static is different. S1 and S5 are both static but not consecutive.)
 
 ---
 
