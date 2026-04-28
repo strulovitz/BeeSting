@@ -7,7 +7,7 @@
 
 - **Audio:** `audio/E02-block08-every-sense.mp3` — 60s, Samantha (Madeline). In Premiere ✅
 - **Narration text:** see `BEESTING_2.md` Block 8.1
-- **Visuals:** 0 of 10 clips complete. Next: S1.
+- **Visuals:** 10 of 10 clips complete. ✅ BLOCK 8 DONE 2026-04-28.
 - **Math:** 60s ÷ 6 = 10 clips. **10 shots planned** = 60s. Fits the 60s audio cleanly. **NO silent landing beat** — Block 8 ends on S10 under narration, exactly like Block 7.
 - **Palette:** warm amber + soft teal + cream — sensory / honey-and-listening aesthetic. Distinct from Block 7's charcoal + brass.
 - **Both prompts ready-to-paste** for each shot. Sonnet 4.6 does not need to write or translate anything — just copy-paste the ChatGPT Image prompt, then copy-paste the Kling prompt.
