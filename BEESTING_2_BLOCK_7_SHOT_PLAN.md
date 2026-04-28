@@ -7,7 +7,7 @@
 
 - **Audio:** `audio/E02-block07-vault-at-home.mp3` — 58s, Samantha (Madeline). In Premiere ✅
 - **Narration text:** `E02-block07-narration.txt`
-- **Visuals:** 1 of 10 clips complete (S1 ✅). Next: S2 (the original S2 was discarded — it walked sideways past the bank instead of into it. Re-generating with three-quarter perspective rewrite).
+- **Visuals:** 9 of 10 clips complete (S1 ✅ S2 ✅ S3 ✅ S4 ✅ S5 ✅ S6 ✅ S7 ✅ S8 ✅ S9 ✅). Next: S10. The S10 prompts have been REWRITTEN as of 2026-04-28 because the previous version produced an X only above the middle tile. The rewrite forces ONE giant X spanning the full frame width, with clear empty space below it, that will fall across all three tiles at once.
 - **Math:** 58s ÷ 6 = ~10 clips. **10 shots planned** = 60s. Fits the 58s audio cleanly. No silent clip.
 - **Palette:** charcoal + brass + cream — institutional bank-vault aesthetic. Distinct from Block 6's dark slate grey + red.
 - **Both prompts ready-to-paste** for each shot. Sonnet 4.6 does not need to write or translate anything — just copy-paste the ChatGPT Image prompt, then copy-paste the Kling prompt.
@@ -199,7 +199,7 @@
 
 **ChatGPT Image prompt (paste as-is):**
 
-> *"Kurzgesagt-style flat 2D illustration. Wide landscape frame. Flat charcoal-grey background. Centred horizontally, three large cream square tiles are evenly spaced in a row, each tile rimmed with a thin brass border. LEFT TILE: a flat 2D icon of a small classical bank building with two columns and a brass dome (the 'bank' symbol). MIDDLE TILE: a flat 2D icon of a single brass safe-deposit box with a small brass keyhole on its face. RIGHT TILE: a flat 2D icon of two cartoon hands curled together in a pinky-promise pose, hooking their pinky fingers together. Hovering high in the upper portion of the frame above the three tiles, a single giant bold red letter X — two crossed thick diagonal red strokes, oversized, suspended in mid-air, ready to fall down across all three tiles. Clean bold outlines, flat colour fills, no gradients. Palette: charcoal-grey background, cream tiles and bank-icon and safe-deposit-box and pinky-promise hands, brass tile borders and bank dome and keyhole, red X strokes."*
+> *"Kurzgesagt-style flat 2D illustration. Wide landscape frame. Flat charcoal-grey background. In the LOWER HALF of the frame, three large cream square tiles are arranged in a row, evenly spaced, each rimmed with a thin brass border. LEFT TILE: a flat 2D icon of a small classical bank building with two columns and a brass dome. MIDDLE TILE: a flat 2D icon of a single brass safe-deposit box with a small brass keyhole on its face. RIGHT TILE: a flat 2D icon of two cartoon hands curled together in a pinky-promise pose, hooking their pinky fingers together. In the UPPER HALF of the frame, hovering high above the three tiles, ONE single ENORMOUS bold red letter X — two thick crossed diagonal red strokes that span the FULL width of the frame from left edge to right edge, much WIDER than the three tiles combined, suspended in mid-air at the top of the frame, clearly poised to fall straight down across ALL THREE TILES at once. The X has only TWO strokes total (one diagonal from upper-left to lower-right, one diagonal from upper-right to lower-left) — not three Xs, not one X per tile, just ONE giant X that will cover all three tiles when it drops. There must be clear empty charcoal space between the bottom of the X and the top of the tiles. Clean bold outlines, flat colour fills, no gradients. Palette: charcoal-grey background, cream tiles and bank-icon and safe-deposit-box and pinky-promise hands, brass tile borders and bank dome and keyhole, thick bright red X strokes."*
 
 **The ONE motion:** The giant red X drops straight down onto the three tiles.
 
@@ -207,7 +207,7 @@
 
 **Kling prompt (paste as-is):**
 
-> *"Kurzgesagt-style flat 2D animation. A wide charcoal-grey scene. Three cream square tiles with brass borders are arranged in a row, showing icons of a classical bank, a brass safe-deposit box, and two cartoon hands in a pinky-promise. Above the tiles, a giant bold red X hangs in the air. The giant red X drops straight down onto the three tiles. Camera holds steady on a wide static shot."*
+> *"Kurzgesagt-style flat 2D animation. A wide charcoal-grey scene. In the lower half of the frame, three cream square tiles with brass borders sit in a row, showing icons of a classical bank, a brass safe-deposit box, and two cartoon hands in a pinky-promise. In the upper half of the frame, ONE single ENORMOUS bold red X — two crossed diagonal strokes spanning the full width of the frame, wider than all three tiles combined — hangs in the air above the tiles. The single giant red X drops straight downward as one piece and lands across all three tiles at once, covering the bank, the safe-deposit box, and the pinky-promise hands together. Camera holds steady on a wide static shot."*
 
 ---
 
