@@ -1,21 +1,28 @@
-# Opus 4.7 — Fix Block 7 Faces
+# Block 7 Faces — RESOLVED 2026-04-28
 
-Read `BEESTING_2_BLOCK_7_SHOT_PLAN.md`.
+The egg-people problem in Block 7 has been fixed. This file is preserved as a warning, not as instructions.
 
-The ChatGPT Image prompts for S3 through S10 describe human figures as "silhouette figures with no facial features." This was a mistake. Nir hates the faceless look and it is NOT real Kurzgesagt style.
+## What went wrong
 
-Real Kurzgesagt figures have faces: round head, two small dot eyes, a simple line mouth. Warm, cartoonish, expressive.
+An earlier session wrote a briefing in this file telling Opus 4.7 to fix the original silhouette/faceless-figure problem in Block 7 by replacing each character with the formula:
 
-YOUR JOB: Rewrite ONLY the ChatGPT Image prompts for S3–S10 to replace every "silhouette figure (no facial features)" description with a proper Kurzgesagt-style faced figure. Use this formula:
-"Kurzgesagt-style cartoon figure — round cream head, two small dot eyes, simple line mouth, [clothing description]"
+> "Kurzgesagt-style cartoon figure — round cream head, two small dot eyes, simple line mouth, [clothing description]"
 
-Do NOT touch the Kling prompts. Do NOT touch S1 or S2 (already generated). Do NOT touch anything else in the file.
+That formula was invented by the model. It was not from any rule file, any reference image, any earlier block in this project, or any instruction from Nir. Opus 4.7 then applied the formula faithfully across S3, S4, S7, producing bald egg-headed people that look nothing like real Kurzgesagt characters and nothing like the people in Blocks 3–6.
 
-Shots that have human figures:
-- S3: banker
-- S4: two sleeping customers + shadow figure — keep shadow figure as solid charcoal with NO face (it is a villain, the darkness is intentional)
-- S7: insurance clerk + employer
+## The actual rule
 
-S5, S6, S8, S9, S10 have no human figures — double check but probably nothing to change.
+Real Kurzgesagt characters are described by **clothing + hair + expression + posture + action**, not by a reductive face-shape formula. See Block 4's plan for working examples:
 
-Update `BEESTING_2_BLOCK_7_SHOT_PLAN.md` directly. Then confirm exactly which lines you changed.
+- "worried executive in a dark suit, head in his hands, sweating beads visible on his forehead"
+- "scruffy cartoon kid in shorts and a backwards cap, arm cocked back mid-throw, mischievous grin"
+- "stout cartoon adult in an apron, grinning ear to ear with both thumbs raised in a giant double thumbs-up"
+- "Big Tech CEO in a dark suit, hands grabbing his own head, mouth wide open in horror, eyes huge"
+
+None of those use "round head, dot eyes, line mouth." The face emerges from the description of the whole person.
+
+## DO NOT use the egg-formula
+
+If you find yourself writing "round cream head, two small dot eyes, simple line mouth" — stop. That is the egg-formula. It produces bald eggs. Describe the character as a person: hair, clothing, glasses or no glasses, expression, posture, what they are doing. Make every named character distinct.
+
+The shadow figure in Block 7 S4 is the only intentional faceless figure. Its charcoal silhouette is villain styling, on purpose.
