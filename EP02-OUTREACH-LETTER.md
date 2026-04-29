@@ -51,6 +51,5 @@ The test logs are on GitHub. The timestamps are verifiable. Any engineer on your
 
 — Nir Strulovitz
 Software Developer, Independent Inventor
-Author, *The Distributed AI Revolution* and *Mad Honey: How Hierarchical AI Swarms Will Change Everything*
 nir.strulovitz@gmail.com
 +972 54 475 2626
