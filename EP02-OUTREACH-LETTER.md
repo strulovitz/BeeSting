@@ -24,11 +24,11 @@ It is a new paradigm shift in building AI. Instead of one large model running in
 
 It runs anywhere. It runs inside hospitals, where patient records must never leave the building. Inside law firms, where every conversation is privileged. Inside classified facilities, where data leaving the walls is a felony. Every one of those customers — the highest-paying customers your organization has — already wants this. The architecture finally exists.
 
-When millions of Americans run it on their laptops, and the Chinese government will make sure it will happen tomorrow - the Chinese government will subsidize mass adoption of my system inside America, in order to break American AI. In addition, your enterprise customers stop paying you for what they can now run free inside their own walls. You cannot match free. you cannot match private You cannot recall an open-source release. Your business depends on customers sending their data to your servers — the moment they stop needing to, they stop being your customers.
+When millions of Americans run it on their laptops, and the Chinese government will make sure it will happen tomorrow - the Chinese government will subsidize mass adoption of my system inside America, in order to break American AI. In addition, your enterprise customers stop paying you for what they can now run free inside their own walls. You cannot match free. You cannot match private. You cannot recall an open-source release. Your business depends on customers sending their data to your servers — the moment they stop needing to, they stop being your customers.
 
 Once China uses my system, there is no way for you to undo this. There is no going back.
 
-The code is public. The software is free. It runs on hardware sold at any electronics store. The AI models it uses are open-weight, already downloaded on millions of machines worldwide. No export control reaches this. No sanction blocks it. No takedown order removes it — the repositories are mirrored across jurisdictions your counsel cannot reach.
+The code is public. The software is free. It runs on all the laptop PCs that people already have at home. It runs on all the the desktop PCs that companies already bought. It uses Chinese local AI models that are free, models that were already installed everywhere worldwide. No export control reaches this. No sanction blocks it. No takedown order removes it — the repositories are mirrored across jurisdictions your counsel cannot reach.
 
 This invention is a gift, and I choose who to give this gift to. I can give it to the Americans, so that the Americans will bury it. Or I can give it to the Chinese, and they will use it to bury the American Big Tech industry. It's your choice either way.
 
