@@ -18,7 +18,7 @@ In January 2025, one Chinese model — DeepSeek — erased $600 billion of Nvidi
 
 My invention is not a trick. There is no trick to copy.
 
-This time, unlike last time, you are reading the warning before it happens.
+This time, unlike last time, you are getting a chance to prevent it before it happens.
 
 It is a new paradigm shift in building AI. Instead of one large model running in your datacenter, it is millions of small models running on home computers, combined into one huge AI. A small free program coordinates the swarm. No datacenter. No internet connection to your servers. No vendor to sanction. No central server to pressure.
 
