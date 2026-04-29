@@ -20,7 +20,7 @@ My invention is not a trick. There is no trick to copy.
 
 This time, unlike last time, you are getting a chance to prevent it before it happens.
 
-It is a new paradigm shift in building AI. Instead of one large model running in your datacenter, it is millions of small models running on presonal computers (PCs) everywhere, combined into one huge AI. A small free program coordinates the swarm. No datacenter. No internet connection to your servers. No vendor to sanction. No central server to pressure.
+It is a new paradigm shift in building AI. Instead of one large model running in your datacenter, it is millions of small models running on personal computers (PCs) everywhere, combined into one huge AI. A small free program coordinates the swarm. No datacenter. No internet connection to your servers. No vendor to sanction. No central server to pressure.
 
 It runs anywhere. It runs inside hospitals, where patient records must never leave the building. Inside law firms, where every conversation is privileged. Inside classified facilities, where data leaving the walls is a felony. Every one of those customers — the highest-paying customers your organization has — already wants this. The architecture finally exists.
 
