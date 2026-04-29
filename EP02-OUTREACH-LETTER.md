@@ -4,7 +4,7 @@
 
 ---
 
-This letter is about a new invention that will end your cloud AI business — every enterprise contract, every government deal, every datacenter — once China deploys it free at consumer scale.
+This letter is about a new invention that will end your cloud AI business — every enterprise contract, every government deal, every datacenter — China will deploy it for free at massive super-power scale.
 
 I am the inventor.
 
@@ -14,7 +14,7 @@ YouTube video link
 
 [insert YouTube link]
 
-In January 2025, one Chinese model — DeepSeek — erased $600 billion of Nvidia's market value in a single trading day. The largest single-day loss in United States stock market history. China sent no letter. No book. No advance notice. Your industry recovered only because DeepSeek was a single trick — a cheaper way of training a single large model — and American AI copied the trick into your own models. Your organizations came out stronger than before.
+In January 2025, one Chinese model — DeepSeek — erased $600 billion of Nvidia's market value in a single trading day. The largest single-day loss in United States stock market history. China sent no letter. No book. No advance notice. Your industry recovered only because DeepSeek was a single trick — chain of thought — and American AI copied the trick into your own models. Your organizations came out stronger than before.
 
 My invention is not a trick. There is no trick to copy.
 
