@@ -96,34 +96,34 @@ You are not being asked to produce cinema. You are being asked to produce a 6-se
 
 ---
 
-## 🚨 ADDENDUM (later 2026-04-29) — STOP USING PHYSICS
+## 🚨 ADDENDUM (later 2026-04-29) — DO NOT THREAD OBJECTS INTO PRECISE TARGETS
 
-After Block 10 S4 was saved, Nir said: *"and it's the last time you do such a retarded thing, you understand nothing of physics, Kling understands even less. stop it already, this video looks absurd and ridiculous even to a 3 years old."*
+After Block 10 S4 was saved, Nir said: *"i did not tell you you cannot use 3d and falling etc. i said stop with doing physics stuff, like you want to rape kling into inserting the exact object that you made up (in chatgpt image) into some tiny hole that kling cannot locate/understand."*
 
-**The lesson is bigger than "one verb."** Even with one verb, gravity-based motion looks wrong because Kling fakes physics badly. A LEGO brick falling onto a baseplate, a ruler dropping into a loop, a PCI card descending into a slot — every one of these requires Kling to simulate weight, deceleration, and contact moment, and Kling cannot do it. The result looks "absurd to a 3-year-old" — Nir's literal phrase, paid for in real credits.
+**The actual rule is narrower than "no physics."** Kling can do gravity, depth, rotation, and lateral slides. What Kling cannot do is take a specific object from the reference image and INSERT it precisely INTO a specific small target (a hole, a slot, a loop, a particular set of studs). It cannot locate the target. The result is the object missing, warping, or threading into the wrong place — which is what made S2 / S3 / S4 look absurd.
 
-**The new rule:** do not design shots that depend on physics to read correctly.
+**The forbidden pattern is precise insertion, not physics in general.**
 
-Forbidden motion patterns for Block 11 onwards:
-- ❌ Object falls into a target (gravity + impact + settling)
-- ❌ Object pushed into a slot from above by an unseen hand
-- ❌ Object moves forward toward viewer (3D depth — Kling fakes this with scale and it looks wrong)
-- ❌ Object rotates and lands (rotation + translation)
-- ❌ Anything that requires a "moment of contact" to read correctly
+Forbidden motion patterns:
+- ❌ Object descends into a *specific small target* (peg into hole, card into PCI slot, brick onto specific studs, ruler into a specific loop)
+- ❌ Object snaps to a *specific docking position* on another object
+- ❌ Anything that requires Kling to identify a tiny target area and thread an object into it
 
-Safer motion patterns:
-- ✅ Object slides horizontally across the frame (no gravity, no contact, no depth)
-- ✅ Object fades in or out
-- ✅ Object's outline pulses or grows (a 2D scale change without depth implication)
-- ✅ A new object appears already in its final position (no animation of arrival)
-- ✅ Camera pan or push-in over a scene that is already complete (no object motion)
+Allowed motion patterns:
+- ✅ Object falls under gravity to the ground (no precise target — just *down*)
+- ✅ Object slides forward toward the viewer (depth motion is fine — no threading)
+- ✅ Object slides laterally across the frame
+- ✅ Object rotates in place
+- ✅ Object grows or shrinks
+- ✅ Camera moves (pan, push, pull) over a scene
+- ✅ A scene where a generic motion completes (e.g. "the box arrives at the front of the table" — no specific docking point)
 
-**Translation rule:** when you would normally write *"the X drops into Y"*, instead think *"the X is already in Y, and the camera reveals it."* The motion becomes camera-only or appearance-only, neither of which Kling has to physics-simulate.
+**Reference image rule:** if the shot calls for an object ending up in a precise target position, put it ALREADY in the target position in the reference. Then the Kling motion is something else — a slide, a pulse, a depth move, a camera reveal — none of which require Kling to thread anything.
 
-**Reference image rule for the new approach:** the reference often shows the FINAL state, with the moving object already in place. Kling only has to add a small revealing motion (pan, fade, pulse) — nothing physical, nothing requiring contact.
+**Translation rule:** when you would normally write *"the X descends into Y"* (where Y is a precise small target), instead think *"the X is already in Y in the reference, and Kling animates a different motion entirely."*
 
 **One-line summary for the next session:**
-> Kling does 2D slides, fades, and reveals. It does NOT do gravity, contact, or 3D depth. Plan every shot inside that envelope, or you will burn money.
+> Kling can do gravity, depth, slides, and rotation. Kling cannot do precise insertion into a small target. If your shot requires threading an object into a hole, you are about to burn money — redesign the shot so the object is already in place and Kling animates something else.
 
 ---
 
