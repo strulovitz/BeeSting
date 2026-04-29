@@ -20,11 +20,11 @@ My invention is not a trick. There is no trick to copy.
 
 This time, unlike last time, you are getting a chance to prevent it before it happens.
 
-It is a new paradigm shift in building AI. Instead of one large model running in your datacenter, it is millions of small models running on home computers, combined into one huge AI. A small free program coordinates the swarm. No datacenter. No internet connection to your servers. No vendor to sanction. No central server to pressure.
+It is a new paradigm shift in building AI. Instead of one large model running in your datacenter, it is millions of small models running on presonal computers (PCs) everywhere, combined into one huge AI. A small free program coordinates the swarm. No datacenter. No internet connection to your servers. No vendor to sanction. No central server to pressure.
 
 It runs anywhere. It runs inside hospitals, where patient records must never leave the building. Inside law firms, where every conversation is privileged. Inside classified facilities, where data leaving the walls is a felony. Every one of those customers — the highest-paying customers your organization has — already wants this. The architecture finally exists.
 
-When millions of Americans run it on their laptops, and the Chinese government will make sure it will happen tomorrow - the Chinese government will subsidize mass adoption of my system inside America, in order to break American AI. In addition, your enterprise customers stop paying you for what they can now run free inside their own walls. You cannot match free. You cannot match private. You cannot recall an open-source release. Your business depends on customers sending their data to your servers — the moment they stop needing to, they stop being your customers.
+When millions of Americans run it on their laptops - and the Chinese government will make sure it will happen tomorrow (the Chinese government will subsidize mass adoption of my system inside America) - this will break American BIG AI. In addition, your enterprise customers stop paying you for what they can now run free inside their own walls. You cannot match free. You cannot match private. You cannot recall an open-source release. Your business depends on customers sending their data to your servers — the moment they stop needing to, they stop being your customers.
 
 Once China uses my system, there is no way for you to undo this. There is no going back.
 
