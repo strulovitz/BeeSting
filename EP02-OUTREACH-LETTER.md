@@ -4,7 +4,7 @@
 
 ---
 
-This letter is about a new invention that will end your cloud AI business — every enterprise contract, every government deal, every datacenter — China will deploy it for free at massive super-power scale.
+This letter is about a new invention that will end your cloud AI business — every enterprise contract, every government deal, every datacenter — China will deploy it for free at massive superpower scale.
 
 I am the inventor.
 
