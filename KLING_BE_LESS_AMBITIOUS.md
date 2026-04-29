@@ -94,4 +94,37 @@ You are not being asked to produce cinema. You are being asked to produce a 6-se
 
 ---
 
-*Saved 2026-04-29 by Opus 4.7 after Block 10 S3 and S4 overproduction failures. This file is permanent. It does not get archived. Future Claude reads this before writing the next Kling prompt.*
+---
+
+## 🚨 ADDENDUM (later 2026-04-29) — STOP USING PHYSICS
+
+After Block 10 S4 was saved, Nir said: *"and it's the last time you do such a retarded thing, you understand nothing of physics, Kling understands even less. stop it already, this video looks absurd and ridiculous even to a 3 years old."*
+
+**The lesson is bigger than "one verb."** Even with one verb, gravity-based motion looks wrong because Kling fakes physics badly. A LEGO brick falling onto a baseplate, a ruler dropping into a loop, a PCI card descending into a slot — every one of these requires Kling to simulate weight, deceleration, and contact moment, and Kling cannot do it. The result looks "absurd to a 3-year-old" — Nir's literal phrase, paid for in real credits.
+
+**The new rule:** do not design shots that depend on physics to read correctly.
+
+Forbidden motion patterns for Block 11 onwards:
+- ❌ Object falls into a target (gravity + impact + settling)
+- ❌ Object pushed into a slot from above by an unseen hand
+- ❌ Object moves forward toward viewer (3D depth — Kling fakes this with scale and it looks wrong)
+- ❌ Object rotates and lands (rotation + translation)
+- ❌ Anything that requires a "moment of contact" to read correctly
+
+Safer motion patterns:
+- ✅ Object slides horizontally across the frame (no gravity, no contact, no depth)
+- ✅ Object fades in or out
+- ✅ Object's outline pulses or grows (a 2D scale change without depth implication)
+- ✅ A new object appears already in its final position (no animation of arrival)
+- ✅ Camera pan or push-in over a scene that is already complete (no object motion)
+
+**Translation rule:** when you would normally write *"the X drops into Y"*, instead think *"the X is already in Y, and the camera reveals it."* The motion becomes camera-only or appearance-only, neither of which Kling has to physics-simulate.
+
+**Reference image rule for the new approach:** the reference often shows the FINAL state, with the moving object already in place. Kling only has to add a small revealing motion (pan, fade, pulse) — nothing physical, nothing requiring contact.
+
+**One-line summary for the next session:**
+> Kling does 2D slides, fades, and reveals. It does NOT do gravity, contact, or 3D depth. Plan every shot inside that envelope, or you will burn money.
+
+---
+
+*Saved 2026-04-29 by Opus 4.7 after Block 10 S3 and S4 overproduction failures. Addendum added the same day after S4 looked absurd. This file is permanent. It does not get archived. Future Claude reads this before writing the next Kling prompt.*
