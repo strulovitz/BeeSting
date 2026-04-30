@@ -1,0 +1,17 @@
+[ATTACH the prototype image (gpt_image_prompt_0_prototype output PNG) into ChatGPT Image 1.5 as a reference image alongside this text prompt.]
+
+Use the woman in the attached reference image. She must be visually identical to the attached reference: same chestnut-brown wavy middle-parted hair past her shoulders, same hazel-green eyes, same pale freckled skin with the freckle scatter across her nose and the tiny freckle at the right corner of her mouth, same small dark beauty mole just below her left ear, same oval face shape, same knee-length white cotton nightgown with thin straps and pale-pink ribbon bow, same bare feet, same thin gold wedding band on her left ring finger, same average suburban-housewife build. DO NOT change her face. DO NOT change her hair. DO NOT change her clothing. DO NOT add or remove any features. She is the same exact woman.
+
+Generate a photorealistic horror-film still in 16:9 aspect ratio, sharp focus, cinematic lighting. Like a frame from a contemporary thriller film.
+
+THE BATHROOM: A typical American suburban bathroom in early morning. Cream and beige subway-tile walls, slightly worn grout. A frosted glass window on the left wall glowing with pale yellow sunrise light. White porcelain countertop with a single oval sink basin, brushed nickel single-handle faucet. White ceramic tile floor with thin grey grout lines. A folded beige bath rug in front of the sink. A white wicker laundry hamper in the back-right corner. A wall-mounted medicine cabinet hangs on the wall directly above the sink, with a single mirrored door, the mirror is currently CLOSED and reflecting the bathroom. The bathroom is small, intimate, ordinary, lived-in — a strand of hair on the counter, a half-used bar of soap in a dish, a hand towel slightly crooked on its rack.
+
+ACTION: The woman from the reference image is standing barefoot on the bath rug directly in front of the sink, facing the closed mirrored medicine cabinet. We see her from a three-quarter front-right angle. Her face is clearly visible — partly directly to camera, partly reflected in the cabinet mirror. Her right hand is resting flat on the edge of the counter, supporting her as she leans slightly forward. Her left hand is just beginning to rise toward the medicine cabinet handle but has not yet touched it. Her shoulders are slumped from morning fatigue. Her mouth is in a small half-yawn, eyes half-closed. Her expression is tired, mundane, ordinary — a woman about to take her morning pills the way she does every single day. The medicine cabinet remains CLOSED. Nothing is wrong yet. Everything is calm.
+
+LIGHTING: soft warm morning sunlight from the frosted window on the left, raking across her body and the counter, casting long soft shadows. Warm honey-yellow light tone. Highlights on her chestnut hair from the sunrise.
+
+CAMERA: medium shot, three-quarter angle from the right side, slightly above her shoulder height looking gently downward. We can see her full upper body and head, the sink, the medicine cabinet (closed), and the start of the tile floor. Aspect ratio 16:9.
+
+MOOD: ordinary, mundane, peaceful, the universal American morning routine. No threat visible. The viewer relaxes. This is the calm before.
+
+Photorealistic detail. Sharp focus on her face. Slight depth-of-field blur on the background. Like a still from a Sundance-festival drama. No text anywhere in the image. No readable labels.
