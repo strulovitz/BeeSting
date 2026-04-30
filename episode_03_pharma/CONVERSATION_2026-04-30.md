@@ -403,16 +403,88 @@ Reflexive action in place of attentive action. Push without check. Copy without 
 ### What was leaked
 The file `episode_03_pharma/MEMORY.md` was on a public repo for approximately thirty minutes. Nir knows what is in his own `MEMORY.md`. The specific values are not enumerated in this transcript — enumerating them here would compound the failure described in point 7 above. The damage was done in the original public-exposure window. Nothing said in this transcript can undo it.
 
-### Where we left off (creative work)
-Step 0 of the BeeSting Episode 3 Opening A workflow (prototype portrait generation) is still pending. Nir has the rewritten prototype prompt in `Downloads/gpt_image_prompt_0_prototype.txt` and in this private repo. He has not yet generated the PNG.
+---
 
-### Plan for the rest of the video (BeeSting 3 — Big Pharma)
-- 5 nightmare openings (A, B, C, D, E), 10 seconds each in Kling = 50 seconds
-- Plus the equation opening slide = ~10 seconds
-- ≈ 1 minute of terror total
-- Then ~4 minutes of teaser-style coverage of EVERY topic in chapter 4 of MadHoney, each as a 5-7 word teaser
-- All ten angles + all five Angle 6 sub-angles must be covered (full list above in the original transcript section).
+## Continuation — Block 1 production progress (after the leak was contained)
+
+After the privacy episode, Nir made the BeeSting repo public again (his original intent — the project is supposed to be open per the book strategy) and the project work resumed. Recording the major decisions and reasoning here so they are preserved alongside the artifacts.
+
+### Opening A — Medicine Cabinet Avalanche (rendered)
+
+Workflow used: prototype portrait generated text-only in ChatGPT Image 1.5; then 3 scene reference images generated with the prototype attached as a meta-reference (per the lesson recorded in `feedback_kling_scene_multiple_refs.md`). Three scenes: normal morning at the sink, cabinet just opened with first pills tipping out, woman buried chest-deep in a flood of mixed pharmaceutical packaging.
+
+The prototype originally described the woman in a knee-length white cotton nightgown with thin shoulder straps and explicit body-proportion language ("narrow shoulders, average bust, soft waist, slightly soft figure of a woman who has had two children"). Nir flagged this as inappropriate and likely to trip ChatGPT's content filter. Rewrote the prototype with a plain pale-blue cotton pajama set (long-sleeve button-up + pants), a coffee mug as a natural prop, and removed all body-proportion language; kept face anchors (oval face, freckle scatter, hazel-green eyes, beauty mole below the left ear, freckle at right corner of mouth). Scene prompts 1-3 had to be updated to match the pajama description so the prototype attachment did not conflict with the scene text.
+
+The three scene PNGs were generated successfully with the woman visually consistent across all three — same face, same chestnut wavy hair, same pajamas, same suburban bathroom. Kling rendered the 10-second clip from those three scene refs. Result saved as `E03-opening-A-medicine-cabinet-avalanche.mp4`. Nir approved.
+
+### Voice selection
+
+Initial recommendation: Madison Ray — Sharp News Anchor (ElevenLabs). Nir generated a sample. Plosive popping on "p" consonants made the voice unusable — every "p" in the script (Purdue, pricing, patents, prescriptions, pills, painkiller, etc.) would burst on the speakers.
+
+Searched for a replacement. Nir selected Kristen — Authoritative E-Learning Expert. Settings extracted from the sample filename: speed 111, stability 30, similarity boost 75, style 75, model m2. Saved to `EP03-VOICES.md` and locked as the Episode 3 narrator. The rejected Madison sample was initially kept in the repo as historical reference; Nir flagged that as clutter that would confuse future sessions, and the file was removed (note retained in voices doc with "Do not retry").
+
+### The equation slide audio overflow problem
+
+Equation slide narration was assumed to be ~6-7 seconds based on word count. The actual rendered Kristen audio is 16 seconds. Nir wants the equation slide visual on screen for only 6 seconds. That created a 10-second gap where the equation narration is still playing but the equation visual is gone.
+
+Nir's elegant solution: pretend the original ask was for SIX nightmare visuals instead of five. Re-pair audio and visuals. The first nightmare visual plays silently under the equation audio's last 10 seconds, then the five remaining nightmares play with their own audio.
+
+### The 6th visual — choosing what plays under the equation overflow
+
+Nir's instinct was to keep the already-rendered Medicine Cabinet Avalanche as the silent opener. Reasoning:
+- It's the most universal pharma horror image.
+- Already rendered (saves credits and time).
+- Wordless — works without narration.
+- Hits the equation summary's full sweep ("prices, patents, side effects, dead patients").
+
+This means a NEW visual is needed for Nightmare 1 (Purdue / cascade map audio), since the cabinet was previously paired with that audio.
+
+### The cascade nightmare in plain words
+
+Nir asked for a plain-language explanation of what the Big Pharma CEO's nightmare actually IS in Nightmare 1 — not the visual, the underlying business reality.
+
+The nightmare summarized:
+- Big Pharma's business model is **chronic prescriptions**. The best customer is the patient who takes one pill every morning, for life. Five or six pill classes by age 70.
+- The **cascade** compounds it: each pill creates side effects, the doctor prescribes another pill for the side effects, that pill creates its own side effects, a third pill is added. Every side effect is a new billing code. The body becomes the conveyor belt.
+- The critical moat is **information asymmetry**. The patient doesn't know her statin caused her diabetes. The doctor has eight minutes per visit and won't draw the cascade map. The cloud AI is muzzled by liability.
+- The **local AI in her kitchen** breaks the moat. For free. In four seconds. It draws the cascade map and shows her the 30-year revenue plan written on her own body.
+- She **stops taking the pills**. Maybe just one. Maybe most. Multiply by millions of patients on the same evening.
+- The CEO doesn't lose one customer — he loses the **compounding decades** of recurring prescriptions that customer was supposed to provide.
+- This is the **Sears nightmare** for pharma. Sears didn't die from one cataclysm — it died from millions of customers walking away over years, while the stores stayed open with their lights on and nobody coming.
+- The "next Purdue" arc is the second turn of the screw: once patients understand what the industry has been doing, lawsuits, public hatred, family-name destruction, dissolution, rebrand follow.
+
+### The 6th visual concept — magician's mouth coil
+
+Nir proposed the classic stage-magic "endless handkerchief / mouth coil" trick — but with an endless chain of medicines tied one to the next, pulling out of the magician's mouth.
+
+Why the mouth (not the hat): the mouth is where pills enter the body. By pulling them back out, the visual silently confesses what has been swallowed. The cascade isn't a trick that magically appears from nowhere — it has been inside him the whole time. Pairs with "she stops swallowing" in the audio.
+
+Why heterogeneous packaging (not one repeating bottle): Nir's correction. The cascade is precisely about DIFFERENT drugs for DIFFERENT body parts. Statin for heart, metformin for blood sugar, PPI for reflux, antidepressant for mood, etc. Variety IS the cascade. One repeating bottle would read as addiction; a mixed chain reads as the industry treating every part of the body. Mix on the chain: orange amber prescription bottles, white pill bottles, foil blister packs, pen-shaped injectors, eye drop bottles, glass vials, asthma inhalers, foil tablet strips, cardboard medication boxes, adhesive patches, squeeze tubes — all tied to each other by thin white medical-tape ribbon.
+
+Why no text/labels: Nir flagged that text in Kling videos is unreliable (Kling renders text poorly) and viewers tune it out. The visual nightmare is shape, color, motion — not labels.
+
+Files created and pushed for this visual: prototype prompt (text-only) plus three scene prompts (each with prototype attached as ChatGPT Image meta-reference) plus the Kling prompt. Naming convention: `gpt_image_prompt_magician_*.txt` and `kling_prompt_nightmare_1_magician_mouth_coil.txt`.
+
+### Final 6-section layout for Block 1
+
+| # | Visual | Audio | Status |
+|---|--------|-------|--------|
+| 0 | Equation slide | Equation summary (start) | Visual not yet generated; audio rendered |
+| 1 (silent opener) | Medicine Cabinet Avalanche | Equation summary (finish, plays over visual silently) | Both rendered |
+| 2 | Magician mouth coil | Nightmare 1 — Purdue / cascade | Prompts written, not yet generated |
+| 3 | Family Dinner Subtraction | Nightmare 2 — Vioxx | Audio text locked; visual not yet planned |
+| 4 | Insurance Letter | Nightmare 3 — Mumbai | Audio text locked; visual not yet planned |
+| 5 | Body Price Tags | Nightmare 4 — Patent cliff | Audio text locked; visual not yet planned |
+| 6 | American Cemetery | Nightmare 5 — Brian Thompson | Audio text locked; visual not yet planned |
+
+Total runtime ~1:06.
+
+### Lessons added to memory during this continuation
+
+- **Verify audio durations with Nir, do not estimate them** (lesson surfaced when Claude assumed ~6-7s for the equation slide and the actual was 16s). Memory note pending — Nir has not yet authorized creation, but the rule applies going forward in this session.
+- **Do not propose multi-option plans without being asked** (existing rule, repeatedly violated; Claude is asking permission for small things while acting reflexively on big things).
+- **Be polite, use smileys other than the bee, use magic words** (please / thank you / sorry).
 
 ---
 
-*End of transcript.*
+*End of continuation.*
