@@ -8,3 +8,4 @@ All letters use the same template as `outreach_letters/joe_rogan.md`. Per-recipi
 - **2026-04-30** — Shawn Ryan (Shawn Ryan Show / Vigilance Elite) — `operations@vigilanceelite.com`
 - **2026-04-30** — AJ Gentile (The Why Files) — `biz@thewhyfiles.com`
 - **2026-04-30** — Theo Von (This Past Weekend) — submitted via contact form on `theovon.com` (no public email)
+- **2026-04-30** — LEMMiNO (Sebastian Lindqvist) — `lemmino@pm.me`
