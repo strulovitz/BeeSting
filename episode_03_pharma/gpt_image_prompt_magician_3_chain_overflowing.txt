@@ -1,0 +1,34 @@
+[ATTACH the prototype image (gpt_image_prompt_magician_0_prototype output PNG) into ChatGPT Image 1.5 as a reference image alongside this text prompt.]
+
+Use the magician in the attached reference image. He must be visually identical to the attached reference: same slicked-back dark brown hair with grey at the temples, same long oval face with sharp angular features, same pale skin, same dark heavy-lidded eyes, same thin dark eyebrows, same small dark mole on the left cheekbone just below the eye, same faint vertical scar on the right side of the chin, same five-o'clock-shadow on the jaw, same black silk tailcoat tuxedo with satin lapels, same crisp white wing-collar dress shirt, same black silk bowtie, same black silk vest, same white cotton magician's gloves, same black silk top hat tilted forward, same lean tall build. DO NOT change his face. DO NOT change his clothing. DO NOT add or remove any features. He is the same exact magician.
+
+Generate a photorealistic horror-thriller film still in 16:9 aspect ratio, sharp focus, cinematic stage lighting.
+
+THE STAGE: the same vaudeville theater stage. Dark polished oak plank floor (now mostly covered in the pile). Heavy crimson red velvet curtains behind him and in folds at stage left and right. The theater beyond is dark, empty seats fading into shadow. Single warm yellow overhead spotlight pouring down on him with slight haze in the beam.
+
+ACTION (this image): The chain is still pouring from his open mouth in a continuous downward stream. The pile at his feet is now KNEE-DEEP, spread across the stage floor in a wide six-foot radius around him, the wooden floor almost entirely buried. The pile is a chaotic heterogeneous heap of pharmaceutical packaging, all the same kinds of items as before, dozens visible, all tied together with thin white medical-tape ribbon:
+
+- Orange amber prescription pill bottles with white childproof caps (many)
+- Small white plastic pill bottles with various colored twist caps
+- Foil-and-clear-plastic blister packs of capsules
+- Cylindrical pen-shaped injector devices with blue and green caps
+- Small dropper-tipped eye drop bottles
+- Small glass vials with grey rubber stoppers and metal crimps
+- L-shaped plastic asthma inhalers with mouthpieces
+- Foil-backed strips of round white tablets
+- Small cardboard medication boxes, white with thin colored stripes
+- Adhesive patches on foil backing cards
+- Small squeeze tubes with white caps
+- All chained together in a long unbroken chain that snakes through the pile, with the medical-tape ribbon visible between each piece
+
+The pile rises in front of him from the stage floor up to his knees, partially burying his black tuxedo trousers and polished oxford shoes. Some pieces have spilled forward toward the camera, almost reaching the front edge of the stage.
+
+His right gloved hand is still raised in front of his mouth, mid-pull, holding the live chain that is still emerging. The chain arcs from his mouth down past his chest, past his waist, past his hand, and disappears into the top of the pile in front of him. His left gloved hand is at his side. His expression: STILL practiced calm, completely unchanged. Eyes focused, no struggle, no acknowledgment of the pile. He keeps pulling.
+
+LIGHTING: same warm yellow overhead spotlight. Strong vertical light, deep shadows. The pile catches the spotlight from above — orange bottles glow, metallic foil packs glint, glass vials catch highlights. The crimson curtain behind glows faintly. Slight haze in the beam.
+
+CAMERA: medium-wide shot, three-quarter front angle, lens slightly below eye-level, framing him from the front edge of the pile (knee-high) up to the top of his hat. The chain emerging from his mouth and arcing down into the pile is fully visible.
+
+MOOD: the climax of the trick. The pile is overwhelming. The magician is unbothered. The viewer's stomach drops — this is not stopping.
+
+Photorealistic detail. Sharp focus on his face and the upper part of the pile. Slight motion blur on the chain still emerging from his mouth. Like a still from a contemporary horror-thriller. No text anywhere in the image. No readable pill bottle labels — labels turned away, motion-blurred, or buried. No brand names visible.

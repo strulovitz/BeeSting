@@ -1,0 +1,17 @@
+[ATTACH the prototype image (gpt_image_prompt_magician_0_prototype output PNG) into ChatGPT Image 1.5 as a reference image alongside this text prompt.]
+
+Use the magician in the attached reference image. He must be visually identical to the attached reference: same slicked-back dark brown hair with grey at the temples, same long oval face with sharp angular features, same pale skin, same dark heavy-lidded eyes, same thin dark eyebrows, same small dark mole on the left cheekbone just below the eye, same faint vertical scar on the right side of the chin, same five-o'clock-shadow on the jaw, same black silk tailcoat tuxedo with satin lapels, same crisp white wing-collar dress shirt, same black silk bowtie, same black silk vest, same white cotton magician's gloves, same black silk top hat tilted forward, same lean tall build. DO NOT change his face. DO NOT change his clothing. DO NOT add or remove any features. He is the same exact magician.
+
+Generate a photorealistic horror-thriller film still in 16:9 aspect ratio, sharp focus, cinematic stage lighting. Like a frame from a contemporary thriller film set in an old vaudeville theater.
+
+THE STAGE: a classic vaudeville theater stage. Wooden plank stage floor, dark polished oak, slightly worn from decades of use. Heavy crimson red velvet curtains hang behind him as a backdrop, and in long folds at stage left and stage right. The proscenium arch is barely visible at the top of the frame. The theater beyond the stage is dark — empty rows of theater seats fade into shadow, indistinct, unlit. A single warm yellow overhead spotlight pours down on the magician, with slight haze in the air making the beam visible. The rest of the stage is dim, with a soft red ambient glow from the curtains.
+
+ACTION (this image): The magician from the reference image stands center stage, facing the camera. He has raised his right gloved hand to his open mouth. His mouth is open, the corners drawn slightly back. Between his teeth, the FIRST piece of pharmaceutical packaging is just emerging — an orange amber prescription pill bottle with a white childproof cap, tilted forward, halfway out of his mouth. A short trail of thin white medical-tape ribbon is visible behind it, leading back into his mouth. His left gloved hand is raised slightly at his side, ready to receive the chain as it comes out. His expression: practiced calm, eyes focused on the middle distance, no surprise, no struggle. He has done this thousands of times. The stage floor at his feet is empty and clean.
+
+LIGHTING: warm yellow overhead spotlight, single source from above, casting strong vertical light on his head and shoulders, with deep shadows under his chin and around the brim of his top hat. The crimson curtain behind glows faintly. Slight haze in the air making the light beam visible. Dramatic theatrical contrast.
+
+CAMERA: medium shot, three-quarter front angle, lens slightly below eye-level looking up at him, framing him from mid-thigh to top of hat. The orange pill bottle emerging from his mouth is centered and clearly readable. The empty stage floor at his feet is visible.
+
+MOOD: the moment the trick begins. Theatrical, controlled, slightly menacing. The viewer leans forward.
+
+Photorealistic detail. Sharp focus on his face and the emerging pill bottle. Slight motion blur on the bottle as it emerges. Like a still from a contemporary horror-thriller. No text anywhere in the image. No readable pill bottle labels — labels turned away from camera or motion-blurred. No brand names visible.

@@ -1,0 +1,33 @@
+[ATTACH the prototype image (gpt_image_prompt_magician_0_prototype output PNG) into ChatGPT Image 1.5 as a reference image alongside this text prompt.]
+
+Use the magician in the attached reference image. He must be visually identical to the attached reference: same slicked-back dark brown hair with grey at the temples, same long oval face with sharp angular features, same pale skin, same dark heavy-lidded eyes, same thin dark eyebrows, same small dark mole on the left cheekbone just below the eye, same faint vertical scar on the right side of the chin, same five-o'clock-shadow on the jaw, same black silk tailcoat tuxedo with satin lapels, same crisp white wing-collar dress shirt, same black silk bowtie, same black silk vest, same white cotton magician's gloves, same black silk top hat tilted forward, same lean tall build. DO NOT change his face. DO NOT change his clothing. DO NOT add or remove any features. He is the same exact magician.
+
+Generate a photorealistic horror-thriller film still in 16:9 aspect ratio, sharp focus, cinematic stage lighting.
+
+THE STAGE: the same vaudeville theater stage as before. Dark polished oak plank floor. Heavy crimson red velvet curtains behind him and in folds at stage left and right. The theater beyond is dark, empty seats fading into shadow. Single warm yellow overhead spotlight pouring down on him with slight haze in the beam.
+
+ACTION (this image): The magician from the reference image stands center stage. The chain is now flowing visibly from his open mouth in a downward stream. Between his teeth and continuing in a long unbroken chain that arcs downward toward the stage floor, there is a HETEROGENEOUS MIX of pharmaceutical packaging, every piece different, each tied to the next by thin white medical-tape ribbon:
+
+- An orange amber prescription pill bottle with a white childproof cap
+- A small white plastic pill bottle with a green twist cap
+- A foil-and-clear-plastic blister pack of capsules
+- A cylindrical pen-shaped injector device with a blue cap
+- A small dropper-tipped eye drop bottle
+- A small glass vial with a grey rubber stopper and metal crimp
+- An L-shaped plastic asthma inhaler with a mouthpiece
+- A foil-backed strip of round white tablets in a pop-through pack
+- A small cardboard medication box, white with a thin red stripe
+- An adhesive patch on a foil backing card
+- A small squeeze tube with a white cap
+
+About ten to twelve items visible on the chain, all in mid-fall, each connected to the next by a thin white medical-tape ribbon. The chain arcs from his mouth down past his chest, past his waist, past his knees, and the bottom of the chain is just landing on the stage floor in a small pile at his feet — about five or six items already on the floor, some still rolling.
+
+His right gloved hand is raised, holding the chain a few inches in front of his mouth as he pulls. His left gloved hand is at his side. His expression: practiced calm, unchanged from the previous scene. Eyes focused, no struggle.
+
+LIGHTING: same warm yellow overhead spotlight. Strong vertical light on his head and shoulders, deep shadows under his chin and the brim of his top hat. The chain itself is lit by the spotlight, the orange bottle and metallic foil packs glinting. The crimson curtain behind glows faintly. Slight haze in the beam.
+
+CAMERA: medium-wide shot, three-quarter front angle, lens slightly below eye-level, framing him from the stage floor (showing the small pile beginning) up to the top of his hat. The chain emerging from his mouth and arcing down to the floor is fully visible.
+
+MOOD: the trick is in motion. The chain is unmistakable. The pile is starting. The viewer realizes this is not going to stop.
+
+Photorealistic detail. Sharp focus on his face and the chain. Slight motion blur on the falling pieces. Like a still from a contemporary horror-thriller. No text anywhere in the image. No readable pill bottle labels — labels turned away or motion-blurred. No brand names visible.
