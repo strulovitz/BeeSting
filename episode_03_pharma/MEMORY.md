@@ -94,3 +94,4 @@
 - [feedback_prompt_files_location.md](feedback_prompt_files_location.md) — gpt_image_prompt.txt / kling_prompt.txt / elevenlabs_prompt.txt always go in Downloads, NEVER Desktop.
 - [feedback_no_self_restriction_prompts.md](feedback_no_self_restriction_prompts.md) — CRITICAL: Do NOT pre-restrict Kling/ChatGPT Image prompts. Over-corrections fucked BeeSting 2's last part. Internal "holy" rule files do NOT apply to creative-tool prompts.
 - [feedback_kling_scene_multiple_refs.md](feedback_kling_scene_multiple_refs.md) — CRITICAL: Every BeeSting "scene" with a human character needs 3 ChatGPT Image refs (start/mid/end), byte-identical character & environment blocks, face+body clearly visible. NEVER a single detail-only ref.
+- [feedback_push_after_every_edit.md](feedback_push_after_every_edit.md) — CRITICAL: After EVERY file edit/create, immediately copy to repo, commit, push. One edit = one push. Nothing is real until it's on GitHub.
