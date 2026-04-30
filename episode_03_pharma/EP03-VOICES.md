@@ -2,25 +2,26 @@
 
 ## Locked narrator
 
-**Madison Ray — Sharp News Anchor** (ElevenLabs)
+**Kristen — Authoritative E-Learning Expert** (ElevenLabs)
 
-Selected by Nir on 2026-04-30. Voice sample saved alongside this file as `EP03-voice-sample-madison-ray.mp3`.
+Selected by Nir on 2026-04-30 after rejecting Madison Ray for plosive popping ("p" sounds exploding in the speakers). Reference audio: see `E03-block01-01-equation-slide.mp3` (the rendered equation slide using this voice).
 
 ## ElevenLabs settings (from sample filename)
 
 | Setting | Value |
 |---------|-------|
-| Speed | 100% (1.0x) |
-| Stability | 50% |
+| Speed | 111% (1.11x) |
+| Stability | 30% |
 | Similarity Boost | 75% |
-| Style Exaggeration | 0% |
+| Style Exaggeration | 75% |
 | Speaker Boost | on |
 | Model | m2 (eleven_multilingual_v2 / eleven_turbo_v2) |
 
-## Why this voice
-
-"Sharp News Anchor" register — news-anchor delivery, controlled and unflinching, no theatrical emotion. Female narrator over female-victim visuals (medicine cabinet, family dinner, body price tags, cemetery) creates solidarity for the secretary-as-gatekeeper, while landing as a calm reckoning when the male CEO eventually watches.
-
 ## Use across the episode
 
-Use Madison Ray for **all narration in Episode 3** unless a specific block calls for a different voice (e.g. a vox-pop interview or a character voice — none currently planned). Same settings every block.
+Use Kristen for **all narration in Episode 3** unless a specific block calls for a different voice. Same settings every block.
+
+## Voice history
+
+- **Madison Ray — Sharp News Anchor** — tried first, rejected on 2026-04-30 due to plosive popping on "p" consonants. Sample retained at `EP03-voice-sample-madison-ray.mp3` for reference.
+- **Kristen — Authoritative E-Learning Expert** — selected, locked.
