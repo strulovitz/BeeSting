@@ -23,5 +23,5 @@ Use Kristen for **all narration in Episode 3** unless a specific block calls for
 
 ## Voice history
 
-- **Madison Ray — Sharp News Anchor** — tried first, rejected on 2026-04-30 due to plosive popping on "p" consonants. Sample retained at `EP03-voice-sample-madison-ray.mp3` for reference.
+- **Madison Ray — Sharp News Anchor** — tried, rejected on 2026-04-30 due to plosive popping on "p" consonants. Do not retry.
 - **Kristen — Authoritative E-Learning Expert** — selected, locked.
