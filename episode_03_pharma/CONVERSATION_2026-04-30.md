@@ -488,3 +488,63 @@ Total runtime ~1:06.
 ---
 
 *End of continuation.*
+
+---
+
+## Continuation 2 — Magician ruled out, pharmacy storefront concept locked in
+
+### OpenAI email reply (received 2026-04-30 ~16:18)
+
+Nir forwarded OpenAI's response to his Apr 29 letter. Two-tier reply pattern: first an AI-assisted auto-reply within 1 minute redirecting to security disclosure / sales contact (brush-off filter), then ~21 hours later a named human ("Danica A.") used templated escalation language: "we have documented your input and will ensure it is shared with the appropriate teams for internal awareness and consideration ... Your feedback has been successfully recorded and escalated internally for review by the relevant teams."
+
+Honest read: the letter went up a tier (not closed at first-line filter), but the second reply is exactly the templated response a slow-walking institution sends — receipt + documentation + "escalated internally" + zero engagement with any specific claim. Same pattern as Nir's previous April reply ("shared internally for review"). No request for test logs, no reference to specific claims, no timeline, no refusal. Departments Nir CC'd separately (legal, press, partnercomms, privacy, dpo) did not respond separately. This matches Pushback #3 in `NIR_CAN_END_CLAUDE.md` precisely: "Big AI can rationally wait" — and the pattern continues. The cooperative path is alive but not delivering substantive engagement; every additional polite-slow-walk reply with no follow-up is one more day of the patience clock running.
+
+### Magician ruled out as the silent opener — gender mismatch
+
+The pairing was: cabinet (woman) as silent opener under equation audio, magician (man) under Nightmare 1 audio. Nir caught the issue: Nightmare 1 audio uses "she has the map of which of your pills is killing her, she stops swallowing" — female pronouns describing a female patient — playing over a male magician visual. Disconnect.
+
+Fix: cabinet returns to its natural pairing with Nightmare 1 (original design — the audio was written for the cabinet visual). Magician needs to be replaced by a different visual for the silent opener under equation audio. The magician video and prototype/scenes remain in the repo as a finished but unused asset, in case it serves a later block.
+
+### New silent-opener concept — Pharmacy storefront with BIG PHARMA neon sign + lightning + explosion
+
+Nir proposed and Claude refined a visual that *enacts* the equation audio's "every wall will fall at once" line directly. The visual:
+
+A pharmacy storefront in a city street at night. Above the entrance, a green neon sign reading "BIG PHARMA" (replacing where "PHARMACY" would normally sit). Flanking the BIG PHARMA text: green pharmacy cross on the left in bright neon, caduceus (winged staff with two entwined snakes) on the right in bright neon. Above the main sign, a horizontal row of four smaller neon icons each in its own color, each representing one of the four threats named in the audio:
+- Light-green dollar sign — "your prices"
+- Gold padlock — "your patents"
+- Red warning triangle with exclamation mark — "your hidden side effects"
+- White skull and crossbones — "your dead patients"
+
+The visual sequence: the sign sits glowing peacefully against the dark city street; lightning strikes from the sky; the neons over-charge and explode; the storefront glass blows outward in a cloud of glass and sparks.
+
+Why this is the right concept: the four icons literally **are** the four threats the audio names. The viewer's brain locks word-to-icon without us using a single arrow or label. When "every wall will fall at once" lands, the lightning hits and they all explode simultaneously. Audio + visual sync without compromise. Reads instantly to both audiences (secretary and CEO).
+
+The "BIG PHARMA" text as a sign on a storefront is consistent with the BeeSting allowed-text rule (NSA / BIG AI / PRIVATE MODE / TOP SECRET — short brand-style labels are OK; technical diagrams and explanatory text are not). Kling text rendering is borderline for two short words but should work with bold neon-tube letters.
+
+### Three-clip structure (10 seconds total)
+
+Nir proposed splitting into three Kling clips:
+- **Clip 1 (4 sec):** Pharmacy storefront, everything OK, sign and four icons glowing peacefully
+- **Clip 2 (3 sec):** Massive lightning bolt strikes the sign from the sky
+- **Clip 3 (3 sec):** Sign overcharges, all neons explode, storefront glass blows outward
+
+Reference image workflow:
+- **Reference Image 1 (text-only ChatGPT Image prompt):** the pharmacy storefront in normal calm state. This is the prototype / ground-truth image.
+- **Reference Image 2 (ChatGPT Image with Reference 1 ATTACHED):** same pharmacy, same sign, same icons, same street — but with a massive lightning bolt striking down onto the sign.
+- **Reference Image 3 (ChatGPT Image with Reference 1 ATTACHED):** same pharmacy — but mid-explosion: neons bursting, glass storefront blowing outward, debris in air.
+
+Three Kling clips, each using its corresponding reference image. The "attach Reference 1 as meta-reference" approach (same pattern we used for the magician and cabinet character locks) ensures the storefront looks identical across all three reference images so the cuts between clips read as the same building photographed across time.
+
+### Three pending questions Nir is answering before any prompt writing
+
+1. **Camera angle:** across the street, slightly low angle, looking up at the storefront so the sign and icons fill upper-middle of frame? Or different (head-on, very wide, etc.)?
+2. **Street life:** empty / deserted (reinforces "industry without customers" theme and focuses attention on the sign), or with distant cars / pedestrians for ambient life?
+3. **Weather / atmosphere:** slight ground fog + wet sidewalk reflecting the neons (cinematic, helps lightning + explosion read against a moody background), or drier / cleaner look?
+
+### Nir's instruction on saving — push to GitHub each time
+
+Nir explicitly asked Claude to push each round of decisions to GitHub so the conversation has a continuously-updated backup, not only major milestones. This continuation-2 section is the response to that ask. From this point forward, transcript updates after each significant decision.
+
+---
+
+*End of continuation 2. Awaiting Nir's three answers on camera/street/weather, then prompt writing for the storefront visual begins.*
