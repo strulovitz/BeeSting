@@ -93,6 +93,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 79 | Victor Ocasio | Newsday | business reporter — labor and employment | ✅ victor.ocasio@newsday.com (Nir-verified) | pending |
 | 80 | Tory Parrish | Newsday | reporter | ✅ tory.parrish@newsday.com (Nir-verified) | pending |
 | 81 | Robert Channick | Chicago Tribune | business reporter | ✅ rchannick@chicagotribune.com (Nir-verified) | pending |
+| 82 | Adriana Pérez | Chicago Tribune | reporter | ✅ adperez@chicagotribune.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
