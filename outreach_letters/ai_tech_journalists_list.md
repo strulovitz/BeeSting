@@ -84,6 +84,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 70 | Wendy Lee | Los Angeles Times | entertainment business reporter | ✅ wendy.lee@latimes.com (Nir-verified) | pending |
 | 71 | Brian Merchant | (former) Los Angeles Times technology columnist (2023 – early 2024) | tech columnist (former) | ✅ briancmerchant@gmail.com (personal) / brian.merchant@latimes.com (former LA Times — likely inactive) | pending |
 | 72 | Brian Contreras | Inc. Magazine (formerly Los Angeles Times) | finance reporter (former LA Times staff writer) | ✅ briancontreras42@gmail.com (personal) / brian.contreras@inc.com (source flagged as "Inferred from Inc. standard formatting" — pattern-derived) | pending |
+| 73 | Emma Nelson | Minnesota Star Tribune | reporter | ✅ emma.nelson@startribune.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
