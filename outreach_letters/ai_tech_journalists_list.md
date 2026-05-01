@@ -120,6 +120,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 106 | Christian Fraser | BBC | presenter / correspondent | ✅ christian.fraser@bbc.co.uk (Nir-verified) | pending |
 | 107 | Thomas (Tom) Germain | BBC / The Interface podcast | reporter | ✅ theinterface@bbc.com (Nir-verified, podcast email) | pending |
 | 108 | Lily Jamali | BBC | reporter | ✅ lily.r.jamali@bbc.co.uk (primary) / lily.jamali@bbc.com (alternative) / lilyjamali@gmail.com (personal) / techlife@bbc.co.uk (Tech Life program) / whatintheworld@bbc.co.uk (What in the World program) (Nir-verified) | pending |
+| 109 | Nicola Bryan | BBC Wales News | reporter | ✅ newsonline.wales@bbc.co.uk (BBC Wales News) — direct personal not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
