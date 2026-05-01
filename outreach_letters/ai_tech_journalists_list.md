@@ -124,6 +124,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 110 | Jessica E. Lessin | The Information | founder and CEO | ✅ jlessin@theinformation.com (work) / jessica@theinformation.com (alternative work) / hello@theinformation.com (general inquiries) / accelerator@theinformation.com (Accelerator program) / jessica.lessin@gmail.com (personal, ContactOut-listed) (Nir-verified) | pending |
 | 111 | Amir Efrati | The Information | reporter | ✅ amir@theinformation.com (professional) / amir.efrati@gmail.com (alternative) (Nir-verified) | pending |
 | 112 | Martin Peers | The Information | Co-Executive Editor; author of The Briefing nightly newsletter | ✅ hello@theinformation.com (Nir-verified) | pending |
+| 113 | Jing Yang | The Information | Asia Bureau Chief | ✅ Jing@theinformation.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
