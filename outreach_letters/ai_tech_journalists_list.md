@@ -43,6 +43,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 29 | James Purtill | ABC Science (Australia) | tech reporter | ✅ purtill.james@abc.net.au (Nir-verified) | pending |
 | 30 | Alan Kohler | ABC (Australia) / The Money Café Podcast | finance / business | ✅ themoneycafe@intelligentinvestor.com.au (show email) — direct personal not publicly listed | pending |
 | 31 | Mike (Michael) Dobuski | ABC News | technology reporter | ✅ michael.dobuski@abc.com (Nir-verified work email) / michael.dobuski@abcnews.com (alternative ABC domain) | pending |
+| 32 | Belle Lin | The Wall Street Journal | reporter | ✅ belle.lin@wsj.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
