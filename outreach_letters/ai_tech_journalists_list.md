@@ -55,6 +55,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 41 | Meghan Bobrowsky | The Wall Street Journal (San Francisco) | tech reporter — Meta and social media | ✅ meghan.bobrowsky@wsj.com (Nir-verified) | pending |
 | 42 | Robert McMillan | The Wall Street Journal | reporter — cybersecurity and privacy | ✅ robert.mcmillan@wsj.com (Nir-verified) | pending |
 | 43 | Isabella Simonetti | The Wall Street Journal | media reporter | ✅ isabella.simonetti@wsj.com (Nir-verified) | pending |
+| 44 | Cade Metz | The New York Times | reporter | ✅ cade.metz@nytimes.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
