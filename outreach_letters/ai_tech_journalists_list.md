@@ -117,6 +117,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 103 | Zoe Kleinman | BBC News | Technology Editor | ✅ hello@zoekleinman.com (primary) / techlife@bbc.co.uk (Tech Life show) / businessdaily@bbc.co.uk (Business Daily) (Nir-verified) | pending |
 | 104 | Hannah Fry | University of Cambridge (since Jan 2025, formerly UCL) / BBC broadcaster | Professor of the Public Understanding of Mathematics; mathematician / author / broadcaster | ✅ hf418@cam.ac.uk (Cambridge) / hannah.fry@ucl.ac.uk (UCL — possibly former) (Nir-verified) | pending |
 | 105 | Joe Tidy | BBC | Cyber Correspondent | ✅ joe.tidy@bbc.co.uk (Nir-verified) | pending |
+| 106 | Christian Fraser | BBC | presenter / correspondent | ✅ christian.fraser@bbc.co.uk (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
