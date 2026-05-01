@@ -60,6 +60,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 46 | Kevin Roose | The New York Times / Hard Fork podcast | technology columnist | ✅ kevin.roose@nytimes.com (general NYT) / hardfork@nytimes.com (Hard Fork podcast) / speaking@kevinroose.com (speaking & media) (Nir-verified) | pending |
 | 47 | Natasha Singer | The New York Times | technology reporter | ✅ nsinger@nytimes.com (Nir-verified) | pending |
 | 48 | Alex Preston | The New York Times (severed March 2026 — used AI for a book review) | freelance journalist (former) | ✅ books@nytimes.com (NYT Book Review inbox) / letters@nytimes.com (general NYT feedback) — direct contact via NYT general channels only | pending |
+| 49 | Rachel Barber | USA TODAY | reporter — economy and personal finance | ✅ rbarber@usatoday.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
