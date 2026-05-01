@@ -36,7 +36,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 22 | Tony Dokoupil | CBS News / CBS Evening News | anchor | ✅ dokoupilt@cbsnews.com (Nir-verified) | pending |
 | 23 | Jared Perlo | NBC News | tech reporter, AI beat | ✅ tips@nbcuni.com (general NBC newsroom tips) — direct corporate email not publicly listed | pending |
 | 24 | Angela Yang | NBC News | culture and tech reporter | ✅ angela.yang@nbcuni.com (Nir-verified) | pending |
-| 25 | Joanna Stern | NBC News / The New Things / Semafor Mixed Signals | Chief Technology Analyst, contributing correspondent | ✅ humans@thenewthings.com (tech questions/tips) / joannastern@smoothmedia.co (business/sponsorships) / mixedsignals@semafor.com (podcast inquiries) — direct NBC email not publicly listed | pending |
+| 25 | Joanna Stern | NBC News / The New Things / Semafor Mixed Signals (departed WSJ Feb 2026) | Chief Technology Analyst, contributing correspondent | ✅ humans@thenewthings.com (tech questions/tips) / joannastern@smoothmedia.co (business/sponsorships) / mixedsignals@semafor.com (podcast inquiries) / joanna.stern@wsj.com (former WSJ — possibly inactive after Feb 2026 departure) / joanna.stern@gmail.com (personal/business) — direct NBC email not publicly listed | pending |
 | 26 | Kevin Collier | NBC News | cyber reporter — digital threats, privacy, tech policy | ✅ kevin.collier@nbcuni.com (Nir-verified) | pending |
 | 27 | Ashley Capoot | CNBC | reporter | ✅ ashley.capoot@cnbc.com / ashley.capoot@nbcuni.com (Nir-verified) | pending |
 | 28 | Ange Lavoipierre | Australian Broadcasting Corporation (ABC) — Sydney | National Technology Reporter | ✅ angelavoipierre@protonmail.com (Nir-verified) | pending |
