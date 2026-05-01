@@ -72,6 +72,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 58 | Gerrit De Vynck | The Washington Post | tech reporter | ✅ gerrit.devynck@washpost.com (Nir-verified) | pending |
 | 59 | Shira Ovide | The Washington Post | AI Correspondent | ✅ shira.ovide@washpost.com (Nir-verified) | pending |
 | 60 | Kevin Schaul | The Washington Post | senior graphics reporter — AI coverage | ✅ kevin.schaul@washpost.com (Nir-verified) | pending |
+| 61 | Will Oremus | The Atlantic (joined late March 2026, formerly Washington Post) | technology reporter | ✅ will.oremus@washpost.com (former WaPo email — possibly inactive after departure) — current Atlantic email not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
