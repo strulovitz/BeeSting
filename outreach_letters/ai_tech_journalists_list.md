@@ -67,6 +67,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 53 | Rikki Schlott | New York Post / Cato Institute | columnist | ✅ rikkischlott@gmail.com (personal) / tips@nypost.com (NY Post general tips) / online@nypost.com (NY Post online editorial) | pending |
 | 54 | Marc Vartabedian | New York Post | reporter | ✅ mvartabedian@nypost.com (Nir-verified) | pending |
 | 55 | Thomas Barrabi | New York Post | technology reporter | ✅ tbarrabi@nypost.com (work) / tbarrabi@protonmail.com (secure) (Nir-verified) | pending |
+| 56 | Lydia Moynihan | New York Post | Financial Correspondent | ✅ lmoynihan@nypost.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
