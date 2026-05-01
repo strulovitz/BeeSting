@@ -161,6 +161,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 147 | Margaux MacColl | TechCrunch | reporter | ✅ margaux.maccoll@techcrunch.com (Nir-verified) | pending |
 | 148 | Ingrid Lunden | (former TechCrunch — departed May 2025) | former TechCrunch reporter/editor | ✅ ingrid@techcrunch.com (former, likely inactive) / ingridlunden@gmail.com (personal) (Nir-verified) | pending |
 | 149 | Kate Park | TechCrunch / Signals Ventures | reporter — Asia tech and venture capital | ✅ katepark.techcrunch@gmail.com (work) / kate@signalsventures.com (secondary) (Nir-verified) | pending |
+| 150 | Jagmeet Singh | TechCrunch | reporter — startups and tech policy in India | ✅ mail@journalistjagmeet.com (primary) / jagmeet@techcrunch.com (alternative) / tips@techcrunch.com (official tip line) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
