@@ -64,6 +64,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 50 | Medora Lee | USA TODAY | reporter | ✅ mjlee@usatoday.com (Nir-verified) | pending |
 | 51 | Alyssa Goldberg | USA TODAY (New York) | wellness reporter | ✅ agoldberg@usatoday.com (Nir-verified) | pending |
 | 52 | Ingrid Jacques | USA TODAY | columnist | ✅ ijacques@usatoday.com (Nir-verified) | pending |
+| 53 | Rikki Schlott | New York Post / Cato Institute | columnist | ✅ rikkischlott@gmail.com (personal) / tips@nypost.com (NY Post general tips) / online@nypost.com (NY Post online editorial) | pending |
 
 ## Newsletter writers / commentators
 
