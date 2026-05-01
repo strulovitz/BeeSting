@@ -148,6 +148,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 134 | Lorenzo Franceschi-Bicchierai | TechCrunch | Senior Writer | ✅ lorenzo@techcrunch.com (Nir-verified) | pending |
 | 135 | Rebecca Bellan | TechCrunch | reporter | ✅ rebecca.bellan@techcrunch.com (Nir-verified) | pending |
 | 136 | Kirsten Korosec | TechCrunch | reporter | ✅ kirsten.korosec@techcrunch.com (Nir-verified) | pending |
+| 137 | Sean O'Kane | TechCrunch | Senior Reporter | ✅ sean.okane@techcrunch.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
