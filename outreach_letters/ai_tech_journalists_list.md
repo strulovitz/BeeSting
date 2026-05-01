@@ -138,6 +138,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 124 | Megan McCarthy | Reviewed (currently Executive Editor, Growth) / Techmeme (former first human editor) | editor | ✅ megan.mccarthy@reviewed.com (current) / editorial@techmeme.com (Techmeme editorial) (Nir-verified) | pending |
 | 125 | Mahendra Palsule | Techmeme | long-time editor (since November 2009) | ✅ mahendra@techmeme.com (direct) / editorial@techmeme.com (editorial) / tips@techmeme.com (tips) (Nir-verified) | pending |
 | 126 | Andre Garrigo | Techmeme alumnus (former editor); active in tech and cybersecurity | former Techmeme editor | ✅ andre+twttr@garrigo.net (personal/business, Nir-verified) | pending |
+| 127 | David Connell | Techmeme alumnus (departed ~2020/2021) | former editor | ✅ david@techmeme.com (former Techmeme — likely defunct) / questionsorcomments@techmeme.com (Techmeme general) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
