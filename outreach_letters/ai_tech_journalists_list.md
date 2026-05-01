@@ -56,6 +56,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 42 | Robert McMillan | The Wall Street Journal | reporter — cybersecurity and privacy | ✅ robert.mcmillan@wsj.com (Nir-verified) | pending |
 | 43 | Isabella Simonetti | The Wall Street Journal | media reporter | ✅ isabella.simonetti@wsj.com (Nir-verified) | pending |
 | 44 | Cade Metz | The New York Times | reporter | ✅ cade.metz@nytimes.com (Nir-verified) | pending |
+| 45 | Kashmir Hill | The New York Times | reporter | ✅ kashmir.hill@nytimes.com / kashhill@protonmail.com (tips, secure) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
