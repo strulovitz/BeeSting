@@ -82,6 +82,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 68 | Nilesh Christopher | Los Angeles Times / Tarbell Center AI Journalism Fellow | technology reporter | ✅ nileshchristopher.work@gmail.com (Nir-verified — story ideas, commissions, media) | pending |
 | 69 | Queenie Wong | Los Angeles Times | technology and business reporter | ✅ queenie.wong@latimes.com (Nir-verified) | pending |
 | 70 | Wendy Lee | Los Angeles Times | entertainment business reporter | ✅ wendy.lee@latimes.com (Nir-verified) | pending |
+| 71 | Brian Merchant | (former) Los Angeles Times technology columnist (2023 – early 2024) | tech columnist (former) | ✅ briancmerchant@gmail.com (personal) / brian.merchant@latimes.com (former LA Times — likely inactive) | pending |
 
 ## Newsletter writers / commentators
 
