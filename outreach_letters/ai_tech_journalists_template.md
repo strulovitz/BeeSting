@@ -8,7 +8,7 @@
 
 Dear American,
 
-You are reading this email from a position no other American sits in. You are a knowledge mediator. You are the only one who can understand the broad meaning and interpret the harbinger of doom correctly. That position is the lever in your hand right now, and you are the only person on Earth who can pull it.
+You are reading this email from a position no other American sits in. You are a knowledge mediator. Your sources are inside Big Tech and the military-industrial complex — the people who actually determine the fate of America. You are the only one who can understand the broad meaning and interpret the harbinger of doom correctly. That position is the lever in your hand right now, and you are the only person on Earth who can pull it.
 
 I am writing to tell you that your country is about to burn. Not metaphorically. The fire that is about to consume the modern Rome — and Rome is America — is a new form of AI. It is a thousand times more dangerous to your country than Mythos, the AI that crashed two trillion dollars off the enterprise software market in a single April morning. It is a million times more dangerous than DeepSeek-V4, the Chinese model that costs ninety-seven percent less than the best American one. Mythos and DeepSeek-V4 are the things you have already heard about. The new fire is the thing nobody has told you about yet, and the reason nobody has told you is that the gatekeeper clerks cannot see the big picture. YOU are America's last hope.
 
