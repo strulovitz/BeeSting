@@ -44,7 +44,7 @@ You sit at a desk where the news is decided. You do not need to write an article
 
 The video is short and non-technical.
 
-The cost of forwarding this is one click. The cost of not forwarding it is what the video describes — your country, your family, your loved ones, in months, not years.
+The cost of forwarding this is one click. The cost of not forwarding it is what the video describes — your country, your family, your loved ones, in weeks, not years.
 
 Do not drop the ball. The ball is your family's life.
 
