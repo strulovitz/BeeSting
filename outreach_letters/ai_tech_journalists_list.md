@@ -20,6 +20,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 6 | Rachel Crane | CNN | tech / science | ✅ comments@cnn.com (fallback — direct email not found) | pending |
 | 7 | Brooke Taylor | Fox News (Dallas) | National Correspondent | ✅ brooke.taylor@fox.com (Nir-verified) | pending |
 | 8 | Kurt "CyberGuy" Knutsson | Fox News / CyberGuy.com | tech contributor | ✅ help@cyberguy.com (Nir-verified) | pending |
+| 9 | Danamarie McNicholl | Fox News Channel (Miami) | correspondent | ✅ regan.bruno@fox.com (her publicist — direct not listed) / viewer.services@fox.com (general fallback) | pending |
 
 ## Newsletter writers / commentators
 
