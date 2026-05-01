@@ -141,6 +141,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 127 | David Connell | Techmeme alumnus (departed ~2020/2021) | former editor | ✅ david@techmeme.com (former Techmeme — likely defunct) / questionsorcomments@techmeme.com (Techmeme general) (Nir-verified) | pending |
 | 128 | Techmeme team (Gabe Rivera, Omer Horvitz, Lidija Davis, Spencer Dailey, Stasys Bielinis, Andria Krewson, Srikar Dhanakoti, Max Slater-Robins, Katya Smundak, Adarsh Matham, Trevor Croker, Imran Haider, Emerson Kimura, Ray Shen) | Techmeme | current editorial team — Gabe Rivera (founder, 2005) + Omer Horvitz (2007) lead the product; ~12 editors across five continents | ✅ sponsor@techmeme.com (Sponsor Posts) / my.podcast@techmeme.com (Featured Podcast Players) / events@techmeme.com (Upcoming Tech Events) — direct individual emails not publicly listed | pending |
 | 129 | Connie Loizos | TechCrunch / StrictlyVC | General Manager and Editor in Chief | ✅ connie@techcrunch.com (TechCrunch) / connie@strictlyvc.com (StrictlyVC) (Nir-verified) | pending |
+| 130 | Graham Starr | TechCrunch | Deputy Editor | ✅ grahamstarr@protonmail.com (encrypted email, Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
