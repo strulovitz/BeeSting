@@ -159,6 +159,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 145 | Dominic-Madori Davis | TechCrunch | senior reporter — venture capital and startups | ✅ dominic.davis@techcrunch.com (Nir-verified) | pending |
 | 146 | Marina Temkin | TechCrunch | reporter | ✅ marina.temkin@techcrunch.com (Nir-verified) | pending |
 | 147 | Margaux MacColl | TechCrunch | reporter | ✅ margaux.maccoll@techcrunch.com (Nir-verified) | pending |
+| 148 | Ingrid Lunden | (former TechCrunch — departed May 2025) | former TechCrunch reporter/editor | ✅ ingrid@techcrunch.com (former, likely inactive) / ingridlunden@gmail.com (personal) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
