@@ -95,6 +95,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 81 | Robert Channick | Chicago Tribune | business reporter | ✅ rchannick@chicagotribune.com (Nir-verified) | pending |
 | 82 | Adriana Pérez | Chicago Tribune | reporter | ✅ adperez@chicagotribune.com (Nir-verified) | pending |
 | 83 | Claire Malon | Chicago Tribune | reporter | ✅ cmalon@chicagotribune.com (Nir-verified) | pending |
+| 84 | Caroline Kubzansky | Chicago Tribune | reporter | ✅ ckubzansky@chicagotribune.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
