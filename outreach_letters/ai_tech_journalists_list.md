@@ -91,6 +91,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 77 | Steve Grove | Minnesota Star Tribune | CEO and Publisher | ✅ Steve.Grove@startribune.com (Nir-verified) | pending |
 | 78 | Dandan Zou | Newsday | education reporter | ✅ dandan.zou@newsday.com (Nir-verified) | pending |
 | 79 | Victor Ocasio | Newsday | business reporter — labor and employment | ✅ victor.ocasio@newsday.com (Nir-verified) | pending |
+| 80 | Tory Parrish | Newsday | reporter | ✅ tory.parrish@newsday.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
