@@ -40,6 +40,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 26 | Kevin Collier | NBC News | cyber reporter — digital threats, privacy, tech policy | ✅ kevin.collier@nbcuni.com (Nir-verified) | pending |
 | 27 | Ashley Capoot | CNBC | reporter | ✅ ashley.capoot@cnbc.com / ashley.capoot@nbcuni.com (Nir-verified) | pending |
 | 28 | Ange Lavoipierre | Australian Broadcasting Corporation (ABC) — Sydney | National Technology Reporter | ✅ angelavoipierre@protonmail.com (Nir-verified) | pending |
+| 29 | James Purtill | ABC Science (Australia) | tech reporter | ✅ purtill.james@abc.net.au (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
