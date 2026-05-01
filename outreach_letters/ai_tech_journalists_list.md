@@ -68,7 +68,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 54 | Marc Vartabedian | New York Post | reporter | ✅ mvartabedian@nypost.com (Nir-verified) | pending |
 | 55 | Thomas Barrabi | New York Post | technology reporter | ✅ tbarrabi@nypost.com (work) / tbarrabi@protonmail.com (secure) (Nir-verified) | pending |
 | 56 | Lydia Moynihan | New York Post | Financial Correspondent | ✅ lmoynihan@nypost.com (Nir-verified) | pending |
-| 57 | Charles Gasparino | New York Post / "On the Money" newsletter | senior correspondent — Wall Street, politics, business | ✅ customerservice@nypost.com (NY Post — subscription-related, only public NY Post email listed for him) — direct email not publicly listed; non-email contact via X @CGasparino | pending |
+| 57 | Charles Gasparino | New York Post / "On the Money" newsletter | senior correspondent — Wall Street, politics, business | ❌ no public email — direct not listed; non-email contact via X @CGasparino | pending |
 
 ## Newsletter writers / commentators
 
