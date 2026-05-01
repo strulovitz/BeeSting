@@ -75,6 +75,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 61 | Will Oremus | The Atlantic (joined late March 2026, formerly Washington Post) | technology reporter | ✅ will.oremus@washpost.com (former WaPo email — possibly inactive after departure) — current Atlantic email not publicly listed | pending |
 | 62 | Cat Zakrzewski | The Washington Post | White House reporter — tech industry & administration | ✅ Cat.Zakrzewski@washpost.com (Nir-verified) | pending |
 | 63 | Drew Harwell | The Washington Post | technology reporter | ✅ drew.harwell@washpost.com (Nir-verified) | pending |
+| 64 | Jeremy B. Merrill | The Washington Post | data reporter — AI, internet culture, tech impact on society | ✅ jeremy.merrill@washpost.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
