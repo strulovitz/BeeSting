@@ -35,6 +35,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 21 | Lana Zak | CBS News 24/7 (New York) | anchor / national correspondent | ✅ lana.zak@cbsnews.com (Nir-verified) | pending |
 | 22 | Tony Dokoupil | CBS News / CBS Evening News | anchor | ✅ dokoupilt@cbsnews.com (Nir-verified) | pending |
 | 23 | Jared Perlo | NBC News | tech reporter, AI beat | ✅ tips@nbcuni.com (general NBC newsroom tips) — direct corporate email not publicly listed | pending |
+| 24 | Angela Yang | NBC News | culture and tech reporter | ✅ angela.yang@nbcuni.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
