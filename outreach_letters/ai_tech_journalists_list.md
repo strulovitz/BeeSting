@@ -100,6 +100,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 86 | Alex Halverson | The Seattle Times | reporter | ✅ ahalverson@seattletimes.com (Nir-verified) | pending |
 | 87 | Lauren Rosenblatt | The Seattle Times | reporter | ✅ lrosenblatt@seattletimes.com (Nir-verified) | pending |
 | 88 | Greg Kim | The Seattle Times | reporter | ✅ grkim@seattletimes.com (Nir-verified) | pending |
+| 89 | Rachel Metz | Bloomberg News | AI reporter | ✅ rmetz17@bloomberg.net (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
