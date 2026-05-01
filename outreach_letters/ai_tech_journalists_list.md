@@ -28,6 +28,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 14 | Ali Vitali | MSNBC / Way Too Early | host / political reporter | ✅ waytooearly@msnbc.com (show email) — direct personal not publicly listed | pending |
 | 15 | Vaughn Hillyard | MSNBC / CNBC / NBC News | Senior White House Correspondent | ✅ MSNBC.Communications@nbcuni.com (MSNBC PR team) — direct personal not publicly listed | pending |
 | 16 | Brandy Zadrozny | NBC News / MS NOW | senior reporter, information wars / disinfo | ✅ brandy.zadrozny@nbcuni.com (Nir-verified, tips line) | pending |
+| 17 | Rebecca Kutler | MS NOW (formerly MSNBC) | President | ✅ Rebecca.Kutler@nbcuni.com / rebecca.kutler@msnbc.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
