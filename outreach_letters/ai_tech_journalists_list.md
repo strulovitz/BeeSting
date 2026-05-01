@@ -115,6 +115,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 101 | Nate Lanxon | Bloomberg News (London) | Technology Editor | ✅ lanxon@icloud.com (primary) / nate.lanxon@gmail.com (secondary) (Nir-verified) | pending |
 | 102 | Marc Cieslak | BBC | tech reporter | ✅ voices@talkingheadsvoices.com (Talking Heads Voices agency) / yourvoice@bbc.co.uk (general BBC News) — direct personal not publicly listed | pending |
 | 103 | Zoe Kleinman | BBC News | Technology Editor | ✅ hello@zoekleinman.com (primary) / techlife@bbc.co.uk (Tech Life show) / businessdaily@bbc.co.uk (Business Daily) (Nir-verified) | pending |
+| 104 | Hannah Fry | University of Cambridge (since Jan 2025, formerly UCL) / BBC broadcaster | Professor of the Public Understanding of Mathematics; mathematician / author / broadcaster | ✅ hf418@cam.ac.uk (Cambridge) / hannah.fry@ucl.ac.uk (UCL — possibly former) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
