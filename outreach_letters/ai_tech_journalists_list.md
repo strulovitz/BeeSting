@@ -42,6 +42,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 28 | Ange Lavoipierre | Australian Broadcasting Corporation (ABC) — Sydney | National Technology Reporter | ✅ angelavoipierre@protonmail.com (Nir-verified) | pending |
 | 29 | James Purtill | ABC Science (Australia) | tech reporter | ✅ purtill.james@abc.net.au (Nir-verified) | pending |
 | 30 | Alan Kohler | ABC (Australia) / The Money Café Podcast | finance / business | ✅ themoneycafe@intelligentinvestor.com.au (show email) — direct personal not publicly listed | pending |
+| 31 | Mike (Michael) Dobuski | ABC News | technology reporter | ✅ michael.dobuski@abc.com (Nir-verified work email) — second address michael.dobuski@abcnews.com flagged by source as "ABC Format" / pattern-derived, omitted per no-guess rule | pending |
 
 ## Newsletter writers / commentators
 
