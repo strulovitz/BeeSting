@@ -81,6 +81,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 67 | Phoebe Connelly | London School of Economics (formerly Washington Post — departed Aug 2025) | former Senior Editor for AI Strategy and Innovation; currently LSE Master's student | ✅ phoebe.connelly@washpost.com (former WaPo email, possibly inactive after Aug 2025 departure) | pending |
 | 68 | Nilesh Christopher | Los Angeles Times / Tarbell Center AI Journalism Fellow | technology reporter | ✅ nileshchristopher.work@gmail.com (Nir-verified — story ideas, commissions, media) | pending |
 | 69 | Queenie Wong | Los Angeles Times | technology and business reporter | ✅ queenie.wong@latimes.com (Nir-verified) | pending |
+| 70 | Wendy Lee | Los Angeles Times | entertainment business reporter | ✅ wendy.lee@latimes.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
