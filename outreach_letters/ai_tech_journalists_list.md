@@ -96,6 +96,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 82 | Adriana Pérez | Chicago Tribune | reporter | ✅ adperez@chicagotribune.com (Nir-verified) | pending |
 | 83 | Claire Malon | Chicago Tribune | reporter | ✅ cmalon@chicagotribune.com (Nir-verified) | pending |
 | 84 | Caroline Kubzansky | Chicago Tribune | reporter | ✅ ckubzansky@chicagotribune.com (Nir-verified) | pending |
+| 85 | Gregory Royal Pratt | Chicago Tribune | investigative reporter | ✅ gpratt@chicagotribune.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
