@@ -167,6 +167,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 153 | Rita Liao | TechCrunch | reporter | ✅ ritaliao@pm.me (Nir-verified) | pending |
 | 154 | Ivan Mehta | TechCrunch (India) | consumer technology reporter | ✅ im@ivanmehta.com (primary pitch) / ivan@techcrunch.com (alternative) (Nir-verified) | pending |
 | 155 | Tim Fernholz | TechCrunch | reporter | ✅ tim.fernholz@techcrunch.com (Nir-verified) | pending |
+| 156 | Lucas Ropek | TechCrunch | senior writer | ✅ lucas.ropek@techcrunch.com (primary) / lucas@techcrunch.com (alternative) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
