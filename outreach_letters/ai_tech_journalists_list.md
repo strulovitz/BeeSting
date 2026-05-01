@@ -38,6 +38,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 24 | Angela Yang | NBC News | culture and tech reporter | ✅ angela.yang@nbcuni.com (Nir-verified) | pending |
 | 25 | Joanna Stern | NBC News / The New Things / Semafor Mixed Signals | Chief Technology Analyst, contributing correspondent | ✅ humans@thenewthings.com (tech questions/tips) / joannastern@smoothmedia.co (business/sponsorships) / mixedsignals@semafor.com (podcast inquiries) — direct NBC email not publicly listed | pending |
 | 26 | Kevin Collier | NBC News | cyber reporter — digital threats, privacy, tech policy | ✅ kevin.collier@nbcuni.com (Nir-verified) | pending |
+| 27 | Ashley Capoot | CNBC | reporter | ✅ ashley.capoot@cnbc.com / ashley.capoot@nbcuni.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
