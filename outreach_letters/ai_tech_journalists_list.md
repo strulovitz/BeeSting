@@ -86,6 +86,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 72 | Brian Contreras | Inc. Magazine (formerly Los Angeles Times) | finance reporter (former LA Times staff writer) | ✅ briancontreras42@gmail.com (personal) / brian.contreras@inc.com (source flagged as "Inferred from Inc. standard formatting" — pattern-derived) | pending |
 | 73 | Emma Nelson | Minnesota Star Tribune | reporter | ✅ emma.nelson@startribune.com (Nir-verified) | pending |
 | 74 | Jeremy Olson | Minnesota Star Tribune | health care reporter (Pulitzer Prize winner) | ✅ jeremy.olson@startribune.com (Nir-verified) | pending |
+| 75 | Jim Buchta | Minnesota Star Tribune | real estate and business reporter | ✅ jim.buchta@startribune.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
