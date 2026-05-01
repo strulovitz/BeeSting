@@ -139,6 +139,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 125 | Mahendra Palsule | Techmeme | long-time editor (since November 2009) | ✅ mahendra@techmeme.com (direct) / editorial@techmeme.com (editorial) / tips@techmeme.com (tips) (Nir-verified) | pending |
 | 126 | Andre Garrigo | Techmeme alumnus (former editor); active in tech and cybersecurity | former Techmeme editor | ✅ andre+twttr@garrigo.net (personal/business, Nir-verified) | pending |
 | 127 | David Connell | Techmeme alumnus (departed ~2020/2021) | former editor | ✅ david@techmeme.com (former Techmeme — likely defunct) / questionsorcomments@techmeme.com (Techmeme general) (Nir-verified) | pending |
+| 128 | Techmeme team (Gabe Rivera, Omer Horvitz, Lidija Davis, Spencer Dailey, Stasys Bielinis, Andria Krewson, Srikar Dhanakoti, Max Slater-Robins, Katya Smundak, Adarsh Matham, Trevor Croker, Imran Haider, Emerson Kimura, Ray Shen) | Techmeme | current editorial team — Gabe Rivera (founder, 2005) + Omer Horvitz (2007) lead the product; ~12 editors across five continents | ✅ sponsor@techmeme.com (Sponsor Posts) / my.podcast@techmeme.com (Featured Podcast Players) / events@techmeme.com (Upcoming Tech Events) — direct individual emails not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
