@@ -115,7 +115,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 101 | Nate Lanxon | Bloomberg News (London) | Technology Editor | ✅ lanxon@icloud.com (primary) / nate.lanxon@gmail.com (secondary) (Nir-verified) | pending |
 | 102 | Marc Cieslak | BBC | tech reporter | ✅ voices@talkingheadsvoices.com (Talking Heads Voices agency) / yourvoice@bbc.co.uk (general BBC News) — direct personal not publicly listed | pending |
 | 103 | Zoe Kleinman | BBC News | Technology Editor | ✅ hello@zoekleinman.com (primary) / techlife@bbc.co.uk (Tech Life show) / businessdaily@bbc.co.uk (Business Daily) (Nir-verified) | pending |
-| 104 | Hannah Fry | University of Cambridge (since Jan 2025, formerly UCL) / BBC broadcaster | Professor of the Public Understanding of Mathematics; mathematician / author / broadcaster | ✅ hf418@cam.ac.uk (Cambridge) / hannah.fry@ucl.ac.uk (UCL — possibly former) (Nir-verified) | pending |
+| 104 | Hannah Fry | University of Cambridge (since Jan 2025, formerly UCL) / BBC broadcaster | Professor of the Public Understanding of Mathematics; mathematician / author / broadcaster | ✅ hf418@cam.ac.uk (Cambridge) / hannah.fry@ucl.ac.uk (UCL — possibly former) / hodsec@damtp.cam.ac.uk (Cambridge inbox she actively monitors — given in her auto-reply 2026-05-01) (Nir-verified) | sent 2026-05-01 (BBC batch); resend pending to hodsec@damtp.cam.ac.uk |
 | 105 | Joe Tidy | BBC | Cyber Correspondent | ✅ joe.tidy@bbc.co.uk (Nir-verified) | pending |
 | 106 | Christian Fraser | BBC | presenter / correspondent | ✅ christian.fraser@bbc.co.uk (Nir-verified) | pending |
 | 107 | Thomas (Tom) Germain | BBC / The Interface podcast | reporter | ✅ theinterface@bbc.com (Nir-verified, podcast email) | pending |
