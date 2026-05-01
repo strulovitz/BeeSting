@@ -47,6 +47,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 33 | Sebastian Herrera | The Wall Street Journal (departed late April 2026) | technology reporter (former) | ✅ sebastian.herrera@wsj.com (former WSJ work email — possibly inactive after April 2026 departure) | pending |
 | 34 | Isabelle Bousquette | The Wall Street Journal | reporter | ✅ isabelle.bousquette@wsj.com (Nir-verified) | pending |
 | 35 | Kate Clark | The Wall Street Journal | tech reporter — startups, VC, AI | ✅ kate.clark@wsj.com (Nir-verified) | pending |
+| 36 | Berber Jin | The Wall Street Journal | reporter | ✅ berber.jin@wsj.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
