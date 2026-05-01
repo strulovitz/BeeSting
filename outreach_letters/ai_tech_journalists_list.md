@@ -165,6 +165,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 151 | Romain Dillet | Hypertext newsletter (independent, formerly TechCrunch — departed April 2025 after 13 years) | independent tech newsletter author (former TechCrunch) | ✅ hi@hypertext.fyi (Hypertext newsletter tips) / romain@dillet.net (personal) / romain@techcrunch.com (former TechCrunch — possibly inactive) (Nir-verified) | pending |
 | 152 | Anna Heim | TechCrunch | writer and editorial consultant | ✅ annatechcrunch@gmail.com (primary) / anna@techcrunch.com (corporate) (Nir-verified) | pending |
 | 153 | Rita Liao | TechCrunch | reporter | ✅ ritaliao@pm.me (Nir-verified) | pending |
+| 154 | Ivan Mehta | TechCrunch (India) | consumer technology reporter | ✅ im@ivanmehta.com (primary pitch) / ivan@techcrunch.com (alternative) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
