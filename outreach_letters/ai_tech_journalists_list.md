@@ -163,6 +163,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 149 | Kate Park | TechCrunch / Signals Ventures | reporter — Asia tech and venture capital | ✅ katepark.techcrunch@gmail.com (work) / kate@signalsventures.com (secondary) (Nir-verified) | pending |
 | 150 | Jagmeet Singh | TechCrunch | reporter — startups and tech policy in India | ✅ mail@journalistjagmeet.com (primary) / jagmeet@techcrunch.com (alternative) / tips@techcrunch.com (official tip line) (Nir-verified) | pending |
 | 151 | Romain Dillet | Hypertext newsletter (independent, formerly TechCrunch — departed April 2025 after 13 years) | independent tech newsletter author (former TechCrunch) | ✅ hi@hypertext.fyi (Hypertext newsletter tips) / romain@dillet.net (personal) / romain@techcrunch.com (former TechCrunch — possibly inactive) (Nir-verified) | pending |
+| 152 | Anna Heim | TechCrunch | writer and editorial consultant | ✅ annatechcrunch@gmail.com (primary) / anna@techcrunch.com (corporate) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
