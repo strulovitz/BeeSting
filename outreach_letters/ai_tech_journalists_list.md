@@ -79,6 +79,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 65 | Danielle Abril | The Washington Post | "Tech at Work" writer — Big Tech, AI's impact on workers, workplace culture | ✅ Danielle.Abril@washpost.com (Nir-verified) | pending |
 | 66 | Benjamin Guggenheim | The Washington Post / WP Intelligence | author of AI & Tech Brief | ✅ benjamin.guggenheim@washpost.com (Nir-verified) | pending |
 | 67 | Phoebe Connelly | London School of Economics (formerly Washington Post — departed Aug 2025) | former Senior Editor for AI Strategy and Innovation; currently LSE Master's student | ✅ phoebe.connelly@washpost.com (former WaPo email, possibly inactive after Aug 2025 departure) | pending |
+| 68 | Nilesh Christopher | Los Angeles Times / Tarbell Center AI Journalism Fellow | technology reporter | ✅ nileshchristopher.work@gmail.com (Nir-verified — story ideas, commissions, media) | pending |
 
 ## Newsletter writers / commentators
 
