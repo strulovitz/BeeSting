@@ -14,6 +14,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 |---|------|--------|------|-------|--------|
 | 1 | Hadas Gold | CNN | media / Big Tech | ✅ hadas.gold@cnn.com (Nir-verified 2026-04-30) | pending |
 | 2 | Clare Duffy | CNN Business / Terms of Service podcast | tech reporter | ✅ clare.duffy@cnn.com (Nir-verified) | pending |
+| 3 | Donie O'Sullivan | CNN | politics / technology correspondent | ✅ donie.osullivan@cnn.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
