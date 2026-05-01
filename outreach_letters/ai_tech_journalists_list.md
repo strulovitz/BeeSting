@@ -90,6 +90,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 76 | Robin Washington | Minnesota Star Tribune (contributing columnist) / The Forward (Editor-at-Large) | columnist | ✅ robin@robinwashington.com (primary) / rwashington@forward.com (Forward Editor-at-Large) (Nir-verified) | pending |
 | 77 | Steve Grove | Minnesota Star Tribune | CEO and Publisher | ✅ Steve.Grove@startribune.com (Nir-verified) | pending |
 | 78 | Dandan Zou | Newsday | education reporter | ✅ dandan.zou@newsday.com (Nir-verified) | pending |
+| 79 | Victor Ocasio | Newsday | business reporter — labor and employment | ✅ victor.ocasio@newsday.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
