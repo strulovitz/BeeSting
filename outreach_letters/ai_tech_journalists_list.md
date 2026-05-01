@@ -154,6 +154,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 140 | Aisha Malik | TechCrunch | Senior Consumer News Writer | ✅ aisha@techcrunch.com (Nir-verified) | pending |
 | 141 | Lauren Forristal | TechCrunch | reporter — media, streaming, apps, platforms | ✅ laurenf.techcrunch@gmail.com (primary pitch) / lauren@techcrunch.com (alternate) (Nir-verified) | pending |
 | 142 | Amanda Silberling | TechCrunch | senior writer | ✅ amanda@techcrunch.com (Nir-verified) | pending |
+| 143 | Julie Bort | TechCrunch | Startups/Venture Desk editor | ✅ julie.bort@techcrunch.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
