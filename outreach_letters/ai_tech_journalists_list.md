@@ -54,6 +54,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 40 | Wilson Rothman | The Wall Street Journal | Deputy Tech & Media Editor | ✅ wilson.rothman@wsj.com (Nir-verified) | pending |
 | 41 | Meghan Bobrowsky | The Wall Street Journal (San Francisco) | tech reporter — Meta and social media | ✅ meghan.bobrowsky@wsj.com (Nir-verified) | pending |
 | 42 | Robert McMillan | The Wall Street Journal | reporter — cybersecurity and privacy | ✅ robert.mcmillan@wsj.com (Nir-verified) | pending |
+| 43 | Isabella Simonetti | The Wall Street Journal | media reporter | ✅ isabella.simonetti@wsj.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
