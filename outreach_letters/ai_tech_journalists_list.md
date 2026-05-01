@@ -32,6 +32,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 18 | Jo Ling Kent | CBS News (Los Angeles) | Senior Business and Technology Correspondent | ✅ kentj@cbsnews.com (Nir-verified) | pending |
 | 19 | Robert Costa | CBS News / CBS Sunday Morning | correspondent | ✅ hello@sunday-morning.com (CBS Sunday Morning) / bfrancesco@press.org (Beth Francesco, National Press Club Journalism Institute — media/press requests) — direct personal not publicly listed | pending |
 | 20 | Scott Pelley | CBS News / 60 Minutes | correspondent | ✅ 60m@cbsnews.com (60 Minutes general inbox) / PahzN@cbs.com (Natalie Pahz, press inquiries — Paramount Press Express) — direct personal not publicly listed | pending |
+| 21 | Lana Zak | CBS News 24/7 (New York) | anchor / national correspondent | ✅ lana.zak@cbsnews.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
