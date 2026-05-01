@@ -63,6 +63,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 49 | Rachel Barber | USA TODAY | reporter — economy and personal finance | ✅ rbarber@usatoday.com (Nir-verified) | pending |
 | 50 | Medora Lee | USA TODAY | reporter | ✅ mjlee@usatoday.com (Nir-verified) | pending |
 | 51 | Alyssa Goldberg | USA TODAY (New York) | wellness reporter | ✅ agoldberg@usatoday.com (Nir-verified) | pending |
+| 52 | Ingrid Jacques | USA TODAY | columnist | ✅ ijacques@usatoday.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
