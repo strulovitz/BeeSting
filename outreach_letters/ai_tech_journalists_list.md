@@ -44,6 +44,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 30 | Alan Kohler | ABC (Australia) / The Money Café Podcast | finance / business | ✅ themoneycafe@intelligentinvestor.com.au (show email) — direct personal not publicly listed | pending |
 | 31 | Mike (Michael) Dobuski | ABC News | technology reporter | ✅ michael.dobuski@abc.com (Nir-verified work email) / michael.dobuski@abcnews.com (alternative ABC domain) | pending |
 | 32 | Belle Lin | The Wall Street Journal | reporter | ✅ belle.lin@wsj.com (Nir-verified) | pending |
+| 33 | Sebastian Herrera | The Wall Street Journal (departed late April 2026) | technology reporter (former) | ✅ sebastian.herrera@wsj.com (former WSJ work email — possibly inactive after April 2026 departure) | pending |
 
 ## Newsletter writers / commentators
 
