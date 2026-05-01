@@ -158,6 +158,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 144 | Mary Ann Azevedo | freelance (formerly TechCrunch senior reporter, departed mid-2025) | freelance journalist — fintech, Latin American startups | ✅ maryann@techcrunch.com (historical/active for tips) / maryannazev@gmail.com (freelance/personal) (Nir-verified) | pending |
 | 145 | Dominic-Madori Davis | TechCrunch | senior reporter — venture capital and startups | ✅ dominic.davis@techcrunch.com (Nir-verified) | pending |
 | 146 | Marina Temkin | TechCrunch | reporter | ✅ marina.temkin@techcrunch.com (Nir-verified) | pending |
+| 147 | Margaux MacColl | TechCrunch | reporter | ✅ margaux.maccoll@techcrunch.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
