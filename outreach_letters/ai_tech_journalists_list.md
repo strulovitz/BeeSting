@@ -30,6 +30,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 16 | Brandy Zadrozny | NBC News / MS NOW | senior reporter, information wars / disinfo | ✅ brandy.zadrozny@nbcuni.com (Nir-verified, tips line) | pending |
 | 17 | Rebecca Kutler | MS NOW (formerly MSNBC) | President | ✅ Rebecca.Kutler@nbcuni.com / rebecca.kutler@msnbc.com (Nir-verified) | pending |
 | 18 | Jo Ling Kent | CBS News (Los Angeles) | Senior Business and Technology Correspondent | ✅ kentj@cbsnews.com (Nir-verified) | pending |
+| 19 | Robert Costa | CBS News / CBS Sunday Morning | correspondent | ✅ hello@sunday-morning.com (CBS Sunday Morning) / bfrancesco@press.org (Beth Francesco, National Press Club Journalism Institute — media/press requests) — direct personal not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
