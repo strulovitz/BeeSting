@@ -21,6 +21,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 7 | Brooke Taylor | Fox News (Dallas) | National Correspondent | ✅ brooke.taylor@fox.com (Nir-verified) | pending |
 | 8 | Kurt "CyberGuy" Knutsson | Fox News / CyberGuy.com | tech contributor | ✅ help@cyberguy.com (Nir-verified) | pending |
 | 9 | Danamarie McNicholl | Fox News Channel (Miami) | correspondent | ✅ regan.bruno@fox.com (her publicist — direct not listed) / viewer.services@fox.com (general fallback) | pending |
+| 10 | Rich Edson | Fox News Channel | Senior National Correspondent | ✅ rich.edson@protonmail.com (news tips, Nir-verified) / ❓ rich.edson@fox.com (pattern-derived first.last@fox.com, unverified) / viewer.services@fox.com (general) / Irena.Briganti@fox.com (Media Relations) / Porter.Berry@fox.com (Digital Corrections) | pending |
 
 ## Newsletter writers / commentators
 
