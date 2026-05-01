@@ -34,6 +34,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 20 | Scott Pelley | CBS News / 60 Minutes | correspondent | ✅ 60m@cbsnews.com (60 Minutes general inbox) / PahzN@cbs.com (Natalie Pahz, press inquiries — Paramount Press Express) — direct personal not publicly listed | pending |
 | 21 | Lana Zak | CBS News 24/7 (New York) | anchor / national correspondent | ✅ lana.zak@cbsnews.com (Nir-verified) | pending |
 | 22 | Tony Dokoupil | CBS News / CBS Evening News | anchor | ✅ dokoupilt@cbsnews.com (Nir-verified) | pending |
+| 23 | Jared Perlo | NBC News | tech reporter, AI beat | ✅ tips@nbcuni.com (general NBC newsroom tips) / Signal: jperlo / LinkedIn: linkedin.com/in/jperlo — direct corporate email not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
