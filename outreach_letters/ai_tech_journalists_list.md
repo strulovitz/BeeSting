@@ -150,6 +150,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 136 | Kirsten Korosec | TechCrunch | reporter | ✅ kirsten.korosec@techcrunch.com (Nir-verified) | pending |
 | 137 | Sean O'Kane | TechCrunch | Senior Reporter | ✅ sean.okane@techcrunch.com (Nir-verified) | pending |
 | 138 | Tim De Chant | TechCrunch | Senior Climate Reporter | ✅ tim.dechant@techcrunch.com (Nir-verified) | pending |
+| 139 | Sarah Perez | TechCrunch | Consumer News Editor | ✅ sarahp@techcrunch.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
