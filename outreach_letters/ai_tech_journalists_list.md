@@ -129,6 +129,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 115 | Kevin McLaughlin | The Information | reporter | ✅ kevin@theinformation.com (Nir-verified) | pending |
 | 116 | Anissa Gardizy | The Information | reporter — cloud computing and infrastructure | ✅ anissa@theinformation.com (Nir-verified) | pending |
 | 117 | Theo Wayt | The Information | reporter | ✅ theo@theinformation.com (Nir-verified) | pending |
+| 118 | Erin Woo | The Information (San Francisco) | reporter — covers Google and Alphabet | ✅ erin@theinformation.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
