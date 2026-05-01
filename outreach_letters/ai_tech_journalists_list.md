@@ -22,6 +22,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 8 | Kurt "CyberGuy" Knutsson | Fox News / CyberGuy.com | tech contributor | ✅ help@cyberguy.com (Nir-verified) | pending |
 | 9 | Danamarie McNicholl | Fox News Channel (Miami) | correspondent | ✅ regan.bruno@fox.com (her publicist — direct not listed) / viewer.services@fox.com (general fallback) | pending |
 | 10 | Rich Edson | Fox News Channel | Senior National Correspondent | ✅ rich.edson@protonmail.com (news tips, Nir-verified) / viewer.services@fox.com (general) / Irena.Briganti@fox.com (Media Relations) / Porter.Berry@fox.com (Digital Corrections) | pending |
+| 11 | Ali Velshi | MSNBC (MSNOW) / Velshi & Ruhle | broadcast / business / news | ✅ mystory@velshi.com (viewer stories) / velshiruhle@ms.now (show) / velshiruhlequestions@msnbc.com (show questions) / ali.velshi@nbcuni.com (work, ContactOut-listed) / ali@velshi.com (personal, ContactOut-listed) | pending |
 
 ## Newsletter writers / commentators
 
