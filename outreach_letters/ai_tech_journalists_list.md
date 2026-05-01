@@ -97,6 +97,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 83 | Claire Malon | Chicago Tribune | reporter | ✅ cmalon@chicagotribune.com (Nir-verified) | pending |
 | 84 | Caroline Kubzansky | Chicago Tribune | reporter | ✅ ckubzansky@chicagotribune.com (Nir-verified) | pending |
 | 85 | Gregory Royal Pratt | Chicago Tribune | investigative reporter | ✅ gpratt@chicagotribune.com (Nir-verified) | pending |
+| 86 | Alex Halverson | The Seattle Times | reporter | ✅ ahalverson@seattletimes.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
