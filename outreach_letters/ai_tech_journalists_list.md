@@ -24,6 +24,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 10 | Rich Edson | Fox News Channel | Senior National Correspondent | ✅ rich.edson@protonmail.com (news tips, Nir-verified) / viewer.services@fox.com (general) / Irena.Briganti@fox.com (Media Relations) / Porter.Berry@fox.com (Digital Corrections) | pending |
 | 11 | Ali Velshi | MSNBC (MSNOW) / Velshi & Ruhle | broadcast / business / news | ✅ mystory@velshi.com (viewer stories) / velshiruhle@ms.now (show) / velshiruhlequestions@msnbc.com (show questions) / ali.velshi@nbcuni.com (work, ContactOut-listed) / ali@velshi.com (personal, ContactOut-listed) | pending |
 | 12 | Chris Jansing | MS NOW / Chris Jansing Reports | broadcast / news anchor | ✅ brian.drew2@nbcuni.com (her booking producer) / msnowinfo@ms.now (general network) / msnbctvinfo@nbcuni.com (customer service) / msnowpress@ms.now (press inquiries) — direct email not publicly listed | pending |
+| 13 | Peter Alexander | MS NOW (joined late March 2026, formerly NBC News) | anchor / chief national reporter | ✅ newsroom@wjournalpr.com (MS NOW Newsroom) / peter.alexander@nbcuni.com (former NBC, possibly inactive after March 2026 exit) / tips@nbcuni.com (general NBC tips) | pending |
 
 ## Newsletter writers / commentators
 
