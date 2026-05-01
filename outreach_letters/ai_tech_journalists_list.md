@@ -145,6 +145,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 131 | Karyne Levy | VentureBeat (since Nov 2025, formerly TechCrunch Deputy Managing Editor through Oct 2025) | Managing Editor | ✅ karyne@venturebeat.com (Nir-verified) | pending |
 | 132 | Russell Brandom | TechCrunch (joined Aug 2025) | AI Editor — AI, policy, emerging technologies | ✅ russell.brandom@techcrunch.com (Nir-verified) | pending |
 | 133 | Zack Whittaker | TechCrunch | Security Editor | ✅ zack.whittaker@techcrunch.com (Nir-verified) | pending |
+| 134 | Lorenzo Franceschi-Bicchierai | TechCrunch | Senior Writer | ✅ lorenzo@techcrunch.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
