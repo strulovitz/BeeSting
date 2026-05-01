@@ -126,6 +126,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 112 | Martin Peers | The Information | Co-Executive Editor; author of The Briefing nightly newsletter | ✅ hello@theinformation.com (Nir-verified) | pending |
 | 113 | Jing Yang | The Information | Asia Bureau Chief | ✅ Jing@theinformation.com (Nir-verified) | pending |
 | 114 | Stephanie Palazzolo | The Information | AI reporter | ✅ stephanie@theinformation.com (Nir-verified) | pending |
+| 115 | Kevin McLaughlin | The Information | reporter | ✅ kevin@theinformation.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
