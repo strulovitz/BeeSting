@@ -26,6 +26,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 12 | Chris Jansing | MS NOW / Chris Jansing Reports | broadcast / news anchor | ✅ brian.drew2@nbcuni.com (her booking producer) / msnowinfo@ms.now (general network) / msnbctvinfo@nbcuni.com (customer service) / msnowpress@ms.now (press inquiries) — direct email not publicly listed | pending |
 | 13 | Peter Alexander | MS NOW (joined late March 2026, formerly NBC News) | anchor / chief national reporter | ✅ newsroom@wjournalpr.com (MS NOW Newsroom) / peter.alexander@nbcuni.com (former NBC, possibly inactive after March 2026 exit) / tips@nbcuni.com (general NBC tips) | pending |
 | 14 | Ali Vitali | MSNBC / Way Too Early | host / political reporter | ✅ waytooearly@msnbc.com (show email) — direct personal not publicly listed | pending |
+| 15 | Vaughn Hillyard | MSNBC / CNBC / NBC News | Senior White House Correspondent | ✅ MSNBC.Communications@nbcuni.com (MSNBC PR team) — direct personal not publicly listed | pending |
 
 ## Newsletter writers / commentators
 
