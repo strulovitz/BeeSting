@@ -16,6 +16,8 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 2 | Clare Duffy | CNN Business / Terms of Service podcast | tech reporter | ✅ clare.duffy@cnn.com (Nir-verified) | pending |
 | 3 | Donie O'Sullivan | CNN | politics / technology correspondent | ✅ donie.osullivan@cnn.com (Nir-verified) | pending |
 | 4 | Anna Stewart | CNN International (London) | correspondent / presenter | ✅ anna.stewart@turner.com (Nir-verified) | pending |
+| 5 | Lisa Eadicicco | CNN | tech | ✅ comments@cnn.com (fallback — direct email not found) | pending |
+| 6 | Rachel Crane | CNN | tech / science | ✅ comments@cnn.com (fallback — direct email not found) | pending |
 
 ## Newsletter writers / commentators
 
