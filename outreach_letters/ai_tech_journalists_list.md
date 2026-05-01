@@ -27,6 +27,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 13 | Peter Alexander | MS NOW (joined late March 2026, formerly NBC News) | anchor / chief national reporter | ✅ newsroom@wjournalpr.com (MS NOW Newsroom) / peter.alexander@nbcuni.com (former NBC, possibly inactive after March 2026 exit) / tips@nbcuni.com (general NBC tips) | pending |
 | 14 | Ali Vitali | MSNBC / Way Too Early | host / political reporter | ✅ waytooearly@msnbc.com (show email) — direct personal not publicly listed | pending |
 | 15 | Vaughn Hillyard | MSNBC / CNBC / NBC News | Senior White House Correspondent | ✅ MSNBC.Communications@nbcuni.com (MSNBC PR team) — direct personal not publicly listed | pending |
+| 16 | Brandy Zadrozny | NBC News / MS NOW | senior reporter, information wars / disinfo | ✅ brandy.zadrozny@nbcuni.com (Nir-verified, tips line) | pending |
 
 ## Newsletter writers / commentators
 
