@@ -135,6 +135,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 121 | Jemima McEvoy | The Information | reporter | ✅ jemima@theinformation.com (Nir-verified) | pending |
 | 122 | Katie Roof | The Information | Deputy Bureau Chief of Venture Capital | ✅ Katie.Roof@theinformation.com (Nir-verified) | pending |
 | 123 | Cory Weinberg | The Information | Deputy Bureau Chief of Finance — business of AI, IPOs, corporate finance | ✅ cory@theinformation.com (Nir-verified) | pending |
+| 124 | Megan McCarthy | Reviewed (currently Executive Editor, Growth) / Techmeme (former first human editor) | editor | ✅ megan.mccarthy@reviewed.com (current) / editorial@techmeme.com (Techmeme editorial) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
