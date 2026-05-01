@@ -103,6 +103,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 89 | Rachel Metz | Bloomberg News | AI reporter | ✅ rmetz17@bloomberg.net (Nir-verified) | pending |
 | 90 | Shirin Ghaffary | Bloomberg News | AI reporter | ✅ sghaffary@bloomberg.net (Nir-verified) | pending |
 | 91 | Dina Bass | Bloomberg News | reporter | ✅ dbass2@bloomberg.net (Nir-verified) | pending |
+| 92 | Leonardo Nicoletti | Bloomberg News | reporter | ✅ lnicoletti3@bloomberg.net (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
