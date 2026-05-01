@@ -127,6 +127,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 113 | Jing Yang | The Information | Asia Bureau Chief | ✅ Jing@theinformation.com (Nir-verified) | pending |
 | 114 | Stephanie Palazzolo | The Information | AI reporter | ✅ stephanie@theinformation.com (Nir-verified) | pending |
 | 115 | Kevin McLaughlin | The Information | reporter | ✅ kevin@theinformation.com (Nir-verified) | pending |
+| 116 | Anissa Gardizy | The Information | reporter — cloud computing and infrastructure | ✅ anissa@theinformation.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
