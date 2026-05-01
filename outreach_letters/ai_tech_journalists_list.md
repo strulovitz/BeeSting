@@ -114,6 +114,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 100 | Caroline Hyde | Bloomberg | anchor | ✅ chyde3@bloomberg.net (Nir-verified) | pending |
 | 101 | Nate Lanxon | Bloomberg News (London) | Technology Editor | ✅ lanxon@icloud.com (primary) / nate.lanxon@gmail.com (secondary) (Nir-verified) | pending |
 | 102 | Marc Cieslak | BBC | tech reporter | ✅ voices@talkingheadsvoices.com (Talking Heads Voices agency) / yourvoice@bbc.co.uk (general BBC News) — direct personal not publicly listed | pending |
+| 103 | Zoe Kleinman | BBC News | Technology Editor | ✅ hello@zoekleinman.com (primary) / techlife@bbc.co.uk (Tech Life show) / businessdaily@bbc.co.uk (Business Daily) (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
