@@ -58,6 +58,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 44 | Cade Metz | The New York Times | reporter | ✅ cade.metz@nytimes.com (Nir-verified) | pending |
 | 45 | Kashmir Hill | The New York Times | reporter | ✅ kashmir.hill@nytimes.com / kashhill@protonmail.com (tips, secure) (Nir-verified) | pending |
 | 46 | Kevin Roose | The New York Times / Hard Fork podcast | technology columnist | ✅ kevin.roose@nytimes.com (general NYT) / hardfork@nytimes.com (Hard Fork podcast) / speaking@kevinroose.com (speaking & media) (Nir-verified) | pending |
+| 47 | Natasha Singer | The New York Times | technology reporter | ✅ nsinger@nytimes.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
