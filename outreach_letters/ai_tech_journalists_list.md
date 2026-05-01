@@ -131,6 +131,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 117 | Theo Wayt | The Information | reporter | ✅ theo@theinformation.com (Nir-verified) | pending |
 | 118 | Erin Woo | The Information (San Francisco) | reporter — covers Google and Alphabet | ✅ erin@theinformation.com (Nir-verified) | pending |
 | 119 | Sahil Patel | The Information | reporter — business of media and entertainment | ✅ sahil@theinformation.com (Nir-verified) | pending |
+| 120 | Abram Brown | The Information | reporter | ✅ abe@theinformation.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
