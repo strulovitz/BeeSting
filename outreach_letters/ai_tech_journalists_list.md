@@ -49,6 +49,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 35 | Kate Clark | The Wall Street Journal | tech reporter — startups, VC, AI | ✅ kate.clark@wsj.com (Nir-verified) | pending |
 | 36 | Berber Jin | The Wall Street Journal | reporter | ✅ berber.jin@wsj.com (Nir-verified) | pending |
 | 37 | Asa Fitch | The Wall Street Journal | reporter — semiconductors and AI | ✅ asa.fitch@wsj.com (Nir-verified) | pending |
+| 38 | Christopher Mims | The Wall Street Journal | technology columnist | ✅ christopher.mims@wsj.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
