@@ -107,6 +107,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 93 | Parmy Olson | Bloomberg | columnist | ✅ polson29@bloomberg.net (Nir-verified, as of May 2026) | pending |
 | 94 | Agnee Ghosh | Bloomberg | reporter | ✅ aghosh210@bloomberg.net (Nir-verified) | pending |
 | 95 | Alexandra S. Levine | Bloomberg | tech reporter | ✅ alevine136@bloomberg.net (Nir-verified) | pending |
+| 96 | Mackenzie Hawkins | Bloomberg | reporter | ✅ mhawkins71@bloomberg.net (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
