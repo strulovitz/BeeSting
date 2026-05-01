@@ -110,6 +110,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 96 | Mackenzie Hawkins | Bloomberg | reporter | ✅ mhawkins71@bloomberg.net (Nir-verified) | pending |
 | 97 | Leon Yin | Bloomberg News | Investigative Data Journalist | ✅ tips2@bloomberg.net (Bloomberg Tips — direct email not publicly listed) | pending |
 | 98 | Saritha Rai | Bloomberg | reporter | ✅ SRai33@bloomberg.net (Nir-verified) | pending |
+| 99 | Ed Ludlow | Bloomberg Technology | co-anchor | ✅ eludlow2@bloomberg.net (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
