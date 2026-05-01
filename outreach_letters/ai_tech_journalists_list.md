@@ -18,6 +18,7 @@ Recipients for `ai_tech_journalists_template.md` (BeeSting Episode 2 / Big AI).
 | 4 | Anna Stewart | CNN International (London) | correspondent / presenter | ✅ anna.stewart@turner.com (Nir-verified) | pending |
 | 5 | Lisa Eadicicco | CNN | tech | ✅ comments@cnn.com (fallback — direct email not found) | pending |
 | 6 | Rachel Crane | CNN | tech / science | ✅ comments@cnn.com (fallback — direct email not found) | pending |
+| 7 | Brooke Taylor | Fox News (Dallas) | National Correspondent | ✅ brooke.taylor@fox.com (Nir-verified) | pending |
 
 ## Newsletter writers / commentators
 
