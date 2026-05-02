@@ -73,7 +73,7 @@ History stays in the subject. The body opens directly with the artifact.
 
 Dear [Names — to be filled per recipient list],
 
-What follows is not another story you have heard before. THE HIVE is not LangChain. It is not Petals. It is not federated learning. It is not an agent framework. It is not a Big AI cloud with a thinner client. The FAQ further down in this letter addresses each of those comparisons head-on, so the reflex you may feel to file this in a folder you already have can be checked against the actual architecture. Layman explanation first. China's use of it second. FAQ third. Technical detail fourth. Read all four before deciding what this is.
+THE HIVE is a new invention. It is not similar to anything you already know. See the FAQ further down in this letter.
 
 **WHAT THE HIVE IS — IN PLAIN ENGLISH**
 
