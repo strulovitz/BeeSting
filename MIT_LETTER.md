@@ -113,19 +113,25 @@ For the chapter-by-chapter walkthrough of each collapse, the free book *MadHoney
 
 Before your gut reaches for the obvious comparisons, here is why each of them is wrong.
 
-- It is **NOT LangChain / CrewAI / AutoGen / agent frameworks.** Those run on a single machine and chain tools together. THE HIVE is millions of independent machines each running a complete model.
-- It is **NOT Petals / Exo / split-model frameworks.** Those use tensor parallelism or pipeline parallelism to split one model across a few machines that must sit in the same room with low-latency networking. THE HIVE places a complete independent model on each node and operates across continents — using task parallelism, not tensor or pipeline parallelism.
-- It is **NOT federated learning.** Federated learning trains a model across distributed data. THE HIVE runs already-trained models for inference, at planet scale, with no central coordinator.
+- **THE HIVE DOES INFERENCE ONLY. IT DOES NOT TRAIN ANY MODEL.** Every comparison that involves training — federated learning, distributed training, multi-machine training — is irrelevant. The hive runs already-trained models. Nothing more.
+
+- It is **NOT Petals / Exo / split-model frameworks.** Those use tensor parallelism or pipeline parallelism to split one model across a few machines that must sit in the same room with low-latency networking. THE HIVE uses task parallelism — each worker runs a complete independent model on its own — and operates across continents.
+
+- It is **NOT LangChain / CrewAI / AutoGen — and it is NOT an agent framework, NOT "agentic AI."** Those run on a single machine and chain tools or "agents" together inside one process or one box. THE HIVE is millions of separate physical machines, each running a complete model on its own hardware, coordinated by queens.
+
+- It is **NOT many processes on one machine competing for the same CPU / GPU / RAM.** Every worker is a separate physical computer with its own CPU, GPU, RAM, disk, and network connection. There is no resource contention because the resources are not shared.
+
 - It is **NOT a Big AI cloud with a thin client.** There is no central datacenter, no central operator, no central choke point, no entity that can pull the plug.
+
 - It is **NOT a paper.** It is working open-source code on GitHub today. The book *MadHoney* documents how it was built and how it was tested in dedicated chapters.
 
-If you suspect this is something you have already seen, please ask your favorite frontier cloud AI assistant to read the GitHub repositories linked at the bottom of this letter and ask it directly: *"Is this the same thing as Petals / LangChain / federated learning, or is it something new?"* In five minutes it will tell you it is new.
+If you suspect this is something you have already seen, please ask your favorite frontier cloud AI assistant to read the GitHub repositories linked at the bottom of this letter and ask it directly: *"Is this anything like Petals, LangChain, agent frameworks, or any other distributed-AI work I already know — or is it something new?"* In five minutes it will tell you it is new.
 
 **HOW IT WORKS — TECHNICAL**
 
-THE HIVE does inference only — it does not train models. The parallelism it uses is **task parallelism**: NOT tensor parallelism, NOT pipeline parallelism. Tensor parallelism (splitting a single layer's matrices across devices) and pipeline parallelism (placing different layers of the same model on different devices and pipelining tokens through them) — which is what Petals does — both require the participating machines to sit in the same room with low-latency networking. THE HIVE does neither. It splits one *task* into independent sub-tasks, and each sub-task is answered in full by one ordinary consumer computer running its own complete AI model.
+THE HIVE uses **task parallelism**. One task is decomposed into independent sub-tasks. Each sub-task is answered in full by one ordinary consumer computer running its own complete AI model. The answers are then assembled into the final result.
 
-**One hive, in plain terms.** A node called a *queen* receives a task. The queen decomposes the task into independent sub-tasks. The queen dispatches each sub-task to a *worker* — an ordinary laptop, desktop, or small home server running the open-source client. Each worker answers its sub-task using its own complete model. The queen collects the answers and assembles the final result. Workers never talk to each other. Workers share no state. Workers do not need low-latency links between themselves.
+**One hive, in plain terms.** A node called a *queen* receives a task. The queen decomposes it into independent sub-tasks. The queen dispatches each sub-task to a *worker* — an ordinary laptop, desktop, or small home server running the open-source client. Each worker is a separate physical machine with its own CPU, GPU, RAM, disk, and network connection. Each worker answers its sub-task using its own complete model on its own hardware. The queen collects the answers and assembles the final result.
 
 **The recursive building-block insight — hives stack.** A whole hive, viewed from outside, looks identical to a single worker: it receives a task and returns an answer. So *a whole hive can serve as the worker of a higher queen.* That higher queen plus its hive-workers is itself one bigger hive — which can in turn serve as the worker of an even higher queen.
 
