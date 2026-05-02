@@ -108,13 +108,22 @@ The register is existential / patriotic / civilizational, not academic-collabora
 
 ### Every letter must include these 5 links (do not make recipients hunt)
 
-1. YouTube video **BeeSting Episode 2**
-2. YouTube video **BeeSting Episode 1**
-3. **README of the book** (table of contents — `MadHoney` README on GitHub)
+1. **BeeSting Episode 2** — *I Built The AI That Combines Millions Of Smaller AIs Into One. China Is Next.*
+   → https://www.youtube.com/watch?v=zuIjV9vQwf0
+2. **BeeSting Episode 1** — *I Built The Unjammable Drone Swarm. China Is Next.*
+   → https://www.youtube.com/watch?v=SBk_1TKV9vc
+3. **MadHoney book README** (table of contents)
+   → https://github.com/strulovitz/MadHoney/blob/main/README.md
 4. **KillerBee** repo (server side)
+   → https://github.com/strulovitz/KillerBee
 5. **GiantHoneyBee** repo (client side)
+   → https://github.com/strulovitz/GiantHoneyBee
 
 Making them search for the GitHub undermines the goal. Put it in their hand.
+
+### Research division of labor — LOCKED
+
+Nir does all "yellow-pages" work via Google AI Search (free, high quality). Claude does NOT research who the top AI experts are, does NOT look up emails, does NOT play directory. Claude's job is: **subject lines, letter drafting, iteration on Nir's feedback, saving everything to GitHub.** Nir feeds Claude the names + emails. Claude composes.
 
 ### Cadence
 
