@@ -6,7 +6,7 @@
 
 ## Subject (LOCKED — Nir's exact words)
 
-> MIT saved America in WWII (Rad-Lab) and the Moon (Apollo's computer). But this time it's CRITICAL: stop China's next evolution in AI - THE HIVE
+> I solved the AI alignment problem — and the same architecture lets China beat America in days
 
 ---
 
