@@ -173,7 +173,7 @@ I do not write this as a threat. I write it as the rational next step for an inv
 
 I prefer the friendly way. A friendly university — MIT first — proves to the new Military-Industrial Complex that THE HIVE is not a dream, it is a very real nightmare. The Military-Industrial Complex moves to retire the threat. The American Big AI will pay me the peanuts I am demanding to remove this threat forever. America wakes up and it was only a dream.
 
-The figure I am asking is small relative to what Big AI loses if THE HIVE reaches China. Small relative to what OpenClaw's and MoltBook's inventors received. Small relative to one quarter's revenue at any of the four labs. Peanuts.
+The figure I am asking is small relative to what Big AI loses if THE HIVE reaches China. Peanuts.
 
 **THE STAKES IF THIS DOES NOT HAPPEN SOON**
 
