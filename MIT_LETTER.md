@@ -109,8 +109,6 @@ China has half a billion computers and the institutional capacity to coordinate 
 
 When this happens, America becomes Tibet 2. America becomes Hong Kong 2. America becomes the slave economy for whatever China decides to do with its new compute base.
 
-The first shoe has already dropped publicly. On February 27, 2026, the US government designated one of the four Big AI labs a *"national security supply chain risk"* — for refusing to expand its model use for autonomous weapons and domestic mass surveillance. A federal judge called it *"classic First Amendment retaliation."* While that internal war consumed the American AI industry, China continued installing its open-source AI — and its potential sleeper-agent backdoors — into 30% of the world's AI infrastructure. Undistracted. Methodical.
-
 For the chapter-by-chapter walkthrough of each collapse, the free book *MadHoney* has one chapter per industry, addressed by name. README link at the bottom of this letter.
 
 **FAQ — IT IS NOT WHAT YOU ALREADY KNOW**
