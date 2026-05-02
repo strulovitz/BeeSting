@@ -140,8 +140,8 @@ In organizational terms: a queen manages workers the way a team lead manages sta
 This is why **the same code that runs on a few laptops in a home test runs at national scale on half a billion machines across continents — without modification.** Adding capacity means adding more workers, more queens, more layers. There is no central machine that has to grow. There is no rewrite at scale.
 
 The two repositories with the working code:
-- **KillerBee** — the queen / server side
-- **GiantHoneyBee** — the worker / client side
+- **KillerBee**
+- **GiantHoneyBee**
 
 **THE WALL — AND WHY MIT IS THE WAY THROUGH IT**
 
@@ -191,9 +191,9 @@ The free book *MadHoney* walks the entire argument chapter by chapter, including
   https://www.youtube.com/watch?v=SBk_1TKV9vc
 - *MadHoney* book README (table of contents):
   https://github.com/strulovitz/MadHoney/blob/main/README.md
-- KillerBee repo (queen / server side):
+- KillerBee repo:
   https://github.com/strulovitz/KillerBee
-- GiantHoneyBee repo (worker / client side):
+- GiantHoneyBee repo:
   https://github.com/strulovitz/GiantHoneyBee
 
 Sincerely,
