@@ -33,7 +33,7 @@ History stays in the subject. The body opens directly with the artifact.
 
 2. **What China will do with it + disastrous implications for America.** Direct, specific. For anyone who wants to dig deeper, **refer to the free book** (MadHoney README link).
 
-3. **The technical explanation — how it works.** Architecture: complete independent AI models running on millions of separate consumer machines across continents, coordinated into one brain, no sync, no central anything, open source. (And: this is not Petals/Exo/LangChain/CrewAI/federated learning — short rebuttal here so a recipient asking a Big AI assistant "is this just Petals?" gets the same destruction we would give. *(Nir to confirm whether this rebuttal stays in or gets cut.)*)
+3. **The technical explanation — how it works.** Architecture: complete independent AI models running on millions of separate consumer machines across continents, coordinated by a hierarchy of queen nodes via the Buzzing and Waggle Dance protocols. No synchronous coupling between worker nodes. No central operator, no central datacenter, no global kill switch. Open source. (And: this is not Petals/Exo/LangChain/CrewAI/federated learning — short rebuttal here so a recipient asking a Big AI assistant "is this just Petals?" gets the same destruction we would give.)
 
 4. **The wall I am hitting — and why MIT is the way through it.** Without a small live demo on real hardware, the first AND last demo America will see is China activating this at full scale. MIT can serve as the **knowledge mediator** — they have the standing to be heard that an outside individual does not. Verification is cheap: a Big AI assistant can read the GitHub and confirm "yes, this works" in 5 minutes. The cost of MIT's verification is one day. The cost of NOT verifying is the country.
 
@@ -99,7 +99,7 @@ For deeper detail on each of these mechanisms, the free book *MadHoney* walks th
 Before your gut reaches for the obvious comparisons, here is why each of them is wrong.
 
 - It is **NOT LangChain / CrewAI / AutoGen / agent frameworks.** Those run on a single machine and chain tools together. THE HIVE is millions of independent machines each running a complete model.
-- It is **NOT Petals / Exo / split-model frameworks.** Those split one model across a few machines that must sit in the same room with low-latency networking. THE HIVE places a complete independent model on each node and operates across continents with no synchronization between nodes.
+- It is **NOT Petals / Exo / split-model frameworks.** Those split one model across a few machines that must sit in the same room with low-latency networking. THE HIVE places a complete independent model on each node and operates across continents with no synchronous coupling between worker nodes.
 - It is **NOT federated learning.** Federated learning trains a model across distributed data. THE HIVE runs already-trained models for inference, at planet scale, with no central coordinator.
 - It is **NOT a Big AI cloud with a thin client.** There is no central datacenter, no central operator, no central choke point, no entity that can pull the plug.
 - It is **NOT a paper.** It is working open-source code on GitHub today, with two videos demonstrating it end-to-end on real hardware.
