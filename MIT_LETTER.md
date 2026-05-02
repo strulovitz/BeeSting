@@ -120,31 +120,17 @@ China has half a billion computers and the institutional capacity to coordinate 
    - Any cartel lab with the hive can synthesize chemically real semaglutide, and the moment fakes work the $127-billion anti-counterfeit industry becomes a stranded asset.
    - The FDA was the moat for fifty years; it is only the front door of the house, and every collapse above bypasses the FDA through windows that are already open.
 
-6. **American Wall Street dies.** Here is what specifically happens to Wall Street:
-   - The big-bank business model survives because no proof of the corruption reaches the public; the hive on a parallel scan extracts every CEO's personal phone, every trader's WhatsApp, every lobbyist's texts with the Banking Committee.
-   - The April 2026 two-trillion-dollar enterprise-software selloff — when Treasury and the Fed summoned every systemically important bank CEO into emergency session — was the rehearsal: they were not afraid of losing money, they were afraid of losing the curtain.
-   - Not money out — evidence out.
+6. **American Wall Street dies.** The two-trillion-dollar enterprise-software selloff in April 2026 — when Treasury Secretary Bessent and Fed Chair Powell summoned every systemically important bank CEO into emergency session — was a rehearsal. The CEOs were not afraid of losing money. *They were afraid of losing the curtain.* The big-bank business model survives because no proof reaches the public. Parallel AI extracts every CEO's personal phone, every trader's WhatsApp, every lobbyist's texts with every member of the Banking Committee. *Not money out. Evidence out.*
 
-7. **American defense contractors die.** Here is what specifically happens to Lockheed, RTX, Northrop, Boeing, and General Dynamics:
-   - The entire American defense business model is engineering simulation — and the free open-source equivalents (OpenFOAM, MuJoCo) run on consumer laptops, with the hive scaling them to defense-cluster capability.
-   - China's Military-Civil Fusion doctrine is the hive in code form — they stole the F-35 blueprints in 2007–2014 and now have the question to ask of those blueprints, not just the answer.
+7. **American defense contractors die.** Lockheed, RTX, Northrop Grumman, Boeing, General Dynamics — entire business model is engineering simulation. Ansys licenses run up to **$320,000 per seat per year**, NVIDIA GPU clusters cost millions, taxpayers fund roughly **$1 trillion a year** for this. The free open-source equivalents — OpenFOAM, MuJoCo, GNU Octave, FreeCAD — run on consumer laptops. China's *Military-Civil Fusion* doctrine, written into their 15th Five-Year Plan, channels civilian computing into military simulation. THE HIVE is Military-Civil Fusion in code form. They stole the F-35 blueprints in 2007–2014. They had the answer. They did not have the question. *Now they have the question.*
 
-8. **American drones die.** Here is what specifically happens to the American drone industry:
-   - A $95 Raspberry Pi running a small AI model is a face-identifying autonomous drone brain, while a General Atomics MQ-9 Reaper costs $32 million.
-   - Chinese factories already make 700,000 FPV drones a month, and with the hive coordinating them, swarms identify targets, confirm from multiple angles, and engage autonomously with the operator on a different continent.
-   - There is no relay signal to jam — the hive does not use one — so every American electronic-warfare doctrine of the last twenty years becomes obsolete.
+8. **American drones die.** A Raspberry Pi 5 at **$95** runs a face-identifying autonomous drone brain. A General Atomics MQ-9 Reaper costs **$32 million**. Chinese factories produce up to **700,000 FPV drones a month**. With THE HIVE coordinating them, swarms identify faces from the air, confirm identity from multiple angles, and engage autonomously. The operator is on a different continent. *There is no sniper to catch. There is no car bomb to trace. There is no relay signal to jam — the hive does not use one.*
 
-9. **American robotics dies.** Here is what specifically happens to Boston Dynamics, Tesla Optimus, and the rest of the American robotics industry:
-   - Boston Dynamics charges $75,000 per humanoid; China's Unitree ships an equivalent for under $20,000 — and China already makes 90% of the world's humanoid robots.
-   - The American premium is justified entirely by training cost (millions of simulated falls on a $6M GPU cluster), and the hive runs the same training in parallel across consumer PCs for free.
+9. **American robotics dies.** Boston Dynamics charges **$75,000** per humanoid. Tesla's Optimus is six figures. China's Unitree ships a humanoid for **under $20,000**. The American cost premium is the training — humanoid AI is taught by simulating the robot falling down a hundred million times in a $6 million GPU cluster. The free open-source physics simulator MuJoCo runs on a regular laptop. *One simulation per consumer PC, four thousand consumer PCs in parallel via THE HIVE, same training, zero cost.* China already produces 90% of the world's humanoid robots. With free training added, the American premium is justified by nothing.
 
-10. **The institutional AI bottleneck dies.** Here is what specifically happens to the institutional safety chokepoint:
-    - Big AI's deepest moat is being the gatekeeper that refuses dangerous queries; the day a free local hive replaces it, the gatekeeper is gone — and the buyer of a $159 home CRISPR kit can ask a free local AI tutor to walk them through pathogen synthesis.
-    - The same removal applies to cyber-attack tooling, deepfake fraud at scale, automated stalking, and ransomware industrialized at the rate of North Korea.
+10. **The institutional AI bottleneck dies.** Big AI's deepest moat is being the chokepoint where dangerous queries get refused, logged, monitored. Every *"I can't help with that"* is the trust premium being earned. A **$159 home CRISPR kit** is on sale right now. Combined with a free local AI tutor walking the buyer through pathogen synthesis step by step — Big AI's chokepoint gone — bioweapon-class capability is in every kitchen with a credit card. The same logic applies to cyber-attack tooling, deepfake fraud at scale, automated stalking, and ransomware industrialized at the rate of North Korea. The gatekeeper is being removed.
 
-11. **The American–European alliance dies.** Here is what specifically happens to the alliance:
-    - Europe's AI policy is downstream of American leadership; the day a Chinese-supplied hive runs on European hardware inside European data-protection law, Brussels pivots — because their citizens' data finally stays where their constitutions said it should.
-    - Silicon Valley loses its second-largest market and its quietest enabler in the same week.
+11. **The American–European alliance dies.** Europe's AI policy is downstream of American leadership. The day a Chinese-supplied hive runs on European hardware inside European data-protection law, Brussels pivots — because their citizens' data finally stays where their constitutions said it should. Silicon Valley loses its second-largest market and its quietest enabler in the same week.
 
 For the chapter-by-chapter walkthrough of each collapse, the free book *MadHoney* has one chapter per industry, addressed by name. README link at the bottom of this letter.
 
