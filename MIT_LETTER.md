@@ -123,11 +123,17 @@ If you suspect this is something you have already seen, please ask your favorite
 
 **HOW IT WORKS — TECHNICAL**
 
-A small number of "queen" nodes accept incoming work. Each queen splits the work into independent sub-tasks that a single complete model can answer. Queens dispatch sub-tasks to "worker" nodes — ordinary consumer machines running the open-source client. Workers answer. Queens aggregate. The queen at the top of the hierarchy returns the final answer. The hierarchy can be arbitrarily deep, so the swarm scales horizontally without any single node holding global state.
+THE HIVE is **task-parallelism**, not model-parallelism. It does not split one AI model across many machines (that is Petals, and it requires those machines to sit in the same room with low-latency networking). It splits one *task* into independent sub-tasks, and each sub-task is answered in full by one ordinary consumer computer running its own complete AI model.
 
-Coordination is documented in the repos. The performance-signaling mechanism between queens and workers is called **Buzzing** — queens evaluate the quality of worker output and route subsequent work accordingly. There is no synchronous communication between worker nodes. There is no shared model state across the swarm. The system is robust to nodes joining and leaving freely — like email, like BitTorrent — and works across continents because it does not require low-latency links between workers.
+**One hive, in plain terms.** A node called a *queen* receives a task. The queen decomposes the task into independent sub-tasks. The queen dispatches each sub-task to a *worker* — an ordinary laptop, desktop, or small home server running the open-source client. Each worker answers its sub-task using its own complete model. The queen collects the answers and assembles the final result. Workers never talk to each other. Workers share no state. Workers do not need low-latency links between themselves.
 
-The two repositories that contain the working code:
+**The recursive building-block insight — hives stack.** A whole hive, viewed from outside, looks identical to a single worker: it receives a task and returns an answer. So *a whole hive can serve as the worker of a higher queen.* That higher queen plus its hive-workers is itself one bigger hive — which can in turn serve as the worker of an even higher queen.
+
+In organizational terms: a queen manages workers the way a team lead manages staff. A higher queen manages team leads the way a director manages middle managers. A higher queen still manages those directors. Arbitrarily many layers. The same shape at every scale.
+
+This is why **the same code that runs on a few laptops in a home test runs at national scale on half a billion machines across continents — without modification.** Adding capacity means adding more workers, more queens, more layers. There is no central machine that has to grow. There is no rewrite at scale.
+
+The two repositories with the working code:
 - **KillerBee** — the queen / server side
 - **GiantHoneyBee** — the worker / client side
 
