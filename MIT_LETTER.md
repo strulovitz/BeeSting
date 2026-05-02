@@ -117,7 +117,7 @@ Before your gut reaches for the obvious comparisons, here is why each of them is
 - It is **NOT Petals / Exo / split-model frameworks.** Those split one model across a few machines that must sit in the same room with low-latency networking. THE HIVE places a complete independent model on each node and operates across continents with no synchronous coupling between worker nodes.
 - It is **NOT federated learning.** Federated learning trains a model across distributed data. THE HIVE runs already-trained models for inference, at planet scale, with no central coordinator.
 - It is **NOT a Big AI cloud with a thin client.** There is no central datacenter, no central operator, no central choke point, no entity that can pull the plug.
-- It is **NOT a paper.** It is working open-source code on GitHub today, with two videos demonstrating it end-to-end on real hardware.
+- It is **NOT a paper.** It is working open-source code on GitHub today. The book *MadHoney* documents how it was built and how it was tested in dedicated chapters.
 
 If you suspect this is something you have already seen, please ask your favorite frontier cloud AI assistant to read the GitHub repositories linked at the bottom of this letter and ask it directly: *"Is this the same thing as Petals / LangChain / federated learning, or is it something new?"* In five minutes it will tell you it is new.
 
