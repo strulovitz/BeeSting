@@ -131,7 +131,7 @@ If you suspect this is something you have already seen, please ask your favorite
 
 THE HIVE uses **task parallelism**. One task is decomposed into independent sub-tasks. Each sub-task is answered in full by one ordinary consumer computer running its own complete AI model. The answers are then assembled into the final result.
 
-**One hive, in plain terms.** A node called a *queen* receives a task. The queen decomposes it into independent sub-tasks. The queen dispatches each sub-task to a *worker* — an ordinary laptop, desktop, or small home server running the open-source client. Each worker is a separate physical machine with its own CPU, GPU, RAM, disk, and network connection. Each worker answers its sub-task using its own complete model on its own hardware. The queen collects the answers and assembles the final result.
+**One hive, in plain terms.** A computer called a *queen* receives a task. The queen splits it into independent sub-tasks. The queen sends each sub-task to another *worker* computer. Each worker is a separate physical machine with its own CPU, GPU, RAM, disk, and network connection. Each worker answers its sub-task using its own complete model on its own hardware. The queen collects the answers and combines them into the final result.
 
 **The recursive building-block insight — hives stack.** A whole hive, viewed from outside, looks identical to a single worker: it receives a task and returns an answer. So *a whole hive can serve as the worker of a higher queen.* That higher queen plus its hive-workers is itself one bigger hive — which can in turn serve as the worker of an even higher queen.
 
