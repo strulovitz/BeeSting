@@ -6,7 +6,7 @@
 
 ## Subject (LOCKED — Nir's exact words)
 
-> I solved the AI alignment problem — and the same architecture lets China beat America in days
+> I solved the AI alignment problem — and the same architecture lets China beat America in days (including M.A.D.)
 
 ---
 
