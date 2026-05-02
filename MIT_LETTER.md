@@ -167,7 +167,7 @@ A live demonstration is the language Big AI listens to. Without one, no amount o
 
 If America's institutions continue to ignore THE HIVE, my natural and logical next step is to walk into the Chinese embassy in Tel Aviv with it. They will not pay me. But they will deliver the biggest live demonstration in history — a demonstration that beats America in a single knock-out. Because I have already sent this letter and the videos and the GitHub links to journalists across the Western world, the moment China deploys, my name surfaces as the source. I become famous by the gravity of the event itself, and from that "celebrity" status I can earn the money needed for my girlfriend's humble dreams.
 
-I do not write this as a threat. I write it as the rational next step for an inventor in my position who has been ignored. This is what outsiders do when nobody on the inside listens. It is the path I want to AVOID.
+I do not write this as a threat. I write it as the rational next step for an inventor in my position who has been ignored. This is what outsiders do when nobody on the inside listens. It is the path I prefer to AVOID.
 
 **THE PREFERRED PATH**
 
