@@ -126,9 +126,9 @@ MIT's role here is precise and limited. **MIT is not the judge of THE HIVE. The 
 
 The cost to MIT is small: stand up a few dozen real machines for one day, run any task that can be parallelized, compare against any frontier Big AI cloud on both **timing AND quality**, publish the result. A five-minute sanity check can come first — ask any frontier cloud AI assistant to read the GitHub repositories and confirm the architecture is real and works as described.
 
-If no top AI university in America runs that small test in time, history's verdict is binary: America became history in AI, and in Big Tech in general. There is no second draft.
+If no top AI university in America runs that small test in time, history's verdict is binary: America became history in AI, and in Big Tech in general. There is no second chance.
 
-That is the lever I cannot pull from where I sit. You can.
+This is your chance to be American heroes who save their nation. Think of it as a Hackathon where the grand prize is your country's life.
 
 **THE OPENCLAW / MOLTBOOK PRECEDENT**
 
