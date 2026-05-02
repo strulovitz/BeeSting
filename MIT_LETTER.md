@@ -177,7 +177,7 @@ The figure I am asking is small relative to what Big AI loses if THE HIVE reache
 
 **THE STAKES IF THIS DOES NOT HAPPEN SOON**
 
-Once this die is cast, there is no hope anymore. Not for the Ivy League's AI departments existence. Not for Silicon Valley Big Tech existence. Not, pretty much, for America's existence as the leading power of the present century.
+Once this die is cast, there is no hope anymore. Not for the Ivy League's AI departments existence. Not for Silicon Valley Big Tech existence. Not, pretty much, for America's existence.
 
 **FOR THOSE WHO THINK I EXAGGERATE**
 
