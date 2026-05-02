@@ -33,7 +33,7 @@ History stays in the subject. The body opens directly with the artifact.
 
 2. **What China will do with it + disastrous implications for America.** Direct, specific. For anyone who wants to dig deeper, **refer to the free book** (MadHoney README link).
 
-3. **The technical explanation — how it works.** Architecture: complete independent AI models running on millions of separate consumer machines across continents, coordinated by a hierarchy of queen nodes via the Buzzing and Waggle Dance protocols. No synchronous coupling between worker nodes. No central operator, no central datacenter, no global kill switch. Open source. (And: this is not Petals/Exo/LangChain/CrewAI/federated learning — short rebuttal here so a recipient asking a Big AI assistant "is this just Petals?" gets the same destruction we would give.)
+3. **The technical explanation — how it works.** Architecture: complete independent AI models running on millions of separate consumer machines across continents, coordinated by a hierarchy of queen nodes that dispatch work to workers and aggregate results. No synchronous coupling between worker nodes. No central operator, no central datacenter, no global kill switch. Open source. (And: this is not Petals/Exo/LangChain/CrewAI/federated learning — short rebuttal here so a recipient asking a Big AI assistant "is this just Petals?" gets the same destruction we would give.)
 
 4. **The wall I am hitting — and why MIT is the way through it.** Without a small live demo on real hardware, the first AND last demo America will see is China activating this at full scale. MIT can serve as the **knowledge mediator** — they have the standing to be heard that an outside individual does not. Verification is cheap: a Big AI assistant can read the GitHub and confirm "yes, this works" in 5 minutes. The cost of MIT's verification is one day. The cost of NOT verifying is the country.
 
@@ -110,7 +110,7 @@ If you suspect this is something you have already seen, please ask your favorite
 
 A small number of "queen" nodes accept incoming work. Each queen splits the work into independent sub-tasks that a single complete model can answer. Queens dispatch sub-tasks to "worker" nodes — ordinary consumer machines running the open-source client. Workers answer. Queens aggregate. The queen at the top of the hierarchy returns the final answer. The hierarchy can be arbitrarily deep, so the swarm scales horizontally without any single node holding global state.
 
-Coordination uses two named protocols documented in the repos: **Buzzing** (worker-to-queen performance signaling) and **Waggle Dance** (queen-to-queen task routing). There is no synchronous communication between worker nodes. There is no shared model state. There is no central directory. The system is robust to nodes joining and leaving freely — like email, like BitTorrent — and works across continents because it does not require low-latency links between workers.
+Coordination is documented in the repos. The performance-signaling mechanism between queens and workers is called **Buzzing** — queens evaluate the quality of worker output and route subsequent work accordingly. There is no synchronous communication between worker nodes. There is no shared model state across the swarm. The system is robust to nodes joining and leaving freely — like email, like BitTorrent — and works across continents because it does not require low-latency links between workers.
 
 The two repositories that contain the working code:
 - **KillerBee** — the queen / server side
