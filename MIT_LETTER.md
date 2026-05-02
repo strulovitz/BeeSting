@@ -107,8 +107,6 @@ China has half a billion computers and the institutional capacity to coordinate 
 
 10. **The American–European alliance dies.** Europe's AI policy is downstream of American leadership. The day a Chinese-supplied hive runs on European hardware inside European data-protection law, Brussels pivots — because their citizens' data finally stays where their constitutions said it should. Silicon Valley loses its second-largest market and its quietest enabler in the same week.
 
-When this happens, America becomes Tibet 2. America becomes Hong Kong 2. America becomes the slave economy for whatever China decides to do with its new compute base.
-
 For the chapter-by-chapter walkthrough of each collapse, the free book *MadHoney* has one chapter per industry, addressed by name. README link at the bottom of this letter.
 
 **FAQ — IT IS NOT WHAT YOU ALREADY KNOW**
