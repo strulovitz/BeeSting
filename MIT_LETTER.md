@@ -237,9 +237,17 @@ A live demonstration is the language Big AI listens to. Without one, no amount o
 
 **THE CHINESE EMBASSY — AS A LOGICAL NEXT STEP**
 
-If America's institutions continue to ignore THE HIVE, my natural and logical next step is to walk into the Chinese embassy in Tel Aviv with it. They will not pay me. But they will deliver the biggest live demonstration in history — a demonstration that beats America in a single knock-out. Because I have already sent this letter and the videos and the GitHub links to journalists across the Western world, the moment China deploys, my name surfaces as the source. I become famous by the gravity of the event itself, and from that "celebrity" status I can earn the money needed for my girlfriend's humble dreams.
+If America's institutions continue to ignore THE HIVE, my natural and logical next step is to walk into the Chinese embassy in Tel Aviv with it. They will not pay me directly. But they will deliver the largest live demonstration in history — a demonstration that beats America in a single knock-out blow.
 
-I do not write this as a threat. I write it as the rational next step for an inventor in my position who has been ignored. This is what outsiders do when nobody on the inside listens. It is the path I prefer to AVOID.
+An earlier draft of this letter said I would become "famous" from the gravity of that event, and from that celebrity status I would earn the money needed for my girlfriend's humble dreams. That framing was honest at the time but understated, because at the time I had not yet seen what THE HIVE actually solves at the deepest architectural level.
+
+Today I have. **The hive solves the AI alignment problem** — the unsolved holy grail of AI safety in 2026, the problem every Big AI lab has poured hundreds of millions of dollars into and openly admits it has not cracked. **And the same hive ends Mutually Assured Destruction** by removing the ability of the only country that has ever used nuclear weapons against people to escalate to a level no other country can match. Two of the largest existential dangers facing humanity in the present century — rogue agentic AI, and unilateral nuclear coercion by the country with the historical record of pulling the trigger — are dissolved by the same architecture, at the same time, as a byproduct of building it for parallelism and scale.
+
+This changes what the embassy scenario means for me personally.
+
+In the post-embassy world, I am not "an infamous celebrity who ruined America." For the 96 percent of humanity that does not live inside America's strategic establishment, I am the person who saved the world twice — once from misaligned frontier AI, once from American nuclear blackmail — in the same act. **A true global hero, not a Snowden-of-AI footnote.** The Chinese government does not need to pay me anything. The reputation alone, in front of the seven-and-a-half billion people who are not Americans, is enough to fund the digital-nomad family life my girlfriend and I want until artificial intelligence ends human life on Earth. And in this scenario, America's opinion of me does not matter — because in this scenario America has already chosen to ignore the offer this letter is making.
+
+I do not write this as a threat. I write it as a precise description of what the rational next step actually looks like, now that the architecture's full implications are understood. **This is still the path I prefer to AVOID.** But the original framing — that I would become famous in a morally ambiguous, Snowden-shaped way — was undersold. In the post-embassy scenario, my name is associated not with America's destruction but with humanity's deliverance from two existential threats simultaneously. The American framing of this scenario as shameful for the inventor no longer holds, because the rest of the world reads the architecture differently than America does.
 
 **THE PREFERRED PATH**
 
