@@ -128,7 +128,7 @@ The cost to MIT is small: stand up a few dozen real machines for one day, run an
 
 If no top AI university in America runs that small test in time, history's verdict is binary: America became history in AI, and in Big Tech in general. There is no second chance.
 
-This is your chance to be American heroes who save their nation. Think of it as a Hackathon where the grand prize is your country's life.
+This is your chance to be American heroes who save your nation. Think of it as a Hackathon where the grand prize is your country's life.
 
 **THE OPENCLAW / MOLTBOOK PRECEDENT**
 
