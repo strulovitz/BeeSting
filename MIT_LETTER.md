@@ -77,7 +77,7 @@ THE HIVE is a new invention. It is not similar to anything you already know. See
 
 **WHAT THE HIVE IS — IN PLAIN ENGLISH**
 
-THE HIVE is millions of ordinary computers — laptops, desktops, gaming rigs, small home servers — sitting in homes and offices across continents, each running its own complete AI model independently, all coordinated into one brain.
+THE HIVE is millions of personal computers - sitting in homes and offices across continents, each running its own complete local LLM independently, all combined together into one brain.
 
 There is no central datacenter. There is no cloud company in the middle. There is no kill switch any government or any company can flip. The coordination protocol is fully open source and freely downloadable from GitHub today.
 
