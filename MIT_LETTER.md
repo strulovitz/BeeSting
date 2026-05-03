@@ -241,7 +241,7 @@ This is your chance to be American heroes who save your nation. Think of it as a
 
 **THE OPENCLAW / MOLTBOOK PRECEDENT**
 
-I was hoping America's Big AI would recognize the disastrous potential of THE HIVE on its own — a potential far greater than OpenClaw and MoltBook, both disruptive threats to America whose inventors were "neutralized" very quickly and generously. My system is far more dangerous to America than either of them. The reason it has been ignored is not that the threat is smaller. It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide.
+I was hoping someone in America's power centers — any of those above — would recognize the disastrous potential of THE HIVE on their own — a potential far greater than OpenClaw and MoltBook, both disruptive threats to America whose inventors were "neutralized" very quickly and generously. My system is far more dangerous to America than either of them. The reason it has been ignored is not that the threat is smaller. It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide.
 
 A live demonstration is the language Big AI listens to. Without one, no amount of correct architecture and working code is read.
 
