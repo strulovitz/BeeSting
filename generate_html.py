@@ -19,7 +19,7 @@ import markdown
 
 REPO = Path(__file__).parent
 SRC = REPO / "MIT_LETTER.md"
-DST = REPO / "MIT_LETTER.html"
+DST = Path.home() / "Downloads" / "MIT_LETTER.html"
 
 # Section bold-headings → anchor IDs
 SECTION_ANCHORS = {
