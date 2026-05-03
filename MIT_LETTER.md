@@ -53,7 +53,7 @@ History stays in the subject. The body opens directly with the artifact.
 
 9. **For those who think I exaggerate** — read the book, including the *How We Built It* and *How We Tested It* chapters (link in the 5-link block).
 
-10. **The 5 mandatory links** — the two videos, MadHoney README, KillerBee, GiantHoneyBee.
+10. **The 3 mandatory links** — MadHoney README, KillerBee, GiantHoneyBee.
 
 11. **Sign-off** — Nir Strulovitz, Israel. No CV. No resume. No "seeking paid work" framing. The inventor giving America the chance to choose.
 
@@ -275,10 +275,6 @@ The free book *MadHoney* walks the entire argument chapter by chapter, including
 
 **LINKS**
 
-- BeeSting Episode 2 — *I Built The AI That Combines Millions Of Smaller AIs Into One. China Is Next.*
-  https://www.youtube.com/watch?v=zuIjV9vQwf0
-- BeeSting Episode 1 — *I Built The Unjammable Drone Swarm. China Is Next.*
-  https://www.youtube.com/watch?v=SBk_1TKV9vc
 - *MadHoney* book README (table of contents):
   https://github.com/strulovitz/MadHoney/blob/main/README.md
 - KillerBee repo:
