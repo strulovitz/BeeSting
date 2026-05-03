@@ -241,9 +241,17 @@ This is your chance to be American heroes who save your nation. Think of it as a
 
 **THE OPENCLAW / MOLTBOOK PRECEDENT**
 
-I was hoping someone in America's power centers — any of those above — would recognize the disastrous potential of THE HIVE on their own — a potential far greater than OpenClaw and MoltBook, both disruptive threats to America whose inventors were "neutralized" very quickly and generously. My system is far more dangerous to America than either of them. The reason it has been ignored is not that the threat is smaller. It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide.
+I was hoping someone in America's power centers — any of those above — would recognize the disastrous potential of THE HIVE on their own — a potential far greater than OpenClaw and MoltBook, both disruptive threats to America whose inventors were "neutralized" very quickly and generously. THE HIVE is far more dangerous than either of them — and to far more of America's power centers, any of which can act. The reason it has been ignored is not that the threat is smaller. It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide.
 
 A live demonstration is the language Big AI listens to. Without one, no amount of correct architecture and working code is read.
+
+**DON'T BE BURIDAN'S DONKEY**
+
+THE HIVE mortally damages so many of America's power centers at the same time that there is a paradoxical risk: each one assumes the others will pay to retire the threat, so no one pays, and all of them die together.
+
+This is Buridan's donkey — the donkey who starves between two equally appealing piles of hay because he cannot decide which one to eat first. It is analysis paralysis. It is falling between two stools. Nothing is more stupid, and nothing more avoidable.
+
+The right response is the opposite: multiple hands reach for the ball at once, before it falls. If even a few of America's power centers act in parallel, the ball is caught. If each pays peanuts, each made the best deal of their corporate life. If they all wait expecting the others to act, the ball drops, and they are all history.
 
 **THE CHINESE EMBASSY — THE NEXT STEP IF YOU DON'T HELP**
 
