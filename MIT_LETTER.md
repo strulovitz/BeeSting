@@ -275,7 +275,7 @@ The money I am asking is peanuts relative to what these power centers lose if TH
 
 **THE STAKES IF THIS DOES NOT HAPPEN SOON**
 
-Once this die is cast, there is no hope anymore. Not for the Ivy League's AI departments existence. Not for Silicon Valley Big Tech existence. Not, pretty much, for America's existence.
+Once this die is cast, there is no hope anymore. Not for the Ivy League's AI departments. Not for America's power centers. Not, pretty much, for America's existence.
 
 **FOR THOSE WHO THINK I EXAGGERATE**
 
