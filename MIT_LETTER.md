@@ -231,11 +231,11 @@ I have been writing to journalists, professors, defense contractors, Big AI labs
 
 Without a small live demonstration on real hardware — not a virtual-machine cluster on one home computer — the first AND last demonstration America will see is China activating THE HIVE at full national scale.
 
-Your role here is precise and limited. **Your university is not the judge of THE HIVE. The judge will be history — if you fail.** What you provide is the **guinea pig** — the small controlled test — so America's new Military-Industrial Complex can see a small test in advance, instead of meeting the big real-life deadly test that will kill the entire industry. You serve as the **knowledge mediator** between an outsider with a working architecture and the institutions inside America that can actually act on it.
+Your role here is precise and limited. **Your university is not the judge of THE HIVE. The judge will be history — if you fail.** What you provide is the **guinea pig** — the small controlled test — so America's institutions — e.g. Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security — can see a small test in advance, instead of meeting the big real-life deadly test that takes them all out together. You serve as the **knowledge mediator** between an outsider with a working architecture and the institutions inside America that can actually act on it.
 
 The cost to you is small: stand up a few hundred real machines for one day, run any task that can be parallelized, compare against any frontier Big AI cloud on both **timing AND quality**, publish the result. A five-minute sanity check can come first — ask any frontier cloud AI assistant to read the GitHub repositories and confirm the architecture is real and works as described.
 
-If no top AI university in America runs that small test in time, history's verdict is binary: America became history in AI, and in Big Tech in general. There is no second chance.
+If no top AI university in America runs that small test in time, history's verdict is binary: America became history — e.g. in Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security. There is no second chance.
 
 This is your chance to be American heroes who save your nation. Think of it as a Hackathon where the grand prize is your country's life.
 
