@@ -271,7 +271,7 @@ I do not write this as a threat. I write it as a precise description of what the
 
 I prefer the friendly way. A friendly university proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare. They move to retire the threat. They pay me the peanuts I am demanding to remove this threat forever. America wakes up and it was only a dream.
 
-The money I am asking is peanuts relative to what BIG AI loses if THE HIVE reaches China.
+The money I am asking is peanuts relative to what these power centers lose if THE HIVE reaches China.
 
 **THE STAKES IF THIS DOES NOT HAPPEN SOON**
 
