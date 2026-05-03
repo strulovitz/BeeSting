@@ -289,7 +289,9 @@ The free book *MadHoney* walks the entire argument chapter by chapter, including
 Sincerely,
 
 Nir Strulovitz
-Israel
++972-544-752626
+nir.strulovitz@gmail.com
+Haifa, Israel
 
 ---
 

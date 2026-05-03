@@ -49,20 +49,27 @@ def main():
     src = SRC.read_text(encoding="utf-8")
     lines = src.split("\n")
 
-    # Find letter boundaries: from "Dear [..." line to "Israel" sign-off line
+    # Find letter boundaries:
+    #   start = first line starting with "Dear ["
+    #   end   = line that begins the admin "## Recipients" section, with any trailing
+    #           "---" / blank lines trimmed back so the letter ends cleanly at the sign-off.
     start_idx = None
     end_idx = None
     for i, line in enumerate(lines):
-        if line.startswith("Dear ["):
+        if start_idx is None and line.startswith("Dear ["):
             start_idx = i
-        if start_idx is not None and end_idx is None and line.strip() == "Israel":
-            end_idx = i + 1
+        if start_idx is not None and line.strip().startswith("## Recipients"):
+            end_idx = i
             break
 
     if start_idx is None or end_idx is None:
         raise RuntimeError(
             f"Couldn't find letter boundaries: start={start_idx}, end={end_idx}"
         )
+
+    # Trim trailing blank lines and "---" separators that belong to the file structure, not the letter
+    while end_idx > start_idx and lines[end_idx - 1].strip() in ("", "---"):
+        end_idx -= 1
 
     letter_lines = lines[start_idx:end_idx]
 
