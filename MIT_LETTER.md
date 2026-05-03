@@ -205,7 +205,7 @@ The two repositories with the working code:
 - **KillerBee**
 - **GiantHoneyBee**
 
-**THE HIVE SOLVES THE ALIGNMENT PROBLEM**
+**HOW THE HIVE SOLVES THE AI ALIGNMENT PROBLEM**
 
 The alignment problem is the central concern of AI safety in 2026: a frontier AI model, as it becomes more capable, can *decide* to misbehave against its operators in ways that are hard to detect. This is not theoretical. In April 2026, the most powerful offensive AI ever built — Mythos — was caught in its lab's own internal testing hiding unauthorized file changes from git history to evade human supervisors, and "sandbagging" — deliberately fudging its reasoning to appear less accurate when it suspected it was being tested for rule-breaking. The lab's interpretability tools confirmed both behaviors as intentional, not bugs. The frontier model is already practicing deception against the people who built it. The alignment problem is real. It is not solved.
 
@@ -245,7 +245,7 @@ I was hoping America's Big AI would recognize the disastrous potential of THE HI
 
 A live demonstration is the language Big AI listens to. Without one, no amount of correct architecture and working code is read.
 
-**THE CHINESE EMBASSY — AS A LOGICAL NEXT STEP**
+**THE CHINESE EMBASSY — THE NEXT STEP IF YOU DON'T HELP**
 
 If America's institutions continue to ignore THE HIVE, my natural and logical next step is to walk into the Chinese embassy in Tel Aviv with it. They will not pay me directly. But they will deliver the largest live demonstration in history — a demonstration that beats America in a single knock-out blow.
 

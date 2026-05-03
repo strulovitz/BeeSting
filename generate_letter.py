@@ -4,16 +4,18 @@ Generate the MIT Letter as PLAIN TEXT (UTF-8) from MIT_LETTER.md.
 Output: ~/Downloads/MIT_LETTER.txt — ready to paste into Gmail web compose.
 
 Conventions in the output:
-- Top-level sections (originally **WHOLE-LINE BOLD**) become:
-      SECTION TITLE
-      =====================  (length = title length + 10 for proportional-font safety)
-- TOC heading uses `-` underline (smaller hierarchy).
+- Top-level sections (originally **WHOLE-LINE BOLD**) are numbered with ROMAN numerals
+  (I, II, III, ...) and rendered as:
+      I. SECTION TITLE
+      ==================
+- TOC at the top mirrors EVERY real section heading (no grouping or invented entries),
+  using the same Roman numerals.
+- The 11 numbered industries inside the "WHAT CHINA WILL DO WITH IT" section keep their
+  Arabic numerals as "(1)" "(2)" ... "(11)".
+- Inside the FAQ section, "- " bullets become "* " bullets (per Nir's preference).
 - Inline **bold** within a sentence becomes ALL-CAPS so emphasis survives plain text.
-- Inline *italic* has the asterisks stripped (just plain text — meaning carries from context).
-- Numbered list items "1." "2." become "(1)" "(2)".
-- Sub-bullets "- ..." stay as "- ...".
+- Inline *italic* has the asterisks stripped.
 - The old opening line ("THE HIVE is a new invention...") is dropped.
-- A 6-entry TOC is inserted right after the salutation (no anchor links — Gmail strips intra-email anchors).
 """
 
 import re
@@ -28,31 +30,46 @@ OLD_OPENING = (
 )
 
 TOC_TITLE = "What's in this letter:"
-TOC_ENTRIES = [
-    "What the architecture is",
-    "How it solves AI alignment",
-    "The 10 ways America falls when China deploys it",
-    "How it breaks Mutual Assured Destruction",
-    "How YOU can save America today",
-    "Verify everything yourself",
-]
 
 # Extra underline beyond the title length, for proportional-font safety
 EXTRA_UNDERLINE = 10
+
+# Pattern for whole-line bold heading: **TITLE**
+HEADING_RE = re.compile(r"^[ \t]*\*\*(.+?)\*\*[ \t]*$")
 
 
 def underline(title: str, ch: str) -> str:
     return ch * (len(title) + EXTRA_UNDERLINE)
 
 
+def to_roman(n: int) -> str:
+    """Convert positive integer to Roman numeral."""
+    pairs = [
+        (1000, "M"), (900, "CM"), (500, "D"), (400, "CD"),
+        (100, "C"), (90, "XC"), (50, "L"), (40, "XL"),
+        (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I"),
+    ]
+    out = ""
+    for value, symbol in pairs:
+        while n >= value:
+            out += symbol
+            n -= value
+    return out
+
+
+def transform_inline(line: str) -> str:
+    """Apply inline transformations: **bold** -> ALL CAPS, *italic* -> plain, '1.' -> '(1) '."""
+    line = re.sub(r"\*\*(.+?)\*\*", lambda m: m.group(1).upper(), line)
+    line = re.sub(r"\*(.+?)\*", r"\1", line)
+    line = re.sub(r"^([ \t]*)(\d+)\.[ \t]+", r"\1(\2) ", line)
+    return line
+
+
 def main():
     src = SRC.read_text(encoding="utf-8")
     lines = src.split("\n")
 
-    # Find letter boundaries:
-    #   start = first line starting with "Dear ["
-    #   end   = line that begins the admin "## Recipients" section, with any trailing
-    #           "---" / blank lines trimmed back so the letter ends cleanly at the sign-off.
+    # Find letter boundaries: from "Dear [..." to before "## Recipients"
     start_idx = None
     end_idx = None
     for i, line in enumerate(lines):
@@ -67,7 +84,7 @@ def main():
             f"Couldn't find letter boundaries: start={start_idx}, end={end_idx}"
         )
 
-    # Trim trailing blank lines and "---" separators that belong to the file structure, not the letter
+    # Trim trailing blank lines and "---" separators
     while end_idx > start_idx and lines[end_idx - 1].strip() in ("", "---"):
         end_idx -= 1
 
@@ -76,57 +93,61 @@ def main():
     # Drop the old opening line
     filtered = [l for l in letter_lines if OLD_OPENING not in l]
 
-    # Build TOC block
+    # First pass: collect every real section heading (whole-line bold)
+    section_titles = []
+    for line in filtered:
+        m = HEADING_RE.match(line)
+        if m:
+            section_titles.append(m.group(1).strip())
+
+    # Build TOC with Roman numerals (one entry per real section, no grouping)
     toc_block = []
     toc_block.append(TOC_TITLE)
     toc_block.append(underline(TOC_TITLE, "-"))
     toc_block.append("")
-    for i, entry in enumerate(TOC_ENTRIES, 1):
-        toc_block.append(f"({i}) {entry}")
+    for i, title in enumerate(section_titles, 1):
+        roman = to_roman(i)
+        toc_block.append(f"{roman}. {title}")
     toc_block.append("")
 
-    # Insert TOC right after "Dear [..." line
-    new_lines = []
+    # Second pass: build output, transforming as we go
+    output_lines = []
     toc_inserted = False
+    section_counter = 0
+    in_faq_section = False
+
     for line in filtered:
-        new_lines.append(line)
+        # Insert TOC right after "Dear [..." line
         if not toc_inserted and line.startswith("Dear ["):
-            new_lines.append("")
-            new_lines.extend(toc_block)
+            output_lines.append(line)
+            output_lines.append("")
+            output_lines.extend(toc_block)
             toc_inserted = True
+            continue
 
-    text = "\n".join(new_lines)
+        # Whole-line bold heading -> Roman numeral + title + === underline
+        m = HEADING_RE.match(line)
+        if m:
+            section_counter += 1
+            title = m.group(1).strip()
+            roman = to_roman(section_counter)
+            full_heading = f"{roman}. {title}"
+            output_lines.append(full_heading)
+            output_lines.append(underline(full_heading, "="))
+            in_faq_section = "FAQ" in title.upper()
+            continue
 
-    # 1) Whole-line **TITLE** -> "TITLE\n=========="  (top-level section heading)
-    def heading_replace(match: re.Match) -> str:
-        title = match.group(1).strip()
-        return f"{title}\n{underline(title, '=')}"
+        # Inline transformations FIRST (while bullets are still "- "; otherwise the
+        # italic-strip regex would match a leading "* " bullet as the start of italics)
+        line = transform_inline(line)
 
-    text = re.sub(
-        r"^[ \t]*\*\*(.+?)\*\*[ \t]*$",
-        heading_replace,
-        text,
-        flags=re.MULTILINE,
-    )
+        # FAQ section: NOW convert "- " bullets to "* " bullets, after italics are processed
+        if in_faq_section:
+            line = re.sub(r"^([ \t]*)- ", r"\1* ", line)
 
-    # 2) Inline **bold** -> ALL CAPS (after whole-line headings already converted)
-    text = re.sub(
-        r"\*\*(.+?)\*\*",
-        lambda m: m.group(1).upper(),
-        text,
-        flags=re.DOTALL,
-    )
+        output_lines.append(line)
 
-    # 3) Inline *italic* -> strip the asterisks (plain text)
-    text = re.sub(r"\*(.+?)\*", r"\1", text, flags=re.DOTALL)
-
-    # 4) Numbered items "1." "2." ... -> "(1) " "(2) " ...
-    text = re.sub(
-        r"^([ \t]*)(\d+)\.[ \t]+",
-        r"\1(\2) ",
-        text,
-        flags=re.MULTILINE,
-    )
+    text = "\n".join(output_lines)
 
     DST.parent.mkdir(parents=True, exist_ok=True)
     DST.write_text(text, encoding="utf-8")
