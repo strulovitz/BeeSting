@@ -269,7 +269,7 @@ I do not write this as a threat. I write it as a precise description of what the
 
 **THE PREFERRED PATH**
 
-I prefer the friendly way. A friendly university proves to the new Military-Industrial Complex that THE HIVE is not a dream, it is a very real nightmare. The Military-Industrial Complex moves to retire the threat. The American Big AI will pay me the peanuts I am demanding to remove this threat forever. America wakes up and it was only a dream.
+I prefer the friendly way. A friendly university proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare. They move to retire the threat. They pay me the peanuts I am demanding to remove this threat forever. America wakes up and it was only a dream.
 
 The money I am asking is peanuts relative to what BIG AI loses if THE HIVE reaches China.
 
