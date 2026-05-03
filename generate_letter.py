@@ -33,7 +33,7 @@ TOC_ENTRIES = [
     "How it solves AI alignment",
     "The 10 ways America falls when China deploys it",
     "How it breaks Mutual Assured Destruction",
-    "Why this falls to you",
+    "How YOU can save America today",
     "Verify everything yourself",
 ]
 
