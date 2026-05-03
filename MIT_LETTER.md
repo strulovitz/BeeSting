@@ -6,7 +6,7 @@
 
 ## Subject (LOCKED — Nir's exact words)
 
-> MIT, only your one-day demo can stop this — I solved the AI alignment problem, and the same architecture lets China beat America in days (including M.A.D.)
+> The verification is MIT's, the timeline is China's — I solved the AI alignment problem, and the same architecture lets China beat America in days (including M.A.D.)
 
 ---
 
