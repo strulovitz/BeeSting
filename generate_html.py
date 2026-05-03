@@ -38,10 +38,10 @@ SECTION_ANCHORS = {
     "LINKS": "links",
 }
 
-# 6 TOC entries → anchor IDs (each maps to the START of a logical section group)
+# 6 TOC entries (anchor IDs kept for future use, but TOC list is now plain text — no clickable links because Gmail strips intra-email anchors)
 TOC_ENTRIES = [
     ("What the architecture is", "architecture"),
-    ("How it solves alignment", "alignment"),
+    ("How it solves AI alignment", "alignment"),
     ("The 10 ways America falls when China deploys it", "china-falls"),
     ("How it breaks Mutual Assured Destruction", "mad"),
     ("Why this falls to you", "why-you"),
@@ -100,10 +100,10 @@ def main():
         if not replaced:
             rewritten.append(line)
 
-    # Build TOC HTML
-    toc_html = ['<h2>What\'s in this letter (8 minutes):</h2>', "<ol>"]
-    for label, aid in TOC_ENTRIES:
-        toc_html.append(f'  <li><a href="#{aid}">{label}</a></li>')
+    # Build TOC HTML — plain numbered list, no anchor links (Gmail strips them)
+    toc_html = ["<h2>What's in this letter:</h2>", "<ol>"]
+    for label, _aid in TOC_ENTRIES:
+        toc_html.append(f"  <li>{label}</li>")
     toc_html.append("</ol>")
     toc_html_str = "\n".join(toc_html)
 
