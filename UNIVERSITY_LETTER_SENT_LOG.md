@@ -212,7 +212,20 @@ Recipients (21 — added Suzanne.Sims@stanford.edu, EE Chair's office, surfaced 
 mdavid@cs.stanford.edu, meixu@stanford.edu, mvarlaro@stanford.edu, nick.parlante@cs.stanford.edu, npacheco@stanford.edu, nyeinmon@stanford.edu, opetah@stanford.edu, patrick.young@cs.stanford.edu, pratt@cs.stanford.edu, rharris3@stanford.edu, ron.dror@stanford.edu, rrecoder@stanford.edu, sachour@stanford.edu, sgoodner@stanford.edu, smontgom@stanford.edu, steger@stanford.edu, sungson@stanford.edu, troccoli@stanford.edu, usmith@stanford.edu, yurika.peterman@stanford.edu, Suzanne.Sims@stanford.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 5 of 5 — drafted 2026-05-04 (alphabetical 61-62, FINAL BATCH 🏁)
+
+Dear line: `Dear Stanford CS and EE Professors (Batch 5 of 5),`
+
+Recipients (2):
+```
+zasgar@stanford.edu, zelenski@stanford.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
 
 ---
 
