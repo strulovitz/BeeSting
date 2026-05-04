@@ -184,7 +184,22 @@ jhewitt@mit.edu, ginnocen@mit.edu, ippen@mit.edu, ivanov99@mit.edu, jaffe@mit.ed
 
 Notable: Wolfgang Ketterle (`sbk@mit.edu`) — Nobel Laureate Physics 2001 (Bose-Einstein condensate).
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 5 of 5 — drafted 2026-05-04 (positions 61-80, Masui → Russell B, FINAL BATCH 🏁)
+
+Dear line: `Dear MIT Physics Professors (Batch 5 of 5),`
+
+Recipients (20):
+```
+kmasui@mit.edu, matthews@mit.edu, nergis@ligo.mit.edu, mcdonald@space.mit.edu, mmetlits@mit.edu, sarah.millholland@mit.edu, milner@mit.edu, leonid@mit.edu, ejmoniz@mit.edu, lnecib@mit.edu, negele@mit.edu, paus@mit.edu, pless@mit.edu, porkolab@psfc.mit.edu, dpritch@mit.edu, krishna@mit.edu, sar@mit.edu, redwine@mit.edu, rosenson@mit.edu, russell3@mit.edu
+```
+
+Notable: Nergis Mavalvala (`nergis@ligo.mit.edu` — LIGO Nobel team), Ernest Moniz (`ejmoniz@mit.edu` — former US Energy Secretary).
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
 
 ---
 
