@@ -173,7 +173,20 @@ Recipients (20):
 feifeili@stanford.edu, manning@stanford.edu, yejinc@stanford.edu, ermon@stanford.edu, cbfinn@cs.stanford.edu, shoham@cs.stanford.edu, guestrin@stanford.edu, thashim@stanford.edu, ngoodman@stanford.edu, dabo@cs.stanford.edu, guibas@cs.stanford.edu, charikar@stanford.edu, bohg@stanford.edu, dally@stanford.edu, maneesh@cs.stanford.edu, msb@cs.stanford.edu, engler@stanford.edu, zakir@cs.stanford.edu, aaiken@stanford.edu, anari@stanford.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 2 of 5 — drafted 2026-05-04 (alphabetical 1-20)
+
+Dear line: `Dear Stanford CS and EE Professors (Batch 2 of 5),`
+
+Recipients (20):
+```
+abouland@stanford.edu, akuduk@stanford.edu, ann1083@stanford.edu, avteaupa@stanford.edu, bambos@stanford.edu, barrettc@stanford.edu, beverlyd@stanford.edu, carriep1@stanford.edu, cbl@stanford.edu, cearl@stanford.edu, cgregg@stanford.edu, chaussec@stanford.edu, cmarquez@cs.stanford.edu, congreve@stanford.edu, cwodtke@stanford.edu, eadeli@stanford.edu, ebagley@stanford.edu, ebfox@stanford.edu, echang@cs.stanford.edu, fedkiw@cs.stanford.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
 
