@@ -61,12 +61,16 @@ When building each university's Batch 1, **add the hero's full email set above t
 
 These are AI-alignment-relevant researchers identified after the main queue was built. For each, send to their **entire department/faculty** with the hero in **Batch 1** (same first-batch grace-window rule).
 
-**1. Max Tegmark (MIT Physics)** — President of Future of Life Institute, AI x-risk advocate, *Life 3.0* author.
-- Department: MIT Physics (separate from EECS, NOT covered by the MIT EECS send)
-- Faculty page to harvest: https://physics.mit.edu/faculty/ (or similar)
-- Hero email: `tegmark@mit.edu`
-- Strategy: harvest entire MIT Physics faculty, put Tegmark in Batch 1
-- Status: ⏳ pending Nir to start when ready
+**1. Max Tegmark (MIT Physics + Future of Life Institute)** — President of FLI, AI x-risk advocate, *Life 3.0* author. ✅ IN PROGRESS 2026-05-04 (101 MIT Physics recipients in 5 batches, Tegmark in Batch 1 at 5 addresses).
+- Department: MIT Physics (harvested from https://physics.mit.edu/physics-directory/)
+- Hero emails (all 5 in his batch):
+  - `tegmark@mit.edu` (MIT academic)
+  - `mtegmark@gmail.com` (personal)
+  - `press@futureoflife.org` (FLI press)
+  - `contact@futureoflife.org` (FLI general)
+  - `speakers@caa.com` (CAA Speakers Bureau — Nir explicitly said include all)
+- Phone: (617) 452-4627
+- Office: Ronald McNair Building, 37-582G, 70 Vassar St, Cambridge, MA 02139
 
 **2. Vincent Conitzer (CMU)** — AI + game theory + ethics; not on the CMU CS or ECE roster we already harvested (likely joint with Philosophy / Tepper / a research center).
 - Affiliation: CMU (likely Tepper School of Business + Philosophy + CS; specific roster TBD)
@@ -126,13 +130,13 @@ Positions 41-80 (Hewitt → Russell): jhewitt@mit.edu, ginnocen@mit.edu, ippen@m
 
 ---
 
-### Batch 1 of 5 — drafted 2026-05-04 (TEGMARK'S BATCH 🎯, 21 recipients)
+### Batch 1 of 5 — drafted 2026-05-04 (TEGMARK'S BATCH 🎯, 25 recipients)
 
 Dear line: `Dear MIT Physics Professors (Batch 1 of 5),`
 
-Recipients (21):
+Recipients (25 — Tegmark at 5 addresses including FLI + personal + CAA):
 ```
-schech@mit.edu, seager@mit.edu, pshana@mit.edu, shuheng@mit.edu, eluned@mit.edu, soljacic@mit.edu, iains@mit.edu, jgt@mit.edu, wati@mit.edu, tegmark@mit.edu, jthaler@mit.edu, sccting@mit.edu, senthil@mit.edu, svitale@mit.edu, mvogelsb@mit.edu, vuletic@mit.edu, xgwen@mit.edu, wilczek@mit.edu, mwill@mit.edu, zwiebach@mit.edu, zwierlei@mit.edu
+schech@mit.edu, seager@mit.edu, pshana@mit.edu, shuheng@mit.edu, eluned@mit.edu, soljacic@mit.edu, iains@mit.edu, jgt@mit.edu, wati@mit.edu, tegmark@mit.edu, mtegmark@gmail.com, press@futureoflife.org, contact@futureoflife.org, speakers@caa.com, jthaler@mit.edu, sccting@mit.edu, senthil@mit.edu, svitale@mit.edu, mvogelsb@mit.edu, vuletic@mit.edu, xgwen@mit.edu, wilczek@mit.edu, mwill@mit.edu, zwiebach@mit.edu, zwierlei@mit.edu
 ```
 
 Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
