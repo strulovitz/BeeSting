@@ -101,6 +101,44 @@ Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berke
 
 ---
 
+## MIT Physics (Tegmark's department) — 101 unique new recipients, 5 batches
+
+Source: https://physics.mit.edu/physics-directory/ (103 active faculty extracted via raw HTML grep, filtered to role="Faculty"). Deduped 2 EECS overlaps already sent today (`ichuang@mit.edu`, `william.oliver@mit.edu` — same address, would be spam) → **101 unique new recipients**.
+
+🎯 **Max Tegmark** (`tegmark@mit.edu`) at position 90 of 101 alphabetical. Per operative rule, his batch sent FIRST.
+
+Notable Physics royalty in this list: Frank Wilczek (Nobel 2004), Samuel Ting (Nobel 1976), Wolfgang Ketterle (Nobel 2001), Nergis Mavalvala (LIGO Nobel team), Alan Guth (cosmology), Ernest Moniz (former US Energy Secretary).
+
+### Send order
+- **Batch 1 of 5 = TEGMARK's BATCH (21 recipients)** = positions 81-101 (Tegmark at #90)
+- Batch 2 of 5 = positions 1-20
+- Batch 3 of 5 = positions 21-40
+- Batch 4 of 5 = positions 41-60
+- Batch 5 of 5 = positions 61-80
+
+### Master ordered list (deduped, alphabetical by surname)
+
+Positions 1-40 (Belcher → Hen): jbelcher@mit.edu, benedek@mit.edu, anberker@mit.edu, bertozzi@mit.edu, edbert@mit.edu, robertjb@berkeley.edu, kburdge@mit.edu, busza@mit.edu, crc@mit.edu, pcappell@mit.edu, arupc@mit.edu, checkelsky@mit.edu, chenm@mit.edu, soonwon@mit.edu, rcomin@mit.edu, conrad@mit.edu, coppi@mit.edu, wdetmold@mit.edu, eilers@mit.edu, engeln@mit.edu, m3v4n5@mit.edu, fakhri@mit.edu, farhi@mit.edu, fisherp@mit.edu, rfletch@mit.edu, josephf@mit.edu, dzf@math.mit.edu, jif@mit.edu, liangfu@mit.edu, rgarciar@mit.edu, gedik@mit.edu, goldston@mit.edu, gore@mit.edu, ogot@mit.edu, greytak@mit.edu, guth@ctp.mit.edu, harlow@mit.edu, pcharris@mit.edu, aram@mit.edu, hen@mit.edu
+
+Positions 41-80 (Hewitt → Russell): jhewitt@mit.edu, ginnocen@mit.edu, ippen@mit.edu, ivanov99@mit.edu, jaffe@mit.edu, pjarillo@mit.edu, zhurun@mit.edu, stevenj@mit.edu, joss@space.mit.edu, longju@mit.edu, dikaiser@mit.edu, ekara@space.mit.edu, kardar@mit.edu, mkastner@mit.edu, sbk@mit.edu, palee@mit.edu, yenjie@mit.edu, levitov@mit.edu, litster@mit.edu, hong_liu@mit.edu, kmasui@mit.edu, matthews@mit.edu, nergis@ligo.mit.edu, mcdonald@space.mit.edu, mmetlits@mit.edu, sarah.millholland@mit.edu, milner@mit.edu, leonid@mit.edu, ejmoniz@mit.edu, lnecib@mit.edu, negele@mit.edu, paus@mit.edu, pless@mit.edu, porkolab@psfc.mit.edu, dpritch@mit.edu, krishna@mit.edu, sar@mit.edu, redwine@mit.edu, rosenson@mit.edu, russell3@mit.edu
+
+🎯 Positions 81-101 — TEGMARK'S BATCH (sent FIRST): schech@mit.edu, seager@mit.edu, pshana@mit.edu, shuheng@mit.edu, eluned@mit.edu, soljacic@mit.edu, iains@mit.edu, jgt@mit.edu, wati@mit.edu, **tegmark@mit.edu**, jthaler@mit.edu, sccting@mit.edu, senthil@mit.edu, svitale@mit.edu, mvogelsb@mit.edu, vuletic@mit.edu, xgwen@mit.edu, wilczek@mit.edu, mwill@mit.edu, zwiebach@mit.edu, zwierlei@mit.edu
+
+---
+
+### Batch 1 of 5 — drafted 2026-05-04 (TEGMARK'S BATCH 🎯, 21 recipients)
+
+Dear line: `Dear MIT Physics Professors (Batch 1 of 5),`
+
+Recipients (21):
+```
+schech@mit.edu, seager@mit.edu, pshana@mit.edu, shuheng@mit.edu, eluned@mit.edu, soljacic@mit.edu, iains@mit.edu, jgt@mit.edu, wati@mit.edu, tegmark@mit.edu, jthaler@mit.edu, sccting@mit.edu, senthil@mit.edu, svitale@mit.edu, mvogelsb@mit.edu, vuletic@mit.edu, xgwen@mit.edu, wilczek@mit.edu, mwill@mit.edu, zwiebach@mit.edu, zwierlei@mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+
+---
+
 ## Université de Montréal — DIRO (Bengio's department) — 57 recipients, 3 batches
 
 Source: https://diro.umontreal.ca/repertoire-departement/professeurs/ (53 professors with emails extracted via raw HTML grep; 2 generic mailboxes filtered: info@iro, webmaster@iro).
