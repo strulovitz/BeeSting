@@ -177,7 +177,20 @@ Recipients (20):
 guanghan_meng@berkeley.edu, sewonm@berkeley.edu, rikky@berkeley.edu, muppala@berkeley.edu, katermurch@berkeley.edu, minilek@berkeley.edu, ren@berkeley.edu, ctnguyen@berkeley.edu, niknejad@eecs.berkeley.edu, bora@eecs.berkeley.edu, norouzi@berkeley.edu, nuzzo@eecs.berkeley.edu, job@berkeley.edu, baolshausen@berkeley.edu, keo@eecs.berkeley.edu, adityagp@eecs.berkeley.edu, spparekh@berkeley.edu, paulos@berkeley.edu, amypavel@berkeley.edu, vern@berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 7 of 8 — drafted 2026-05-04 (positions 121-140)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 7 of 8),`
+
+Recipients (20):
+```
+osama.shanaa@berkeley.edu, ysshao@berkeley.edu, shenker@icsi.berkeley.edu, jrs@cs.berkeley.edu, irfan_siddiqi@berkeley.edu, sinclair@cs.berkeley.edu, alp@berkeley.edu, sojoudi@berkeley.edu, dawnsong@cs.berkeley.edu, yss@berkeley.edu, jsteinhardt@berkeley.edu, istoica@eecs.berkeley.edu, vlada@berkeley.edu, jonathanstray@berkeley.edu, suhr@berkeley.edu, atal@berkeley.edu, haoningtang@berkeley.edu, jptennant@berkeley.edu, gt3@berkeley.edu, tomlin@eecs.berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
 
 ---
 
