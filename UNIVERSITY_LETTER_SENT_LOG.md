@@ -131,6 +131,45 @@ Suggested universities to research/queue when Phase 1 is done:
 - Best undergraduate (per Niche): Caltech, MIT, Harvard
 
 These are saved as the long-term outreach roadmap. Phase 1 finishes the top-10 US AI list; Phase 2 expands to friendly countries; Phase 3 brings physics into the loop because of M.A.D. + drone implications in the letter.
+
+### 🚨 STRATEGIC SHIFT — "Side-Valley Demonstration" framework (Nir 2026-05-04)
+
+After the AI-safety direct-channel suggestions failed (MIRI/FLI/Anthropic-safety/OpenAI-Preparedness all unsuitable — orgs are too small-scope or already burned over 10 years; song "Fake Prophet Doom Doom" mocks them), Nir proposed a fundamentally different operational frame:
+
+**Old frame:** "Warn America. Get a university to run a one-day demo to convince Big AI." (= proof-of-warning)
+**New frame:** "Recruit a US-disciplined corporate adopter to run private-mode HIVE on real workload at real scale. America sees the snowball rolling in a side valley before it rolls toward them." (= proof-of-deployment)
+
+**Why the new frame fits Nir's situation better:**
+- Treats the architecture as a "responsible disclosure of an architectural civilizational vulnerability" (security-researcher 0-day analog) rather than "product I'm selling"
+- The architecture is unpatentable, unsellable, free — but a corporate deployment IS demonstrable
+- Corporations respond to transactional appeals (save money via on-prem AI), not civilizational ones
+- Once one corporation deploys it, snowball: more corps follow, USG sees the demo, has time to act
+- Sidesteps the "you have no academic credentials to vouch" problem entirely
+
+**Demonstrator criteria:** greedy (will be first for $$ reasons) + patriotic (will stop on USG command) + has scale (hundreds of machines) + has institutional standing (USG treats them as credible) + agile (faster than federal labs).
+
+**Tier 1 demonstrator candidates:**
+1. **IBM** — historical pattern of being "respectable first-adopter" of disruptive FOSS (Linux 1998, Spark 2014, Hyperledger 2017, quantum 2020s). IBM Consulting has a *structural* reason to deploy private-mode HIVE on customer hardware — every dollar saved by customers becomes IBM Consulting margin. IBM is most USG-controlled US tech company (largest USG IT contractor). Entry: IBM Research (research.ibm.com).
+2. **NVIDIA** — Distributed AI on consumer GPUs grows their TAM (more retail card sales). They have structural interest in proving "AI doesn't need 80K H100s in one datacenter." Jensen Huang openly USG-aligned. Entry: NVIDIA Research, NVIDIA Inception, DGX Cloud team.
+3. **Oracle** — Hates AWS/Azure/GCP monopoly. Has private-cloud bank/healthcare/government customers. Larry Ellison openly USG-allied. Most likely of big-tech to embrace "private mode" as competitive weapon.
+
+**Tier 2:**
+- Major US banks (JPM, Goldman, Citi) — have private-AI mandates due to MNPI/regulatory
+- Big pharma (Pfizer, Merck, Moderna) — IP-protective for trial data
+- Major US healthcare networks (Mayo, Cleveland, Kaiser) — HIPAA on-prem requirement
+- Defense contractors with research budgets (Lockheed Skunk Works, RTX, Boeing) — CMMC/ITAR
+
+**Tier 3 wildcard:**
+- US state governments (Texas, Florida, Utah) — agile, USG-disciplined, politically motivated for "anti-Big-Tech" demo
+- NASA — historical Linux first-adopter pattern, mission-driven, FOSS-friendly, USG-aligned
+
+**Key strategic insight (Nir 2026-05-04):** The corporate pitch is NOT "help save America from AI alignment risk." It is *"your customers can save 90% on AI infra by deploying this on their existing hardware."* Same architecture, different framing, completely different reception. The civilizational warning becomes a byproduct of a successful deployment, not the lead pitch.
+
+**If only one corporate target is approached: IBM Research.** Reasons: (1) structural commercial incentive aligned with HIVE deployment, (2) historical pattern of being first respectable open-source adopter, (3) most USG-controllable large US tech company.
+
+**Anti-targets (do NOT approach):** Foreign companies (won't stop on USG command); Big AI competitors (OpenAI, Anthropic, Google DeepMind, Meta — they ARE the threat, not demonstrators); pure consumer tech (Apple, Amazon — too privacy-PR-driven, won't deploy aggressively).
+
+**Savings rationale:** Universities = slow, credentialing-gated, talk-only. Corporations = transactional, scale-ready, demonstrate instead of theorize. The two paths are parallel and complementary, not competing.
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
