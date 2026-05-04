@@ -112,7 +112,20 @@ Recipients (21 — includes Russell's secondary email at humancompatible.ai):
 emmapierson@berkeley.edu, pilawa@berkeley.edu, ksjp@berkeley.edu, poolla@berkeley.edu, raluca.popa@berkeley.edu, prasad@cs.berkeley.edu, kannanr@eecs.berkeley.edu, ranade@eecs.berkeley.edu, satishr@cs.berkeley.edu, sylvia@eecs.berkeley.edu, brecht@berkeley.edu, jr@berkeley.edu, russell@cs.berkeley.edu, jp@humancompatible.ai, msabin@berkeley.edu, sahai@eecs.berkeley.edu, nsalehi@berkeley.edu, alberto@berkeley.edu, sastry@eecs.berkeley.edu, ksen@cs.berkeley.edu, sseshia@eecs.berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 2 of 8 — drafted 2026-05-04 (positions 1-20)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 2 of 8),`
+
+Recipients (20):
+```
+pabbeel@cs.berkeley.edu, amalaa@berkeley.edu, elad@eecs.berkeley.edu, ananth@eecs.berkeley.edu, gopala@berkeley.edu, mekhail@berkeley.edu, arcak@berkeley.edu, acarias@eecs.berkeley.edu, krste@berkeley.edu, ayazifar@berkeley.edu, ball@berkeley.edu, dbamman@berkeley.edu, barsky@berkeley.edu, peter@berkeley.edu, bayen@berkeley.edu, jbokor@berkeley.edu, boles@berkeley.edu, borgs@berkeley.edu, dcal@berkeley.edu, caoyuan@berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
 
