@@ -113,7 +113,20 @@ Recipients (22 — includes Hinton's 3 addresses: gh@cs.toronto.edu, geoffrey.hi
 reid@cs.toronto.edu, sharmin@cs.toronto.edu, lshorser@teach.cs.toronto.edu, jsmith@cs.toronto.edu, sunk@cs.toronto.edu, marinat@cs.toronto.edu, tsa@eecg.utoronto.ca, rmb@cs.toronto.edu, clarke@cs.toronto.edu, enright@cs.toronto.edu, tff@cs.toronto.edu, elf@cs.toronto.edu, heap@cs.toronto.edu, hehner@cs.toronto.edu, gh@cs.toronto.edu, krj@cs.toronto.edu, jepson@cs.toronto.edu, hector@cs.toronto.edu, miller@cs.toronto.edu, jm@cs.toronto.edu, geoffrey.hinton@gmail.com, jennifer.cressman@utoronto.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04. Note: Hector Levesque (hector@cs.toronto.edu) auto-rejected with personal whitelist challenge — Nir chose to skip him.
+
+---
+
+### Batch 2 of 12 — drafted 2026-05-04 (CS positions 1-20)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 2 of 12),`
+
+Recipients (20):
+```
+ishtiaque@cs.toronto.edu, ashton@cs.toronto.edu, aspuru@cs.toronto.edu, jba@cs.toronto.edu, ravin@cs.toronto.edu, bernales@cs.toronto.edu, bonner@cs.toronto.edu, bor@cs.toronto.edu, demke@cs.toronto.edu, brudno@cs.toronto.edu, jbk@cs.toronto.edu, chechik@cs.toronto.edu, fanny@cs.toronto.edu, ccc@cs.toronto.edu, nivdayan@cs.toronto.edu, delara@cs.toronto.edu, sven@cs.toronto.edu, duvenaud@cs.toronto.edu, sme@cs.toronto.edu, faith@cs.toronto.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
 
