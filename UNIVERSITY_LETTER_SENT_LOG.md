@@ -63,12 +63,14 @@ These are AI-alignment-relevant researchers identified after the main queue was 
 
 **1. Max Tegmark (MIT Physics + Future of Life Institute)** — President of FLI, AI x-risk advocate, *Life 3.0* author. ✅ IN PROGRESS 2026-05-04 (101 MIT Physics recipients in 5 batches, Tegmark in Batch 1 at 5 addresses).
 - Department: MIT Physics (harvested from https://physics.mit.edu/physics-directory/)
-- Hero emails (all 5 in his batch):
-  - `tegmark@mit.edu` (MIT academic)
-  - `mtegmark@gmail.com` (personal)
-  - `press@futureoflife.org` (FLI press)
-  - `contact@futureoflife.org` (FLI general)
-  - `speakers@caa.com` (CAA Speakers Bureau — Nir explicitly said include all)
+- Hero emails (all 5 sent in his Batch 1 + 2 surfaced via auto-reply for follow-up):
+  - `tegmark@mit.edu` (MIT academic) — sent
+  - `mtegmark@gmail.com` (personal) — sent
+  - `press@futureoflife.org` (FLI press) — sent; auto-reply confirms Ben Cumming is the Director here
+  - `contact@futureoflife.org` (FLI general) — sent
+  - `speakers@caa.com` (CAA Speakers Bureau) — sent
+  - `chase@futureoflife.org` (Chase Hardin, FLI, currently covering for Ben Cumming on parental leave) — surfaced via OOO 2026-05-04, available for follow-up
+  - `ben.cumming@futureoflife.org` (Ben Cumming, FLI Communications Director, on parental leave) — surfaced via OOO 2026-05-04, available for follow-up after parental leave
 - Phone: (617) 452-4627
 - Office: Ronald McNair Building, 37-582G, 70 Vassar St, Cambridge, MA 02139
 
