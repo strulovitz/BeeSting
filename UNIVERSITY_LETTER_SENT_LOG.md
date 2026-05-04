@@ -141,7 +141,20 @@ Recipients (25 — Tegmark at 5 addresses including FLI + personal + CAA):
 schech@mit.edu, seager@mit.edu, pshana@mit.edu, shuheng@mit.edu, eluned@mit.edu, soljacic@mit.edu, iains@mit.edu, jgt@mit.edu, wati@mit.edu, tegmark@mit.edu, mtegmark@gmail.com, press@futureoflife.org, contact@futureoflife.org, speakers@caa.com, jthaler@mit.edu, sccting@mit.edu, senthil@mit.edu, svitale@mit.edu, mvogelsb@mit.edu, vuletic@mit.edu, xgwen@mit.edu, wilczek@mit.edu, mwill@mit.edu, zwiebach@mit.edu, zwierlei@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04. Auto-reply from press@futureoflife.org revealed 2 new FLI addresses (Chase Hardin, Ben Cumming) — saved to Tegmark hero record.
+
+---
+
+### Batch 2 of 5 — drafted 2026-05-04 (positions 1-20, Belcher → Engeln)
+
+Dear line: `Dear MIT Physics Professors (Batch 2 of 5),`
+
+Recipients (20):
+```
+jbelcher@mit.edu, benedek@mit.edu, anberker@mit.edu, bertozzi@mit.edu, edbert@mit.edu, robertjb@berkeley.edu, kburdge@mit.edu, busza@mit.edu, crc@mit.edu, pcappell@mit.edu, arupc@mit.edu, checkelsky@mit.edu, chenm@mit.edu, soonwon@mit.edu, rcomin@mit.edu, conrad@mit.edu, coppi@mit.edu, wdetmold@mit.edu, eilers@mit.edu, engeln@mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
 
