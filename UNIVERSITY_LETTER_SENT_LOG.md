@@ -51,6 +51,7 @@ When the batch for a hero's university is built, **include ALL of their addresse
 **Geoffrey Hinton (University of Toronto) — include in Toronto Batch 1:**
 - `geoffrey.hinton@gmail.com` (personal — note: post-Nobel response volume is heavy)
 - `jennifer.cressman@utoronto.ca` (executive assistant)
+- `gh@cs.toronto.edu` (CS Toronto Emeritus alias — found on https://web.cs.toronto.edu/people/faculty-directory)
 - University address: Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario, Canada, M5S 3G4
 - Speaking agencies: MN2S, Chartwell Speakers — saved for reference only
 
@@ -64,6 +65,55 @@ When building each university's Batch 1, **add the hero's full email set above t
 12. **California Institute of Technology (Caltech)** — ML and AI tracks, interdisciplinary scientific focus. ⏳
 
 Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berkeley EECS faculty page when ready.
+
+---
+
+## University of Toronto (CS + ECE) — 229 emails, 12 batches
+
+Sources:
+- CS: https://web.cs.toronto.edu/people/faculty-directory (single page, 122 emails — all extracted via raw HTML grep)
+- ECE: https://www.ece.utoronto.ca/faculty/faculty-directory/ (3 pages, 110 bio profile pages, 109 emails extracted via parallel curl + grep; 1 ECE bio Saileshwar already covered via CS)
+
+Dedupe: 4 exact-match overlaps removed (joint appointments at same address): `nandita@cs.toronto.edu`, `chechik@cs.toronto.edu`, `delara@cs.toronto.edu`, `pekhimenko@cs.toronto.edu` → 227 unique CS+ECE emails.
+
+🎯 **Hinton's emails:** `gh@cs.toronto.edu` (CS Emeritus alias, found at position 115 of CS list) + `geoffrey.hinton@gmail.com` (personal) + `jennifer.cressman@utoronto.ca` (assistant) = **3 addresses**. Per the operative first-batch rule, his batch is Batch 1 with all 3 included → 22-recipient Batch 1.
+
+Total recipients: 227 + 2 (Hinton's 2 non-list extras) = **229**.
+
+### Master ordered list
+
+CS first (Hinton is here), then ECE.
+
+**CS positions 1-122** (active, then teaching, then emeritus): ishtiaque@cs.toronto.edu, ashton@cs.toronto.edu, aspuru@cs.toronto.edu, jba@cs.toronto.edu, ravin@cs.toronto.edu, bernales@cs.toronto.edu, bonner@cs.toronto.edu, bor@cs.toronto.edu, demke@cs.toronto.edu, brudno@cs.toronto.edu, jbk@cs.toronto.edu, chechik@cs.toronto.edu, fanny@cs.toronto.edu, ccc@cs.toronto.edu, nivdayan@cs.toronto.edu, delara@cs.toronto.edu, sven@cs.toronto.edu, duvenaud@cs.toronto.edu, sme@cs.toronto.edu, faith@cs.toronto.edu, erdogdu@cs.toronto.edu, azadeh@cs.toronto.edu, fidler@cs.toronto.edu, fleet@cs.toronto.edu, ganjali7@cs.toronto.edu, gilitschenski@cs.toronto.edu, anna.goldenberg@utoronto.ca, eitan@cs.toronto.edu, rgrosse@cs.toronto.edu, tovi@cs.toronto.edu, arvind@cs.toronto.edu, vassos@cs.toronto.edu, ahithnawi@cs.toronto.edu, jacobson@cs.toronto.edu, zjin.admin@cs.toronto.edu, swastik@cs.toronto.edu, koudas@cs.toronto.edu, rahulgk@cs.toronto.edu, kyros@cs.toronto.edu, diwlevin@cs.toronto.edu, alevis@cs.toronto.edu, lindell@cs.toronto.edu, fanl@cs.toronto.edu, cmaddis@cs.toronto.edu, marbach@cs.toronto.edu, mariakakis@cs.toronto.edu, sheila@cs.toronto.edu, meel@cs.toronto.edu, mmehride@cs.toronto.edu, molloy@cs.toronto.edu, anikolov@cs.toronto.edu, cnobre@cs.toronto.edu, pekhimenko@cs.toronto.edu, gpenn@cs.toronto.edu, toni@cs.toronto.edu, craffel@cs.toronto.edu, ristenpart@cs.toronto.edu, sachdeva@cs.toronto.edu, gururaj@cs.toronto.edu, shubhangi@cs.toronto.edu, bianca@cs.toronto.edu, kserkh@cs.toronto.edu, nisarg@cs.toronto.edu, oshamir@cs.toronto.edu, florian@cs.toronto.edu, six@cs.toronto.edu, karan@cs.toronto.edu, soden@cs.toronto.edu, akshayaram@cs.toronto.edu, suzanne@cs.toronto.edu, lisa.strug@utoronto.ca, taati@cs.toronto.edu, roei@cs.toronto.edu, sam@cs.toronto.edu, khai@cs.toronto.edu, urtasun@cs.toronto.edu, nandita@cs.toronto.edu, bwang@cs.toronto.edu, nawiebe@cs.toronto.edu, daniel@dgp.toronto.edu, williams@cs.toronto.edu, ningningxie@cs.toronto.edu, yangxu@cs.toronto.edu, zemel@cs.toronto.edu, qz@cs.toronto.edu, bahar@cs.toronto.edu, mbadr@cs.toronto.edu, gfb@cs.toronto.edu, calver@cs.toronto.edu, campbell@cs.toronto.edu, steven.coyne@mail.utoronto.ca, mcraig@cs.toronto.edu, sengels@cs.toronto.edu, axgao@cs.toronto.edu, pgries@cs.toronto.edu, chandra@cs.toronto.edu, paulhe@cs.toronto.edu, dianeh@cs.toronto.edu, david@cs.toronto.edu, fpitt@cs.toronto.edu, reid@cs.toronto.edu, sharmin@cs.toronto.edu, lshorser@teach.cs.toronto.edu, jsmith@cs.toronto.edu, sunk@cs.toronto.edu, marinat@cs.toronto.edu, tsa@eecg.utoronto.ca, rmb@cs.toronto.edu, clarke@cs.toronto.edu, enright@cs.toronto.edu, tff@cs.toronto.edu, elf@cs.toronto.edu, heap@cs.toronto.edu, hehner@cs.toronto.edu, **gh@cs.toronto.edu (HINTON)**, krj@cs.toronto.edu, jepson@cs.toronto.edu, hector@cs.toronto.edu, miller@cs.toronto.edu, jm@cs.toronto.edu, rackoff@cs.toronto.edu, dw@cs.toronto.edu
+
+**ECE positions 1-105** (deduped from 109; 4 overlaps removed): aarabi-p p@arh.am, abdelrahman tsa@eecg.toronto.edu, adve rsadve@comm.utoronto.ca, aitchison stewart.aitchison@utoronto.ca, anderson-jh janders@eecg.toronto.edu, anderson-p p.anderson@utoronto.ca, asare philip.asare@utoronto.ca, bardakjian berj.bardakjian@utoronto.ca, bereyhi ali.bereyhi@utoronto.ca, betz vaughn@eecg.toronto.edu, blake ifblake@comm.utoronto.ca, broucke broucke@control.utoronto.ca, brown-sd brown@eecg.toronto.edu, chan-carusone tony.chan.carusone@isl.utoronto.ca, chapman mchapman@ece.utoronto.ca, cheng-hl hailing.cheng@utoronto.ca, chow-p pc@eecg.toronto.edu, cobbold cobbold@ecf.utoronto.ca, davison ted@control.utoronto.ca, dawson dawson@ece.utoronto.ca, draper stark.draper@utoronto.ca, eleftheriades gelefth@waves.utoronto.ca, emara salma@ece.utoronto.ca, enright-jerger natalie.enrightjerger@utoronto.ca, eyolfson j.eyolfson@utoronto.ca, frey frey@psi.utoronto.ca, garcia-luna jj.garcialunaaceves@utoronto.ca, genov roman@eecg.utoronto.ca, goel ashvin@eecg.toronto.edu, gulak gulak@eecg.toronto.edu, hatzinakos dimitris@comm.utoronto.ca, helmy a.helmy@utoronto.ca, herman p.herman@utoronto.ca, hooshyar hooshyar@ece.utoronto.ca, hum sean.hum@utoronto.ca, iravani iravani@ecf.utoronto.ca, jacobsen jacobsen@eecg.toronto.edu, jeffrey mcj@ece.utoronto.ca, jianan-yao jianan.yao@utoronto.ca, johns johns@eecg.utoronto.ca, kherani kherani@ecf.utoronto.ca, khisti akhisti@comm.utoronto.ca, kschischang frank@comm.utoronto.ca, kundur dkundur@ece.utoronto.ca, kwong kwong@control.utoronto.ca, lehn lehn@ece.utoronto.ca, leon-garcia alberto.leongarcia@utoronto.ca, levi ofer.levi@utoronto.ca, li-b bli@ece.toronto.edu, liang-b liang@comm.utoronto.ca, lie lie@eecg.toronto.edu, liebeherr jorg@ece.utoronto.ca, liscidini antonio.liscidini@utoronto.ca, liu-x xilinliu@ece.utoronto.ca, lo-hk hklo@comm.utoronto.ca, maggiore maggiore@control.utoronto.ca, mann mann@eecg.toronto.edu, mccausland imccausland@sympatico.ca, mojahedi mojahedi@waves.utoronto.ca, moshovos moshovos@eecg.toronto.edu, nachman adrian.nachman@utoronto.ca, najm f.najm@utoronto.ca, naseri parinaz.naseri@utoronto.ca, ng-wt ngwt@vrg.utoronto.ca, papernot nicolas.papernot@utoronto.ca, pavel pavel@control.utoronto.ca, phang kphang@eecg.utoronto.ca, pierrou georgia.pierrou@utoronto.ca, plataniotis kostas@comm.utoronto.ca, poon joyce.poon@utoronto.ca, prodic prodic@power.ele.utoronto.ca, qian-l l.qian@utoronto.ca, rose-js jonathan.rose@utoronto.ca, ruda harry.ruda@utoronto.ca, salama salama@vrg.utoronto.ca, sargent ted.sargent@utoronto.ca, sarris costas.sarris@utoronto.ca, scardovi luca.scardovi@utoronto.ca, sejdic ervin.sejdic@utoronto.ca, sheikholeslami ali@eecg.utoronto.ca, simpson-porco jwsimpson@ece.utoronto.ca, smith-pwe pwes@ecf.utoronto.ca, sousa-es es.sousa@utoronto.ca, stickel m.stickel@utoronto.ca, stumm stumm@eecg.toronto.edu, sun-y sun@mie.utoronto.ca, tate zeb.tate@utoronto.ca, timorabadi h.timorabadi@utoronto.ca, trescases ot@ece.utoronto.ca, triverio triverio@waves.utoronto.ca, truong-k kevin.truong@utoronto.ca, valaee valaee@comm.utoronto.ca, veneris veneris@eecg.utoronto.ca, voinigescu sorinv@ece.utoronto.ca, vranesic zvonko@eecg.toronto.edu, wang-b belinda.wang@utoronto.ca, ying-chen cying@ece.utoronto.ca, yoo paul.yoo@utoronto.ca, yu-w weiyu@comm.utoronto.ca, yuan yuan@eecg.toronto.edu, zaky safwat.zaky@utoronto.ca, zariffa jose.zariffa@utoronto.ca, zhang-daifei daifei.zhang@utoronto.ca, zhou-s shuruiz@ece.utoronto.ca, zhu-j jzhu@eecg.utoronto.ca
+
+### Send order
+- **Batch 1 of 12 = HINTON's BATCH (22 recipients)** = CS positions 101-120 + Hinton's gmail + Hinton's assistant
+- Batch 2 of 12 = CS positions 1-20
+- Batch 3 of 12 = CS positions 21-40
+- Batch 4 of 12 = CS positions 41-60
+- Batch 5 of 12 = CS positions 61-80
+- Batch 6 of 12 = CS positions 81-100
+- Batch 7 of 12 = CS positions 121-122 + ECE positions 1-18
+- Batch 8 of 12 = ECE positions 19-38
+- Batch 9 of 12 = ECE positions 39-58
+- Batch 10 of 12 = ECE positions 59-78
+- Batch 11 of 12 = ECE positions 79-98
+- Batch 12 of 12 = ECE positions 99-105 (7 emails)
+
+---
+
+### Batch 1 of 12 — drafted 2026-05-04 (HINTON'S BATCH 🎯, 22 recipients)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 1 of 12),`
+
+Recipients (22 — includes Hinton's 3 addresses: gh@cs.toronto.edu, geoffrey.hinton@gmail.com, jennifer.cressman@utoronto.ca):
+```
+reid@cs.toronto.edu, sharmin@cs.toronto.edu, lshorser@teach.cs.toronto.edu, jsmith@cs.toronto.edu, sunk@cs.toronto.edu, marinat@cs.toronto.edu, tsa@eecg.utoronto.ca, rmb@cs.toronto.edu, clarke@cs.toronto.edu, enright@cs.toronto.edu, tff@cs.toronto.edu, elf@cs.toronto.edu, heap@cs.toronto.edu, hehner@cs.toronto.edu, gh@cs.toronto.edu, krj@cs.toronto.edu, jepson@cs.toronto.edu, hector@cs.toronto.edu, miller@cs.toronto.edu, jm@cs.toronto.edu, geoffrey.hinton@gmail.com, jennifer.cressman@utoronto.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
 
 ---
 
