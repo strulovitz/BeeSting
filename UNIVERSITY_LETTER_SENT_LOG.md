@@ -23,6 +23,19 @@ Recipients (20):
 hal@mit.edu, elfar@mit.edu, fadel@mit.edu, agarwal@mit.edu, pulkitag@mit.edu, akinwand@mtl.mit.edu, alizadeh@mit.edu, samana@mit.edu, jda@mit.edu, antoniadis@mtl.mit.edu, abahai@mit.edu, hari@csail.mit.edu, baldo@mit.edu, regina@csail.mit.edu, s_bates@mit.edu, beery@mit.edu, abelay@csail.mit.edu, berggren@mit.edu, dimitrib@mit.edu, berwick@csail.mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 2 of 9 — drafted 2026-05-04
+
+Dear line: `Dear MIT EECS Professors (Batch 2 of 9),`
+
+Recipients (20):
+```
+sbhatia@mit.edu, abodner@mit.edu, boning@mtl.mit.edu, guy@mit.edu, tamarab@mit.edu, bulovic@mit.edu, mcarbin@csail.mit.edu, chan@mit.edu, provost-reply@mit.edu, sscheema@mit.edu, yufengc@mit.edu, adamc@csail.mit.edu, ichuang@mit.edu, coday@mit.edu, ccoley@mit.edu, henrycg@csail.mit.edu, dahleh@mit.edu, luca@mit.edu, costis@csail.mit.edu, davis@csail.mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
