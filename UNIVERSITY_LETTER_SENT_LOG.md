@@ -66,7 +66,20 @@ Recipients (20):
 panos@cmu.edu, tcortina@andrew.cmu.edu, kmcrane@cs.cmu.edu, crary@cmu.edu, rbd@cs.cmu.edu, dettmers@cmu.edu, hdeyoung@andrew.cmu.edu, gdicaro@cmu.edu, chrisdonahue@cmu.edu, de0u@andrew.cmu.edu, christos@andrew.cmu.edu, gfanti@andrew.cmu.edu, mfredrik@cmu.edu, frieze@cmu.edu, ganger@ece.cmu.edu, garlan@cs.cmu.edu, charlie@cmu.edu, gibbons@cs.cmu.edu, garth@cmu.edu, gligor@cmu.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 3 of 11 — drafted 2026-05-04
+
+Dear line: `Dear CMU CS and ECE Professors (Batch 3 of 11),`
+
+Recipients (20):
+```
+seth@cmu.edu, vipul@cmu.edu, mmgrelli@cmu.edu, ag@andrew.cmu.edu, venkatg@cs.cmu.edu, mhhamoud@cmu.edu, harchol@andrew.cmu.edu, rwh@cs.cmu.edu, kharras@qatar.cmu.edu, marijn@cmu.edu, jkh@cmu.edu, jhoffmann@cmu.edu, president@cmu.edu, aayushja@andrew.cmu.edu, liminjia@cmu.edu, zhihao@cmu.edu, mkaminsky@cmu.edu, kanade@cmu.edu, cak@cmu.edu, dilsun@cs.cmu.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
 
 ---
 
