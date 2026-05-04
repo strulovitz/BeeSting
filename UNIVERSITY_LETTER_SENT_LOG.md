@@ -62,6 +62,19 @@ Recipients (20):
 mgray@mit.edu, egrimson@mit.edu, guttag@mit.edu, dylanhm@mit.edu, plh@mit.edu, jyhan@mit.edu, ruonan@mit.edu, songhan@mit.edu, kaiming@mit.edu, thomas@mit.edu, samhop@mit.edu, qhu@mit.edu, huangcza@mit.edu, huttenlocher@mit.edu, yunha@mit.edu, ilic@mit.edu, indyk@csail.mit.edu, phillipi@mit.edu, tommi@csail.mit.edu, dnj@csail.mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 5 of 9 — drafted 2026-05-04
+
+Dear line: `Dear MIT EECS Professors (Batch 5 of 9),`
+
+Recipients (20):
+```
+jaillet@mit.edu, stefje@mit.edu, ejossou@mit.edu, kaashoek@csail.mit.edu, lpk@csail.mit.edu, tauman@mit.edu, karger@csail.mit.edu, dina@csail.mit.edu, manoli@mit.edu, yoonhkim@mit.edu, kirtley@mit.edu, leskolo@mit.edu, minakl@mit.edu, jingkong@mit.edu, kraska@mit.edu, lang@mit.edu, hslee@mtl.mit.edu, sbleeb@mit.edu, cel@mit.edu, ldlewis@mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
 
 ---
