@@ -5,6 +5,25 @@ One section per university. Each batch lists subject, recipients, batch label, a
 
 ---
 
+## Queue — Nir's order (top 10 AI universities in USA, 2026)
+
+Source: Google search "top 10 AI universities in USA" (Nir, 2026-05-04).
+
+1. **Carnegie Mellon University (CMU)** — School of Computer Science. First BS in AI in the USA. ⏳
+2. **Massachusetts Institute of Technology (MIT)** — CSAIL. ✅ COMPLETE 2026-05-04 (180 EECS faculty)
+3. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
+4. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). ⏳
+5. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
+6. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
+7. **Georgia Institute of Technology (Georgia Tech)** — AI Makerspace, AI specializations undergrad + grad. ⏳
+8. **Cornell University** — CS dept, AI/ML pioneer since the 1990s. ⏳
+9. **University of Texas at Austin** — Texas Robotics center, Turing Scholars honors program. ⏳
+10. **California Institute of Technology (Caltech)** — ML and AI tracks, interdisciplinary scientific focus. ⏳
+
+Next up: **CMU** (since MIT is done). Nir to paste the CMU AI/CS faculty page when ready.
+
+---
+
 ## MIT EECS — 180 emails, 9 batches of 20
 
 Source page: combined EECS faculty page (181 names; Alex Rives has no email listed → 180 emails).
