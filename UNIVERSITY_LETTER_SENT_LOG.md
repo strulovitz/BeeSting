@@ -138,7 +138,20 @@ Recipients (20):
 serinac@berkeley.edu, jchayes@berkeley.edu, iychen@berkeley.edu, lijiechen@berkeley.edu, zaijun@berkeley.edu, akcheung@cs.berkeley.edu, jcchien@berkeley.edu, chuang@ischool.berkeley.edu, vcoleman@berkeley.edu, sconolly@berkeley.edu, henrycg@cs.berkeley.edu, courtade@berkeley.edu, ncrooks@berkeley.edu, trevor@eecs.berkeley.edu, demmel@cs.berkeley.edu, denero@berkeley.edu, alexdimakis@berkeley.edu, rdorrance@berkeley.edu, prabal@berkeley.edu, efros@eecs.berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 4 of 8 — drafted 2026-05-04 (positions 41-60)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 4 of 8),`
+
+Recipients (20):
+```
+hfarid@berkeley.edu, cwfletcher@berkeley.edu, fox@berkeley.edu, gallant@berkeley.edu, ddgarcia@berkeley.edu, sanjamg@berkeley.edu, aligh@berkeley.edu, goldberg@berkeley.edu, jegonzal@eecs.berkeley.edu, pgray@berkeley.edu, venkatg@berkeley.edu, nika@berkeley.edu, bjoern@eecs.berkeley.edu, hearst@berkeley.edu, hug@cs.berkeley.edu, cthunn@eecs.berkeley.edu, nilah@berkeley.edu, rishabh.iyer@eecs.berkeley.edu, ajavey@berkeley.edu, jordan@cs.berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
 
 ---
 
