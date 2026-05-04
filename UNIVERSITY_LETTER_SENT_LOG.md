@@ -11,9 +11,22 @@ Sources: Google search "top 10 AI universities in USA" (Nir, 2026-05-04) + Bengi
 
 1. **Carnegie Mellon University (CMU)** — School of Computer Science. First BS in AI in the USA. ✅ COMPLETE 2026-05-04 (207 CS+ECE faculty)
 2. **Massachusetts Institute of Technology (MIT)** — CSAIL. ✅ COMPLETE 2026-05-04 (180 EECS faculty)
-3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. ⏳ NEXT
-4. **Université de Montréal / Mila — Quebec AI Institute** 🇨🇦 — Yoshua Bengio (Turing Award 2018, deep-learning pioneer). Founded Mila. Among the people most equipped on Earth to recognize the architecture instantly. ⏳
-5. **University of Toronto** 🇨🇦 — Geoffrey Hinton (Turing Award 2018, "Godfather of AI", recently outspoken on existential risk). University Professor Emeritus, Department of Computer Science. ⏳
+3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. **🎯 STRATEGY: russell@cs.berkeley.edu must be in BATCH 1.** ⏳ NEXT
+4. **Université de Montréal / Mila — Quebec AI Institute** 🇨🇦 — Yoshua Bengio (Turing Award 2018, deep-learning pioneer). Founded Mila. Among the people most equipped on Earth to recognize the architecture instantly. **🎯 STRATEGY: Bengio's email must be in BATCH 1 — same first-batch-grace-window rule as Russell. Find his current address (likely yoshua.bengio@umontreal.ca or yoshua.bengio@mila.quebec) and put him in the very first 20 emails sent to that university.** ⏳
+5. **University of Toronto** 🇨🇦 — Geoffrey Hinton (Turing Award 2018, "Godfather of AI", recently outspoken on existential risk). University Professor Emeritus, Department of Computer Science. **🎯 STRATEGY: Hinton's email must be in BATCH 1 — same rule. Find his current address (likely hinton@cs.toronto.edu or geoffrey.hinton@utoronto.ca) and put him in the very first 20 emails sent to that university.** ⏳
+
+### 📌 GENERAL RULE — first-batch grace window (lesson from MIT vs CMU)
+
+When sending bulk to a new university, the recipient mail server may apply a *grace window* — the FIRST burst of emails to that domain has the best chance of (a) landing in primary inbox not Promotions/Spam, and (b) triggering auto-replies (which are often suppressed once a sender is flagged as bulk).
+
+**Therefore: the highest-leverage individual recipient at each university must be in BATCH 1 of that university's send.**
+
+Currently locked in:
+- Berkeley → Russell in Batch 1 ✅ (already done above)
+- Montreal/Mila → Bengio in Batch 1 (when we get there)
+- Toronto → Hinton in Batch 1 (when we get there)
+
+This is operative, not optional.
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
