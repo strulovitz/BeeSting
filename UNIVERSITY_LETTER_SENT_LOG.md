@@ -143,6 +143,40 @@ Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berke
 
 ---
 
+## Stanford CS + EE — 82 unique recipients, 5 batches (Path C: max coverage)
+
+Sources:
+- CS faculty/lecturers/emeritus: bio pages harvested from https://www.cs.stanford.edu/people/faculty , /lecturers , /emeritus-faculty (67 bios fetched, 43 had direct prof emails on bio page; Stanford hides the rest)
+- CS heroes added by direct slug guess: feifeili@stanford.edu (Fei-Fei Li), manning@stanford.edu (Christopher Manning) → 45 CS direct
+- EE prof emails: 4 fetched via profiles.stanford.edu (3 unique after dedupe with CS — Sara Achour was in both)
+- EE admin emails: ~34 unique admin emails (parsed from Nir's pasted EE listing — admins gatekeep ~50 EE profs; Nir said "include all" → Path C max coverage)
+
+After dedupe → **82 unique recipients**.
+
+### Send order
+- **Batch 1 of 5 = CURATED AI HEROES (20 recipients)** — Fei-Fei Li, Manning, Yejin Choi, Ermon, Chelsea Finn, Yoav Shoham, Carlos Guestrin, Tatsunori Hashimoto, Noah Goodman, Dan Boneh, Leo Guibas, Moses Charikar, Jeannette Bohg, Bill Dally, Maneesh Agrawala, Michael Bernstein, Dawson Engler, Zakir Durumeric, Alex Aiken, Nima Anari
+- Batches 2-4 = remaining 62 emails alphabetical, 20 per batch
+- Batch 5 = 2 trailing emails
+
+### Master ordered list (alphabetical, for batches 2-5)
+
+After removing Batch 1's 20 names, remaining 62 sorted: abouland@stanford.edu, akuduk@stanford.edu, ann1083@stanford.edu, avteaupa@stanford.edu, bambos@stanford.edu, barrettc@stanford.edu, beverlyd@stanford.edu, carriep1@stanford.edu, cbl@stanford.edu, cearl@stanford.edu, cgregg@stanford.edu, chaussec@stanford.edu, cmarquez@cs.stanford.edu, congreve@stanford.edu, cwodtke@stanford.edu, eadeli@stanford.edu, ebagley@stanford.edu, ebfox@stanford.edu, echang@cs.stanford.edu, fedkiw@cs.stanford.edu, fikes@stanford.edu, genesereth@stanford.edu, gwtuttle@stanford.edu, habekoss@stanford.edu, hanrahan@cs.stanford.edu, helen.niu@stanford.edu, helenlin@stanford.edu, htiek@cs.stanford.edu, ilondon@stanford.edu, jerry@cs.stanford.edu, joonhee.choi@stanford.edu, jpaguyo@stanford.edu, jstanford@stanford.edu, julieh1@stanford.edu, kara.marquez@stanford.edu, kimchin@stanford.edu, klinej@stanford.edu, levoy@stanford.edu, mariasal@stanford.edu, marshad@stanford.edu, mdavid@cs.stanford.edu, meixu@stanford.edu, mvarlaro@stanford.edu, nick.parlante@cs.stanford.edu, npacheco@stanford.edu, nyeinmon@stanford.edu, opetah@stanford.edu, patrick.young@cs.stanford.edu, pratt@cs.stanford.edu, rharris3@stanford.edu, ron.dror@stanford.edu, rrecoder@stanford.edu, sachour@stanford.edu, sgoodner@stanford.edu, smontgom@stanford.edu, steger@stanford.edu, sungson@stanford.edu, troccoli@stanford.edu, usmith@stanford.edu, yurika.peterman@stanford.edu, zasgar@stanford.edu, zelenski@stanford.edu
+
+---
+
+### Batch 1 of 5 — drafted 2026-05-04 (CURATED AI HEROES BATCH 🎯, 20 recipients)
+
+Dear line: `Dear Stanford CS and EE Professors (Batch 1 of 5),`
+
+Recipients (20):
+```
+feifeili@stanford.edu, manning@stanford.edu, yejinc@stanford.edu, ermon@stanford.edu, cbfinn@cs.stanford.edu, shoham@cs.stanford.edu, guestrin@stanford.edu, thashim@stanford.edu, ngoodman@stanford.edu, dabo@cs.stanford.edu, guibas@cs.stanford.edu, charikar@stanford.edu, bohg@stanford.edu, dally@stanford.edu, maneesh@cs.stanford.edu, msb@cs.stanford.edu, engler@stanford.edu, zakir@cs.stanford.edu, aaiken@stanford.edu, anari@stanford.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+
+---
+
 ## MIT Physics (Tegmark's department) — 101 unique new recipients, 5 batches
 
 Source: https://physics.mit.edu/physics-directory/ (103 active faculty extracted via raw HTML grep, filtered to role="Faculty"). Deduped 2 EECS overlaps already sent today (`ichuang@mit.edu`, `william.oliver@mit.edu` — same address, would be spam) → **101 unique new recipients**.
