@@ -105,7 +105,20 @@ Recipients (20):
 tcm@cs.cmu.edu, odonnell@cs.cmu.edu, droh@andrew.cmu.edu, motoole2@andrew.cmu.edu, parno@cmu.edu, jignesh@cmu.edu, pattis@andrew.cmu.edu, pavlo@cs.cmu.edu, yangp@andrew.cmu.edu, fp@cmu.edu, pspillai@andrew.cmu.edu, npollard@andrew.cmu.edu, raditi@cmu.edu, bpr@cs.cmu.edu, ravi@andrew.cmu.edu, rr@cmu.edu, giselle@cmu.edu, rileyrd@cmu.edu, krivers@andrew.cmu.edu, fsaad@andrew.cmu.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 6 of 11 — drafted 2026-05-04
+
+Dear line: `Dear CMU CS and ECE Professors (Batch 6 of 11),`
+
+Recipients (20):
+```
+msakr@cs.cmu.edu, sandholm@cs.cmu.edu, satya@cmu.edu, jsavelka@cmu.edu, russells@andrew.cmu.edu, scott@andrew.cmu.edu, vsekar@andrew.cmu.edu, srini@cs.cmu.edu, nihars@cs.cmu.edu, mary.shaw@cs.cmu.edu, sherry@cs.cmu.edu, rsimmons@andrew.cmu.edu, dskarlat@andrew.cmu.edu, sleator@cmu.edu, akshitha@cmu.edu, prs@cs.cmu.edu, mjs@cs.cmu.edu, sutner@cmu.edu, mdtaylor@cmu.edu, dst@andrew.cmu.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
 
 ---
 
