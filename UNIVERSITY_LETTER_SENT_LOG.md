@@ -116,6 +116,19 @@ Recipients (20):
 ronitt@csail.mit.edu, rus@csail.mit.edu, sanchez@csail.mit.edu, arvindsatya@mit.edu, nidhise@mit.edu, devavrat@mit.edu, jhs@mit.edu, shanir@csail.mit.edu, jshun@mit.edu, sitzmann@mit.edu, tsmidt@mit.edu, sodini@mit.edu, asolar@csail.mit.edu, jsolomon@mit.edu, dsontag@mit.edu, alfreds@mit.edu, cmstultz@mit.edu, gjs@mit.edu, sze@mit.edu, psz@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 9 of 9 — drafted 2026-05-04 (FINAL BATCH 🏁)
+
+Dear line: `Dear MIT EECS Professors (Batch 9 of 9),`
+
+Recipients (20):
+```
+russt@csail.mit.edu, tidor@mit.edu, torralba@csail.mit.edu, jnt@mit.edu, cuhler@mit.edu, vinodv@csail.mit.edu, verghese@mit.edu, voldman@mit.edu, mjwain@mit.edu, warde@mit.edu, white@mit.edu, rrw@mit.edu, virgi@mit.edu, ashia07@mit.edu, gww@mit.edu, mengjiay@mit.edu, sixian@mit.edu, nickolai@csail.mit.edu, lizhong@mit.edu, hyzhou@mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_09.txt`
 
 ---
