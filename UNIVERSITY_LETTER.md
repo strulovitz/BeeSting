@@ -1,4 +1,4 @@
-# MIT Letter — University Outreach #1
+# University Letter — Outreach #1
 
 **Status:** Subject LOCKED. Body skeleton in discussion. Letter NOT yet drafted. Recipients NOT yet collected (Nir to fetch via Google AI Search).
 

@@ -1,7 +1,7 @@
 """
-Generate the MIT Letter as PLAIN TEXT (UTF-8) from MIT_LETTER.md.
+Generate the University Letter as PLAIN TEXT (UTF-8) from UNIVERSITY_LETTER.md.
 
-Output: ~/Downloads/MIT_LETTER.txt — ready to paste into Gmail web compose.
+Output: ~/Downloads/UNIVERSITY_LETTER.txt — ready to paste into Gmail web compose.
 
 Conventions in the output:
 - Top-level sections (originally **WHOLE-LINE BOLD**) are numbered with ROMAN numerals
@@ -22,8 +22,8 @@ import re
 from pathlib import Path
 
 REPO = Path(__file__).parent
-SRC = REPO / "MIT_LETTER.md"
-DST = Path.home() / "Downloads" / "MIT_LETTER.txt"
+SRC = REPO / "UNIVERSITY_LETTER.md"
+DST = Path.home() / "Downloads" / "UNIVERSITY_LETTER.txt"
 
 OLD_OPENING = (
     "THE HIVE is a new invention. It is not similar to anything you already know."
