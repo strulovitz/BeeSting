@@ -68,6 +68,42 @@ Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berke
 
 ---
 
+## Université de Montréal — DIRO (Bengio's department) — 57 recipients, 3 batches
+
+Source: https://diro.umontreal.ca/repertoire-departement/professeurs/ (53 professors with emails extracted via raw HTML grep; 2 generic mailboxes filtered: info@iro, webmaster@iro).
+
+UdeM has no Electrical Engineering department of its own — engineering for Montreal is at Polytechnique Montréal, a separate institution. We're scoping this to DIRO + Mila only, where Bengio actually works.
+
+🎯 **Bengio at 5 addresses** (his DIRO `yoshua.bengio@umontreal.ca` is one of the 53; we add the other 4 to his batch): bengioy@iro.umontreal.ca, yoshua.bengio@mila.quebec, cassidy.macneil@mila.quebec, medias@mila.quebec.
+
+Total recipients: 53 DIRO + 4 Bengio extras = **57**.
+
+### Send order
+- **Batch 1 of 3 = BENGIO's BATCH (24 recipients)** = DIRO alphabetical positions 34-53 (20 names ending with Bengio at #53) + Bengio's 4 non-DIRO addresses
+- Batch 2 of 3 = DIRO positions 1-20 (20 recipients)
+- Batch 3 of 3 = DIRO positions 21-33 (13 recipients)
+
+### Master ordered list (alphabetical)
+
+DIRO 1-33 (Aaron Courville → Liam Paull territory): aaron.courville@umontreal.ca, abdelhakim.hafid@umontreal.ca, aishwarya.agrawal@umontreal.ca, alain.tapp@umontreal.ca, alejandro.hernandez.garcia@umontreal.ca, bang.liu@umontreal.ca, benoit.baudry@umontreal.ca, daehyun.ji@umontreal.ca, damien.masson@umontreal.ca, david.krueger@umontreal.ca, dhanya.sridhar@umontreal.ca, dmitry.sokolov@umontreal.ca, emma.frejinger@umontreal.ca, esma.aimeur@umontreal.ca, eugene.syriani@umontreal.ca, fabian.bastin@umontreal.ca, francois.major@umontreal.ca, frederic.dupont-dupuis@umontreal.ca, gauthier.gidel@umontreal.ca, gena.hahn@umontreal.ca, gilles.brassard@umontreal.ca, glen.berseth@umontreal.ca, guillaume.rabusseau@umontreal.ca, hler.kristjansson@umontreal.ca, houari.sahraoui@umontreal.ca, ian.arawjo@umontreal.ca, ioannis.mitliagkas@umontreal.ca, irina.rish@umontreal.ca, jean-yves.potvin@umontreal.ca, jian-yun.nie@umontreal.ca, kimberly.yu@umontreal.ca, l.ouali@umontreal.ca, liam.paull@umontreal.ca
+
+DIRO 34-53 (Salvail → Bengio): louis.salvail@umontreal.ca, marc.feeley@umontreal.ca, margarida.da.silva.carvalho@umontreal.ca, max.mignotte@umontreal.ca, michalis.famelis@umontreal.ca, michel.boyer@umontreal.ca, mikhail.bessmeltsev@umontreal.ca, miklos.csuros@umontreal.ca, nadia.el-mabrouk@umontreal.ca, noam.aigerman@umontreal.ca, philippe.langlais@umontreal.ca, pierre-luc.bacon@umontreal.ca, robin.milosz@umontreal.ca, sebastien.3d.roy@umontreal.ca, simon.lacoste-julien@umontreal.ca, stefan.monnier@umontreal.ca, sylvie.hamel@umontreal.ca, utsav.sadana@umontreal.ca, vincent.gripon@umontreal.ca, **yoshua.bengio@umontreal.ca (BENGIO)**
+
+---
+
+### Batch 1 of 3 — drafted 2026-05-04 (BENGIO'S BATCH 🎯, 24 recipients)
+
+Dear line: `Dear Université de Montréal DIRO and Mila Professors (Batch 1 of 3),`
+
+Recipients (24 — Bengio at 5 of his addresses):
+```
+louis.salvail@umontreal.ca, marc.feeley@umontreal.ca, margarida.da.silva.carvalho@umontreal.ca, max.mignotte@umontreal.ca, michalis.famelis@umontreal.ca, michel.boyer@umontreal.ca, mikhail.bessmeltsev@umontreal.ca, miklos.csuros@umontreal.ca, nadia.el-mabrouk@umontreal.ca, noam.aigerman@umontreal.ca, philippe.langlais@umontreal.ca, pierre-luc.bacon@umontreal.ca, robin.milosz@umontreal.ca, sebastien.3d.roy@umontreal.ca, simon.lacoste-julien@umontreal.ca, stefan.monnier@umontreal.ca, sylvie.hamel@umontreal.ca, utsav.sadana@umontreal.ca, vincent.gripon@umontreal.ca, yoshua.bengio@umontreal.ca, bengioy@iro.umontreal.ca, yoshua.bengio@mila.quebec, cassidy.macneil@mila.quebec, medias@mila.quebec
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+
+---
+
 ## University of Toronto (CS + ECE) — 229 emails, 12 batches
 
 Sources:
