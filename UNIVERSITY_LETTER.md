@@ -229,7 +229,7 @@ For your university, this is the worst strategic outcome since 1945, and the let
 
 I have been writing to journalists, professors, defense contractors, Big AI labs, and government bodies for weeks. Auto-replies confirm delivery. The silence tells me the asymmetry between an outside individual and a civilizational claim is too large for any single recipient to act on alone.
 
-Without a small live demonstration on real hardware — not a virtual-machine cluster on one home computer — the first AND last demonstration America will see is China activating THE HIVE at full national scale.
+Without a small live demonstration on real hardware — not a 15-virtual-machine cluster across two consumer desktops — the first AND last demonstration America will see is China activating THE HIVE at full national scale.
 
 Your role here is precise and limited. **Your university is not the judge of THE HIVE. The judge will be history — if you fail.** What you provide is the **guinea pig** — the small controlled test — so America's institutions — e.g. Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security — can see a small test in advance, instead of meeting the big real-life deadly test that takes them all out together. You serve as the **knowledge mediator** between an outsider with a working architecture and the institutions inside America that can actually act on it.
 
