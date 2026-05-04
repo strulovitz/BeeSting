@@ -27,6 +27,34 @@ Currently locked in:
 - Toronto → Hinton in Batch 1 (when we get there)
 
 This is operative, not optional.
+
+### 📇 ALL KNOWN EMAILS for the 3 hero recipients
+
+When the batch for a hero's university is built, **include ALL of their addresses in that batch** (it's OK if the batch is slightly over 20).
+
+**Stuart Russell (UC Berkeley) — include in Berkeley Batch 1:**
+- `russell@cs.berkeley.edu` (university)
+- `jp@humancompatible.ai` (Center for Human-Compatible AI)
+- Phone: (510) 642-4964
+- Speaking: Leigh Bureau (speakerinfo@leighbureau.com), Motivational Speakers Agency UK (agent@motivationalspeakersagency.co.uk), Cyber Security Speakers UK (agent@cyber-security-speakers.com) — DO NOT add agent emails to the academic batch; saved here for reference only
+
+**Yoshua Bengio (Montreal / Mila) — include in Montreal Batch 1:**
+- `yoshua.bengio@umontreal.ca` (academic primary)
+- `bengioy@iro.umontreal.ca` (secondary work)
+- `yoshua.bengio@mila.quebec` (institute)
+- `cassidy.macneil@mila.quebec` (senior assistant — operations / specific inquiries)
+- `medias@mila.quebec` (media — saved for reference; may or may not include in academic batch, decide when we get there)
+- Phone: +1 514-343-6804
+- Mila office: 6666 Saint-Urbain St, Montreal, Quebec
+- University office: André-Aisenstadt Building, Room 3243, Université de Montréal
+
+**Geoffrey Hinton (University of Toronto) — include in Toronto Batch 1:**
+- `geoffrey.hinton@gmail.com` (personal — note: post-Nobel response volume is heavy)
+- `jennifer.cressman@utoronto.ca` (executive assistant)
+- University address: Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario, Canada, M5S 3G4
+- Speaking agencies: MN2S, Chartwell Speakers — saved for reference only
+
+When building each university's Batch 1, **add the hero's full email set above to the 20 alphabetical recipients** for that batch (resulting in a slightly oversized batch of ~21–25 — that's intentional).
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
@@ -75,13 +103,13 @@ Positions 141–156 (Vazirani → Zaharia, 16 emails — final batch): vazirani@
 
 ---
 
-### Batch 1 of 8 — drafted 2026-05-04 (RUSSELL'S BATCH 🎯)
+### Batch 1 of 8 — drafted 2026-05-04 (RUSSELL'S BATCH 🎯, 21 recipients)
 
 Dear line: `Dear Berkeley EECS Professors (Batch 1 of 8),`
 
-Recipients (20):
+Recipients (21 — includes Russell's secondary email at humancompatible.ai):
 ```
-emmapierson@berkeley.edu, pilawa@berkeley.edu, ksjp@berkeley.edu, poolla@berkeley.edu, raluca.popa@berkeley.edu, prasad@cs.berkeley.edu, kannanr@eecs.berkeley.edu, ranade@eecs.berkeley.edu, satishr@cs.berkeley.edu, sylvia@eecs.berkeley.edu, brecht@berkeley.edu, jr@berkeley.edu, russell@cs.berkeley.edu, msabin@berkeley.edu, sahai@eecs.berkeley.edu, nsalehi@berkeley.edu, alberto@berkeley.edu, sastry@eecs.berkeley.edu, ksen@cs.berkeley.edu, sseshia@eecs.berkeley.edu
+emmapierson@berkeley.edu, pilawa@berkeley.edu, ksjp@berkeley.edu, poolla@berkeley.edu, raluca.popa@berkeley.edu, prasad@cs.berkeley.edu, kannanr@eecs.berkeley.edu, ranade@eecs.berkeley.edu, satishr@cs.berkeley.edu, sylvia@eecs.berkeley.edu, brecht@berkeley.edu, jr@berkeley.edu, russell@cs.berkeley.edu, jp@humancompatible.ai, msabin@berkeley.edu, sahai@eecs.berkeley.edu, nsalehi@berkeley.edu, alberto@berkeley.edu, sastry@eecs.berkeley.edu, ksen@cs.berkeley.edu, sseshia@eecs.berkeley.edu
 ```
 
 Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
