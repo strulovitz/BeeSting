@@ -131,7 +131,20 @@ Recipients (20):
 rvinayak@andrew.cmu.edu, pvirtue@cs.cmu.edu, riad@cmu.edu, weinaw@cs.cmu.edu, wing@cs.cmu.edu, dwoodruf@andrew.cmu.edu, francesx@cs.cmu.edu, epxing@andrew.cmu.edu, huiz1@andrew.cmu.edu, wenting@cmu.edu, junyanz@cs.cmu.edu, aayushya@andrew.cmu.edu, dallstot@andrew.cmu.edu, gamvrosi@andrew.cmu.edu, jbain@ece.cmu.edu, lbauer@cmu.edu, theophib@andrew.cmu.edu, vk16@andrew.cmu.edu, rblanton@andrew.cmu.edu, dbrumley@ece.cmu.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 8 of 11 — drafted 2026-05-04
+
+Dear line: `Dear CMU CS and ECE Professors (Batch 8 of 11),`
+
+Recipients (20):
+```
+lrc@ece.cmu.edu, sarahcen@andrew.cmu.edu, mchamanz@andrew.cmu.edu, justinc3@andrew.cmu.edu, hungchuc@andrew.cmu.edu, mdandin@andrew.cmu.edu, hakan.erdogmus@sv.cmu.edu, fedder@ece.cmu.edu, franzf@ece.cmu.edu, pgibbons@andrew.cmu.edu, virgil@andrew.cmu.edu, pgrover@ece.cmu.edu, jhoe@cmu.edu, andrewilyas@cmu.edu, liminjia@andrew.cmu.edu, cjoewong@andrew.cmu.edu, gaurij@andrew.cmu.edu, soummyak@andrew.cmu.edu, gkesden@andrew.cmu.edu, kim@ece.cmu.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
 
 ---
 
