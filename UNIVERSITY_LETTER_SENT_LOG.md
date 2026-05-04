@@ -88,6 +88,21 @@ Recipients (20):
 ppliang@mit.edu, jslim@mit.edu, liskov@csail.mit.edu, liukui@mit.edu, luqiao@mit.edu, alo-admin@mit.edu, tlp@mit.edu, lynch@csail.mit.edu, madden@csail.mit.edu, madry@mit.edu, magnanti@mit.edu, wojciech@csail.mit.edu, medard@mit.edu, ameg@mit.edu, silvio@csail.mit.edu, rcm@mit.edu, moitra@mit.edu, rtm@csail.mit.edu, stefanie.mueller@mit.edu, sendhil@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 7 of 9 — drafted 2026-05-04
+
+Dear line: `Dear MIT EECS Professors (Batch 7 of 9),`
+
+Recipients (20):
+```
+anandn@mit.edu, fniroui@mit.edu, notaros@mit.edu, kpobrien@mit.edu, william.oliver@mit.edu, avo@mit.edu, orlando@mit.edu, asuman@mit.edu, tpalacios@mit.edu, parrilo@mit.edu, djperrea@mit.edu, yp@mit.edu, jrk@mit.edu, mragh@mit.edu, rajeev@mit.edu, mrau@mit.edu, reif@mit.edu, negarr@mit.edu, rinard@csail.mit.edu, rivest@mit.edu
+```
+
+Note: Alex Rives skipped (no email listed on the EECS page). Batch 7 wraps from Natarajan to Rivest.
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
 
 ---
