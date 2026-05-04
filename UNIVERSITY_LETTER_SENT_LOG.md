@@ -56,6 +56,39 @@ When the batch for a hero's university is built, **include ALL of their addresse
 - Speaking agencies: MN2S, Chartwell Speakers — saved for reference only
 
 When building each university's Batch 1, **add the hero's full email set above to the 20 alphabetical recipients** for that batch (resulting in a slightly oversized batch of ~21–25 — that's intentional).
+
+### 📌 PENDING HERO TARGETS — additional outreach to schedule
+
+These are AI-alignment-relevant researchers identified after the main queue was built. For each, send to their **entire department/faculty** with the hero in **Batch 1** (same first-batch grace-window rule).
+
+**1. Max Tegmark (MIT Physics)** — President of Future of Life Institute, AI x-risk advocate, *Life 3.0* author.
+- Department: MIT Physics (separate from EECS, NOT covered by the MIT EECS send)
+- Faculty page to harvest: https://physics.mit.edu/faculty/ (or similar)
+- Hero email: `tegmark@mit.edu`
+- Strategy: harvest entire MIT Physics faculty, put Tegmark in Batch 1
+- Status: ⏳ pending Nir to start when ready
+
+**2. Vincent Conitzer (CMU)** — AI + game theory + ethics; not on the CMU CS or ECE roster we already harvested (likely joint with Philosophy / Tepper / a research center).
+- Affiliation: CMU (likely Tepper School of Business + Philosophy + CS; specific roster TBD)
+- Faculty page to harvest: TBD — could be CMU Tepper, CMU Philosophy, or his "Foundations of Cooperative AI Lab" (FOCAL) at CMU
+- Hero email: `conitzer@cs.cmu.edu`
+- Strategy: identify his primary roster and harvest that department; put him in Batch 1
+- Status: ⏳ pending Nir to identify the right page when ready
+
+**3. Finale Doshi-Velez (Harvard SEAS)** — Interpretable + trustworthy AI for healthcare.
+- Department: Harvard SEAS (School of Engineering and Applied Sciences) / CS
+- Faculty page to harvest: https://seas.harvard.edu/computer-science (or the SEAS faculty directory)
+- Hero email: `finale@seas.harvard.edu` (likely)
+- Strategy: harvest Harvard SEAS CS faculty, put Doshi-Velez in Batch 1
+- Status: ⏳ pending — Harvard not in main queue, schedule separately
+
+**4. Michael Graziano (Princeton)** — Neuroscience/Psychology angle on AI alignment, "infer goals" from human values work.
+- Department: Princeton Psychology / Neuroscience (NOT CS)
+- Hero email: `graziano@princeton.edu` (likely)
+- Strategy: lower priority since Princeton CS isn't done either; if we do Princeton, his department is separate. Possibly skip in favor of Princeton CS hitting alignment researchers there.
+- Status: ⏳ low priority
+
+These 4 targets are saved here so any session can pick them up after the main 12-university queue is done (or interleaved if a hero's home institution is naturally next).
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
