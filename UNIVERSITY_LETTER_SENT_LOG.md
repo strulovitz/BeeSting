@@ -178,7 +178,20 @@ Recipients (20):
 williams@cs.toronto.edu, ningningxie@cs.toronto.edu, yangxu@cs.toronto.edu, zemel@cs.toronto.edu, qz@cs.toronto.edu, bahar@cs.toronto.edu, mbadr@cs.toronto.edu, gfb@cs.toronto.edu, calver@cs.toronto.edu, campbell@cs.toronto.edu, steven.coyne@mail.utoronto.ca, mcraig@cs.toronto.edu, sengels@cs.toronto.edu, axgao@cs.toronto.edu, pgries@cs.toronto.edu, chandra@cs.toronto.edu, paulhe@cs.toronto.edu, dianeh@cs.toronto.edu, david@cs.toronto.edu, fpitt@cs.toronto.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 7 of 12 — drafted 2026-05-04 (CS 121-122 + ECE 1-18, the bridge batch)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 7 of 12),`
+
+Recipients (20):
+```
+rackoff@cs.toronto.edu, dw@cs.toronto.edu, p@arh.am, tsa@eecg.toronto.edu, rsadve@comm.utoronto.ca, stewart.aitchison@utoronto.ca, janders@eecg.toronto.edu, p.anderson@utoronto.ca, philip.asare@utoronto.ca, berj.bardakjian@utoronto.ca, ali.bereyhi@utoronto.ca, vaughn@eecg.toronto.edu, ifblake@comm.utoronto.ca, broucke@control.utoronto.ca, brown@eecg.toronto.edu, tony.chan.carusone@isl.utoronto.ca, mchapman@ece.utoronto.ca, hailing.cheng@utoronto.ca, pc@eecg.toronto.edu, cobbold@ecf.utoronto.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
 
 ---
 
