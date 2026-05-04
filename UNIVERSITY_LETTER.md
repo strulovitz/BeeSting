@@ -73,7 +73,7 @@ History stays in the subject. The body opens directly with the artifact.
 
 Dear [Names — to be filled per recipient list],
 
-You are not a passive spectator; YOU are in the driver's seat; YOUR actions today determine the outcome of this race tomorrow.
+You are not a passive spectator; YOU are active in the driver's seat; YOUR actions today determine the outcome of this race tomorrow.
 
 THE HIVE is a new invention. It is not similar to anything you already know. See the FAQ further down in this letter.
 
