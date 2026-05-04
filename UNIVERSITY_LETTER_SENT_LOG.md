@@ -204,7 +204,20 @@ Recipients (20):
 ted@control.utoronto.ca, dawson@ece.utoronto.ca, stark.draper@utoronto.ca, gelefth@waves.utoronto.ca, salma@ece.utoronto.ca, natalie.enrightjerger@utoronto.ca, j.eyolfson@utoronto.ca, frey@psi.utoronto.ca, jj.garcialunaaceves@utoronto.ca, roman@eecg.utoronto.ca, ashvin@eecg.toronto.edu, gulak@eecg.toronto.edu, dimitris@comm.utoronto.ca, a.helmy@utoronto.ca, p.herman@utoronto.ca, hooshyar@ece.utoronto.ca, sean.hum@utoronto.ca, iravani@ecf.utoronto.ca, jacobsen@eecg.toronto.edu, mcj@ece.utoronto.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
+Status: ✅ SENT 2026-05-04. Auto-reply: Jessica Burgner-Kahrs (research leave until 2026-06-30).
+
+---
+
+### Batch 9 of 12 — drafted 2026-05-04 (ECE 39-58)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 9 of 12),`
+
+Recipients (20):
+```
+jianan.yao@utoronto.ca, johns@eecg.utoronto.ca, kherani@ecf.utoronto.ca, akhisti@comm.utoronto.ca, frank@comm.utoronto.ca, dkundur@ece.utoronto.ca, kwong@control.utoronto.ca, lehn@ece.utoronto.ca, alberto.leongarcia@utoronto.ca, ofer.levi@utoronto.ca, bli@ece.toronto.edu, liang@comm.utoronto.ca, lie@eecg.toronto.edu, jorg@ece.utoronto.ca, antonio.liscidini@utoronto.ca, xilinliu@ece.utoronto.ca, hklo@comm.utoronto.ca, maggiore@control.utoronto.ca, mann@eecg.toronto.edu, imccausland@sympatico.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_09.txt`
 
 ---
 
