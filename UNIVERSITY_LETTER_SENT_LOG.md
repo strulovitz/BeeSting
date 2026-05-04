@@ -165,7 +165,20 @@ Recipients (20):
 bianca@cs.toronto.edu, kserkh@cs.toronto.edu, nisarg@cs.toronto.edu, oshamir@cs.toronto.edu, florian@cs.toronto.edu, six@cs.toronto.edu, karan@cs.toronto.edu, soden@cs.toronto.edu, akshayaram@cs.toronto.edu, suzanne@cs.toronto.edu, lisa.strug@utoronto.ca, taati@cs.toronto.edu, roei@cs.toronto.edu, sam@cs.toronto.edu, khai@cs.toronto.edu, urtasun@cs.toronto.edu, nandita@cs.toronto.edu, bwang@cs.toronto.edu, nawiebe@cs.toronto.edu, daniel@dgp.toronto.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 6 of 12 — drafted 2026-05-04 (CS positions 81-100)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 6 of 12),`
+
+Recipients (20):
+```
+williams@cs.toronto.edu, ningningxie@cs.toronto.edu, yangxu@cs.toronto.edu, zemel@cs.toronto.edu, qz@cs.toronto.edu, bahar@cs.toronto.edu, mbadr@cs.toronto.edu, gfb@cs.toronto.edu, calver@cs.toronto.edu, campbell@cs.toronto.edu, steven.coyne@mail.utoronto.ca, mcraig@cs.toronto.edu, sengels@cs.toronto.edu, axgao@cs.toronto.edu, pgries@cs.toronto.edu, chandra@cs.toronto.edu, paulhe@cs.toronto.edu, dianeh@cs.toronto.edu, david@cs.toronto.edu, fpitt@cs.toronto.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
 
 ---
 
