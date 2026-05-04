@@ -75,6 +75,19 @@ Recipients (20):
 jaillet@mit.edu, stefje@mit.edu, ejossou@mit.edu, kaashoek@csail.mit.edu, lpk@csail.mit.edu, tauman@mit.edu, karger@csail.mit.edu, dina@csail.mit.edu, manoli@mit.edu, yoonhkim@mit.edu, kirtley@mit.edu, leskolo@mit.edu, minakl@mit.edu, jingkong@mit.edu, kraska@mit.edu, lang@mit.edu, hslee@mtl.mit.edu, sbleeb@mit.edu, cel@mit.edu, ldlewis@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 6 of 9 — drafted 2026-05-04
+
+Dear line: `Dear MIT EECS Professors (Batch 6 of 9),`
+
+Recipients (20):
+```
+ppliang@mit.edu, jslim@mit.edu, liskov@csail.mit.edu, liukui@mit.edu, luqiao@mit.edu, alo-admin@mit.edu, tlp@mit.edu, lynch@csail.mit.edu, madden@csail.mit.edu, madry@mit.edu, magnanti@mit.edu, wojciech@csail.mit.edu, medard@mit.edu, ameg@mit.edu, silvio@csail.mit.edu, rcm@mit.edu, moitra@mit.edu, rtm@csail.mit.edu, stefanie.mueller@mit.edu, sendhil@mit.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
 
 ---
