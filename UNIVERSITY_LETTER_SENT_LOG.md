@@ -243,7 +243,20 @@ Recipients (20):
 ervin.sejdic@utoronto.ca, ali@eecg.utoronto.ca, jwsimpson@ece.utoronto.ca, pwes@ecf.utoronto.ca, es.sousa@utoronto.ca, m.stickel@utoronto.ca, stumm@eecg.toronto.edu, sun@mie.utoronto.ca, zeb.tate@utoronto.ca, h.timorabadi@utoronto.ca, ot@ece.utoronto.ca, triverio@waves.utoronto.ca, kevin.truong@utoronto.ca, valaee@comm.utoronto.ca, veneris@eecg.utoronto.ca, sorinv@ece.utoronto.ca, zvonko@eecg.toronto.edu, belinda.wang@utoronto.ca, cying@ece.utoronto.ca, paul.yoo@utoronto.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_11.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 12 of 12 — drafted 2026-05-04 (ECE 99-105, FINAL BATCH 🏁)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 12 of 12),`
+
+Recipients (7):
+```
+weiyu@comm.utoronto.ca, yuan@eecg.toronto.edu, safwat.zaky@utoronto.ca, jose.zariffa@utoronto.ca, daifei.zhang@utoronto.ca, shuruiz@ece.utoronto.ca, jzhu@eecg.utoronto.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_12.txt`
 
 ---
 
