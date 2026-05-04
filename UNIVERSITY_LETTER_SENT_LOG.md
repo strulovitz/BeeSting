@@ -154,7 +154,22 @@ Recipients (20):
 jbelcher@mit.edu, benedek@mit.edu, anberker@mit.edu, bertozzi@mit.edu, edbert@mit.edu, robertjb@berkeley.edu, kburdge@mit.edu, busza@mit.edu, crc@mit.edu, pcappell@mit.edu, arupc@mit.edu, checkelsky@mit.edu, chenm@mit.edu, soonwon@mit.edu, rcomin@mit.edu, conrad@mit.edu, coppi@mit.edu, wdetmold@mit.edu, eilers@mit.edu, engeln@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 3 of 5 — drafted 2026-05-04 (positions 21-40, Evans → Hen)
+
+Dear line: `Dear MIT Physics Professors (Batch 3 of 5),`
+
+Recipients (20):
+```
+m3v4n5@mit.edu, fakhri@mit.edu, farhi@mit.edu, fisherp@mit.edu, rfletch@mit.edu, josephf@mit.edu, dzf@math.mit.edu, jif@mit.edu, liangfu@mit.edu, rgarciar@mit.edu, gedik@mit.edu, goldston@mit.edu, gore@mit.edu, ogot@mit.edu, greytak@mit.edu, guth@ctp.mit.edu, harlow@mit.edu, pcharris@mit.edu, aram@mit.edu, hen@mit.edu
+```
+
+Notable: Alan Guth (`guth@ctp.mit.edu`) — inventor of cosmic inflation theory.
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
 
 ---
 
