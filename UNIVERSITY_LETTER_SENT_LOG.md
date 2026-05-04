@@ -169,7 +169,22 @@ m3v4n5@mit.edu, fakhri@mit.edu, farhi@mit.edu, fisherp@mit.edu, rfletch@mit.edu,
 
 Notable: Alan Guth (`guth@ctp.mit.edu`) — inventor of cosmic inflation theory.
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 4 of 5 — drafted 2026-05-04 (positions 41-60, Hewitt → Liu)
+
+Dear line: `Dear MIT Physics Professors (Batch 4 of 5),`
+
+Recipients (20):
+```
+jhewitt@mit.edu, ginnocen@mit.edu, ippen@mit.edu, ivanov99@mit.edu, jaffe@mit.edu, pjarillo@mit.edu, zhurun@mit.edu, stevenj@mit.edu, joss@space.mit.edu, longju@mit.edu, dikaiser@mit.edu, ekara@space.mit.edu, kardar@mit.edu, mkastner@mit.edu, sbk@mit.edu, palee@mit.edu, yenjie@mit.edu, levitov@mit.edu, litster@mit.edu, hong_liu@mit.edu
+```
+
+Notable: Wolfgang Ketterle (`sbk@mit.edu`) — Nobel Laureate Physics 2001 (Bose-Einstein condensate).
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
 
 ---
 
