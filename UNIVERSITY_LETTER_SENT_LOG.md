@@ -170,7 +170,20 @@ Recipients (20):
 vsekar@ece.cmu.edu, jpshen@cmu.edu, andrewes@andrew.cmu.edu, tsrimani@andrew.cmu.edu, rms@cmu.edu, tms@ece.cmu.edu, tonguz@ece.cmu.edu, towe@cmu.edu, rwahby@andrew.cmu.edu, rwlodars@andrew.cmu.edu, oyagan@ece.cmu.edu, zyoussfi@andrew.cmu.edu, byronyu@cmu.edu, azanette@andrew.cmu.edu, xuzh@cmu.edu, siyangz@andrew.cmu.edu, jzhu@ece.cmu.edu, dg07@andrew.cmu.edu, milic@ece.cmu.edu, koopman@cmu.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_10.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 11 of 11 — drafted 2026-05-04 (FINAL BATCH 🏁)
+
+Dear line: `Dear CMU CS and ECE Professors (Batch 11 of 11),`
+
+Recipients (7):
+```
+krogh@ece.cmu.edu, kryder@ece.cmu.edu, lambeth@ece.cmu.edu, rr1j@andrew.cmu.edu, dps@ece.cmu.edu, ajs@ece.cmu.edu, mmv@cs.cmu.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_11.txt`
 
 ---
 
