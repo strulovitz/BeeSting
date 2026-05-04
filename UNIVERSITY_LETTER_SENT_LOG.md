@@ -95,6 +95,42 @@ These are AI-alignment-relevant researchers identified after the main queue was 
 - Status: ⏳ low priority
 
 These 4 targets are saved here so any session can pick them up after the main 12-university queue is done (or interleaved if a hero's home institution is naturally next).
+
+### 🌍 BIG-PICTURE GOAL (Nir's stated outreach scope, in priority order)
+
+**Phase 1 — Top US AI universities (in progress)**
+The 12-university queue at the top of this file. CMU, MIT, Berkeley, Toronto, Montreal already done. Stanford, UIUC, U Washington, Georgia Tech, Cornell, UT Austin, Caltech remain.
+
+**Phase 2 — AI universities of friendly countries** (Nir 2026-05-04: "all the world's friendly countries — Canada is in NORAD, all the big strong NATO members, all the NON-NATO but strong like Japan, South Korea, Taiwan, Australia, etc.")
+Suggested universities to research/queue when Phase 1 is done:
+- 🇨🇦 Canada: Toronto ✅ done, Montreal ✅ done. Add: UBC, Waterloo, McGill
+- 🇬🇧 UK: Oxford, Cambridge, Imperial College London, UCL, Edinburgh
+- 🇫🇷 France: École Polytechnique, ENS, Sorbonne, INRIA
+- 🇩🇪 Germany: TU Munich, Max Planck Institutes (multiple), Heidelberg, Aachen
+- 🇨🇭 Switzerland: ETH Zurich, EPFL
+- 🇳🇱 Netherlands: TU Delft, University of Amsterdam
+- 🇮🇱 Israel: Technion, Hebrew University, Tel Aviv University, Weizmann
+- 🇯🇵 Japan: Tokyo, Kyoto, Tohoku
+- 🇰🇷 South Korea: KAIST, Seoul National, POSTECH
+- 🇹🇼 Taiwan: NTU, NTHU, NYCU
+- 🇦🇺 Australia: Sydney, Melbourne, ANU, UNSW
+- 🇸🇬 Singapore: NUS, NTU
+- 🇸🇪 Sweden: KTH, Chalmers
+- 🇫🇮 Finland: Aalto
+- 🇩🇰 Denmark: DTU
+- 🇳🇴 Norway: NTNU
+- 🇮🇪 Ireland: Trinity College Dublin
+- 🇪🇸 Spain: BSC, UPM
+- 🇮🇹 Italy: Politecnico di Milano
+
+**Phase 3 — Top Physics universities** (Nir 2026-05-04: "after AI universities, do the best physics universities, because they have a lot to do with M.A.D. and drones etc."). Source: Google AI Overview, top US physics 2026.
+- Top US (private, in priority): MIT (already partially done — Tegmark+Physics dept covered today), Caltech, Harvard, Stanford, Princeton
+- Top US (public): UC Berkeley (already partially done — EECS covered today; would need to add Berkeley Physics for full coverage), UC Santa Barbara (UCSB — strong condensed matter), University of Illinois Urbana-Champaign (UIUC — top condensed matter)
+- Best research/innovation: MIT, Caltech, UC Berkeley
+- Best condensed matter: Georgia Tech, Stanford, MIT, UCSB
+- Best undergraduate (per Niche): Caltech, MIT, Harvard
+
+These are saved as the long-term outreach roadmap. Phase 1 finishes the top-10 US AI list; Phase 2 expands to friendly countries; Phase 3 brings physics into the loop because of M.A.D. + drone implications in the letter.
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
