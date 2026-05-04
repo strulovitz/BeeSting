@@ -113,7 +113,20 @@ Recipients (20):
 aaron.courville@umontreal.ca, abdelhakim.hafid@umontreal.ca, aishwarya.agrawal@umontreal.ca, alain.tapp@umontreal.ca, alejandro.hernandez.garcia@umontreal.ca, bang.liu@umontreal.ca, benoit.baudry@umontreal.ca, daehyun.ji@umontreal.ca, damien.masson@umontreal.ca, david.krueger@umontreal.ca, dhanya.sridhar@umontreal.ca, dmitry.sokolov@umontreal.ca, emma.frejinger@umontreal.ca, esma.aimeur@umontreal.ca, eugene.syriani@umontreal.ca, fabian.bastin@umontreal.ca, francois.major@umontreal.ca, frederic.dupont-dupuis@umontreal.ca, gauthier.gidel@umontreal.ca, gena.hahn@umontreal.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 3 of 3 — drafted 2026-05-04 (DIRO 21-33, FINAL BATCH 🏁)
+
+Dear line: `Dear Université de Montréal DIRO and Mila Professors (Batch 3 of 3),`
+
+Recipients (13):
+```
+gilles.brassard@umontreal.ca, glen.berseth@umontreal.ca, guillaume.rabusseau@umontreal.ca, hler.kristjansson@umontreal.ca, houari.sahraoui@umontreal.ca, ian.arawjo@umontreal.ca, ioannis.mitliagkas@umontreal.ca, irina.rish@umontreal.ca, jean-yves.potvin@umontreal.ca, jian-yun.nie@umontreal.ca, kimberly.yu@umontreal.ca, l.ouali@umontreal.ca, liam.paull@umontreal.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
 
 ---
 
