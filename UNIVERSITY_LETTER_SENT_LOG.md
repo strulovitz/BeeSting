@@ -109,7 +109,7 @@ Suggested universities to research/queue when Phase 1 is done:
 - 🇩🇪 Germany: TU Munich, Max Planck Institutes (multiple), Heidelberg, Aachen
 - 🇨🇭 Switzerland: ETH Zurich, EPFL
 - 🇳🇱 Netherlands: TU Delft, University of Amsterdam
-- 🇮🇱 Israel: Technion, Hebrew University, Tel Aviv University, Weizmann
+- 🇮🇱 Israel: **EXCLUDED per Nir 2026-05-04** — risk of invention being stolen and credit/money rerouted via better Big-AI contacts before Nir is paid. Do NOT add Israeli universities to any phase.
 - 🇯🇵 Japan: Tokyo, Kyoto, Tohoku
 - 🇰🇷 South Korea: KAIST, Seoul National, POSTECH
 - 🇹🇼 Taiwan: NTU, NTHU, NYCU
