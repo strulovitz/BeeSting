@@ -151,7 +151,20 @@ Recipients (20):
 hfarid@berkeley.edu, cwfletcher@berkeley.edu, fox@berkeley.edu, gallant@berkeley.edu, ddgarcia@berkeley.edu, sanjamg@berkeley.edu, aligh@berkeley.edu, goldberg@berkeley.edu, jegonzal@eecs.berkeley.edu, pgray@berkeley.edu, venkatg@berkeley.edu, nika@berkeley.edu, bjoern@eecs.berkeley.edu, hearst@berkeley.edu, hug@cs.berkeley.edu, cthunn@eecs.berkeley.edu, nilah@berkeley.edu, rishabh.iyer@eecs.berkeley.edu, ajavey@berkeley.edu, jordan@cs.berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 5 of 8 — drafted 2026-05-04 (positions 61-80)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 5 of 8),`
+
+Recipients (20):
+```
+adj@cs.berkeley.edu, kanazawa@berkeley.edu, bkante@berkeley.edu, peyrin@berkeley.edu, sagark@eecs.berkeley.edu, keutzer@berkeley.edu, asir@berkeley.edu, pkhanna@berkeley.edu, klein@cs.berkeley.edu, aditik1@berkeley.edu, kubitron@cs.berkeley.edu, eal@berkeley.edu, jasondlee@berkeley.edu, chunlei.liu@eecs.berkeley.edu, loiannog@berkeley.edu, mikilustig@berkeley.edu, eric.y.ma@berkeley.edu, maharbiz@eecs.berkeley.edu, malik@berkeley.edu, songmei@berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
 
 ---
 
