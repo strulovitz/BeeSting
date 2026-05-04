@@ -73,6 +73,8 @@ History stays in the subject. The body opens directly with the artifact.
 
 Dear [Names — to be filled per recipient list],
 
+You are not a passive spectator; YOU are in the driver's seat; YOUR actions today determine the outcome of this race tomorrow.
+
 THE HIVE is a new invention. It is not similar to anything you already know. See the FAQ further down in this letter.
 
 **WHAT THE HIVE IS — IN PLAIN ENGLISH**
@@ -283,7 +285,7 @@ The free book *MadHoney* walks the entire argument chapter by chapter, including
 
 **LINKS**
 
-- *MadHoney* book README (table of contents):
+- *MadHoney* FREE book readme (table of contents):
   https://github.com/strulovitz/MadHoney/blob/main/README.md
 - KillerBee repo:
   https://github.com/strulovitz/KillerBee
