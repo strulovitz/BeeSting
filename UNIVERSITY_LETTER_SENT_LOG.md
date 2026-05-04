@@ -191,7 +191,20 @@ Recipients (20):
 rackoff@cs.toronto.edu, dw@cs.toronto.edu, p@arh.am, tsa@eecg.toronto.edu, rsadve@comm.utoronto.ca, stewart.aitchison@utoronto.ca, janders@eecg.toronto.edu, p.anderson@utoronto.ca, philip.asare@utoronto.ca, berj.bardakjian@utoronto.ca, ali.bereyhi@utoronto.ca, vaughn@eecg.toronto.edu, ifblake@comm.utoronto.ca, broucke@control.utoronto.ca, brown@eecg.toronto.edu, tony.chan.carusone@isl.utoronto.ca, mchapman@ece.utoronto.ca, hailing.cheng@utoronto.ca, pc@eecg.toronto.edu, cobbold@ecf.utoronto.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
+Status: ✅ SENT 2026-05-04. Bounces: cobbold@ecf.utoronto.ca (550 user unknown — emeritus, alias dead).
+
+---
+
+### Batch 8 of 12 — drafted 2026-05-04 (ECE 19-38)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 8 of 12),`
+
+Recipients (20):
+```
+ted@control.utoronto.ca, dawson@ece.utoronto.ca, stark.draper@utoronto.ca, gelefth@waves.utoronto.ca, salma@ece.utoronto.ca, natalie.enrightjerger@utoronto.ca, j.eyolfson@utoronto.ca, frey@psi.utoronto.ca, jj.garcialunaaceves@utoronto.ca, roman@eecg.utoronto.ca, ashvin@eecg.toronto.edu, gulak@eecg.toronto.edu, dimitris@comm.utoronto.ca, a.helmy@utoronto.ca, p.herman@utoronto.ca, hooshyar@ece.utoronto.ca, sean.hum@utoronto.ca, iravani@ecf.utoronto.ca, jacobsen@eecg.toronto.edu, mcj@ece.utoronto.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
 
 ---
 
