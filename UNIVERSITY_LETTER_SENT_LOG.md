@@ -164,7 +164,20 @@ Recipients (20):
 adj@cs.berkeley.edu, kanazawa@berkeley.edu, bkante@berkeley.edu, peyrin@berkeley.edu, sagark@eecs.berkeley.edu, keutzer@berkeley.edu, asir@berkeley.edu, pkhanna@berkeley.edu, klein@cs.berkeley.edu, aditik1@berkeley.edu, kubitron@cs.berkeley.edu, eal@berkeley.edu, jasondlee@berkeley.edu, chunlei.liu@eecs.berkeley.edu, loiannog@berkeley.edu, mikilustig@berkeley.edu, eric.y.ma@berkeley.edu, maharbiz@eecs.berkeley.edu, malik@berkeley.edu, songmei@berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 6 of 8 — drafted 2026-05-04 (positions 81-100)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 6 of 8),`
+
+Recipients (20):
+```
+guanghan_meng@berkeley.edu, sewonm@berkeley.edu, rikky@berkeley.edu, muppala@berkeley.edu, katermurch@berkeley.edu, minilek@berkeley.edu, ren@berkeley.edu, ctnguyen@berkeley.edu, niknejad@eecs.berkeley.edu, bora@eecs.berkeley.edu, norouzi@berkeley.edu, nuzzo@eecs.berkeley.edu, job@berkeley.edu, baolshausen@berkeley.edu, keo@eecs.berkeley.edu, adityagp@eecs.berkeley.edu, spparekh@berkeley.edu, paulos@berkeley.edu, amypavel@berkeley.edu, vern@berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_06.txt`
 
 ---
 
