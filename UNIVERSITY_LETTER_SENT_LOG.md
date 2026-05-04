@@ -139,7 +139,20 @@ Recipients (20):
 erdogdu@cs.toronto.edu, azadeh@cs.toronto.edu, fidler@cs.toronto.edu, fleet@cs.toronto.edu, ganjali7@cs.toronto.edu, gilitschenski@cs.toronto.edu, anna.goldenberg@utoronto.ca, eitan@cs.toronto.edu, rgrosse@cs.toronto.edu, tovi@cs.toronto.edu, arvind@cs.toronto.edu, vassos@cs.toronto.edu, ahithnawi@cs.toronto.edu, jacobson@cs.toronto.edu, zjin.admin@cs.toronto.edu, swastik@cs.toronto.edu, koudas@cs.toronto.edu, rahulgk@cs.toronto.edu, kyros@cs.toronto.edu, diwlevin@cs.toronto.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 4 of 12 — drafted 2026-05-04 (CS positions 41-60)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 4 of 12),`
+
+Recipients (20):
+```
+alevis@cs.toronto.edu, lindell@cs.toronto.edu, fanl@cs.toronto.edu, cmaddis@cs.toronto.edu, marbach@cs.toronto.edu, mariakakis@cs.toronto.edu, sheila@cs.toronto.edu, meel@cs.toronto.edu, mmehride@cs.toronto.edu, molloy@cs.toronto.edu, anikolov@cs.toronto.edu, cnobre@cs.toronto.edu, pekhimenko@cs.toronto.edu, gpenn@cs.toronto.edu, toni@cs.toronto.edu, craffel@cs.toronto.edu, ristenpart@cs.toronto.edu, sachdeva@cs.toronto.edu, gururaj@cs.toronto.edu, shubhangi@cs.toronto.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
 
 ---
 
