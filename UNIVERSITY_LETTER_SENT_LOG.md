@@ -203,7 +203,13 @@ Recipients (16):
 vazirani@cs.berkeley.edu, allonwag@berkeley.edu, daw@cs.berkeley.edu, waller@berkeley.edu, johnw@cs.berkeley.edu, mwillsey@berkeley.edu, jswright@berkeley.edu, wu@eecs.berkeley.edu, eliy@eecs.berkeley.edu, yala@berkeley.edu, yanlisa@berkeley.edu, yelick@cs.berkeley.edu, binyu@stat.berkeley.edu, mengjie.yu@berkeley.edu, stellayu@berkeley.edu, matei@berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+**BERKELEY EECS COMPLETE 🏁** — all 8 batches sent 2026-05-04. 156 faculty reached (Russell at 2 addresses).
+
+⚠️ Like MIT: ZERO auto-replies received. Suspected combination of (a) Berkeley mail server suppressing bulk auto-replies, AND (b) Nir hit Gmail's ~500/day outbound limit today (180 MIT + 207 CMU + 156 Berkeley = 543 sent — over Gmail's personal-account threshold). Some Berkeley emails may have been silently throttled or delayed by Gmail. **Stop further sends for 24h.**
 
 ---
 
