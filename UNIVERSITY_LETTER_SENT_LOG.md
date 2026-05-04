@@ -217,7 +217,20 @@ Recipients (20):
 jianan.yao@utoronto.ca, johns@eecg.utoronto.ca, kherani@ecf.utoronto.ca, akhisti@comm.utoronto.ca, frank@comm.utoronto.ca, dkundur@ece.utoronto.ca, kwong@control.utoronto.ca, lehn@ece.utoronto.ca, alberto.leongarcia@utoronto.ca, ofer.levi@utoronto.ca, bli@ece.toronto.edu, liang@comm.utoronto.ca, lie@eecg.toronto.edu, jorg@ece.utoronto.ca, antonio.liscidini@utoronto.ca, xilinliu@ece.utoronto.ca, hklo@comm.utoronto.ca, maggiore@control.utoronto.ca, mann@eecg.toronto.edu, imccausland@sympatico.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_09.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 10 of 12 — drafted 2026-05-04 (ECE 59-78)
+
+Dear line: `Dear Toronto CS and ECE Professors (Batch 10 of 12),`
+
+Recipients (20):
+```
+mojahedi@waves.utoronto.ca, moshovos@eecg.toronto.edu, adrian.nachman@utoronto.ca, f.najm@utoronto.ca, parinaz.naseri@utoronto.ca, ngwt@vrg.utoronto.ca, nicolas.papernot@utoronto.ca, pavel@control.utoronto.ca, kphang@eecg.utoronto.ca, georgia.pierrou@utoronto.ca, kostas@comm.utoronto.ca, joyce.poon@utoronto.ca, prodic@power.ele.utoronto.ca, l.qian@utoronto.ca, jonathan.rose@utoronto.ca, harry.ruda@utoronto.ca, salama@vrg.utoronto.ca, ted.sargent@utoronto.ca, costas.sarris@utoronto.ca, luca.scardovi@utoronto.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_10.txt`
 
 ---
 
