@@ -13,7 +13,7 @@ Sources: Google search "top 10 AI universities in USA" (Nir, 2026-05-04) + Bengi
 2. **Massachusetts Institute of Technology (MIT)** — CSAIL. ✅ COMPLETE 2026-05-04 (180 EECS faculty)
 3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. **🎯 STRATEGY: russell@cs.berkeley.edu must be in BATCH 1.** ⏳ NEXT
 4. **Université de Montréal / Mila — Quebec AI Institute** 🇨🇦 — Yoshua Bengio (Turing Award 2018, deep-learning pioneer). Founded Mila. Among the people most equipped on Earth to recognize the architecture instantly. **🎯 STRATEGY: Bengio's email must be in BATCH 1 — same first-batch-grace-window rule as Russell. Find his current address (likely yoshua.bengio@umontreal.ca or yoshua.bengio@mila.quebec) and put him in the very first 20 emails sent to that university.** ⏳
-5. **University of Toronto** 🇨🇦 — Geoffrey Hinton (Turing Award 2018, "Godfather of AI", recently outspoken on existential risk). University Professor Emeritus, Department of Computer Science. **🎯 STRATEGY: Hinton's email must be in BATCH 1 — same rule. Find his current address (likely hinton@cs.toronto.edu or geoffrey.hinton@utoronto.ca) and put him in the very first 20 emails sent to that university.** ⏳
+5. **University of Toronto** 🇨🇦 — Geoffrey Hinton (Turing Award 2018, "Godfather of AI"). ✅ COMPLETE 2026-05-04 (229 CS+ECE recipients, Hinton at 3 addresses)
 
 ### 📌 GENERAL RULE — first-batch grace window (lesson from MIT vs CMU)
 
@@ -256,7 +256,11 @@ Recipients (7):
 weiyu@comm.utoronto.ca, yuan@eecg.toronto.edu, safwat.zaky@utoronto.ca, jose.zariffa@utoronto.ca, daifei.zhang@utoronto.ca, shuruiz@ece.utoronto.ca, jzhu@eecg.utoronto.ca
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_12.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+**TORONTO COMPLETE 🏁** — all 12 batches sent 2026-05-04. 229 recipients reached (Hinton at 3 addresses). Confirmed delivery signals: Levesque personal-filter reject, Cobbold hard bounce (550, emeritus dead alias), Burgner-Kahrs research-leave auto-reply.
 
 ---
 
