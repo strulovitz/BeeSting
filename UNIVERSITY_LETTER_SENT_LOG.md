@@ -201,9 +201,11 @@ fikes@stanford.edu, genesereth@stanford.edu, gwtuttle@stanford.edu, habekoss@sta
 
 Status: ✅ SENT 2026-05-04. Bounce: habekoss@stanford.edu (550 user unknown — Brian Habekoss left Stanford). Auto-reply: Marsha Dillon (marshad@stanford.edu) is retired since June 2025 — surfaced new EE Chair's office contact `Suzanne.Sims@stanford.edu`, added to Batch 4.
 
+⚠️ **GMAIL DAILY SEND LIMIT HIT 2026-05-04 ~16:52** — after ~934 successful sends today, Gmail cut Nir off mid-Stanford. Batch 4 and Batch 5 NOT sent today. Resume 2026-05-05 with Batch 4. The actual personal-Gmail daily ceiling appears to be ~950-1000 recipients/day (higher than the 500 I incorrectly assumed earlier).
+
 ---
 
-### Batch 4 of 5 — drafted 2026-05-04 (alphabetical 41-60 + 1 newly-discovered EE Chair's office)
+### Batch 4 of 5 — drafted 2026-05-04 (alphabetical 41-60 + 1 newly-discovered EE Chair's office) — **NOT SENT, queued for 2026-05-05**
 
 Dear line: `Dear Stanford CS and EE Professors (Batch 4 of 5),`
 
