@@ -190,7 +190,20 @@ Recipients (20):
 osama.shanaa@berkeley.edu, ysshao@berkeley.edu, shenker@icsi.berkeley.edu, jrs@cs.berkeley.edu, irfan_siddiqi@berkeley.edu, sinclair@cs.berkeley.edu, alp@berkeley.edu, sojoudi@berkeley.edu, dawnsong@cs.berkeley.edu, yss@berkeley.edu, jsteinhardt@berkeley.edu, istoica@eecs.berkeley.edu, vlada@berkeley.edu, jonathanstray@berkeley.edu, suhr@berkeley.edu, atal@berkeley.edu, haoningtang@berkeley.edu, jptennant@berkeley.edu, gt3@berkeley.edu, tomlin@eecs.berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_07.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 8 of 8 — drafted 2026-05-04 (positions 141-156, FINAL BATCH 🏁)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 8 of 8),`
+
+Recipients (16):
+```
+vazirani@cs.berkeley.edu, allonwag@berkeley.edu, daw@cs.berkeley.edu, waller@berkeley.edu, johnw@cs.berkeley.edu, mwillsey@berkeley.edu, jswright@berkeley.edu, wu@eecs.berkeley.edu, eliy@eecs.berkeley.edu, yala@berkeley.edu, yanlisa@berkeley.edu, yelick@cs.berkeley.edu, binyu@stat.berkeley.edu, mengjie.yu@berkeley.edu, stellayu@berkeley.edu, matei@berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_08.txt`
 
 ---
 
