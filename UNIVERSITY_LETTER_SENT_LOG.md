@@ -26,6 +26,55 @@ Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berke
 
 ---
 
+## UC Berkeley EECS — 156 emails, 8 batches of 20
+
+Source: https://www2.eecs.berkeley.edu/Faculty/Lists/list.html (single long page, 156 faculty with emails extracted via raw HTML grep — much cleaner than the WebFetch summarizer which kept truncating).
+
+**🎯 Stuart Russell** (`russell@cs.berkeley.edu`) is the highest-leverage single recipient: author of *AI: A Modern Approach* and *Slaughterbots*, both cited in the letter. Per the "first batch lands in grace window" lesson from CMU, **Russell's batch is sent FIRST.**
+
+### Master ordered list (alphabetical by faculty surname; Russell at position 113)
+
+Positions 1–20 (Abbeel → Caoyuan): pabbeel@cs.berkeley.edu, amalaa@berkeley.edu, elad@eecs.berkeley.edu, ananth@eecs.berkeley.edu, gopala@berkeley.edu, mekhail@berkeley.edu, arcak@berkeley.edu, acarias@eecs.berkeley.edu, krste@berkeley.edu, ayazifar@berkeley.edu, ball@berkeley.edu, dbamman@berkeley.edu, barsky@berkeley.edu, peter@berkeley.edu, bayen@berkeley.edu, jbokor@berkeley.edu, boles@berkeley.edu, borgs@berkeley.edu, dcal@berkeley.edu, caoyuan@berkeley.edu
+
+Positions 21–40 (Canny → Dorrance): serinac@berkeley.edu, jchayes@berkeley.edu, iychen@berkeley.edu, lijiechen@berkeley.edu, zaijun@berkeley.edu, akcheung@cs.berkeley.edu, jcchien@berkeley.edu, chuang@ischool.berkeley.edu, vcoleman@berkeley.edu, sconolly@berkeley.edu, henrycg@cs.berkeley.edu, courtade@berkeley.edu, ncrooks@berkeley.edu, trevor@eecs.berkeley.edu, demmel@cs.berkeley.edu, denero@berkeley.edu, alexdimakis@berkeley.edu, rdorrance@berkeley.edu, prabal@berkeley.edu, efros@eecs.berkeley.edu
+
+Positions 41–60 (Farid → Hellerstein-area): hfarid@berkeley.edu, cwfletcher@berkeley.edu, fox@berkeley.edu, gallant@berkeley.edu, ddgarcia@berkeley.edu, sanjamg@berkeley.edu, aligh@berkeley.edu, goldberg@berkeley.edu, jegonzal@eecs.berkeley.edu, pgray@berkeley.edu, venkatg@berkeley.edu, nika@berkeley.edu, bjoern@eecs.berkeley.edu, hearst@berkeley.edu, hug@cs.berkeley.edu, cthunn@eecs.berkeley.edu, nilah@berkeley.edu, rishabh.iyer@eecs.berkeley.edu, ajavey@berkeley.edu, jordan@cs.berkeley.edu
+
+Positions 61–80 (Joseph → Lustig): adj@cs.berkeley.edu, kanazawa@berkeley.edu, bkante@berkeley.edu, peyrin@berkeley.edu, sagark@eecs.berkeley.edu, keutzer@berkeley.edu, asir@berkeley.edu, pkhanna@berkeley.edu, klein@cs.berkeley.edu, aditik1@berkeley.edu, kubitron@cs.berkeley.edu, eal@berkeley.edu, jasondlee@berkeley.edu, chunlei.liu@eecs.berkeley.edu, loiannog@berkeley.edu, mikilustig@berkeley.edu, eric.y.ma@berkeley.edu, maharbiz@eecs.berkeley.edu, malik@berkeley.edu, songmei@berkeley.edu
+
+Positions 81–100 (Meng → Pister): guanghan_meng@berkeley.edu, sewonm@berkeley.edu, rikky@berkeley.edu, muppala@berkeley.edu, katermurch@berkeley.edu, minilek@berkeley.edu, ren@berkeley.edu, ctnguyen@berkeley.edu, niknejad@eecs.berkeley.edu, bora@eecs.berkeley.edu, norouzi@berkeley.edu, nuzzo@eecs.berkeley.edu, job@berkeley.edu, baolshausen@berkeley.edu, keo@eecs.berkeley.edu, adityagp@eecs.berkeley.edu, spparekh@berkeley.edu, paulos@berkeley.edu, amypavel@berkeley.edu, vern@berkeley.edu
+
+🎯 Positions 101–120 — RUSSELL'S BATCH (sent FIRST): emmapierson@berkeley.edu, pilawa@berkeley.edu, ksjp@berkeley.edu, poolla@berkeley.edu, raluca.popa@berkeley.edu, prasad@cs.berkeley.edu, kannanr@eecs.berkeley.edu, ranade@eecs.berkeley.edu, satishr@cs.berkeley.edu, sylvia@eecs.berkeley.edu, brecht@berkeley.edu, jr@berkeley.edu, **russell@cs.berkeley.edu**, msabin@berkeley.edu, sahai@eecs.berkeley.edu, nsalehi@berkeley.edu, alberto@berkeley.edu, sastry@eecs.berkeley.edu, ksen@cs.berkeley.edu, sseshia@eecs.berkeley.edu
+
+Positions 121–140 (Shanaa → Vazirani): osama.shanaa@berkeley.edu, ysshao@berkeley.edu, shenker@icsi.berkeley.edu, jrs@cs.berkeley.edu, irfan_siddiqi@berkeley.edu, sinclair@cs.berkeley.edu, alp@berkeley.edu, sojoudi@berkeley.edu, dawnsong@cs.berkeley.edu, yss@berkeley.edu, jsteinhardt@berkeley.edu, istoica@eecs.berkeley.edu, vlada@berkeley.edu, jonathanstray@berkeley.edu, suhr@berkeley.edu, atal@berkeley.edu, haoningtang@berkeley.edu, jptennant@berkeley.edu, gt3@berkeley.edu, tomlin@eecs.berkeley.edu
+
+Positions 141–156 (Vazirani → Zaharia, 16 emails — final batch): vazirani@cs.berkeley.edu, allonwag@berkeley.edu, daw@cs.berkeley.edu, waller@berkeley.edu, johnw@cs.berkeley.edu, mwillsey@berkeley.edu, jswright@berkeley.edu, wu@eecs.berkeley.edu, eliy@eecs.berkeley.edu, yala@berkeley.edu, yanlisa@berkeley.edu, yelick@cs.berkeley.edu, binyu@stat.berkeley.edu, mengjie.yu@berkeley.edu, stellayu@berkeley.edu, matei@berkeley.edu
+
+### Send order
+- **Batch 1 of 8** = Russell's batch (positions 101–120) ← FIRST for grace window
+- Batch 2 of 8 = positions 1–20
+- Batch 3 of 8 = positions 21–40
+- Batch 4 of 8 = positions 41–60
+- Batch 5 of 8 = positions 61–80
+- Batch 6 of 8 = positions 81–100
+- Batch 7 of 8 = positions 121–140
+- Batch 8 of 8 = positions 141–156 (16 emails)
+
+---
+
+### Batch 1 of 8 — drafted 2026-05-04 (RUSSELL'S BATCH 🎯)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 1 of 8),`
+
+Recipients (20):
+```
+emmapierson@berkeley.edu, pilawa@berkeley.edu, ksjp@berkeley.edu, poolla@berkeley.edu, raluca.popa@berkeley.edu, prasad@cs.berkeley.edu, kannanr@eecs.berkeley.edu, ranade@eecs.berkeley.edu, satishr@cs.berkeley.edu, sylvia@eecs.berkeley.edu, brecht@berkeley.edu, jr@berkeley.edu, russell@cs.berkeley.edu, msabin@berkeley.edu, sahai@eecs.berkeley.edu, nsalehi@berkeley.edu, alberto@berkeley.edu, sastry@eecs.berkeley.edu, ksen@cs.berkeley.edu, sseshia@eecs.berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+
+---
+
 ## Carnegie Mellon University (CS + ECE) — 207 emails, 11 batches of 20
 
 Sources:
