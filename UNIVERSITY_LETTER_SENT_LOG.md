@@ -100,7 +100,20 @@ Recipients (24 — Bengio at 5 of his addresses):
 louis.salvail@umontreal.ca, marc.feeley@umontreal.ca, margarida.da.silva.carvalho@umontreal.ca, max.mignotte@umontreal.ca, michalis.famelis@umontreal.ca, michel.boyer@umontreal.ca, mikhail.bessmeltsev@umontreal.ca, miklos.csuros@umontreal.ca, nadia.el-mabrouk@umontreal.ca, noam.aigerman@umontreal.ca, philippe.langlais@umontreal.ca, pierre-luc.bacon@umontreal.ca, robin.milosz@umontreal.ca, sebastien.3d.roy@umontreal.ca, simon.lacoste-julien@umontreal.ca, stefan.monnier@umontreal.ca, sylvie.hamel@umontreal.ca, utsav.sadana@umontreal.ca, vincent.gripon@umontreal.ca, yoshua.bengio@umontreal.ca, bengioy@iro.umontreal.ca, yoshua.bengio@mila.quebec, cassidy.macneil@mila.quebec, medias@mila.quebec
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_01.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 2 of 3 — drafted 2026-05-04 (DIRO 1-20)
+
+Dear line: `Dear Université de Montréal DIRO and Mila Professors (Batch 2 of 3),`
+
+Recipients (20):
+```
+aaron.courville@umontreal.ca, abdelhakim.hafid@umontreal.ca, aishwarya.agrawal@umontreal.ca, alain.tapp@umontreal.ca, alejandro.hernandez.garcia@umontreal.ca, bang.liu@umontreal.ca, benoit.baudry@umontreal.ca, daehyun.ji@umontreal.ca, damien.masson@umontreal.ca, david.krueger@umontreal.ca, dhanya.sridhar@umontreal.ca, dmitry.sokolov@umontreal.ca, emma.frejinger@umontreal.ca, esma.aimeur@umontreal.ca, eugene.syriani@umontreal.ca, fabian.bastin@umontreal.ca, francois.major@umontreal.ca, frederic.dupont-dupuis@umontreal.ca, gauthier.gidel@umontreal.ca, gena.hahn@umontreal.ca
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
 
 ---
 
