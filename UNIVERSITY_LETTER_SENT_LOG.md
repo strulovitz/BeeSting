@@ -186,7 +186,20 @@ Recipients (20):
 abouland@stanford.edu, akuduk@stanford.edu, ann1083@stanford.edu, avteaupa@stanford.edu, bambos@stanford.edu, barrettc@stanford.edu, beverlyd@stanford.edu, carriep1@stanford.edu, cbl@stanford.edu, cearl@stanford.edu, cgregg@stanford.edu, chaussec@stanford.edu, cmarquez@cs.stanford.edu, congreve@stanford.edu, cwodtke@stanford.edu, eadeli@stanford.edu, ebagley@stanford.edu, ebfox@stanford.edu, echang@cs.stanford.edu, fedkiw@cs.stanford.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 3 of 5 — drafted 2026-05-04 (alphabetical 21-40)
+
+Dear line: `Dear Stanford CS and EE Professors (Batch 3 of 5),`
+
+Recipients (20):
+```
+fikes@stanford.edu, genesereth@stanford.edu, gwtuttle@stanford.edu, habekoss@stanford.edu, hanrahan@cs.stanford.edu, helen.niu@stanford.edu, helenlin@stanford.edu, htiek@cs.stanford.edu, ilondon@stanford.edu, jerry@cs.stanford.edu, joonhee.choi@stanford.edu, jpaguyo@stanford.edu, jstanford@stanford.edu, julieh1@stanford.edu, kara.marquez@stanford.edu, kimchin@stanford.edu, klinej@stanford.edu, levoy@stanford.edu, mariasal@stanford.edu, marshad@stanford.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
 
 ---
 
