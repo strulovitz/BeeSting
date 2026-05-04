@@ -235,7 +235,11 @@ kmasui@mit.edu, matthews@mit.edu, nergis@ligo.mit.edu, mcdonald@space.mit.edu, m
 
 Notable: Nergis Mavalvala (`nergis@ligo.mit.edu` — LIGO Nobel team), Ernest Moniz (`ejmoniz@mit.edu` — former US Energy Secretary).
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_05.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+**MIT PHYSICS COMPLETE 🏁** — all 5 batches sent 2026-05-04. 101 unique faculty + Tegmark at 5 addresses = 105 reached. Confirmed signals: press@futureoflife.org auto-reply (revealed Chase Hardin + Ben Cumming as new FLI contacts).
 
 ---
 
