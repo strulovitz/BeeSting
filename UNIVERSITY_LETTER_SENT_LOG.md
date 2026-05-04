@@ -125,7 +125,20 @@ Recipients (20):
 pabbeel@cs.berkeley.edu, amalaa@berkeley.edu, elad@eecs.berkeley.edu, ananth@eecs.berkeley.edu, gopala@berkeley.edu, mekhail@berkeley.edu, arcak@berkeley.edu, acarias@eecs.berkeley.edu, krste@berkeley.edu, ayazifar@berkeley.edu, ball@berkeley.edu, dbamman@berkeley.edu, barsky@berkeley.edu, peter@berkeley.edu, bayen@berkeley.edu, jbokor@berkeley.edu, boles@berkeley.edu, borgs@berkeley.edu, dcal@berkeley.edu, caoyuan@berkeley.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_02.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+### Batch 3 of 8 — drafted 2026-05-04 (positions 21-40)
+
+Dear line: `Dear Berkeley EECS Professors (Batch 3 of 8),`
+
+Recipients (20):
+```
+serinac@berkeley.edu, jchayes@berkeley.edu, iychen@berkeley.edu, lijiechen@berkeley.edu, zaijun@berkeley.edu, akcheung@cs.berkeley.edu, jcchien@berkeley.edu, chuang@ischool.berkeley.edu, vcoleman@berkeley.edu, sconolly@berkeley.edu, henrycg@cs.berkeley.edu, courtade@berkeley.edu, ncrooks@berkeley.edu, trevor@eecs.berkeley.edu, demmel@cs.berkeley.edu, denero@berkeley.edu, alexdimakis@berkeley.edu, rdorrance@berkeley.edu, prabal@berkeley.edu, efros@eecs.berkeley.edu
+```
+
+Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_03.txt`
 
 ---
 
