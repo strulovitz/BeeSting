@@ -5,20 +5,22 @@ One section per university. Each batch lists subject, recipients, batch label, a
 
 ---
 
-## Queue — Nir's order (top 10 AI universities in USA, 2026)
+## Queue — Nir's order (top USA AI universities + the 2 Canadian Turing-laureate institutions)
 
-Source: Google search "top 10 AI universities in USA" (Nir, 2026-05-04).
+Sources: Google search "top 10 AI universities in USA" (Nir, 2026-05-04) + Bengio at Université de Montréal/Mila + Hinton at University of Toronto. Canada is in NORAD and treated as USA-equivalent for this outreach.
 
 1. **Carnegie Mellon University (CMU)** — School of Computer Science. First BS in AI in the USA. ✅ COMPLETE 2026-05-04 (207 CS+ECE faculty)
 2. **Massachusetts Institute of Technology (MIT)** — CSAIL. ✅ COMPLETE 2026-05-04 (180 EECS faculty)
-3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. Highest-leverage academic recipient on the list. ⏳ NEXT
-4. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
-5. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
-6. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
-7. **Georgia Institute of Technology (Georgia Tech)** — AI Makerspace, AI specializations undergrad + grad. ⏳
-8. **Cornell University** — CS dept, AI/ML pioneer since the 1990s. ⏳
-9. **University of Texas at Austin** — Texas Robotics center, Turing Scholars honors program. ⏳
-10. **California Institute of Technology (Caltech)** — ML and AI tracks, interdisciplinary scientific focus. ⏳
+3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. ⏳ NEXT
+4. **Université de Montréal / Mila — Quebec AI Institute** 🇨🇦 — Yoshua Bengio (Turing Award 2018, deep-learning pioneer). Founded Mila. Among the people most equipped on Earth to recognize the architecture instantly. ⏳
+5. **University of Toronto** 🇨🇦 — Geoffrey Hinton (Turing Award 2018, "Godfather of AI", recently outspoken on existential risk). University Professor Emeritus, Department of Computer Science. ⏳
+6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
+7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
+8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
+9. **Georgia Institute of Technology (Georgia Tech)** — AI Makerspace, AI specializations undergrad + grad. ⏳
+10. **Cornell University** — CS dept, AI/ML pioneer since the 1990s. ⏳
+11. **University of Texas at Austin** — Texas Robotics center, Turing Scholars honors program. ⏳
+12. **California Institute of Technology (Caltech)** — ML and AI tracks, interdisciplinary scientific focus. ⏳
 
 Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berkeley EECS faculty page when ready.
 
