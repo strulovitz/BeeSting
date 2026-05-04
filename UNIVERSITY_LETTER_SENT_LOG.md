@@ -129,6 +129,12 @@ Recipients (20):
 russt@csail.mit.edu, tidor@mit.edu, torralba@csail.mit.edu, jnt@mit.edu, cuhler@mit.edu, vinodv@csail.mit.edu, verghese@mit.edu, voldman@mit.edu, mjwain@mit.edu, warde@mit.edu, white@mit.edu, rrw@mit.edu, virgi@mit.edu, ashia07@mit.edu, gww@mit.edu, mengjiay@mit.edu, sixian@mit.edu, nickolai@csail.mit.edu, lizhong@mit.edu, hyzhou@mit.edu
 ```
 
-Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_09.txt`
+Status: ✅ SENT 2026-05-04
+
+---
+
+**MIT EECS COMPLETE 🏁** — all 9 batches sent 2026-05-04. 180 faculty reached.
+
+⚠️ Notable: ZERO automatic replies received (no out-of-office, no "contact X instead"). For 180 academic recipients this is statistically unusual and may indicate the batch was flagged as bulk by Gmail or MIT's mail server.
 
 ---
