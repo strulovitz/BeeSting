@@ -199,17 +199,17 @@ Recipients (20):
 fikes@stanford.edu, genesereth@stanford.edu, gwtuttle@stanford.edu, habekoss@stanford.edu, hanrahan@cs.stanford.edu, helen.niu@stanford.edu, helenlin@stanford.edu, htiek@cs.stanford.edu, ilondon@stanford.edu, jerry@cs.stanford.edu, joonhee.choi@stanford.edu, jpaguyo@stanford.edu, jstanford@stanford.edu, julieh1@stanford.edu, kara.marquez@stanford.edu, kimchin@stanford.edu, klinej@stanford.edu, levoy@stanford.edu, mariasal@stanford.edu, marshad@stanford.edu
 ```
 
-Status: ✅ SENT 2026-05-04
+Status: ✅ SENT 2026-05-04. Bounce: habekoss@stanford.edu (550 user unknown — Brian Habekoss left Stanford). Auto-reply: Marsha Dillon (marshad@stanford.edu) is retired since June 2025 — surfaced new EE Chair's office contact `Suzanne.Sims@stanford.edu`, added to Batch 4.
 
 ---
 
-### Batch 4 of 5 — drafted 2026-05-04 (alphabetical 41-60)
+### Batch 4 of 5 — drafted 2026-05-04 (alphabetical 41-60 + 1 newly-discovered EE Chair's office)
 
 Dear line: `Dear Stanford CS and EE Professors (Batch 4 of 5),`
 
-Recipients (20):
+Recipients (21 — added Suzanne.Sims@stanford.edu, EE Chair's office, surfaced via Marsha Dillon's OOO):
 ```
-mdavid@cs.stanford.edu, meixu@stanford.edu, mvarlaro@stanford.edu, nick.parlante@cs.stanford.edu, npacheco@stanford.edu, nyeinmon@stanford.edu, opetah@stanford.edu, patrick.young@cs.stanford.edu, pratt@cs.stanford.edu, rharris3@stanford.edu, ron.dror@stanford.edu, rrecoder@stanford.edu, sachour@stanford.edu, sgoodner@stanford.edu, smontgom@stanford.edu, steger@stanford.edu, sungson@stanford.edu, troccoli@stanford.edu, usmith@stanford.edu, yurika.peterman@stanford.edu
+mdavid@cs.stanford.edu, meixu@stanford.edu, mvarlaro@stanford.edu, nick.parlante@cs.stanford.edu, npacheco@stanford.edu, nyeinmon@stanford.edu, opetah@stanford.edu, patrick.young@cs.stanford.edu, pratt@cs.stanford.edu, rharris3@stanford.edu, ron.dror@stanford.edu, rrecoder@stanford.edu, sachour@stanford.edu, sgoodner@stanford.edu, smontgom@stanford.edu, steger@stanford.edu, sungson@stanford.edu, troccoli@stanford.edu, usmith@stanford.edu, yurika.peterman@stanford.edu, Suzanne.Sims@stanford.edu
 ```
 
 Status: ⏳ drafted, awaiting Nir to send from `~/Downloads/UNIVERSITY_LETTER_BATCH_04.txt`
