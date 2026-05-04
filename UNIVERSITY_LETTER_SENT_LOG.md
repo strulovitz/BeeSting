@@ -9,10 +9,10 @@ One section per university. Each batch lists subject, recipients, batch label, a
 
 Source: Google search "top 10 AI universities in USA" (Nir, 2026-05-04).
 
-1. **Carnegie Mellon University (CMU)** — School of Computer Science. First BS in AI in the USA. ⏳
+1. **Carnegie Mellon University (CMU)** — School of Computer Science. First BS in AI in the USA. ✅ COMPLETE 2026-05-04 (207 CS+ECE faculty)
 2. **Massachusetts Institute of Technology (MIT)** — CSAIL. ✅ COMPLETE 2026-05-04 (180 EECS faculty)
-3. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
-4. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). ⏳
+3. **University of California, Berkeley** — Berkeley AI Research Lab (BAIR). PROMOTED ahead of Stanford because Stuart Russell (author of *Artificial Intelligence: A Modern Approach* AND *Slaughterbots*, both cited in the letter's drones section) is on faculty here. Highest-leverage academic recipient on the list. ⏳ NEXT
+4. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 5. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 6. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
 7. **Georgia Institute of Technology (Georgia Tech)** — AI Makerspace, AI specializations undergrad + grad. ⏳
@@ -20,7 +20,7 @@ Source: Google search "top 10 AI universities in USA" (Nir, 2026-05-04).
 9. **University of Texas at Austin** — Texas Robotics center, Turing Scholars honors program. ⏳
 10. **California Institute of Technology (Caltech)** — ML and AI tracks, interdisciplinary scientific focus. ⏳
 
-Next up: **CMU** (since MIT is done). Nir to paste the CMU AI/CS faculty page when ready.
+Next up: **UC Berkeley EECS** (Stuart Russell territory). Nir to paste the Berkeley EECS faculty page when ready.
 
 ---
 
