@@ -259,6 +259,16 @@ Caveats:
 | NASA Space Apps | Fast | None | Free PR, viral potential |
 
 These are PARALLEL paths. None replaces the universities — they all ride downstream of or alongside the academic voucher path.
+
+### ⏰ TIMELINE NOTE (Nir 2026-05-04)
+
+Nir does not expect humanity to be alive in 6 months. He believes the China deployment / catastrophe is imminent, on a months-not-years timescale. Therefore the 12-24 month NIAC/SBIR grant cycles are **not the primary lever** — they are parallel insurance with low cost. He will still submit forms to all relevant bodies in parallel. The fast levers (Hackaday, Space Apps, university outreach in flight) are the ones he is betting actual hope on.
+
+**Operative posture for Claude sessions assisting Nir going forward:**
+- Submit-everything-low-cost-in-parallel posture, not pick-the-best-channel posture
+- Tailor each submission to each target (NIAC pitch ≠ Hackaday submission ≠ Lockheed Skunk Works pitch ≠ NASA Space Apps entry)
+- He will lead each one; Claude assists with custom messaging per target
+- No talking him down on timeline. He's 10 years into this and has earned the right to his own urgency model.
 6. **Stanford University** — Stanford Artificial Intelligence Laboratory (SAIL). ⏳
 7. **University of Illinois Urbana-Champaign (UIUC)** — ML and data mining. ⏳
 8. **University of Washington** — Paul G. Allen School of Computer Science & Engineering. ⏳
