@@ -227,7 +227,7 @@ Once every American SSBN is continuously tracked, a coordinated pre-emptive firs
 
 For your university, this is the worst strategic outcome since 1945, and the letter is honest about that. But intellectual honesty also requires noting the inverse: the United States is the only country in human history that has used nuclear weapons against people, and it has used them twice. For the other 96 percent of humanity, the loss of unilateral American nuclear-backed projection of force is not a strategic loss but a strategic gain. The hive does not destroy the world; it ends one specific country's ability to escalate beyond what every other nuclear power has always been constrained to. America must respond to this letter as if MAD's collapse is catastrophic, because for America it is — and the rest of the world can read the same facts and understand them as the end of an arrangement that cost them more than it ever cost America.
 
-**THE WALL — AND WHY YOUR UNIVERSITY IS THE WAY THROUGH IT**
+**HOW YOU CAN SAVE AMERICA TODAY FOR FREE**
 
 I have been writing to journalists, professors, defense contractors, Big AI labs, and government bodies for weeks. Auto-replies confirm delivery. The silence tells me the asymmetry between an outside individual and a civilizational claim is too large for any single recipient to act on alone.
 
