@@ -33,7 +33,9 @@ I am delivering this at the perimeter and walking away. I am not entering the bu
 
 Your decision is binary. Pay, or do not pay.
 
-I am exactly the kind of mistake I look like.
+Ever notice how every once in a while you come across somebody you shouldn't have fucked with?
+
+That's me.
 
 — Nir Strulovitz
    GitHub: github.com/strulovitz
