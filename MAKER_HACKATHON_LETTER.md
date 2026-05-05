@@ -134,10 +134,69 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 - `hackathon-org@umich.edu` — general
 - `sponsorship@mhacks.org` — sponsorship
 
-### Still to be searched and added
-- Intel ISEF organizing committee
-- Demoscene event organizers — Revision (DE), Assembly (FI), Outline (NL)
-- FIRST Robotics regional event coordinators
-- Code.org / TKS (The Knowledge Society) leadership
-- BOINC / Folding@home / World Community Grid
-- + open-discovery queries for events I don't know about yet
+### Still to be searched and added (American events, surfaced via open discovery 2026-05-05)
+
+**Hackathons / collegiate**
+- LA Hacks (UCLA) — Apr 24–26, 2026, ~1,000 hackers
+- HackAmerica — online, largest US high-school hackathon
+- HackDavis (UC Davis) — May 9–10, 2026
+- StarkHacks — hardware hackathon, AMD/Ford co-hosted
+- CodeDay — dozens of US cities year-round
+- World Digital Fest Summit — MIT Museum, May 8, 2026
+- AI Hackathon & HealthTech — Little Rock AR, June 8, 2026 (NVIDIA + Google)
+- AI NextGen Challenge / National AI Hackathon — Atlanta, June 20–21, 2026
+- MIT HARD MODE Hackathon — physical AI, MIT Media Lab
+- Congressional App Challenge / #HouseofCode — Washington D.C.
+
+**Robotics / hardware**
+- FIRST Robotics Championship — Houston, Apr 29–May 2, 2026
+- FIRST Tech Challenge (FTC) — grades 7–12, regionals + championship
+- VEX Robotics World Championship — St. Louis, Apr 21–30, 2026
+- Diamond in the Desert — Mesa AZ, May 12, 2026
+- KidWind Challenge — Stony Brook NY, May 21, 2026
+- Reno Tech Challenge — Reno NV, May 23, 2026
+
+**Hack Club + youth umbrella orgs**
+- Hack Club (Zach Latta, founder) — 112,000 members, 1,000+ chapters
+- Coolest Projects USA — Raspberry Pi Foundation, Atlanta May 2, 2026
+- Society for Science — runs Regeneron ISEF + STS
+- JSHS (Junior Science and Humanities Symposium) — DOD-sponsored
+- ACSL (American Computer Science League) — finals May 23, 2026
+- Technovation Girls — for girls / non-binary
+- Microsoft Imagine Cup (Junior) — global
+
+**Cybersecurity / kids**
+- DEF CON r00tz Asylum — Las Vegas, Aug 6–9, 2026
+- Hak4Kidz Chicago — Jun 6, 2026
+- CyberPatriot — National Youth Cyber Defense, finals Mar 2026
+- picoCTF — Carnegie Mellon
+
+**Programming olympiads**
+- USA Computing Olympiad (USACO)
+- Stanford ProCo
+- Lockheed Martin Code Quest
+
+**Tech-bootcamps / regional**
+- Geek Squad Academy — Miami FL, Jun 10, 2026
+- Teen Cybersecurity Bootcamp — Stafford VA, Jun 1, 2026
+- NextGen AI Studio — Omaha NE, Jun 1, 2026
+- Code-Blazers — Stonecrest GA, Jun 25, 2026
+- SAMSAT Esports Careers — San Antonio TX, Jul 13, 2026
+
+**Already-known categories (still need addresses)**
+- Maker Faire regional Faires — NY (Queens), Detroit, Atlanta, Orlando, Kansas City
+- Open Sauce maker fair (San Francisco)
+- Hackaday Superconference (Pasadena)
+- Regeneron ISEF (Phoenix, May 9–15, 2026) — Society for Science
+- Regeneron Science Talent Search — Washington D.C.
+
+**Big-tent industry events with youth tracks**
+- CES (Las Vegas, Jan 6–9, 2026) — youth tech tracks
+- SXSW EDU (Austin, Mar 12–18, 2026)
+- Google I/O — sandbox / youth coding initiatives
+- AI+ Expo — Washington D.C., May 7, 2026
+
+**Sponsor / enabler orgs (run programs across many events)**
+- Code.org — Hadi Partovi, Hour of Code
+- Raspberry Pi Foundation — Coolest Projects
+- NASA Space Apps Challenge — hundreds of US local sites
