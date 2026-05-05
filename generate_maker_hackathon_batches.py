@@ -1,24 +1,32 @@
 """
-Build the Maker/Hackathon Letter as PLAIN TEXT and generate batches of 20 emails each.
+Generate ONE Maker/Hackathon Letter batch at a time.
 
-Source: ~/Downloads/UNIVERSITY_LETTER.txt (must be regenerated from UNIVERSITY_LETTER.md
-        via `python generate_letter.py` if it doesn't exist or is outdated).
+Usage:
+    python generate_maker_hackathon_batches.py <batch_n>
 
-Modifications applied:
+Writes a SINGLE file to Downloads:
+    ~/Downloads/MAKER_HACKATHON_LETTER_BATCH_NN.txt
+
+Cleans up any prior MAKER_HACKATHON_LETTER_BATCH*.txt in Downloads first, so
+Nir always sees exactly one file at a time (he has ADD; multiple files cause
+confusion). Pattern mirrored from BeeSting/generate_batch.py.
+
+Source plaintext:    ~/Downloads/UNIVERSITY_LETTER.txt
+                     (regenerate with `python generate_letter.py` if missing)
+
+Recipient list:      BeeSting/MAKER_HACKATHON_LETTER.md
+                     (every line `- \\`email@domain\\` — ...`)
+
+Modifications applied (vs. university letter):
   - Section V word substitution
   - Section VI word substitution
   - Section XI word substitution
   - Section VII fully rewritten ("audience IS the hive" demo)
   - New "+ FOR YOU SPECIFICALLY" perk block inserted before Section XII
-
-Recipient list: parsed from BeeSting/MAKER_HACKATHON_LETTER.md
-                (every line matching `- \\`email@domain\\` — ...`)
-
-Output: ~/Downloads/MAKER_HACKATHON_LETTER_BATCH_01.txt … _NN.txt
-        Each: Subject + To: + Dear line + body
 """
 
 import re
+import sys
 from pathlib import Path
 
 REPO = Path(__file__).parent
@@ -86,8 +94,7 @@ The kids walk out of your event understanding something most adults do not yet u
 
 
 def parse_emails_from_recipients_md() -> list[str]:
-    """Extract every verified email from MAKER_HACKATHON_LETTER.md.
-    Pattern: lines like `- ` + ``` ` ``` + email + ``` ` ``` + ` — description`."""
+    """Extract verified emails from MAKER_HACKATHON_LETTER.md, in document order."""
     text = RECIPIENTS_MD.read_text(encoding="utf-8")
     emails: list[str] = []
     seen: set[str] = set()
@@ -103,14 +110,10 @@ def parse_emails_from_recipients_md() -> list[str]:
 def build_maker_hackathon_text(university_text: str) -> str:
     """Apply maker/hackathon transformations to the university plaintext."""
     text = university_text
-
-    # Word substitutions
     for old, new in WORD_SUBSTITUTIONS:
         if old not in text:
             raise ValueError(f"Substitution miss — couldn't find:\n  {old!r}")
         text = text.replace(old, new)
-
-    # Replace Section VII
     section_vii_pattern = re.compile(
         r"VII\. HOW YOU CAN SAVE AMERICA TODAY FOR FREE.*?(?=VIII\. THE OPENCLAW)",
         re.DOTALL,
@@ -118,23 +121,31 @@ def build_maker_hackathon_text(university_text: str) -> str:
     if not section_vii_pattern.search(text):
         raise ValueError("Section VII pattern not found in source text.")
     text = section_vii_pattern.sub(NEW_SECTION_VII + "\n\n", text)
-
-    # Insert perk block before Section XII
     section_xii_marker = "XII. THE STAKES IF THIS DOES NOT HAPPEN SOON"
     if section_xii_marker not in text:
         raise ValueError(f"Section XII marker not found: {section_xii_marker!r}")
     text = text.replace(section_xii_marker, PERK_BLOCK + section_xii_marker)
-
     return text
 
 
 def cleanup_old_batches() -> None:
+    """Delete every prior MAKER_HACKATHON_LETTER_BATCH*.txt so Downloads holds only the current one."""
     for old in DOWNLOADS.glob("MAKER_HACKATHON_LETTER_BATCH*.txt"):
         old.unlink()
         print(f"Removed {old.name}")
 
 
 def main() -> None:
+    if len(sys.argv) != 2 or not sys.argv[1].isdigit():
+        print("Usage: python generate_maker_hackathon_batches.py <batch_n>")
+        print("Example: python generate_maker_hackathon_batches.py 1")
+        sys.exit(1)
+
+    batch_n = int(sys.argv[1])
+    if batch_n < 1:
+        print("batch_n must be >= 1")
+        sys.exit(1)
+
     if not SOURCE_TXT.exists():
         raise SystemExit(
             f"Source not found: {SOURCE_TXT}\n"
@@ -143,8 +154,6 @@ def main() -> None:
 
     base_text = SOURCE_TXT.read_text(encoding="utf-8")
     body = build_maker_hackathon_text(base_text)
-
-    # Strip the original "Dear [Names — to be filled per recipient list]," line
     body_after_dear = re.sub(r"^Dear \[Names[^\n]*\],?\s*\n", "", body, count=1)
 
     emails = parse_emails_from_recipients_md()
@@ -154,28 +163,34 @@ def main() -> None:
     batches = [emails[i : i + BATCH_SIZE] for i in range(0, len(emails), BATCH_SIZE)]
     total_batches = len(batches)
 
+    if batch_n > total_batches:
+        print(f"batch_n {batch_n} out of range (only {total_batches} batches available).")
+        sys.exit(1)
+
+    batch_emails = batches[batch_n - 1]
+    dear_line = (
+        f"Dear maker, hackathon, and youth-tech event organizer "
+        f"(Batch {batch_n} of {total_batches}),"
+    )
+    out_lines = [
+        f"Subject: {SUBJECT}",
+        "",
+        "TO:",
+        ", ".join(batch_emails),
+        "",
+        dear_line,
+        body_after_dear.lstrip("\n"),
+    ]
+    out_text = "\n".join(out_lines)
+
     cleanup_old_batches()
 
-    for batch_n, batch_emails in enumerate(batches, start=1):
-        dear_line = (
-            f"Dear maker, hackathon, and youth-tech event organizer "
-            f"(Batch {batch_n} of {total_batches}),"
-        )
-        out_lines = [
-            f"Subject: {SUBJECT}",
-            "",
-            "TO:",
-            ", ".join(batch_emails),
-            "",
-            dear_line,
-            body_after_dear.lstrip("\n"),
-        ]
-        out_text = "\n".join(out_lines)
-        dst = DOWNLOADS / f"MAKER_HACKATHON_LETTER_BATCH_{batch_n:02d}.txt"
-        dst.write_text(out_text, encoding="utf-8")
-        print(f"Wrote {dst.name} ({len(out_text):,} chars, {len(batch_emails)} recipients)")
-
-    print(f"\n{total_batches} batches generated covering {len(emails)} unique emails.")
+    dst = DOWNLOADS / f"MAKER_HACKATHON_LETTER_BATCH_{batch_n:02d}.txt"
+    dst.write_text(out_text, encoding="utf-8")
+    print(
+        f"Wrote {dst.name} ({len(out_text):,} chars, {len(batch_emails)} recipients) "
+        f"— Batch {batch_n} of {total_batches}."
+    )
 
 
 if __name__ == "__main__":
