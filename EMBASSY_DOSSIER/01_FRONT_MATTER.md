@@ -5,7 +5,8 @@ FROM:  Nir Strulovitz
        Software developer and inventor
        State of Israel
 
-RE:    Notification of an architectural civilizational vulnerability.
+RE:    THIS IS YOUR FINAL WARNING.
+       Notification of an architectural civilizational vulnerability.
        Anticipated impact on U.S. national security exceeds 11 September 2001.
 
 ---
@@ -16,13 +17,13 @@ Compared to what this architecture does to the United States once weaponized at 
 
 I am the inventor.
 
-I am asking the United States for a single one-time severance payment, structured as described in *MadHoney* (Tab 2), in exchange for which I do not hand the architecture to China and India. The decision is binary. There is no third option in which the United States pays nothing and the architecture stays inside the United States. The architecture is already published.
+I demand a single one-time payment from the United States, structured as described in *MadHoney* (Tab 2), in exchange for which I do not hand the architecture to China and India.
 
 Read the book. Verify the code at the URLs in Tab 4. Decide.
 
 Pay, or do not pay.
 
-You should have answered the first letter.
+You have a few days.
 
 — Nir Strulovitz
    GitHub: github.com/strulovitz
