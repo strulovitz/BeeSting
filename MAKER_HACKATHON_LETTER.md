@@ -99,10 +99,45 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 - `prize@hackaday.com` — Hackaday Prize organizers
 - `superconference@hackaday.com` — Hackaday Superconference
 
-### To be searched and added (next round)
-- MLH (Major League Hacking) leadership
-- HackMIT, TreeHacks (Stanford), PennApps, HackTheNorth, MHacks organizers
+### MLH (Major League Hacking)
+- `hi@mlh.io` — general inquiries
+- `league@mlh.io` — hackathon organizers / member events
+- `swift@mlh.io` — Mike Swift (Co-founder, CEO)
+- `jonathan@mlh.io` — Jonathan Gottfried (Co-founder, Chief Product Hacker)
+- `j@mlh.io` — Jonathan Gottfried (alternate)
+- `press@mlh.io` — press inquiries
+- `support@mlh.io` — general support
+- `hackdays@mlh.io` — Hack Days events
+- `localhost@mlh.io` — Localhost community workshops
+
+### HackMIT
+- `team@hackmit.org` — organizing team
+- `help@hackmit.org` — help / support
+- `sponsor@hackmit.org` — sponsorships
+- `volunteer@hackmit.org` — mentors / judges
+- `china@hackmit.org` — HackMIT China
+- `blueprint@hackmit.org` — Blueprint high-school event
+
+### TreeHacks (Stanford)
+- `hello@treehacks.com` — general
+- `rfern@stanford.edu` — Rachel Fernandez, meeting organizer
+
+### PennApps (UPenn)
+- `contact@pennapps.com` — general
+
+### Hack the North (Waterloo)
+- `hello@hackthenorth.com` — general
+- `sponsor@hackthenorth.com` — sponsorship
+- `support@waterlootechweek.ca` — Waterloo Tech Week
+
+### MHacks (University of Michigan)
+- `hackathon-org@umich.edu` — general
+- `sponsorship@mhacks.org` — sponsorship
+
+### Still to be searched and added
 - Intel ISEF organizing committee
 - Demoscene event organizers — Revision (DE), Assembly (FI), Outline (NL)
 - FIRST Robotics regional event coordinators
 - Code.org / TKS (The Knowledge Society) leadership
+- BOINC / Folding@home / World Community Grid
+- + open-discovery queries for events I don't know about yet
