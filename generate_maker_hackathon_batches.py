@@ -41,19 +41,32 @@ SUBJECT = (
 
 BATCH_SIZE = 20
 
-# --- Word substitutions in Sections V, VI, XI ---
+# --- Word substitutions in Sections V, VI, VIII, XI, XII ---
 WORD_SUBSTITUTIONS = [
+    # Section V
     (
         "the same demonstration your university can run for the parallelism and quality benchmarks",
         "the same demonstration your event can run for the parallelism and quality benchmarks",
     ),
+    # Section VI
     (
         "For your university, this is the worst strategic outcome since 1945",
         "For America, this is the worst strategic outcome since 1945",
     ),
+    # Section VIII — align resource gap with maker venue ask (30-100 laptops, not 100-1000 owned machines)
+    (
+        "It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide.",
+        "It is that I do not have the humble resources — a venue, an audience, and 30 to 100 laptops in a single room — to stage the live demonstration that makes the threat undeniable to the people who decide.",
+    ),
+    # Section XI
     (
         "A friendly university proves to America's power centers above that THE HIVE is not a dream",
         "A friendly maker, hackathon, or hardware-hacker event proves to America's power centers above that THE HIVE is not a dream",
+    ),
+    # Section XII — audience-appropriate stakes
+    (
+        "Not for the Ivy League's AI departments. Not for America's power centers. Not, pretty much, for America's existence.",
+        "Not for America's maker, hackathon, and hardware-hacker community. Not for America's power centers. Not, pretty much, for America's existence.",
     ),
 ]
 

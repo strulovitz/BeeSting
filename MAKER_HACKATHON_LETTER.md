@@ -60,23 +60,31 @@ The kids walk out of your event understanding something most adults do not yet u
 
 ---
 
-## Word substitutions in OTHER sections (LOCKED 2026-05-05)
+## Word substitutions in OTHER sections (LOCKED 2026-05-05, expanded after Nir read-through)
 
-Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` when assembling the final maker/hackathon letter for sending. Sections VIII (OpenClaw / MoltBook), IX (Buridan), X (Chinese embassy) need NO changes — already generic.
+Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` when assembling the final maker/hackathon letter for sending. Sections IX (Buridan), X (Chinese embassy), XIII (FOR THOSE WHO THINK I EXAGGERATE), XIV (LINKS) need NO changes.
 
 ### Section V — alignment (one substitution)
-- **OLD:** *"It is verifiable in the code and in the deployment configuration, in one day, on real hardware — the same demonstration your university can run for the parallelism and quality benchmarks."*
-- **NEW:** *"It is verifiable in the code and in the deployment configuration, in one day, on real hardware — the same demonstration your event can run for the parallelism and quality benchmarks."*
+- **OLD:** *"… the same demonstration your university can run for the parallelism and quality benchmarks."*
+- **NEW:** *"… the same demonstration your event can run for the parallelism and quality benchmarks."*
 
 ### Section VI — MAD (one substitution)
 - **OLD:** *"For your university, this is the worst strategic outcome since 1945, and the letter is honest about that."*
 - **NEW:** *"For America, this is the worst strategic outcome since 1945, and the letter is honest about that."*
 
+### Section VIII — OpenClaw / MoltBook precedent (one substitution — added 2026-05-05 after Nir flagged scale mismatch)
+- **OLD:** *"It is that I do not have the humble resources — 100 or 1000 computers — to stage the live demonstration that makes the threat undeniable to the people who decide."*
+- **NEW:** *"It is that I do not have the humble resources — a venue, an audience, and 30 to 100 laptops in a single room — to stage the live demonstration that makes the threat undeniable to the people who decide."*
+
 ### Section XI — Preferred Path (one substitution)
 - **OLD:** *"A friendly university proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare."*
 - **NEW:** *"A friendly maker, hackathon, or hardware-hacker event proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare."*
 
-### Sections I, II, III, IV, VIII, IX, X, XII, XIII, XIV
+### Section XII — Stakes (one substitution — added 2026-05-05 after Nir flagged "Ivy League")
+- **OLD:** *"Once this die is cast, there is no hope anymore. Not for the Ivy League's AI departments. Not for America's power centers. Not, pretty much, for America's existence."*
+- **NEW:** *"Once this die is cast, there is no hope anymore. Not for America's maker, hackathon, and hardware-hacker community. Not for America's power centers. Not, pretty much, for America's existence."*
+
+### Sections I, II, III, IV, IX, X, XIII, XIV
 - No word substitutions needed. All references in those sections are already generic ("America's power centers", "America's institutions", "America", "Big AI labs", "the rest of the world", etc.).
 
 ### Note on Section VII opening line ("I have been writing to journalists, professors...")
