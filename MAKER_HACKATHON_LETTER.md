@@ -312,25 +312,72 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 **Maker Faire (general / Bay Area)**
 - `tickets@makerfaire.com` — ticketing / general (already had — confirmed)
 
-### Still to be searched / reached via web form only
+### Verified emails — Round 6 (Nir's targeted Google searches, 2026-05-05)
 
-- HackHarvard (no direct email surfaced — `hhuh.io` redirects, contact via website form / LinkedIn)
-- HackGT / HexLabs (Cloudflare-obfuscated email — Discord at `discord.hexlabs.org`)
-- HackBeanpot (no direct email surfaced — Instagram/LinkedIn only)
-- HackUTD (Industry Team form only, no direct email)
-- HackDuke (general contact via website form only)
-- Microsoft Imagine Cup (login-walled support page)
-- NASA Space Apps Challenge GO Team (email obfuscated in search results)
-- Maker Faire Detroit (email field empty in fetch)
-- Maker Faire Coney Island / NYC (contact form only)
-- Maker Faire Atlanta (Cloudflare-obfuscated email — David handles inquiries)
-- Hak4Kidz (LinkedIn only — no public email for Dave Schwartzberg)
-- Coolest Projects Atlanta venue (Pittsburgh Yards) — handled via main `northamerica@coolestprojects.org`
-- Girls Who Code (email not found — visit `girlswhocode.com` directly)
-- Kode With Klossy (email format `First@kodewithklossy.com` — no specific person verified)
-- DECA / FBLA / TSA tech events at state-level (handled via `general@tsaweb.org` for TSA national)
-- BEST Robotics (phone-only contact)
-- BattleBots / RoboGames (websites have contact pages, not direct emails)
+**HackHarvard**
+- `team@hackharvard.io` — main
+- `sponsors@hackharvard.io` — sponsorships
+- `china@hackharvard.io` — China Challenge
+
+**HackGT / HexLabs (Georgia Tech)**
+- `hello@hexlabs.org` — main / sponsorship
+
+**HackBeanpot (Boston)**
+- `illuminati@hackbeanpot.com` — Core Team / organizers
+- `sponsorship@hackbeanpot.com` — sponsorship
+
+**HackUTD (UT Dallas)**
+- `hello@hackutd.co` — main
+- `hackutdteam@gmail.com` — alternate
+- `industry@hackutd.co` — Industry Team / sponsorship
+
+**HackDuke**
+- `hackers@hackduke.org` — main / hackers
+- `sponsorship@hackduke.org` — sponsorship
+
+**Microsoft Imagine Cup**
+- `icus@microsoft.com` — main support
+- `icseanm@microsoft.com` — Southeast Asia regional
+
+**NASA Space Apps Challenge GO Team**
+- `info@spaceappschallenge.org` — global organizing team
+- `conduct@spaceappschallenge.org` — Code of Conduct / safety
+- `collective@spaceappschallenge.org` — Space Apps Collective
+
+**Maker Faire Coney Island / NYC**
+- `groups@coneyislandmakerfaire.org` — groups / general
+- `raquel@coneyislandmakerfaire.org` — Raquel, support
+
+**Maker Faire Detroit (Henry Ford Museum)**
+- `info@thehenryford.org` — general
+- `sales@thehenryford.org` — event sales
+- `brucew@thehenryford.org` — Bruce Wilson, Sr. Marketing Manager
+
+**Maker Faire Atlanta (Decatur Makers)**
+- `info@decaturmakers.org` — general
+
+**Hak4Kidz Chicago**
+- `questions@hak4kidz.com` — official
+
+**Girls Who Code**
+- `tarika@girlswhocode.com` — Tarika Barrett, outgoing CEO
+- `press@girlswhocode.com` — press
+
+**Kode With Klossy**
+- `campus@kodewithklossy.com` — program / general
+- `partnerships@kodewithklossy.com` — partnerships
+
+**BEST Robotics**
+- `johannes.starks@bestoftexasrobotics.org` — Johannes Starks, corporate
+
+**RoboGames (Dave Calkins, founder; ex-BattleBots judge)**
+- `dave@robogames.net` — Dave Calkins, founder
+- `press@robogames.net` — media / press
+- `rules@robogames.net` — rules
+- `sponsors@robogames.net` — sponsorships
+- `general@robogames.net` — general
+- `audience@robogames.net` — audience
+- `private@robogames.net` — private / corporate events
 
 ### Open-discovery item names still useful for further searches
 
