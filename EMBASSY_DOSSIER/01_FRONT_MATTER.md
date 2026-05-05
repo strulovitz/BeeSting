@@ -33,9 +33,7 @@ I am delivering this at the perimeter and walking away. I am not entering the bu
 
 Your decision is binary. Pay, or do not pay.
 
-Ever notice how every once in a while you come across somebody you shouldn't have fucked with?
-
-That's me.
+You should have answered the first letter.
 
 — Nir Strulovitz
    GitHub: github.com/strulovitz
