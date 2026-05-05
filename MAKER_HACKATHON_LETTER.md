@@ -134,7 +134,74 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 - `hackathon-org@umich.edu` — general
 - `sponsorship@mhacks.org` — sponsorship
 
-### Still to be searched and added (American events, surfaced via open discovery 2026-05-05)
+### Verified emails — Round 2 (American event organizers, 2026-05-05)
+
+**Hack Club**
+- `team@hackclub.com` — main team
+- `zach@zachlatta.com` — Zach Latta (founder, personal)
+
+**FIRST Robotics**
+- `firstroboticscompetition@firstinspires.org` — FRC main
+- `frcteams@firstinspires.org` — FRC team support
+
+**Society for Science (ISEF + STS + JIC)**
+- `society@societyforscience.org` — general info
+- `sts@societyforscience.org` — Regeneron Science Talent Search
+- `isef@societyforscience.org` — Regeneron ISEF
+- `jic@societyforscience.org` — Thermo Fisher Junior Innovators Challenge
+- `give@societyforscience.org` — donations / sponsorship
+- `web@societyforscience.org` — web issues
+
+**CodeDay**
+- `tylermenezes@codeday.org` — Tyler Menezes, CEO
+
+**Code.org**
+- `hadipartovi@code.org` — Hadi Partovi (founder, CEO)
+- `hadi@partovi.org` — Hadi Partovi (personal)
+
+**Congressional App Challenge / #HouseOfCode**
+- `StudentSupport@CongressionalAppChallenge.us` — student support
+
+**CyberPatriot (Air & Space Forces Association)**
+- `info@uscyberpatriot.org` — general
+
+**picoCTF (Carnegie Mellon CyLab)**
+- `mkearns1@andrew.cmu.edu` — Megan Kearns, Program Director
+- `educator@picoctf.com` — educators
+- `press@picoctf.com` — press
+- `sponsor@picoctf.com` — sponsors
+
+**USACO (USA Computing Olympiad)**
+- `bcdean@cs.clemson.edu` — Brian Dean, Director (Clemson)
+
+**LA Hacks (UCLA)**
+- `info@lahacks.com` — general
+
+**Open Sauce (William Osman, San Francisco)**
+- `contact@opensauce.com` — general
+- `pr@opensauce.com` — press / media
+
+**Cal Hacks / Hackathons @ Berkeley**
+- `sponsorship@hackberkeley.org` — sponsorship
+
+**Technovation Girls**
+- `shelbi@technovation.org` — Shelbi, Corporate Relations Manager
+
+**Bitcamp (University of Maryland)**
+- `hello@bit.camp` — general
+- `sponsorship@bitca.mp` — sponsorship
+- `press@bitca.mp` — press
+
+**YHack (Yale)**
+- `team@yhack.org` — team / general
+
+**Hack@Brown (Brown University)**
+- `hello@hackatbrown.org` — general
+
+**Harvard Health Systems Innovation Lab Hackathon**
+- `hsilhackathon@hsph.harvard.edu` — HSIL hackathon
+
+### Still to be searched (next batch — American events surfaced from open discovery)
 
 **Hackathons / collegiate**
 - LA Hacks (UCLA) — Apr 24–26, 2026, ~1,000 hackers
