@@ -1,18 +1,42 @@
 # Maker / Hackathon / Demoscene Outreach Letter
 
-**Status:** WORK IN PROGRESS 2026-05-05.
+**Status:** Subject + Section VII + "+ for you specifically" block ALL LOCKED 2026-05-05.
 
 This letter is built on top of `UNIVERSITY_LETTER.md`. The subject line is identical. The body is 90% identical. Only two parts change:
 
-1. **Section VII** (the "ask" — what they specifically can do) — currently TBD, depends on the ongoing WiFi-vs-LAN capacity discussion. Will say: *"Host a live demonstration of THE HIVE at your event, where your audience IS the hive — N audience laptops on a [WiFi / LAN] network. Each attendee runs one Worker or DwarfQueen. The room becomes the architecture in front of itself — visible, audible, photographable."*
+1. **Section VII** (the "ask" — what they specifically can do) — LOCKED below.
 
-2. **A new "+ for you specifically" block** (drafted below) — inserted before Section XII (THE STAKES IF THIS DOES NOT HAPPEN SOON).
+2. **A new "+ for you specifically" block** — LOCKED below. Inserted before Section XII (THE STAKES IF THIS DOES NOT HAPPEN SOON).
 
 ---
 
 ## Subject (LOCKED — identical to university letter)
 
 > A new kind of AI solves AI alignment but lets China beat America (including M.A.D.) — now it's your move
+
+---
+
+## Section VII rewrite (LOCKED 2026-05-05)
+
+Replaces the entire Section VII of `UNIVERSITY_LETTER.md` ("HOW YOU CAN SAVE AMERICA TODAY FOR FREE"):
+
+---
+
+### VII. HOW YOU CAN SAVE AMERICA TODAY FOR FREE
+
+I have been writing to journalists, professors, defense contractors, Big AI labs, and government bodies for weeks. Auto-replies confirm delivery. The silence tells me the asymmetry between an outside individual and a civilizational claim is too large for any single recipient to act on alone.
+
+Without a small live demonstration on real hardware — not a 15-virtual-machine cluster across two consumer desktops — the first AND last demonstration America will see is China activating THE HIVE at full national scale.
+
+Your role here is precise and limited. YOUR EVENT IS NOT THE JUDGE OF THE HIVE. THE JUDGE WILL BE HISTORY — IF YOU FAIL. What you provide is the LIVE DEMONSTRATION at your event — where your audience IS the hive. We bring the demo. You provide the venue, the audience, and the network. America's institutions — e.g. Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security — see a working architecture in advance, instead of meeting the big real-life deadly test that takes them all out together. You serve as the KNOWLEDGE MEDIATOR between an outsider with a working architecture and the rest of America.
+
+The setup: the audience runs HIVE on whatever they brought. Most maker, hackathon, and Hackaday-style laptops (ThinkPad, Framework, gaming-class Lenovo / ASUS / MSI) have built-in Ethernet and plug straight into the venue's switching. The Apple/ultrabook minority joins the same network over WiFi or via a USB-C-to-Ethernet adapter from our stock. The same hive protocol runs across both. Typical scale: 30–100 audience laptops on a standard venue setup; 200–500 on enterprise WiFi or LAN such as a major hackathon's existing infrastructure. We adapt to the network your venue already has, and the heterogeneity itself is realistic — it mirrors HIVE's actual deployment model: consumer machines on whatever network they happen to be on.
+
+The cost to you is small: one stage time slot or one hackathon track. Real hardware. Real audience. Real demonstration — comparable against any frontier Big AI cloud on both TIMING AND QUALITY, in front of the audience, in real time. A five-minute sanity check can come first — ask any frontier cloud AI assistant to read the GitHub repositories and confirm the architecture is real and works as described.
+
+If no major maker, hackathon, or hardware-hacker event in America hosts that small live demo in time, history's verdict is binary: America became history — e.g. in Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security. There is no second chance.
+
+This is your chance to be American heroes who save your nation. Think of it as a Hackathon where the grand prize is your country's life.
 
 ---
 
