@@ -263,6 +263,28 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 **Maker Faire Orlando (Maker Effect Foundation)**
 - `makers@makerfaireorlando.com` — general
 
+### Verified emails — Round 4 (American event organizers, 2026-05-05)
+
+**StarkHacks (Purdue, World's Largest Hardware Hackathon)**
+- `info@starkhacks.com` — main
+- `sponsorship@starkhacks.com` — sponsors
+
+**AI4ALL**
+- `nicole@ai-4-all.org` — Nicole Halmi, contact
+
+**Botball / KISS Institute for Practical Robotics**
+- `info@kipr.org` — main
+
+**CSTA (Computer Science Teachers Association)**
+- `media@csteachers.org` — media
+- `membership@csteachers.org` — membership
+
+**HackDuke**
+- (general contact via website form — direct email obfuscated)
+
+**HackUTD**
+- (general contact via Industry Team — direct email not surfaced)
+
 ### Still to be searched (next batch — American events surfaced from open discovery)
 
 **Hackathons / collegiate**
