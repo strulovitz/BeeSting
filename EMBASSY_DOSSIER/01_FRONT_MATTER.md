@@ -16,7 +16,7 @@ Compared to what this architecture does to the United States once weaponized at 
 
 I am the inventor.
 
-I am asking the United States for a single one-time severance payment, structured as described in *MadHoney* (Tab 2), in exchange for which I do not hand the architecture and the activist apparatus to the Chinese and Indian state-aligned channels. The decision is binary. There is no third option in which the United States pays nothing and the architecture stays inside the United States. The architecture is already published.
+I am asking the United States for a single one-time severance payment, structured as described in *MadHoney* (Tab 2), in exchange for which I do not hand the architecture to China and India. The decision is binary. There is no third option in which the United States pays nothing and the architecture stays inside the United States. The architecture is already published.
 
 Read the book. Verify the code at the URLs in Tab 4. Decide.
 
