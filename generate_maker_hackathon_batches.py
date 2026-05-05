@@ -127,17 +127,20 @@ def build_maker_hackathon_text(university_text: str) -> str:
         if old not in text:
             raise ValueError(f"Substitution miss — couldn't find:\n  {old!r}")
         text = text.replace(old, new)
+    # Anchor on the ===== underline so we hit the BODY heading, not the TOC entry.
     section_vii_pattern = re.compile(
-        r"VII\. HOW YOU CAN SAVE AMERICA TODAY FOR FREE.*?(?=VIII\. THE OPENCLAW)",
+        r"VII\. HOW YOU CAN SAVE AMERICA TODAY FOR FREE\n=+\n.*?(?=VIII\. THE OPENCLAW / MOLTBOOK PRECEDENT\n=)",
         re.DOTALL,
     )
     if not section_vii_pattern.search(text):
-        raise ValueError("Section VII pattern not found in source text.")
+        raise ValueError("Section VII body pattern not found in source text.")
     text = section_vii_pattern.sub(NEW_SECTION_VII + "\n\n", text)
-    section_xii_marker = "XII. THE STAKES IF THIS DOES NOT HAPPEN SOON"
+
+    # Anchor Section XII insertion on its underline too, with count=1 to be safe.
+    section_xii_marker = "XII. THE STAKES IF THIS DOES NOT HAPPEN SOON\n========"
     if section_xii_marker not in text:
-        raise ValueError(f"Section XII marker not found: {section_xii_marker!r}")
-    text = text.replace(section_xii_marker, PERK_BLOCK + section_xii_marker)
+        raise ValueError(f"Section XII body marker not found: {section_xii_marker!r}")
+    text = text.replace(section_xii_marker, PERK_BLOCK + section_xii_marker, 1)
     return text
 
 
