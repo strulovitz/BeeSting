@@ -60,6 +60,30 @@ The kids walk out of your event understanding something most adults do not yet u
 
 ---
 
+## Word substitutions in OTHER sections (LOCKED 2026-05-05)
+
+Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` when assembling the final maker/hackathon letter for sending. Sections VIII (OpenClaw / MoltBook), IX (Buridan), X (Chinese embassy) need NO changes — already generic.
+
+### Section V — alignment (one substitution)
+- **OLD:** *"It is verifiable in the code and in the deployment configuration, in one day, on real hardware — the same demonstration your university can run for the parallelism and quality benchmarks."*
+- **NEW:** *"It is verifiable in the code and in the deployment configuration, in one day, on real hardware — the same demonstration your event can run for the parallelism and quality benchmarks."*
+
+### Section VI — MAD (one substitution)
+- **OLD:** *"For your university, this is the worst strategic outcome since 1945, and the letter is honest about that."*
+- **NEW:** *"For America, this is the worst strategic outcome since 1945, and the letter is honest about that."*
+
+### Section XI — Preferred Path (one substitution)
+- **OLD:** *"A friendly university proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare."*
+- **NEW:** *"A friendly maker, hackathon, or hardware-hacker event proves to America's power centers above that THE HIVE is not a dream, it is a very real nightmare."*
+
+### Sections I, II, III, IV, VIII, IX, X, XII, XIII, XIV
+- No word substitutions needed. All references in those sections are already generic ("America's power centers", "America's institutions", "America", "Big AI labs", "the rest of the world", etc.).
+
+### Note on Section VII opening line ("I have been writing to journalists, professors...")
+- This is a factual description of Nir's past outreach — unchanged. It's accurate even for the maker audience.
+
+---
+
 ## Recipients (working list — never subtract, only add)
 
 ### Event-organizer addresses (Hackaday + Make:)
