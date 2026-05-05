@@ -201,6 +201,68 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 **Harvard Health Systems Innovation Lab Hackathon**
 - `hsilhackathon@hsph.harvard.edu` — HSIL hackathon
 
+### Verified emails — Round 3 (American event organizers, 2026-05-05)
+
+**FIRST (general)**
+- `customerservice@firstinspires.org` — main support
+
+**FIRST Lego League regional partners**
+- `fll@ceismc.gatech.edu` — Georgia (Georgia Tech CEISMC)
+- `jillw@playingatlearning.org` — California (Jill Walker)
+- `marke@playingatlearning.org` — California (Mark Edelman)
+
+**Science Olympiad**
+- `jrkopach@soinc.org` — Jenny Kopach, President & CEO
+- `jkopach@soinc.org` — Jenny Kopach, alt
+
+**National Science Bowl (DOE)**
+- `National.Science.Bowl@science.doe.gov` — main
+- `Jan.tyler@science.doe.gov` — Jan Tyler, general info / regional events
+- `Yolanda.White@science.doe.gov` — Yolanda White, online registration
+
+**HackPrinceton (Princeton E-Club)**
+- `ac0735@princeton.edu` — Andrew Cho, HackPrinceton co-director
+- `hf4888@princeton.edu` — Hammad Farooqi, HackPrinceton co-director
+- `info@princetoneclub.com` — Princeton Entrepreneurship Club general
+
+**HackAmerica**
+- `contact@hackamerica.org` — general (Sanjay Subbaraj contact)
+
+**BoilerMake (Purdue)**
+- `team@boilermake.org` — main team
+
+**HopHacks (Johns Hopkins)**
+- `hophacks@gmail.com` — main
+
+**ImmerseGT (Georgia Tech XR)**
+- `contact@immersegt.org` — general
+
+**BostonHacks**
+- `contact@bostonhacks.org` — general
+
+**HackUMass**
+- `sponsors@hackumass.com` — sponsors
+
+**ACSL (American Computer Science League)**
+- `info@acsl.org` — main
+
+**JSHS (Junior Science and Humanities Symposium)**
+- `armystemoutreach@gmail.com` — main JSHS contact (DOD-sponsored)
+- `jshs.scholars@dfas.mil` — scholarship payments
+- `jshs@sfsu.edu` — Northern California regional
+
+**REC Foundation / VEX Robotics**
+- `support@recfoundation.net` — main support
+
+**Black Girls CODE**
+- `future@blackgirlscode.com` — general
+
+**Project Lead The Way (PLTW)**
+- `solutioncenter@pltw.org` — solution center
+
+**Maker Faire Orlando (Maker Effect Foundation)**
+- `makers@makerfaireorlando.com` — general
+
 ### Still to be searched (next batch — American events surfaced from open discovery)
 
 **Hackathons / collegiate**
