@@ -78,7 +78,7 @@ I have been writing to journalists, professors, defense contractors, Big AI labs
 
 Without a small live demonstration on real hardware — not a 15-virtual-machine cluster across two consumer desktops — the first AND last demonstration America will see is China activating THE HIVE at full national scale.
 
-I am Israeli. The U.S. State Department has denied my visa applications and I cannot enter the United States. So whatever happens at your event happens without me on the stage. Your event is not a show I am bringing to your audience — YOUR AUDIENCE IS THE HIVE, and YOUR EVENT IS THE CONTROLLED SCIENTIFIC TEST that proves to America's institutions the architecture works.
+Your event is not a show I am bringing to your audience — YOUR AUDIENCE IS THE HIVE, and YOUR EVENT IS THE CONTROLLED SCIENTIFIC TEST that proves to America's institutions the architecture works. The code is open-source on GitHub today; you and your audience run everything on the venue's hardware.
 
 Your role here is precise and limited. YOUR EVENT IS NOT THE JUDGE OF THE HIVE. THE JUDGE WILL BE HISTORY — IF YOU FAIL. What you provide is THE GUINEA PIG — the small controlled test — so America's institutions (Big AI, the Pentagon, NSA, cyber defense, Big Pharma, Wall Street, defense contractors, drone manufacturers, the strategic submarine fleet, robotics, and homeland security) can see a working architecture in advance, instead of meeting the big real-life deadly test that takes them all out together. You serve as the KNOWLEDGE MEDIATOR between an outsider with a working architecture and the rest of America.
 
