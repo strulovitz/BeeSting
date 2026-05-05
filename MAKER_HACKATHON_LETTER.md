@@ -285,7 +285,56 @@ Apply these inline edits to the unchanged sections of `UNIVERSITY_LETTER.md` whe
 **HackUTD**
 - (general contact via Industry Team — direct email not surfaced)
 
-### Still to be searched (next batch — American events surfaced from open discovery)
+### Verified emails — Round 5 (American event organizers, 2026-05-05)
+
+**HSHacks (Arlington Heights, IL — high school hackathon, powered by Hack Club)**
+- `team@hshacks.org` — main team
+- `aalchikhibrahim6522@stu.d214.org` — Ali AI, director
+- `abitsov7028@stu.d214.org` — Angel B, director
+
+**HackUMBC**
+- `hackumbc@umbc.edu` — main contact
+
+**Hack Club Sprig Vermont / Epoch VT**
+- `team@epochvt.hackclub.com` — Vermont event team
+
+**TSA (Technology Student Association — national)**
+- `general@tsaweb.org` — main
+
+**Hour of Code (regional contacts)**
+- `sherawn.reberry@wdc.idaho.gov` — Idaho regional
+- `help@k12.nd.us` — North Dakota regional
+
+**Coolest Projects (Raspberry Pi Foundation, USA)**
+- `northamerica@coolestprojects.org` — North America regional
+- `hello@coolestprojects.org` — main
+
+**Maker Faire (general / Bay Area)**
+- `tickets@makerfaire.com` — ticketing / general (already had — confirmed)
+
+### Still to be searched / reached via web form only
+
+- HackHarvard (no direct email surfaced — `hhuh.io` redirects, contact via website form / LinkedIn)
+- HackGT / HexLabs (Cloudflare-obfuscated email — Discord at `discord.hexlabs.org`)
+- HackBeanpot (no direct email surfaced — Instagram/LinkedIn only)
+- HackUTD (Industry Team form only, no direct email)
+- HackDuke (general contact via website form only)
+- Microsoft Imagine Cup (login-walled support page)
+- NASA Space Apps Challenge GO Team (email obfuscated in search results)
+- Maker Faire Detroit (email field empty in fetch)
+- Maker Faire Coney Island / NYC (contact form only)
+- Maker Faire Atlanta (Cloudflare-obfuscated email — David handles inquiries)
+- Hak4Kidz (LinkedIn only — no public email for Dave Schwartzberg)
+- Coolest Projects Atlanta venue (Pittsburgh Yards) — handled via main `northamerica@coolestprojects.org`
+- Girls Who Code (email not found — visit `girlswhocode.com` directly)
+- Kode With Klossy (email format `First@kodewithklossy.com` — no specific person verified)
+- DECA / FBLA / TSA tech events at state-level (handled via `general@tsaweb.org` for TSA national)
+- BEST Robotics (phone-only contact)
+- BattleBots / RoboGames (websites have contact pages, not direct emails)
+
+### Open-discovery item names still useful for further searches
+
+(See earlier list at top of "Still to be searched" — many already covered by main organizational addresses above)
 
 **Hackathons / collegiate**
 - LA Hacks (UCLA) — Apr 24–26, 2026, ~1,000 hackers
