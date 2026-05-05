@@ -55,13 +55,24 @@ THE PUBLIC DEMONSTRATION — videos and umbrella site:
 
 ---
 
-THE ACTIVIST RECORD — decade of attempts:
+OUTREACH ABOUT THIS PROJECT — recent weeks:
 
   github.com/strulovitz/BeeSting/blob/master/UNIVERSITY_LETTER_SENT_LOG.md
-    Logged record of recent academic outreach attempts (Berkeley, Toronto,
-    Montreal, MIT Physics, Stanford CS+EE) and their outcomes. Roughly 1,000
-    sends in May 2026 alone. Ten years of earlier attempts in personal
-    archives, available on request.
+    Logged record of academic outreach attempts about THE HIVE architecture:
+    Berkeley, Toronto, Montreal, MIT Physics, Stanford CS+EE. Roughly 1,000
+    sends in early May 2026. Outreach about the architecture began in
+    April 2026, after the first hive repositories were created on 21 March
+    2026. This outreach is recent and project-specific.
+
+PRIOR ACTIVIST RECORD — separate track, 2014–2024:
+
+  My broader anti-AI / anti-self-replicating-technology activism predates
+  this project by ten years and is on a different track. It is the file
+  your institutions already have on me — visa denials, search-result
+  derank, platform suspensions, RAND IP appropriation. Records in personal
+  archives, available on request. It is not what this dossier is about.
+  It is the backdrop that establishes I am a known entity to your
+  government, not a stranger.
 
 ---
 
